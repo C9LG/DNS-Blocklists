@@ -1,5 +1,5 @@
 # AdBlock DNS Filters
-适用于AdGuard的去广告合并规则，每8个小时更新一次。
+适用于AdGuard的去广告规则，每8个小时更新一次。
 ## 说明
 1. 定时从上游各规则源获取更新，合并去重。
 2. 使用两组国内、两组国外 DNS 服务，分别对上游各规则源拦截的域名进行解析，去除已无法解析的域名。（上游各规则源中存在大量已无法解析的域名，无需加入拦截规则）
@@ -19,10 +19,10 @@
 | 规则 | 类型 | 原始链接 | 加速链接 | 更新日期 |
 |:-|:-|:-|:-|:-|
 | AdguardTeam_DNS-Filter | dns | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/AdguardTeam_DNS-Filter.txt) | 2024/06/08 |
-| TG-Twilight_AWAvenue-Ads-Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/TG-Twilight_AWAvenue-Ads-Rule.txt) | 2024/06/03 |
+| TG-Twilight_AWAvenue-Ads-Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/TG-Twilight_AWAvenue-Ads-Rule.txt) | 2024/06/08 |
 | hagezi_DNS-Blocklists(MultiPRO) | dns | [原始链接](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/hagezi_DNS-Blocklists(MultiPRO).txt) | 2024/06/08 |
 | UnknownSource_DNS-Rules | dns | [原始链接](https://raw.githubusercontent.com/C9LG/Rules/main/rules.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/UnknownSource_DNS-Rules.txt) | 2024/06/08 |
 | malware-filter_Malicious-URL-Blocklist | dns | [原始链接](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/malware-filter_Malicious-URL-Blocklist.txt) | 2024/06/08 |
-| jdlingyu_ad-wars | host | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/jdlingyu_ad-wars.txt) | 2024/06/03 |
+| jdlingyu_ad-wars | host | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/jdlingyu_ad-wars.txt) | 2024/06/08 |
 | StevenBlack_(UnifiedHosts) | host | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/StevenBlack_(UnifiedHosts).txt) | 2024/06/08 |
-| xinggsf_MV | filter | [原始链接](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/xinggsf_MV.txt) | 2024/06/03 |
+| xinggsf_MV | filter | [原始链接](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/xinggsf_MV.txt) | 2024/06/08 |
