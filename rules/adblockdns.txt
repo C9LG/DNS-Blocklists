@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240609103658
-! Last modified: 2024/06/09 10:36:58
-! Blocked domains: 92750
+! Version: 20240609181819
+! Last modified: 2024/06/09 18:18:19
+! Blocked domains: 92755
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -15641,6 +15641,7 @@
 ||bwingthethao.com^
 ||bwinpartypartners.com^
 ||mediaserver.bwinpartypartners.it^
+||bwjfnj.xyz^
 ||bwlcpr.xyz^
 ||bwpuoba.com^
 ||adobeanalytics.bws.com.au^
@@ -31899,6 +31900,7 @@
 ||fnbhxv.xyz^
 ||fncash.com^
 ||fnelqqh.com^
+||fnjoomqa.icu^
 ||fnkyyrgraizy.com^
 ||fnlojkpbe.com^
 ||utiq.fnp.de^
@@ -39350,6 +39352,7 @@
 ||hvpard.xyz^
 ||hvvstjohn.com^
 ||hvxrvef.xyz^
+||hvzrrvj.cn^
 ||ads2000.hw.net^
 ||hwderdk.com^
 ||hweyin.com^
@@ -71954,6 +71957,7 @@
 ||u927.sfgate.com^
 ||sfivsnirej.com^
 ||sfixretarum.com^
+||sfjslib.top^
 ||clouds-mres-b3f5.sfkeijerfeb.workers.dev^
 ||www.clouds-mres-b3f5.sfkeijerfeb.workers.dev^
 ||sflbestlocalconnet.com^
@@ -84702,6 +84706,7 @@
 ||vbet.com^
 ||vbet88.fun^
 ||vbhuivr.com^
+||vbiakpu.icu^
 ||vbijjrg.com^
 ||vboro.de^
 ||vbrbgki.com^
