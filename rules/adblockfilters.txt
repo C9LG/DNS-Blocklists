@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240609181819
-! Last modified: 2024/06/09 18:18:19
-! Blocked Filters: 543
+! Version: 20240610010647
+! Last modified: 2024/06/10 01:06:47
+! Blocked Filters: 600
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -73,7 +73,46 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 |https://imgcache.qq.com/qzone/biz/comm/js/qbs.js
 |https://tellme.pw/go/jav$popup
 ||*-be-pack.pglstatp-toutiao.com^
+||*/ads/index.htm*^
+||*/api/ad/*^
+||*/auto_download/game_pkg_list/*^
+||*/effect_ad/*^
+||*/effect_ad/splash_screen/*^
+||*/game/abtest/*^
+||*/peak/download*^
+||*/pgc/app/preload*^
+||*/splash/list?access_key*^
+||*/splash/show*^
+||*8le8le.com^
+||*MobadsSdk*^
+||*ad-pattern*^
+||*ad_logo_str*^
+||*ad_logo_time*^
+||*ad_unit_id*^
+||*ads-track*^
+||*ads_svp_video*^
+||*adsdk_roll*^
+||*adsdk_splash*^
+||*api/ad/*^
+||*baidu_logo_str*^
+||*baidu_logo_time*^
+||*bd_sp_logo*^
+||*bqt_logo_tag*^
+||*channel=*&amp;amp;disable_rcmd=1*^
+||*commercial_api*^
+||*commercial_api/real_time*^
+||*dy-pic*.iqiyipic.com^
+||*feed_ad*^
+||*get-ads*^
+||*getappmsgad*^
+||*igd.xml*^
 ||*isAds*^
+||*load_new_ad=*^
+||*mobads*^
+||*mobads.baidu.com&amp;quot;
+||*mobads://*^
+||*snscosdownload*^
+||*umeng.com^
 ||*vmind.qqvideo.tc.qq.com^
 ||*zhangyue.net^
 ||1024wanzhai.
@@ -84,6 +123,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||17173.com/if/$script,subdocument
 ||23.109.82.
 ||23.109.87.
+||36.102.218.149:4482/image.uczzd.cn^
 ||a*.chajiaotong.com^
 ||a*.smlog.co.kr^
 ||aan.amazon.*^
@@ -111,6 +151,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||ads*.bojijulebu.com^
 ||ads*.production-public.tubi.io^
 ||ads*.textra.me^
+||ads*kugou.com^
 ||ads-*-nfl.yinzcam.com^
 ||ads-*.v.ssp.yahoo.com^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -125,6 +166,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||adx-*.dbankcloud.
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
+||adx-*anythinktech.com^
 ||afdads.com
 ||aff*.kolektiva.net^
 ||aixifan.com/static/*/appGuide/
@@ -158,6 +200,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||api.bilibili.com/x/web-show/res/loc?pf=$~script
 ||api.cloudmobi.net
 ||api.my.tv.sohu.com/wm/getads.do?
+||api.zhihu.com/ab/*^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
@@ -190,6 +233,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||business.msstatic.com/advertiser/$image
 ||button.blogs.yandex.
 ||c*hit.zerkalo.io^
+||c.*.qq.com^
 ||c.bigmir.net
 ||cdn*.swaxis.com^
 ||cdn-adn-*.rayjump.com^
@@ -221,6 +265,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||collector.xhamster*.
 ||compus.xiaofubao.com/compus/advertising/getStartupAdvertising^
 ||config.appjolt.com
+||consumerapp*.image.myqcloud.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
 ||counter*.stat.ovh^
@@ -328,6 +373,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||letvimg.com/*_gugwl/$image
 ||letvimg.com/lc*_iscms/202$image
 ||lf*-sf-be-pack-sign.pglstatp-toutiao.com^
+||line*-adscore-api.biligame.net^
 ||linkexchange.
 ||live-cover.msstatic.com/huyalive/*/format,webp/$image
 ||lively-collect-elb-*.amazonaws.com^
@@ -348,6 +394,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||logservice-*.platform.dbankcloud.cn^
 ||loneday.com
 ||lt*.tritondigital.com^
+||m-cloud.zhihu.com/api/cloud/zhihu/config/all*^
 ||maas-*.phunware.com^
 ||mall.video.qq.com/m/activity/h5/$subdocument
 ||mapi-log.qoo*.jp^
@@ -379,6 +426,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||ms*.applvn.com^
 ||msstatic.com/huya/main3/assets/modules/CommercialAdSdk/$script
 ||mtm.qdqmedia.com
+||nadvideo*.baidu.com^
 ||news.ssp.qq.com/app
 ||obislame.ru
 ||oclasrv.com$important
@@ -389,6 +437,8 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||ott.cibntv.net/*/letv-wzgug/$media
 ||p*-be-pack-sign.pglstatp-toutiao.com^
 ||p*-lm.adkwai.com^
+||p*-lm.adukwai.com^
+||p3-ad-sign.byteimg.com/web.business.image^
 ||pangolin*.sgsnssdk.com^
 ||parkdomainreal*.site^
 ||partner.superbahisaffiliates*.com^
@@ -436,6 +486,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||rotaban.
 ||rotabanner.
 ||rotator.
+||rs*.qq.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||rtlog*.tiktokv.com^
 ||rum*.a.trbcdn.net^
@@ -451,6 +502,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||seller-log-collector.shopee.
 ||sensorsdata*.read.duokan.com^
 ||servo-report.dvdfab.
+||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||sgtm.fashionunited.
 ||shark2.douyucdn.cn/front-publish/live-master/js/player_first/qvbp2p_douyu$script
@@ -520,12 +572,16 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||under-click.
 ||underclick.
 ||union*.365inews.com^
+||uploads*.gifshow.com^
+||uploads*.ksapisrv.com^
+||upos-*-static.bilivideo.com^
 ||uts.auction.co.kr
 ||v*-ad.video.yximgs.com^
 ||v*-be-pack.pglstatp-toutiao.com^
 ||v*.sitecounter.site^
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
+||v26-novelapp.fqnovelvod.com^$app=com.dragon.read
 ||valipl.cp31.ott.cibntv.net/$media
 ||video.da.mgtv.com/$media
 ||video.iqiyi.com/ws$websocket
@@ -542,6 +598,7 @@ yatu.tv,yhdm15.com##+js(set,document.oncontextmenu,trueFunc)
 ||www.iqiyi.com/service-worker.js
 ||www.yatu.tv:2082/image/*.gif^$image
 ||www.yatu.tv:2082/m/images/$image
+||www.zhihu.com/api/v4/answers/*/recommendations?omni=*&amp;amp;load_new_ad=*&amp;amp;page_index=*^
 ||xlog*-*.tiktokv.com^
 ||ya*.dwstatic.com^
 ||yottos.com
