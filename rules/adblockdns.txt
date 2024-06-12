@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240612103512
-! Last modified: 2024/06/12 10:35:12
-! Blocked domains: 91924
+! Version: 20240612181936
+! Last modified: 2024/06/12 18:19:36
+! Blocked domains: 91926
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -10559,6 +10559,7 @@
 ||balt1c.b4engalqt3bj.click^
 ||www.balt1c.b4engalqt3bj.click^
 ||b4im40.com^
+||b51475b8.xyz^
 ||b52.vin^
 ||b52.vip^
 ||b52.win^
@@ -58250,6 +58251,7 @@
 ||omfghellobrosjda38.org^
 ||omfiydlbmy.com^
 ||omfps.com^
+||plausible.omgapi.org^
 ||api.analytics.omgpop.com^
 ||omgranbulltor.com^
 ||omgwheresmydream.com^
