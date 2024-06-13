@@ -18,7 +18,7 @@
 
 | 规则 | 类型 | 原始链接 | 加速链接 | 更新日期 |
 |:-|:-|:-|:-|:-|
-| AdguardTeam_DNS-Filter | dns | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/AdguardTeam_DNS-Filter.txt) | 2024/06/13 |
+| AdguardTeam_DNS-Filter | dns | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/AdguardTeam_DNS-Filter.txt) | 2024/06/14 |
 | TG-Twilight_AWAvenue-Ads-Rule | dns | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/TG-Twilight_AWAvenue-Ads-Rule.txt) | 2024/06/08 |
 | privacy-protection-tools_anti-AD | dns | [原始链接](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/privacy-protection-tools_anti-AD.txt) | 2024/06/13 |
 | UnknownSource_DNS-Rules | dns | [原始链接](https://raw.githubusercontent.com/C9LG/Rules/main/rules.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/UnknownSource_DNS-Rules.txt) | 2024/06/10 |
