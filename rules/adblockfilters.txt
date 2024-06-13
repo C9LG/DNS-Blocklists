@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240613103426
-! Last modified: 2024/06/13 10:34:26
-! Blocked Filters: 600
+! Version: 20240613181908
+! Last modified: 2024/06/13 18:19:08
+! Blocked Filters: 601
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -56,6 +56,7 @@ iqiyi.com##.cupid-panel + div, div[data-adzone],#block-V
 le.com##+js(set, isAdLoaded, true)
 le.com##.hv_wm_logo
 le.com##.min_pause_img
+miguvideo.com###adver-box
 new.qq.com##+js(set, SSPAd.prototype.loadAd, noopFunc)
 nnyy.in##.gm-fp-body video:style(max-height:100%!important)
 pptv.com##.advView-two,#p-mark
