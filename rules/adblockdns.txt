@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240614103553
-! Last modified: 2024/06/14 10:35:53
-! Blocked domains: 118726
+! Version: 20240614181955
+! Last modified: 2024/06/14 18:19:55
+! Blocked domains: 118728
 ! unBlocked domains: 103
 !
 ||0000130.com^
@@ -25877,6 +25877,7 @@
 ||crumblerefunddiana.com^
 ||crumbrationally.com^
 ||crumbtypewriterhome.com^
+||crummerexisted.com^
 ||crummygoddess.com^
 ||crumplicious.shop^
 ||crumplylenient.com^
@@ -43487,6 +43488,7 @@
 ||www.vinted-pl-gj32d.gimbot.xyz^
 ||gimi.co^
 ||know.gimmal.com^
+||gimmalscutches.com^
 ||gimme-promo.com^
 ||gimmeacape.com^
 ||gimmickapparel.com^
