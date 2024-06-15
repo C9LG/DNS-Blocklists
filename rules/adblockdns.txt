@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240615103405
-! Last modified: 2024/06/15 10:34:05
-! Blocked domains: 123836
+! Version: 20240615182051
+! Last modified: 2024/06/15 18:20:51
+! Blocked domains: 123840
 ! unBlocked domains: 104
 !
 ||0-c1j0.lat^
@@ -15139,6 +15139,7 @@
 ||bboacademy.com^
 ||bbondsgroup.com^
 ||tshuxi.bbqguys.com^
+||bbqoa.top^
 ||bbrnpj.xyz^
 ||bbs.ws^
 ||bbs3k.com^
@@ -42443,6 +42444,7 @@
 ||fofyqyykyo.com^
 ||foggydefy.com^
 ||fogl1onf.com^
+||fogolakda.top^
 ||fogsham.com^
 ||fogtrack.net^
 ||foguroli.pro^
@@ -88445,6 +88447,7 @@
 ||pwsk88.com^
 ||pwwghcyzsn.info^
 ||pwwysydh.com^
+||pwxlbsie.icu^
 ||pwxtock.com^
 ||collector-pxrf8vapwa.px-cdn.net^
 ||collector-pxfqtaw5et.px-client.net^
@@ -103334,6 +103337,7 @@
 ||szczeryprzekaz.click^
 ||szczesliwysa.beauty^
 ||g.szdn1ms.com^
+||szdpk.cn^
 ||szerencsejatek.hu^
 ||szfmr.cn^
 ||szftg.cn^
