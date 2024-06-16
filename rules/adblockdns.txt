@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240616103758
-! Last modified: 2024/06/16 10:37:58
-! Blocked domains: 121529
+! Version: 20240616181958
+! Last modified: 2024/06/16 18:19:58
+! Blocked domains: 121533
 ! unBlocked domains: 103
 !
 ||0000130.com^
@@ -43013,6 +43013,7 @@
 ||a8clk.fujisan.co.jp^
 ||insights.networks.global.fujitsu.com^
 ||view.fujitv.co.jp^
+||fujnrh.xyz^
 ||fukkad.com^
 ||fuksiarz.pl^
 ||a8clk.fuku-chan.jp^
@@ -91179,6 +91180,7 @@
 ||ruaild.com^
 ||ruamupr.com^
 ||ruan.cn^
+||ds.ruanwengfa.com^
 ||rubanners.com^
 ||rubberdescendantfootprints.com^
 ||rubbingwomb.com^
@@ -98582,6 +98584,7 @@
 ||ssmprmp.com^
 ||ssmro.com^
 ||ssnfs.shop^
+||sso-garena.vn^
 ||sso-github.com^
 ||sspawdzktopodgglada.blogspot.com^
 ||collector.sspinc.io^
@@ -100162,6 +100165,7 @@
 ||sukcheatppwa.com^
 ||sukedrevenued.org^
 ||sukhumvithomes.com^
+||sukien-lienquanmobile.com^
 ||sukienfreefirevietnam2021.com^
 ||sukienlq.com^
 ||sukienzingspeed.com^
