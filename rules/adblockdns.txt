@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240617103731
-! Last modified: 2024/06/17 10:37:31
-! Blocked domains: 93623
+! Version: 20240617182120
+! Last modified: 2024/06/17 18:21:20
+! Blocked domains: 93673
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -2229,6 +2229,7 @@
 ||6068a17eed25.com^
 ||608822.com^
 ||609999.xyz^
+||60jxn4.xyz^
 ||e.60sk.ru^
 ||o.60sk.ru^
 ||61.1.229.243^
@@ -5219,6 +5220,8 @@
 ||adsweb.vn^
 ||adswithkay.com^
 ||adswizz.com^
+||fc.adswt.com^
+||mail.adswt.com^
 ||adsxyz.com^
 ||adsync.tech^
 ||adsynergy.com^
@@ -5876,6 +5879,7 @@
 ||realtouchbannerwidget.aebn.net^
 ||aec40f9e073ba6.com^
 ||aeeg5idiuenbi7erger.com^
+||aeeonmaili.shop^
 ||aeffe3nhrua5hua.com^
 ||aefieiaehfiaehr.top^
 ||tracking.aegpresents.com^
@@ -6590,6 +6594,7 @@
 ||airselanqor.com^
 ||airsoang.net^
 ||airsportsradio.com^
+||airst.giize.com^
 ||digianalytics.airtel.in^
 ||airtelspeed.net^
 ||airtightcounty.com^
@@ -7593,6 +7598,7 @@
 ||amazonediamond.com^
 ||amazonedolls.com^
 ||amazonefashion.com^
+||amazonl0.com^
 ||amazonl3.com^
 ||amazonlogistics.jp^
 ||amazonsg.shop^
@@ -10911,6 +10917,7 @@
 ||b1.b2b168.com^
 ||b1.b2b168.net^
 ||b2bcontext.ru^
+||b2bf222e.xyz^
 ||b2bvideo.ru^
 ||b2work.pl^
 ||b30674b49e.com^
@@ -11027,6 +11034,7 @@
 ||bachelorfondleenrapture.com^
 ||bachelorfranz.com^
 ||bachminhhue.com^
+||bachoaxanhh.com^
 ||analytics.bachtuongphat.com^
 ||bacishushaby.com^
 ||back.marketing^
@@ -13440,6 +13448,7 @@
 ||bit-qt.app^
 ||bit-trader.app^
 ||bit-trader.io^
+||bit.kozow.com^
 ||bitai-method.app^
 ||bitakiver.com^
 ||bitalpha-ai.com^
@@ -13589,6 +13598,8 @@
 ||bitcompanysell.com^
 ||bitconnect.co^
 ||bitcoset.com^
+||auth.bitdefenderupdate.com^
+||bitdefenderupdate.org^
 ||biteburied.com^
 ||bitemisuse.com^
 ||biteneverthelessnan.com^
@@ -13982,6 +13993,7 @@
 ||blindstitchzaner.life^
 ||blingbucks.com^
 ||blinkjork.com^
+||linklab.blinklab.com^
 ||blinkpainmanly.com^
 ||blinktowel.com^
 ||ads.static.blip.tv^
@@ -14548,6 +14560,7 @@
 ||bombaygrillandsweet.com^
 ||bombayleaders.com^
 ||bomberoscoatepeque.com^
+||mail.bomloginset.com^
 ||bomstudios.com^
 ||bonafides.club^
 ||bonattire.com^
@@ -17222,6 +17235,7 @@
 ||cd-dik.icu^
 ||cd-elec.fr^
 ||cd490573c64f3f.com^
+||cd57296e.xyz^
 ||cd828.com^
 ||cda-flix.pl^
 ||ebd.cda-hd.co^
@@ -17811,10 +17825,12 @@
 ||scb.chamsockhachhang-truc-tuyen-the.online^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
 ||chamsockhachhang-uudaitructuyen.online^
+||chamsockhachhangtheuudai-tructuyen.com.vn^
 ||chamsocthekhachang-truc-tuyen.com^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
 ||chamsocthekhachhang-thang4.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen.com^
+||chamsocuudaithekhachhang-tructuyen.com^
 ||chance.cz^
 ||chancehill.com^
 ||chancellorharrowbelieving.com^
@@ -22083,6 +22099,7 @@
 ||d-agency.net^
 ||d-markets.net^
 ||ads.d-msquared.com^
+||dns-log.d-n-s.org.uk^
 ||d-road.com^
 ||d-stats.com^
 ||eue.d-teknoloji.com.tr^
@@ -28280,6 +28297,8 @@
 ||emjpbua.com^
 ||emkarto.fun^
 ||reklam.emlakkulisi.com^
+||images.emldn.com^
+||word.emldn.com^
 ||emlifok.info^
 ||emlsend.com^
 ||emltrk.com^
@@ -28326,6 +28345,7 @@
 ||empizem.cn^
 ||emploejuiashsat.info^
 ||emploisarchitecture.com^
+||employee.mywire.org^
 ||employeelorddifferently.com^
 ||employerdictionary.com^
 ||employermopengland.com^
@@ -33436,6 +33456,7 @@
 ||fxkfhbn.xyz^
 ||www.fxlayer.net^
 ||fxmastergold.com^
+||helpdesk.fxnxs.com^
 ||protection.fxpolice.com^
 ||fxprime-popular.com^
 ||fxrbsadtui.com^
@@ -33528,6 +33549,8 @@
 ||g6raq2ms602g.top^
 ||g7.com.tw^
 ||g8bb6j5pn.com^
+||cdn.g8z.net^
+||dns.g8z.net^
 ||g9vip.com^
 ||ga-ads.com^
 ||ga-analytics.com^
@@ -34644,6 +34667,7 @@
 ||gi8.us^
 ||gi888.cc^
 ||gi8vn.vip^
+||giacatloi.info^
 ||log.giacngo.vn^
 ||giadinhsunny.com^
 ||giaf-system.com^
@@ -37953,6 +37977,7 @@
 ||heteroclitics.live^
 ||hetesterminal.com^
 ||hethis.com^
+||hethongdonhang.com^
 ||hethuwer.xyz^
 ||hetsouds.net^
 ||heukwasanasosett.info^
@@ -38117,6 +38142,7 @@
 ||hifi-sales.com^
 ||hifichile.com^
 ||hificrafts.com^
+||newy.hifiliving.com^
 ||higgiens23c5l8asfrk.com^
 ||highconvertingformats.com^
 ||highcpmcreativeformat.com^
@@ -46318,6 +46344,7 @@
 ||khodiyarchem.com^
 ||khogabotoi.com^
 ||khohangdocvip.net^
+||khoi-khach-hang-ca-nhan-uu-tien-vni.com^
 ||khophanmem24h.com^
 ||khrmana.com^
 ||khsiung.com^
@@ -47698,6 +47725,7 @@
 ||bst.la1unch3ush.click^
 ||www.bst.la1unch3ush.click^
 ||la3c05lr3o.com^
+||la7890.cc^
 ||laamumaamendhoo.gov.mv^
 ||laayoune-esport.com^
 ||labadena.com^
@@ -50357,6 +50385,7 @@
 ||adserver.lunarpages.com^
 ||lunatesame.top^
 ||lunaticengine.com^
+||spcg.lunaticfridge.com^
 ||lunaticgamer.com^
 ||analytics.lunaweb.cloud^
 ||luncheminist.eu^
@@ -52660,6 +52689,7 @@
 ||mesmerizebeasts.com^
 ||mesmerizemutinousleukemia.com^
 ||mesqwrte.net^
+||message.ooguy.com^
 ||messagenovice.com^
 ||messagereceiver.com^
 ||messenger-20-21-update.blogspot.com^
@@ -55295,6 +55325,7 @@
 ||mydas.mobi^
 ||mydates.com^
 ||mydati.com^
+||mydiamon-han-muc-ca-nhan-vni.com^
 ||cdns.mydirtyhobby.com^
 ||lp.mydirtyhobby.com^
 ||staticb.mydirtyhobby.com^
@@ -56479,6 +56510,7 @@
 ||s.net-public.com^
 ||net-radar.com^
 ||net-s.pl^
+||upl.net-solutions.vn^
 ||ad.net-tool.jp^
 ||adlanding.admarketplace.net.akadns.net^
 ||tracking.admarketplace.net.edgekey.net^
@@ -56655,6 +56687,7 @@
 ||neverthelessdamagingmakes.com^
 ||neverthelessdepression.com^
 ||nevillepreserved.com^
+||news.nevuer.com^
 ||new-adtest.pages.dev^
 ||new-incoming.email^
 ||new-new-years.com^
@@ -61739,6 +61772,7 @@
 ||payplservice56172.site^
 ||payplservice56174.site^
 ||paypublicity.it^
+||payroll.mywire.org^
 ||banners.payserve.com^
 ||click.payserve.com^
 ||payslipselderly.com^
@@ -61820,6 +61854,7 @@
 ||pctsrv.com^
 ||pl.pcviruscare.com^
 ||pcvzpj.xyz^
+||mail.pcygphil.com^
 ||pd-news.com^
 ||pdayyocpnvh.ru^
 ||ads.pdbarea.com^
@@ -65986,6 +66021,7 @@
 ||cdn.provesrc.com^
 ||providedovernight.com^
 ||provider-direct.com^
+||provider.giize.com^
 ||providingcrechepartnership.com^
 ||smetrics.provincial.com^
 ||proviredshop.pl^
@@ -67627,6 +67663,7 @@
 ||qusrow.xyz^
 ||ad.quwin.cn^
 ||quxidaeqyi.live^
+||vn-ebay.quxlpuj.cn^
 ||quxsiraqxla.com^
 ||quxtpanaxd.com^
 ||quydautuvingroup.com^
@@ -68848,7 +68885,6 @@
 ||reingod.com^
 ||reinstandpointdumbest.com^
 ||banner.reinstil.de^
-||reitingi.lv^
 ||rejco2.store^
 ||rejco3.site^
 ||rejdfa.com^
@@ -69256,6 +69292,7 @@
 ||responsiveproportion.com^
 ||responsiverender.com^
 ||static.cdn.responsys.net^
+||rest.redirectme.net^
 ||restadrenaline.com^
 ||restartad.com^
 ||aa-metrics.restaurant-board.com^
@@ -69533,6 +69570,7 @@
 ||rgdcrt.xyz^
 ||rgddist.com^
 ||rgentssep.xyz^
+||rghbvp.xyz^
 ||rghqrj.xyz^
 ||gcirm.rgj.com^
 ||sp.rgj.com^
@@ -73549,6 +73587,8 @@
 ||simplenergyscooter.com^
 ||simplereach.com^
 ||simplesharebuttons.com^
+||api.simpletra.com^
+||mail.simpletra.com^
 ||cfd.simpletrad5.com^
 ||simpletraffic.co^
 ||simpleway.one^
@@ -75166,6 +75206,7 @@
 ||sophiscated-lady.blogspot.com^
 ||sophistica-undefined-tion.blogspot.com^
 ||sophisticatedemergencydryer.com^
+||sopho.kozow.com^
 ||sophomoreadmissible.com^
 ||sophomoreclassicoriginally.com^
 ||sophomoremollymatching.com^
@@ -75292,6 +75333,7 @@
 ||metrics.sp0n.io^
 ||sp11cesavvy.xyz^
 ||sp15569p.com^
+||sp5188.com^
 ||sp5derstyle.com^
 ||sp9hb5jy81iw.ru^
 ||spa1glenarden.com^
@@ -78176,6 +78218,7 @@
 ||szczepimysie.org.pl^
 ||szczeryprzekaz.click^
 ||szczesliwysa.beauty^
+||szdgl.cn^
 ||szerencsejatek.hu^
 ||szfmr.cn^
 ||szftg.cn^
@@ -78599,6 +78642,7 @@
 ||tangerinetrend.xyz^
 ||tangerinew8rld.life^
 ||shinhanbank.tanghanmucthang11.com.vn^
+||tanghanmucvisa-vn.com^
 ||tangibleteam.com^
 ||tanglesoonercooperate.com^
 ||tanglike.biz^
@@ -80170,6 +80214,8 @@
 ||thewise.com^
 ||thewish4u.com^
 ||thewonder.space^
+||link.theworkguyoo.com^
+||mail.theworkguyoo.com^
 ||theworldofgamers.com^
 ||theworldoftortoise.blogspot.com^
 ||thewowfeed.com^
@@ -83276,6 +83322,7 @@
 ||twigstandardexcursion.com^
 ||twigwisp.com^
 ||twilightone.sbs^
+||manags.twilightparadox.com^
 ||twilightsentiments.com^
 ||twilightsuburbmill.com^
 ||eventgw.twilio.com^
@@ -84540,6 +84587,7 @@
 ||uptownrecycle.com^
 ||uptracs.com^
 ||hit.uptrendsdata.com^
+||upupdate.ooguy.com^
 ||upupoidoutjazz.website^
 ||app.upviral.com^
 ||snippet.upviral.com^
@@ -86846,6 +86894,7 @@
 ||vnexprress.com^
 ||vnf88.com^
 ||vnfa88.com^
+||vnfiba.com^
 ||log.vnfinance.vn^
 ||vnfsbl.xyz^
 ||vngame123.com^
@@ -86877,6 +86926,7 @@
 ||vnrherdsxr.com^
 ||vnrvss.com^
 ||vnsendo.info^
+||vnsendo.net^
 ||vnsendo.shop^
 ||vnsendo.vip^
 ||vnshop.today^
