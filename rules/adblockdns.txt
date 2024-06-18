@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240618103518
-! Last modified: 2024/06/18 10:35:18
-! Blocked domains: 92171
+! Version: 20240618182003
+! Last modified: 2024/06/18 18:20:03
+! Blocked domains: 92175
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -22783,6 +22783,7 @@
 ||pv.dakawm.cc^
 ||dakjddjerdrct.online^
 ||dakotacasino.com^
+||daksflkalq.top^
 ||dakshaclasses.com^
 ||dakshinstation.com^
 ||statistics.daktilo.com^
@@ -24366,6 +24367,7 @@
 ||shzzzz.dftoutiao.com^
 ||dfuaqw.com^
 ||dfvlaoi.com^
+||dfvmzx.xyz^
 ||dfwbfr2blhmr5.cloudfront.net^
 ||dfxvkgz.xyz^
 ||dfyui8r5rs.click^
@@ -31002,6 +31004,7 @@
 ||ffuzila.com^
 ||l.ffx.io^
 ||ffxitrack.com^
+||fgadsqdma.top^
 ||fgenergy.pl^
 ||fgetmzx.icu^
 ||fghhbp.xyz^
@@ -90111,6 +90114,7 @@
 ||xusuqeylou.info^
 ||xuvyciehuy.live^
 ||xuwfmhh.icu^
+||xvbcjh.xyz^
 ||xvbjctqs.xyz^
 ||xvbnrh.xyz^
 ||xvbwvle.com^
