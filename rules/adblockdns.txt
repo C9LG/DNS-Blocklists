@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240619103541
-! Last modified: 2024/06/19 10:35:41
-! Blocked domains: 92723
+! Version: 20240619182030
+! Last modified: 2024/06/19 18:20:30
+! Blocked domains: 92726
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -1164,6 +1164,7 @@
 ||27vulkanvegas.com^
 ||tracking.28-91473-wbm.co.uk^
 ||2826.bet^
+||285b0b37.xyz^
 ||a1.289.com^
 ||289931.com^
 ||28vulkanvegas.com^
@@ -38082,6 +38083,7 @@
 ||heycompassion.com^
 ||assets.heylink.com^
 ||tag.heylink.com^
+||bi.heyloyalty.com^
 ||heymatic.com^
 ||stats.heyoya.com^
 ||ad.heypo.com^
@@ -77761,6 +77763,7 @@
 ||szczepimysie.org.pl^
 ||szczeryprzekaz.click^
 ||szczesliwysa.beauty^
+||szdxw.cn^
 ||szerencsejatek.hu^
 ||szfmr.cn^
 ||szftg.cn^
