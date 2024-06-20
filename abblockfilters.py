@@ -148,7 +148,6 @@ def CreatDNS(blockDict, unblockDict, fileName):
     if os.path.exists(fileName):
         os.remove(fileName)    
     with open(fileName, 'a') as f:
-        f.write("!\n")
         f.write("! Title: DNS-Blocklists\n")
         f.write("! Description: 适用于AdGuardHome的去广告规则。\n")
         f.write("! Homepage: https://github.com/C9LG/DNS-Blocklists\n")
@@ -176,7 +175,6 @@ def CreatFiter(filterList, fileName):
         os.remove(fileName)
     
     with open(fileName, 'a') as f:
-        f.write("!\n")
         f.write("! Title: Blocklists\n")
         f.write("! Description: 适用于AdGuard的去广告规则。\n")
         f.write("! Homepage: https://github.com/C9LG/DNS-Blocklists\n")
