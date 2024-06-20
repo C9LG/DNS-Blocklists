@@ -149,7 +149,7 @@ def CreatDNS(blockDict, unblockDict, fileName):
         os.remove(fileName)    
     with open(fileName, 'a') as f:
         f.write("!\n")
-        f.write("! Title: AdBlock DNS\n")
+        f.write("! Title: DNS-Blocklists\n")
         f.write("! Description: 适用于AdGuardHome的去广告规则。\n")
         f.write("! Homepage: https://github.com/C9LG/DNS-Blocklists\n")
         f.write("! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt\n")
@@ -177,7 +177,7 @@ def CreatFiter(filterList, fileName):
     
     with open(fileName, 'a') as f:
         f.write("!\n")
-        f.write("! Title: AdBlock Filter\n")
+        f.write("! Title: Blocklists\n")
         f.write("! Description: 适用于AdGuard的去广告规则。\n")
         f.write("! Homepage: https://github.com/C9LG/DNS-Blocklists\n")
         f.write("! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt\n")
