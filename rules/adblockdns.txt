@@ -1,11 +1,11 @@
 !
-! Title: AdBlock DNS
+! Title: DNS-Blocklists
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240620103338
-! Last modified: 2024/06/20 10:33:38
-! Blocked domains: 94205
+! Version: 20240620173953
+! Last modified: 2024/06/20 17:39:53
+! Blocked domains: 94221
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -1429,6 +1429,7 @@
 ||39irqwnzlv.com^
 ||39jz.com^
 ||3a2e.site^
+||3a55f02d.xyz^
 ||3ad5iot.com^
 ||3am.info^
 ||3bfcfaa8c8.com^
@@ -2204,6 +2205,7 @@
 ||1npost.7815151.xyz^
 ||www.1npost.7815151.xyz^
 ||1.78500.cn^
+||7868d5c036.com^
 ||788aefb4ed.com^
 ||789.club^
 ||789.mobi^
@@ -12961,6 +12963,7 @@
 ||www.bigcitysportsbook.com^
 ||bigclick.me^
 ||bigclicks.com^
+||js.bigcomics.win^
 ||analytics-cf.bigcrunch.com^
 ||dev-analytics-cf.bigcrunch.com^
 ||bigcuda.com^
@@ -17036,6 +17039,7 @@
 ||ccprrjr.com^
 ||ccrenovationsllc.com^
 ||ccrkpsu.com^
+||cctuhqghljzdrv.com^
 ||ad.cctv.com^
 ||p.data.cctv.com^
 ||cctvgb.com.cn^
@@ -29794,6 +29798,7 @@
 ||exaf.jp^
 ||exaggeratekindnessvocal.com^
 ||exaggeratestamppost.com^
+||ads.exakt24.se^
 ||exaleprn.com^
 ||exaltationinsufficientintentional.com^
 ||exaltbelow.com^
@@ -33859,6 +33864,7 @@
 ||40hardcore.galleryprogram.com^
 ||50hardcore.galleryprogram.com^
 ||galleyssleeps.top^
+||gallicize25.fun^
 ||galliennefitness.com^
 ||gallonranchwhining.com^
 ||gallopextensive.com^
@@ -36324,6 +36330,7 @@
 ||granddaughterrepresentationintroduce.com^
 ||grandeursway.com^
 ||grandeweddings.com^
+||grandezza31.fun^
 ||grandfathercancelling.com^
 ||grandfatherguitar.com^
 ||grandforksbreakfast.com^
@@ -46253,6 +46260,7 @@
 ||karonty.com^
 ||karoonpc.com^
 ||karoup.com^
+||karpatzi.com^
 ||api.karpishe.com^
 ||kartavisa.pl^
 ||b.karte.io^
@@ -67982,6 +67990,7 @@
 ||quiyao.com^
 ||quizmastersnag.com^
 ||quizmastersnappy.com^
+||quizna.xyz^
 ||quizsupportedchapel.com^
 ||quizzicalzephyr.com^
 ||quizzity.shop^
@@ -68380,6 +68389,7 @@
 ||ramplast.net^
 ||rampmetrics.com^
 ||ramrodsmorals.top^
+||canariajournalen.ads.ramsalt.com^
 ||expo.ads.ramsalt.com^
 ||ramyneidai.live^
 ||ranabreast.com^
@@ -69559,6 +69569,7 @@
 ||requirestwine.com^
 ||requisiteconjure.com^
 ||requotehocker.com^
+||reqyfuijl.com^
 ||rereddit.com^
 ||reredosesfvuge.com^
 ||reroplittrewheck.pro^
@@ -72484,6 +72495,7 @@
 ||seekbang.com^
 ||log.seekda.com^
 ||seekinstantly.com^
+||seekmymatch.com^
 ||seekoflol.com^
 ||seeksgeeks.com^
 ||www.seekways.com^
@@ -79076,6 +79088,7 @@
 ||talouktaboutrice.info^
 ||talpa-analytics.com^
 ||talsauve.com^
+||talsindustrateb.info^
 ||talysu.info^
 ||tamago-momo-doll-da191-1261425a1.netlify.app^
 ||l.tamaliver.jp^
@@ -90258,6 +90271,7 @@
 ||wkmg.co.kr^
 ||wknaczrxjrj.com^
 ||tag.wknd.ai^
+||wkoocuweg.com^
 ||lm1.wkpcw.cn^
 ||wkqcnkstso.com^
 ||wkrcbszi.xyz^
@@ -90878,6 +90892,7 @@
 ||wrontonshatbona.com^
 ||wrotad.com^
 ||wroteeasel.com^
+||wrothycreep.top^
 ||wrtjojn.xyz^
 ||wruaqpkuwa.com^
 ||wrufer.com^
@@ -92878,6 +92893,7 @@
 ||yr9n47004g.com^
 ||yrals.com^
 ||yrenterom.xyz^
+||yrincelewasgiw.info^
 ||yrsfs.com^
 ||vinted-pl-gj32d.yrsmidi.live^
 ||www.vinted-pl-gj32d.yrsmidi.live^

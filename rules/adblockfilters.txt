@@ -1,10 +1,10 @@
 !
-! Title: AdBlock Filter
+! Title: Blocklists
 ! Description: 适用于AdGuard的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240620103338
-! Last modified: 2024/06/20 10:33:38
+! Version: 20240620173953
+! Last modified: 2024/06/20 17:39:53
 ! Blocked Filters: 531
 !
 *$3p,domain=d3ward.github.io
