@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240621103411
-! Last modified: 2024/06/21 10:34:11
-! Blocked domains: 92255
+! Version: 20240621182024
+! Last modified: 2024/06/21 18:20:24
+! Blocked domains: 92265
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -1664,6 +1664,7 @@
 ||4f2sm1y1ss.com^
 ||4f4e1936f7.com^
 ||4favo.com^
+||4fb60fd0.xyz^
 ||4fcom.top^
 ||4fluck.top^
 ||4fonline.com^
@@ -12735,6 +12736,7 @@
 ||bfbchr.xyz^
 ||bfda839646.com^
 ||bfdcuy9.com^
+||bfhueh.top^
 ||bfici.com^
 ||bfjk360.com^
 ||a.bfking.cn^
@@ -60730,6 +60732,7 @@
 ||oujouniw.com^
 ||ouknowsaidthea.info^
 ||ouldhukelpm.org^
+||oulragart.xyz^
 ||oulsools.com^
 ||oulukdliketo.shop^
 ||oumtirsu.com^
@@ -62767,6 +62770,7 @@
 ||phaisoaz.com^
 ||phaitaghy.com^
 ||phalingy.net^
+||phallicbedsore.com^
 ||phalton.com^
 ||phamsacm.net^
 ||analytics.phando.com^
@@ -67656,6 +67660,7 @@
 ||rajdivinelife.com^
 ||rajdysamochodowe.pl^
 ||rajibpaul.com^
+||rajmobbism.com^
 ||rajsinha.com^
 ||rajunehra.com^
 ||rakhen.com^
@@ -70820,6 +70825,7 @@
 ||saunawy.quest^
 ||saupouni.xyz^
 ||sauptoacoa.com^
+||sauptowhy.com^
 ||saurajembe.top^
 ||saurodaz.website^
 ||sausagegirlieheartburn.com^
@@ -72238,6 +72244,7 @@
 ||shenzo.xyz^
 ||shepeekr.net^
 ||shepherdalmightyretaliate.com^
+||shepsubsitha.com^
 ||sherryarshad.com^
 ||sherryfaithfulhiring.com^
 ||sherwinsports.com^
@@ -83118,6 +83125,7 @@
 ||uphilo.com^
 ||uphorse.homes^
 ||uphorter.com^
+||uphoveduke.com^
 ||oascentral.upi.com^
 ||eblastengine.upickem.net^
 ||upinternationals.com^
@@ -86603,6 +86611,7 @@
 ||waznykomunikat.lat^
 ||waztahsmal.com^
 ||wazzleflump.shop^
+||wbaj.cn^
 ||wbdqwpu.com^
 ||wbet58.com^
 ||wbet99.net^
@@ -88958,6 +88967,7 @@
 ||wsjpcev.com^
 ||wskazowkaludzi.click^
 ||wsmobltyhs.com^
+||banners.wsnonline.dk^
 ||wsod.com^
 ||wsokomw.com^
 ||wsoqwm.xyz^
