@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240622214543
-! Last modified: 2024/06/22 21:45:43
-! Blocked domains: 93707
+! Version: 20240623022259
+! Last modified: 2024/06/23 02:22:59
+! Blocked domains: 93730
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -1376,6 +1376,7 @@
 ||mvconf.cloud.360safe.com^
 ||mvconf.lato.cloud.360safe.com^
 ||mvconf.uk.cloud.360safe.com^
+||p1.360soucha.com^
 ||360tag.com^
 ||free.360totalsecurity.com^
 ||softdl.360tpcdn.com^
@@ -1608,6 +1609,7 @@
 ||47ech32state23ewels.life^
 ||480image.com^
 ||48a16802.site^
+||48d8e4d6.xyz^
 ||oolx.4902489.xyz^
 ||493b98cce8bc1a2dd.com^
 ||497397.com^
@@ -10603,6 +10605,7 @@
 ||q.azcentral.com^
 ||sp.azcentral.com^
 ||azdrowieja.site^
+||azenka.one^
 ||azera-s014.com^
 ||pm.azerioncircle.com^
 ||azeriondigital.com^
@@ -18564,6 +18567,7 @@
 ||cision.com^
 ||cismqdx.icu^
 ||cisneseyker.info^
+||cissoidentera.top^
 ||cit7usru8h.life^
 ||citadelpathstatue.com^
 ||citadelwebdesign.com^
@@ -22969,6 +22973,7 @@
 ||dapperaside.pro^
 ||news.dapperduos.com^
 ||www.news.dapperduos.com^
+||dapro.cloud^
 ||dapsotsares.com^
 ||daptault.com^
 ||dapxl.com^
@@ -29064,6 +29069,7 @@
 ||erandex.com^
 ||erate.co.il^
 ||eratelevision.com^
+||eravesofefineg.info^
 ||eraygc.xyz^
 ||erayogul.com^
 ||erbiscusysexbu.info^
@@ -30329,6 +30335,7 @@
 ||f5v1x3kgv5.com^
 ||f6176563.site^
 ||f773a03dcb.com^
+||f816e81d.xyz^
 ||f8260adbf8558d6.com^
 ||f853150605ccb.com^
 ||f8bet.com^
@@ -33960,6 +33967,7 @@
 ||galopelikeantelope.com^
 ||galoremultimedia.com^
 ||galotop1.com^
+||galvanize26.fun^
 ||galvestonweekly.com^
 ||galwangedi.com^
 ||r6.galya.ru^
@@ -35883,6 +35891,7 @@
 ||gogetlinks.net^
 ||gogetsold.com^
 ||goggl.com^
+||gogglebox26.fun^
 ||gogglemessenger.com^
 ||gogglerespite.com^
 ||goghen.com^
@@ -39242,6 +39251,7 @@
 ||hosenewspapersdepths.com^
 ||hosereview.com^
 ||hoshoku.com^
+||hosierygossans.com^
 ||hosieryplum.com^
 ||hosierypressed.com^
 ||hospedajedepagina.net^
@@ -41204,6 +41214,7 @@
 ||affiliate.imperiaonline.org^
 ||imperturbableawesome.com^
 ||imperturbableresponsive.com^
+||impetremondial.com^
 ||impishelizabethjumper.com^
 ||implacavelvideos.com^
 ||implantwork.lat^
@@ -47979,6 +47990,7 @@
 ||libertykeyword.com^
 ||libertystmedia.com^
 ||libetyn.pics^
+||libgetgrocers.top^
 ||libhzf.xyz^
 ||track.libii.cn^
 ||librairienoire.com^
@@ -49000,6 +49012,7 @@
 ||lonesis-345534-ghibanto-lipoka.pages.dev^
 ||lonfilliongin.com^
 ||long092.com^
+||long1x.xyz^
 ||longaevo.org^
 ||longbentonceige.com^
 ||longchampoutletpolska.com^
@@ -52873,6 +52886,7 @@
 ||an.mlb.com^
 ||mlbjerseycustom.com^
 ||mlclick.com^
+||mldfckinkpyhwk.com^
 ||mlegyu.xyz^
 ||mlgrtn.com^
 ||mlhdvjv.xyz^
@@ -56546,6 +56560,7 @@
 ||nichehuset.dk^
 ||nicholassemicircledomesticated.com^
 ||nichools.com^
+||nicibelite.com^
 ||nickb5942-conatec-toen-actiebelus.pages.dev^
 ||nickeeha.net^
 ||nickeldrive.autos^
@@ -59154,6 +59169,7 @@
 ||toprob.onprograms.xyz^
 ||onrekreacjazeby.shop^
 ||onrunningpolska.pl^
+||onscormation.info^
 ||onscroll.com^
 ||onseleauks.org^
 ||onservantas.org^
@@ -60256,6 +60272,7 @@
 ||ozbet.com.au^
 ||klienci-indywidualne-santander-sa.ozcamera.com^
 ||www.klienci-indywidualne-santander-sa.ozcamera.com^
+||ozdq.cn^
 ||ozectynptd.com^
 ||ozelmedikal.com^
 ||ozelyeteneklilerenstitusu.com^
@@ -60879,6 +60896,7 @@
 ||pantrydivergegene.com^
 ||pantslayerboxoffice.com^
 ||pantsurplus.com^
+||pantuz.xyz^
 ||message.pantychallenges.com^
 ||www.message.pantychallenges.com^
 ||paolinee.com^
@@ -66786,6 +66804,7 @@
 ||qbkzvophvva.com^
 ||qbop.com^
 ||qboywc.xyz^
+||qbsfnbdqinnay.com^
 ||qbswezw.cn^
 ||cdn.qc24h.com^
 ||qc789.vip^
@@ -68027,6 +68046,7 @@
 ||rcdjkdesdn.com^
 ||rcebanque.com^
 ||rcebanque.company^
+||rceqdysdjfhy.com^
 ||rcerrohatfad.com^
 ||rcesigojtwh.com^
 ||rcf3occ8.de^
@@ -68309,6 +68329,7 @@
 ||recoils.pl^
 ||ads.recoletos.es^
 ||recollectionchicken.com^
+||recombssuu.com^
 ||recommendedforyou.xyz^
 ||recommendedseizedbewildered.com^
 ||recommendessencerole.com^
@@ -68995,6 +69016,7 @@
 ||rerpartmentm.info^
 ||reryn2ce.com^
 ||reryn3ce.com^
+||rerynjia.com^
 ||rerynjie.com^
 ||rerywuekuo.live^
 ||resalag.com^
@@ -90876,6 +90898,7 @@
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xfyqlex.com^
+||xfzbrfmffnpqd.com^
 ||xg4ken.com^
 ||tracker.xgen.dev^
 ||xghxpvl.com^
