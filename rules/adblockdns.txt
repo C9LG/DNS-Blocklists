@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240622103143
-! Last modified: 2024/06/22 10:31:43
-! Blocked domains: 93423
+! Version: 20240622181944
+! Last modified: 2024/06/22 18:19:44
+! Blocked domains: 93426
 ! unBlocked domains: 10
 !
 ||0000130.com^
@@ -25875,6 +25875,7 @@
 ||kpshx.douguo.com^
 ||leabd.douguo.com^
 ||douhooke.net^
+||doujs02.xyz^
 ||doukoula.com^
 ||api.doumob.com^
 ||www.doumob.com^
@@ -38864,6 +38865,7 @@
 ||adx.hongtinnhanh.com^
 ||tracking.hongtinnhanh.com^
 ||honitonchyazic.com^
+||honknl.xyz^
 ||honorablehalt.com^
 ||honorableland.com^
 ||honorbustlepersist.com^
@@ -52112,6 +52114,7 @@
 ||clog.miguvideo.com^
 ||ggx01.miguvideo.com^
 ||ggx02.miguvideo.com^
+||ggx03.miguvideo.com^
 ||ggx10.miguvideo.com^
 ||ggxwb.miguvideo.com^
 ||ir.mihanstore.net^
