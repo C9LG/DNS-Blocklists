@@ -2,37 +2,32 @@
 ! Description: 适用于AdGuard的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240623022259
-! Last modified: 2024/06/23 02:22:59
-! Blocked Filters: 532
+! Version: 20240623103555
+! Last modified: 2024/06/23 10:35:55
+! Blocked Filters: 527
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
-/*-ad-*.byteimg.com/
-/*-ad-sign.byteimg.com/
-/*-ad.sm.cn/
-/*-ad.video.yximgs.com/
-/*-ad.wtzw.com/
-/*-be-pack-sign.pglstatp-toutiao.com/
-/*-lm.adkwai.com/
-/*-normal-lq.zijieapi.com/
 /*.*.shouji.sogou.com/
-/*.*skwai.com/
+/*.[a-zA-Z0-9.-]skwai.com/
 /*.a.market.xiaomi.com/
 /*.data.hicloud.com/
 /*.log.aliyuncs.com/
 /*.shouji.sogou.com/
-/*.zskwai.com/
+/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
+/[a-zA-Z0-9.-]*-ad.sm.cn/
+/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
+/[a-zA-Z0-9.-]*-ad.wtzw.com/
+/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
+/[a-zA-Z0-9.-]*-lm.adkwai.com/
+/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
+/[a-zA-Z0-9.-]*-normal.zijieapi.com/
 /^139\.45\.19[5-7]\.\d{1,3}/
 /^188\.42\.84\.\d{1,3}/
 /^23\.109\.73\.\d{3}/
-/ads*-normal-*.zijieapi.com/
-/ads*-normal.zijieapi.com/
-/cloud-inject-global.oss-cn-hongkong.aliyuncs.com/
-/cloudinject*-dev.*.*-*-*.amazonaws.com/
-/cloudinject*-dev.s3.ap-northoreast-1.amazonaws.com/
+/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
 /pagead.js$domain=d3ward.github.io
 17173.com###vjs-ad-on-pause
 1905.com##.pauseInfoWrap:remove()
