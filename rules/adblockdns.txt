@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240624103601
-! Last modified: 2024/06/24 10:36:01
-! Blocked domains: 78218
+! Version: 20240624182117
+! Last modified: 2024/06/24 18:21:17
+! Blocked domains: 78219
 ! unBlocked domains: 10
 !
 ||0-okodukai.com^
@@ -10402,6 +10402,7 @@
 ||secure.cardtransaction.com^
 ||cardzstorezone.com^
 ||care-cleaning.com^
+||s.cartbooster.io^
 ||cashbizo.com^
 ||cashbro.net^
 ||cashburners.com^
