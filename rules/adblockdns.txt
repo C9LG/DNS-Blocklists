@@ -2,8 +2,8 @@
 ! Description: 适用于AdGuardHome的去广告规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240625210624
-! Last modified: 2024/06/25 21:06:24
+! Version: 20240626022359
+! Last modified: 2024/06/26 02:23:59
 ! Blocked domains: 156789
 ! unBlocked domains: 11
 !
@@ -86639,6 +86639,7 @@
 ||cellar-analytics.mapion.co.jp^
 ||mapkatechniczna.click^
 ||mapl3mag1c.xyz^
+||maplecurriculum.com^
 ||mapleglimpse.click^
 ||adx.maplehaze.cn^
 ||maplemingle.xyz^
@@ -153472,7 +153473,6 @@
 ||yashelectrical.com^
 ||yashi.com^
 ||yashsupermarket.com^
-||yasir252.com^
 ||yasma.top^
 ||yasmeenbronze-finacenter.pages.dev^
 ||yatab.net^
