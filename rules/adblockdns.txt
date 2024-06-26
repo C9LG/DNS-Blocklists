@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240626124518
-! Last modified: 2024/06/26 12:45:18
-! Blocked domains: 156852
+! Version: 20240626181802
+! Last modified: 2024/06/26 18:18:02
+! Blocked domains: 156856
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -8358,6 +8358,7 @@
 ||pj.l.a8723.com^
 ||a899228ebf.com^
 ||a8age.com^
+||a8b68645.xyz^
 ||128.a8fc.lat^
 ||43o.a8fc.lat^
 ||63u.a8fc.lat^
@@ -19776,6 +19777,7 @@
 ||system-debug-1.b-cdn.net^
 ||track-dark-bz.b-cdn.net^
 ||tracking.b-cdn.net^
+||ttse.b-cdn.net^
 ||winonexd.b-cdn.net^
 ||b-click.net^
 ||b-e0iz.cfd^
@@ -71921,6 +71923,7 @@
 ||to-the-account-holder51392.io.vn^
 ||ioaalobqpc.com^
 ||ioadserve.com^
+||ioaiqp.top^
 ||ioam.de^
 ||iobost-xh.top^
 ||iobvmtx.xyz^
@@ -114895,6 +114898,7 @@
 ||qyfocaexyo.info^
 ||qyh.co.ua^
 ||qyholyeseu.live^
+||qyisloy.top^
 ||qykvrcqk.com^
 ||qykxyax.com^
 ||qylar.pro^
