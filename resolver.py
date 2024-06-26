@@ -219,7 +219,7 @@ class Resolver(object):
 
 if __name__ == '__main__':
     pwd = os.getcwd()
-    file = pwd + "/rules/EasyList_Easy-Privacy.txt"
+    file = pwd + "/rules/Noyllopa_No-App-Download.txt"
     resolver = Resolver(file)
     blockList, unblockList, filterList = resolver.Resolve("filter") #AdGuard_Base_filter、AdGuard_Chinese_filter、AdGuard_DNS_filter、CJX's_Annoyance_List、EasyList_China、EasyList、EasyPrivacy、xinggsf_mv、xinggsf_rule
     print('blockList: %s'%(len(blockList)))
