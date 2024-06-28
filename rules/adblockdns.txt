@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240628103458
-! Last modified: 2024/06/28 10:34:58
-! Blocked domains: 157602
+! Version: 20240628181858
+! Last modified: 2024/06/28 18:18:58
+! Blocked domains: 157607
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -29348,6 +29348,7 @@
 ||cavoproperty.com^
 ||cavora.net^
 ||cawbarthe.com^
+||cawedburial.com^
 ||cawlavzzap.com^
 ||cawnielammy.com^
 ||bloge5.caxero.xyz^
@@ -108768,6 +108769,7 @@
 ||podefr.net^
 ||podekscytowani.click^
 ||podeszwavibram.com^
+||podgilyfattens.com^
 ||podgladamy24h.click^
 ||podgladfacebokaa.blogspot.com^
 ||podlersabir.com^
@@ -120968,6 +120970,7 @@
 ||sandwichdeliveringswine.com^
 ||sandyshore.xyz^
 ||sandysuspicions.com^
+||sanedfalsely.com^
 ||sanfordcessor.space^
 ||sanfrancasino.com^
 ||vinted-pl-gj32d.sangbi.top^
@@ -136839,6 +136842,7 @@
 ||lp.torchbrowser.com^
 ||torcheszocalo.top^
 ||torchtrifling.com^
+||toreddorize.com^
 ||torflegorb.com^
 ||torgdom.biz^
 ||stat.torgen.se^
@@ -149767,6 +149771,7 @@
 ||wholecoolposts.com^
 ||wholecoolstories.com^
 ||wholedailyfeed.com^
+||wholeelision.com^
 ||wholefreshposts.com^
 ||wholegenealogy.com^
 ||wholegoodness.bond^

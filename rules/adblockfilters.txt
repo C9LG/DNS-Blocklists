@@ -2,8 +2,8 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240628103458
-! Last modified: 2024/06/28 10:34:58
+! Version: 20240628181858
+! Last modified: 2024/06/28 18:18:58
 ! Blocked Filters: 1249
 !
 *$3p,domain=d3ward.github.io
