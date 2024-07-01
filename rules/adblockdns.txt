@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240701103921
-! Last modified: 2024/07/01 10:39:21
-! Blocked domains: 156733
+! Version: 20240701182138
+! Last modified: 2024/07/01 18:21:38
+! Blocked domains: 156735
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -25397,7 +25397,6 @@
 ||tracking.bonnier.news^
 ||bonnieradnetwork.se^
 ||record.bonniergaming.com^
-||tapet.bonniernews.se^
 ||brandy.bonniernewslifestyle.se^
 ||fusion.bonniertidskrifter.se^
 ||ads.bonnint.net^
@@ -29585,6 +29584,7 @@
 ||cdhvrrlyrawrxqd.xyz^
 ||cdiabetes.com^
 ||cdiklrgwisnu.com^
+||cdipsumf.top^
 ||tracking.cdiscount.com^
 ||cdj-dap.s3-ap-northeast-1.amazonaws.com^
 ||cdkcaxxjyyb.xyz^
@@ -62877,6 +62877,7 @@
 ||hdietgetstartedkit.com^
 ||hdietgetstartedkit.org^
 ||hdietmail.com^
+||hdipsumu.top^
 ||hdjfeed.top^
 ||hdjthzg.cn^
 ||hdlifestylecenter.com^
@@ -80453,7 +80454,6 @@
 ||protection.kypolice.com^
 ||kyq3hky.icu^
 ||kyq3xch.icu^
-||kyrkoskatten.se^
 ||openx2.kytary.cz^
 ||kytbxcl.cn^
 ||kyteblowzed.com^
@@ -138792,6 +138792,7 @@
 ||www.oh6.tw18.icu^
 ||twads.gg^
 ||twaerry.xyz^
+||twamjb.cn^
 ||twandli.top^
 ||twankingjoage.life^
 ||twaonhcjwoaouj.com^
@@ -147971,6 +147972,7 @@
 ||binhchon-gionghatvietnhi-2022.weebly.com^
 ||binhchon-gionghatvietnhi-vong1-nam2022.weebly.com^
 ||binhchonanhduthicuabe2022.weebly.com^
+||binhchoncuocthivetranhsinhvien2024.weebly.com^
 ||binhchonduthitainang2022mua3.weebly.com^
 ||binhchongionghatviet2019.weebly.com^
 ||binhchongionghatvietnhi2021vietnames.weebly.com^
