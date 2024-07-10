@@ -9,7 +9,7 @@
 | 规则1：DNS拦截 | [原始链接](https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt) |
 | 规则2：插件拦截 | [原始链接](https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt) |
 ## 上游规则
-感谢大佬们的辛苦付出！
+感谢以下大佬们的辛苦付出！
 
 | 规则 | 类型 | 原始链接 | 加速链接 | 更新日期 |
 |:-|:-|:-|:-|:-|
