@@ -53,8 +53,8 @@ class Downloader(object):
 
 if __name__ == '__main__':
     pwd = os.getcwd()
-    file = pwd + '/rules/neodev_hosts.txt'
-    url = 'https://raw.githubusercontent.com/neodevpro/neodevhost/master/host'
+    file = pwd + '/rules/TG-Twilight_AWAvenue-Ads-Rule.txt'
+    url = 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
     downloader = Downloader(file, url)
     if downloader.Download():
         print('need update')
