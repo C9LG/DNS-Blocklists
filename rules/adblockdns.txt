@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240711103303
-! Last modified: 2024/07/11 10:33:03
-! Blocked domains: 152620
+! Version: 20240711181328
+! Last modified: 2024/07/11 18:13:28
+! Blocked domains: 152623
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -19079,6 +19079,7 @@
 ||baijs05.xyz^
 ||baijs06.xyz^
 ||baijs07.xyz^
+||baijs08.xyz^
 ||baikalize.com^
 ||bailbondscheckin.com^
 ||bailbondslongisland.com^
@@ -61402,6 +61403,7 @@
 ||hfnzhczqgdp.com^
 ||wap.hfoyjg.cn^
 ||hfptbb.cn^
+||hfptbf.cn^
 ||hfpuhwqi.xyz^
 ||hfr-afe.cfd^
 ||hfr67jhqrw8.com^
@@ -77300,6 +77302,7 @@
 ||log.krs-ix.ru^
 ||krscode.com^
 ||track.msadcenter.krt.com^
+||krtlisd.top^
 ||krugerbets.com^
 ||krukwatch.com^
 ||krups-online.top^
