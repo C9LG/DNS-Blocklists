@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240712103036
-! Last modified: 2024/07/12 10:30:36
-! Blocked domains: 154334
+! Version: 20240712181409
+! Last modified: 2024/07/12 18:14:09
+! Blocked domains: 154341
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -5082,6 +5082,7 @@
 ||5726303d87522d05.com^
 ||v1nted56product.57555465.xyz^
 ||www.v1nted56product.57555465.xyz^
+||57573zubo36833.com^
 ||in-p0stshopping.576756.xyz^
 ||www.in-p0stshopping.576756.xyz^
 ||vjnted.57687666.xyz^
@@ -53376,6 +53377,7 @@
 ||smetrics.fpl.com^
 ||msnads-wm9.fplive.net^
 ||fpmleqdb.com^
+||fpninv.xyz^
 ||fpnpmcdn.net^
 ||statsp.fpop.net^
 ||fppconference.net^
@@ -54066,6 +54068,7 @@
 ||fromru.su^
 ||frontalsnail.website^
 ||frontcognizance.com^
+||frontendcodingtips.com^
 ||fronthlpr.com^
 ||fronthlpric.com^
 ||smetrics.frontier.com^
@@ -66932,6 +66935,7 @@
 ||imglnkd.com^
 ||imglnke.com^
 ||imgopen.vip^
+||imgoss2255.top^
 ||imgoss511.top^
 ||imgot.info^
 ||imgot.site^
@@ -102000,6 +102004,7 @@
 ||paradisevalleyhomeloans.com^
 ||paradisewears.com^
 ||paradisewin.com^
+||paradizeconstruction.com^
 ||parado.pl^
 ||paradocs.ru^
 ||paradoxfactor.com^
@@ -125493,6 +125498,7 @@
 ||srsotqdgln.com^
 ||srspmgroup.com^
 ||srth45-gw.cfd^
+||srtlisb.top^
 ||srtlyye.com^
 ||srtrak.com^
 ||srumifuroqkuoi.com^
@@ -136341,6 +136347,7 @@
 ||tuotianxia.top^
 ||tupark.com^
 ||tupian6666.com^
+||tupian88888.com^
 ||tupian9999.com^
 ||myunion1.tupians.com^
 ||tupinaquiwrber.info^
