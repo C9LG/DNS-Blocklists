@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240713102949
-! Last modified: 2024/07/13 10:29:49
-! Blocked domains: 154326
+! Version: 20240713181248
+! Last modified: 2024/07/13 18:12:48
+! Blocked domains: 154329
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -16578,6 +16578,7 @@
 ||asdfdr.cfd^
 ||asdfgsd7.wixsite.com^
 ||asdifgers.com^
+||asdji2.cn^
 ||asdpoi.com^
 ||asdpoliziamunicipalepa.it^
 ||asdqslnqmwwkc.com^
@@ -47609,6 +47610,7 @@
 ||ertewqas.org^
 ||ertgbme.com^
 ||ertistsldahehu.com^
+||ertlisw.top^
 ||ertmoren.xyz^
 ||ertopcu.com^
 ||ertopmnja.com^
@@ -103728,6 +103730,7 @@
 ||photineum.com^
 ||www.photo-ads.co.uk^
 ||photo-cam.com^
+||photo07.xyz^
 ||pbox.photobox.de^
 ||photofuturecrappy.com^
 ||photographcrushingsouvenirs.com^
