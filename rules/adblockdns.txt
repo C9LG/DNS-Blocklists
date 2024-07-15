@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240715103509
-! Last modified: 2024/07/15 10:35:09
-! Blocked domains: 154980
+! Version: 20240715181433
+! Last modified: 2024/07/15 18:14:33
+! Blocked domains: 154984
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -65395,6 +65395,7 @@
 ||hyrcanquittor.com^
 ||hyrcycmtckbcpyf.xyz^
 ||hyrda-market.com^
+||hyretuu.top^
 ||hyrewusha.pro^
 ||hyros.com^
 ||hysonsregrown.top^
@@ -71551,6 +71552,7 @@
 ||cee1.iteye.com^
 ||mpb1.iteye.com^
 ||rabc1.iteye.com^
+||iteyi.xyz^
 ||itgear.jp^
 ||marketing.itgeek.vn^
 ||itgiblean.com^
@@ -72455,6 +72457,7 @@
 ||jarviscreative.com^
 ||jarvispopsu.com^
 ||jasaiklan.com^
+||jasdz1.cn^
 ||jashautchord.com^
 ||jasheest.xyz^
 ||jashupropertiespvtltd.com^
@@ -150516,6 +150519,7 @@
 ||adm.xmfish.com^
 ||cmm.xmfish.com^
 ||xmhgwmdjhul.com^
+||xmhszb.xyz^
 ||xmjajv.xyz^
 ||xmjnohwneqe.com^
 ||xmkmryu.icu^
