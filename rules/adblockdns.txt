@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240716103235
-! Last modified: 2024/07/16 10:32:35
-! Blocked domains: 155209
+! Version: 20240716181230
+! Last modified: 2024/07/16 18:12:30
+! Blocked domains: 155210
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -30160,6 +30160,7 @@
 ||chimbsbuckle.com^
 ||chimeddawt.top^
 ||alt63.chimeratool.com^
+||hvdt8.chimeratool.com^
 ||chimerscoshing.com^
 ||chimman.top^
 ||chimneylouderflank.com^

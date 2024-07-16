@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240716103235
-! Last modified: 2024/07/16 10:32:35
-! Blocked Filters: 1251
+! Version: 20240716181230
+! Last modified: 2024/07/16 18:12:30
+! Blocked Filters: 1256
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -547,6 +547,10 @@ new.qq.com##.original-bar
 new.qq.com##.tuijian-bar
 new.qq.com##[href="//new.qq.com/hb_index.htm"]
 new.qq.com##[href="https://new.qq.com/mobile"]
+new.qq.com#?#div.operation:contains(手机看)
+news.qq.com##.download-banner-wrap
+news.qq.com##.download-content.mr28.download-wrapper
+news.qq.com##.godown.qqcom_fb-item
 note.youdao.com##.top-btns
 oneplusbbs.com###bbsRegisterGuide
 oneplusbbs.com##li[style*="position: relative; border: 0px;"]
@@ -687,6 +691,7 @@ userstyles.org##.android_button_button
 v.qq.com###pc_client > .quick_link
 v.qq.com##.svg_icon_client.svg_quick_icon
 v.qq.com##.svg_icon_client.svg_quick_icon > path:nth-of-type(1)
+view.inews.qq.com##div[class^="article-recommend_wrapper"]
 view.inews.qq.com##div[class^="bottom-bar_buttonWrap"]
 view.inews.qq.com##div[class^="infinite-comment-list_subText"]
 view.inews.qq.com##div[class^="interaction-bottom_interaction"]
