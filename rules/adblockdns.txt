@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240717103139
-! Last modified: 2024/07/17 10:31:39
-! Blocked domains: 155311
+! Version: 20240717181425
+! Last modified: 2024/07/17 18:14:25
+! Blocked domains: 155313
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -2418,6 +2418,7 @@
 ||1riumph11ndica1e.site^
 ||1roofev.com^
 ||1rt0n.news^
+||sdk.1rtb.net^
 ||1rx.io^
 ||1rxntv.io^
 ||1s-aux.cfd^
@@ -94517,6 +94518,7 @@
 ||www.newnorth.net^
 ||newnudecash.com^
 ||newoctads.com^
+||newormedia.com^
 ||newouest.fr^
 ||newpassporn.com^
 ||newpgqnfapkamg.xyz^
