@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240721103313
-! Last modified: 2024/07/21 10:33:13
-! Blocked domains: 156843
+! Version: 20240721181331
+! Last modified: 2024/07/21 18:13:31
+! Blocked domains: 156852
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -3178,6 +3178,7 @@
 ||www.oix.254812452.xyz^
 ||254a.com^
 ||254filmaker.com^
+||25662zubo23739.com^
 ||257639.com^
 ||258104d2.live^
 ||258a912d15.com^
@@ -6716,6 +6717,7 @@
 ||t.881903.com^
 ||881ae888.com^
 ||882ae888.com^
+||88362zubo95838.com^
 ||883ae888.com^
 ||883zy.com^
 ||884ae888.com^
@@ -19707,6 +19709,7 @@
 ||pic.baihuawen.cn^
 ||baiibuy.com^
 ||baijs010.xyz^
+||baijs011.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -31350,6 +31353,7 @@
 ||cj-bc7.cfd^
 ||cj-tw7.top^
 ||cj.com^
+||cj2550.com^
 ||qzip.cjb.net^
 ||www.qzip.cjb.net^
 ||cjbmanagement.com^
@@ -34558,6 +34562,7 @@
 ||cosmicspectacle.xyz^
 ||cosmicwhisper.quest^
 ||cosmismnatchez.com^
+||cosmo001.top^
 ||foo.cosmocode.de^
 ||cosmoliquid.com^
 ||analytics.cosmonova.net^
@@ -59337,6 +59342,7 @@
 ||google-js-01.xyz^
 ||google-js-02.xyz^
 ||google-js-08.xyz^
+||google-js-09.xyz^
 ||google-pagerank.net^
 ||adservice.google.be^
 ||adservice.google.ca^
@@ -109609,6 +109615,7 @@
 ||ads.ppvmedien.de^
 ||ppvmhhpxuomjwo.xyz^
 ||ppvpmrt.xyz^
+||ppxscy1.cn^
 ||pqaz.xyz^
 ||pqgtywjj.com^
 ||pqhoscjupq.com^
@@ -142145,6 +142152,7 @@
 ||uyohyy.xyz^
 ||uypsmaxzejvpqx.com^
 ||uyq3ruf.icu^
+||uyretut.top^
 ||uysdxmo.com^
 ||uyt4.lat^
 ||uyt79.top^
@@ -156448,6 +156456,7 @@
 ||zqgixxp.icu^
 ||zqizn.com^
 ||zqksqsjupnb.com^
+||zqkxlf.com^
 ||zqmblmebyeloq.top^
 ||zqmmtbwqymhrru.com^
 ||zqmwf.xyz^
