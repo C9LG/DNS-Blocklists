@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240723021736
-! Last modified: 2024/07/23 02:17:36
-! Blocked Filters: 1257
+! Version: 20240723103139
+! Last modified: 2024/07/23 10:31:39
+! Blocked Filters: 1267
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -77,6 +77,8 @@ a.9game.cn##.newGame.normal-module
 a.9game.cn##section.normal-module:nth-of-type(2)
 acfun.cn##.app-guide
 acfun.cn##.download-app
+amap.com##.app-download-panel
+amap.com##.app_download_box
 baidu.com###header > div:last-child
 baidu.com###login-wraps > a.index-banner.square-banner-bgicon
 baidu.com###s-hotsearch-wrapper
@@ -706,6 +708,13 @@ view.inews.qq.com##div[class^="slider-top-bar_sliderWrapper"]
 vip.com##.sidebarcom-qrcode
 vip.com##.wp-phone
 vivo.com.cn##.vp-vivo-app
+wap.gamersky.com##.countHitSql.countHit.gsTgAppConCommentBtn
+wap.gamersky.com##.gsTgWapConBdshareTopBox
+wap.gamersky.com##.ymw-app-open
+wap.gamersky.com##.ymw-footer
+wap.gamersky.com##.ymw-header2021.ymwBootDownload
+wap.gamersky.com##.ymw-rel-list.ymw-aside-box
+wap.gamersky.com##section.ymw-rel-list
 wap.sogou.com###indexAppOneBtn
 wap.sogou.com###indexAppOneClose
 wap.sogou.com##.index-carousel
@@ -865,6 +874,7 @@ zx.sina.cn##.z_c2.j_article_relevent_news.s_card
 ||107.167.22.*.gif
 ||121.204.246.*.gif
 ||158.247.208.
+||1756119262.rsc.cdn77.org
 ||23.109.82.
 ||23.109.87.
 ||38.33.15.*.gif
