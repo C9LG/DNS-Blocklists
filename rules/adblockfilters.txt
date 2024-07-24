@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240724021749
-! Last modified: 2024/07/24 02:17:49
-! Blocked Filters: 1267
+! Version: 20240724103148
+! Last modified: 2024/07/24 10:31:48
+! Blocked Filters: 1270
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -323,8 +323,10 @@ juejin.cn##.aside.index-aside > .shadow.app-download-sidebar-block.sidebar-block
 juejin.cn##.recommend-box
 juejin.im##.extension
 juejin.im##.request-health-alert
+ke.com##.app-down
 ke.com##.app_content
 ke.com##.app_daoliu_layer
+ke.com##.download
 live.bilibili.com##div.pointer:contains(下载客户端)
 m.163.com##.floatMenu-logo
 m.163.com##footer > span
@@ -651,6 +653,7 @@ taobao.com#?#button:contains(打开手机淘宝)
 taptap.com##.open-app-button
 tech.sina.com.cn##.zc-app
 tech.sina.com.cn##.zc-app-btn.right-bar-btn
+thepaper.cn###QRcode
 thepaper.cn##.download
 tieba.baidu.com###diversBanner
 tieba.baidu.com##.banner-wrapper
