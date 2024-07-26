@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240726103207
-! Last modified: 2024/07/26 10:32:07
-! Blocked domains: 155782
+! Version: 20240726181409
+! Last modified: 2024/07/26 18:14:09
+! Blocked domains: 155785
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -35330,6 +35330,7 @@
 ||cretumfc.com^
 ||crevicedepressingpumpkin.com^
 ||crevnrela.com^
+||crewedbangup.com^
 ||crewmaxx.com^
 ||crfjxfoe.xyz^
 ||crflyshop.com^
@@ -36476,6 +36477,7 @@
 ||cw.nu^
 ||z1.cwbaike.com^
 ||cwchmb.com^
+||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
 ||cwhrfkpniuvkn.xyz^
@@ -61900,6 +61902,7 @@
 ||hb94dnbe.de^
 ||hbagency.it^
 ||hbbvykwoiqhjpah.xyz^
+||hbbynt.xyz^
 ||hbcosmo.com^
 ||hbcrnvtpyfegpws.com^
 ||hbdolphin.com^

@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240726103207
-! Last modified: 2024/07/26 10:32:07
-! Blocked Filters: 1243
+! Version: 20240726181409
+! Last modified: 2024/07/26 18:14:09
+! Blocked Filters: 1244
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -126,6 +126,7 @@ bilibili.com##.open-app-bar
 bilibili.com##a[href="//app.bilibili.com"]
 bilibili.com#?#.van-popover__reference:contains(下载)
 bing.com###TopApp
+bing.com###id_mobile
 c.m.163.com##.commentBar
 c.m.163.com##.fixedOpenNewsapp
 c.m.163.com##.js-open-newsapp.s-top > .s-btn
