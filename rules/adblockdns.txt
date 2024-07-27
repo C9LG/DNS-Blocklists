@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240727102955
-! Last modified: 2024/07/27 10:29:55
-! Blocked domains: 155780
+! Version: 20240727181317
+! Last modified: 2024/07/27 18:13:17
+! Blocked domains: 155795
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -332,6 +332,7 @@
 ||0fzs.top^
 ||0ghijkl.com^
 ||0gw7e6s3wrao9y3q.pro^
+||0h3uds.com^
 ||0harm0ny.life^
 ||0hq6k.site^
 ||0i0000923330.cc^
@@ -46792,6 +46793,7 @@
 ||publicidad.elmundo.es^
 ||elmworldacademy.com^
 ||elnb7.ru.com^
+||elneagog.com^
 ||elnidosandsinn.com^
 ||adbmetrics.elnortedecastilla.es^
 ||elnotariochain.com^
@@ -53235,6 +53237,7 @@
 ||fogvnoq.com^
 ||foheltou.com^
 ||fohikrs.com^
+||pixel.fohr.co^
 ||fohvutgi.com^
 ||foiegras-groliere.fr^
 ||foilm.sbs^
@@ -65597,6 +65600,7 @@
 ||hwaagkmiitos.com^
 ||hwbekhxxihvdoue.com^
 ||hwderdk.com^
+||hwerilxu.top^
 ||hweriou.top^
 ||hweyin.com^
 ||hwfmynim.com^
@@ -72857,6 +72861,7 @@
 ||jakispontanicznoscona.fun^
 ||jakiwygodataki.space^
 ||jakoch.com^
+||jakosoafdom.shop^
 ||jakpodrywacnatinderze.pl^
 ||jakspontanicznoscmoze.click^
 ||openx.jaktsidan.se^
@@ -73358,6 +73363,7 @@
 ||jeft.cfd^
 ||jefweev.com^
 ||jeg-wend.sbs^
+||jeghosso.net^
 ||jeh-93n.cfd^
 ||jehobsee.com^
 ||jejuskypension.com^
@@ -75075,6 +75081,7 @@
 ||jyzkut.com^
 ||jz-08r.cfd^
 ||jz-wnj.cfd^
+||jz4u1.icu^
 ||jzbvpyvhus.com^
 ||jzbvwqezlwrzy.top^
 ||jzbvwqezlwyaz.top^
@@ -76458,6 +76465,7 @@
 ||kalinia.pl^
 ||kalitereklam.com^
 ||kalkaro.com^
+||kallimaacoasm.com^
 ||kallki.cyou^
 ||tracking.kalmarposten.se^
 ||kalmukrattail.com^
@@ -94504,6 +94512,7 @@
 ||nesatko.xyz^
 ||nesefurthere.info^
 ||nesfspublicate.info^
+||neshigreek.com^
 ||aduniv.nesin.com^
 ||nesiotcusses.space^
 ||neslaveswedge.guru^
@@ -104850,6 +104859,7 @@
 ||phooghoo.com^
 ||phoognol.com^
 ||phoojeex.xyz^
+||phookroamte.xyz^
 ||phooreew.net^
 ||phoossax.net^
 ||phoosuss.net^
@@ -120881,6 +120891,7 @@
 ||sellingmombookstore.com^
 ||amd.sellingsimplified.net^
 ||sellingtandays.com^
+||sellisteatin.com^
 ||selllikecrazybook.com^
 ||sellmeabusiness.com^
 ||sellmeyourtraffic.com^
@@ -121936,6 +121947,7 @@
 ||sb7.shble.com^
 ||shbzegs.cn^
 ||shbzqgs.cn^
+||shbzqkj.cn^
 ||shdegtbokshipns.xyz^
 ||she-want-fuck.com^
 ||shealapish.com^
@@ -126312,6 +126324,7 @@
 ||buy-cialis.splinder.com^
 ||splinky.com^
 ||mms.splinternews.com^
+||splintmuses.com^
 ||auth.split.io^
 ||cdn.split.io^
 ||events.split.io^
@@ -130361,6 +130374,7 @@
 ||t0gkj99krb24.com^
 ||t0gvf.com^
 ||t0p82pp4.xyz^
+||t0sfe1.com^
 ||t0t5.cfd^
 ||t0zero.com^
 ||t11medf1esta.quest^
@@ -134579,7 +134593,6 @@
 ||tlyhyy.com^
 ||tlznblypsyyr.com^
 ||felix.data.tm-awx.com^
-||feliz.data.tm-awx.com^
 ||reach-id.orbit.tm-awx.com^
 ||tm-core.net^
 ||tm1-001.com^
@@ -134694,6 +134707,7 @@
 ||tnvdheat.site^
 ||tnvnnn.xyz^
 ||tnwlpbxyto.com^
+||tnzjrj.xyz^
 ||to-be-u.com^
 ||vinted-fr.to-take.com^
 ||www.vinted-fr.to-take.com^
@@ -137883,6 +137897,7 @@
 ||tusharmishra.com^
 ||tuskhautein.com^
 ||tusno.com^
+||tussisinjelly.com^
 ||tutajdzisiaj.rest^
 ||tutejszenewsy.click^
 ||tutejszezagrozenia.click^
