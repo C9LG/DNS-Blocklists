@@ -2,8 +2,8 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240728103436
-! Last modified: 2024/07/28 10:34:36
+! Version: 20240728181240
+! Last modified: 2024/07/28 18:12:40
 ! Blocked domains: 156211
 ! unBlocked domains: 11
 !
@@ -38492,7 +38492,6 @@
 ||daohannganhang.click^
 ||daomocaverse.com^
 ||tracksurf.daooda.com^
-||daotag.com^
 ||analytics.dap-networks.de^
 ||daphnews.com^
 ||daphnistechnologies.com^
@@ -80313,6 +80312,7 @@
 ||landscapeuproar.com^
 ||landscapewellington.com^
 ||landsha.com^
+||analys.landskrona.se^
 ||landtechcomputers.com^
 ||landwaycru.com^
 ||landyab.com^
