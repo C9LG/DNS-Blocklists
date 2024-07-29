@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240729103404
-! Last modified: 2024/07/29 10:34:04
-! Blocked domains: 156315
+! Version: 20240729181535
+! Last modified: 2024/07/29 18:15:35
+! Blocked domains: 156319
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -49264,6 +49264,7 @@
 ||ads.evtv1.com^
 ||evtwkkh.com^
 ||evushuco.com^
+||mktg.evvnt.com^
 ||evvykulupl.com^
 ||evwmwnd.com^
 ||evxiwpbzxzanlx.com^
@@ -96656,6 +96657,7 @@
 ||nnqwe.xyz^
 ||nnrbyty.xyz^
 ||nntzjgzvbzz.com^
+||nnvjbb.xyz^
 ||nnvkh.com^
 ||nnwud.com^
 ||nnxijkdigwywla.com^
@@ -120295,6 +120297,7 @@
 ||sbgglobal.eu^
 ||sbh9hu4trk.com^
 ||sbhduht.xyz^
+||sbhight.com^
 ||sbiagent.com^
 ||sbiloi.xyz^
 ||vinted-pl-gj32d.sbiq.top^
@@ -156236,6 +156239,7 @@
 ||zykumw.com^
 ||zylaxoy0.cfd^
 ||zyligeakyy.info^
+||zylizz.xyz^
 ||zylytavo.com^
 ||zymessuppl.top^
 ||zymjzwyyjklb.top^
