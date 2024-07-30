@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240730103204
-! Last modified: 2024/07/30 10:32:04
-! Blocked domains: 156412
+! Version: 20240730181451
+! Last modified: 2024/07/30 18:14:51
+! Blocked domains: 156415
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -4905,6 +4905,7 @@
 ||www.live.santander1.4ourclient.com^
 ||4ourkidsky.com^
 ||4ourneighbor.com^
+||4oz4n.icu^
 ||4p4cee1xpl0re.site^
 ||4p68.com^
 ||4p74i5b6.de^
@@ -79928,6 +79929,7 @@
 ||kweiqox.beauty^
 ||kwekii.com^
 ||kwentui.sbs^
+||kwerilxd.top^
 ||kweriod.top^
 ||kwestiastabilnosci.com^
 ||kwgefe.com^
@@ -113068,6 +113070,7 @@
 ||www.lnpost.qesapor.shop^
 ||qescaen.com^
 ||qesopaeloa.live^
+||qetlwsy.top^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
 ||qetvi-tm.sbs^
