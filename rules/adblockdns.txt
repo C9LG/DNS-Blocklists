@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240731101329
-! Last modified: 2024/07/31 10:13:29
-! Blocked domains: 157162
+! Version: 20240731181115
+! Last modified: 2024/07/31 18:11:15
+! Blocked domains: 157166
 ! unBlocked domains: 11
 !
 ||0-02pw.cfd^
@@ -43661,6 +43661,7 @@
 ||doujs010.xyz^
 ||doujs02.shop^
 ||doujs02.xyz^
+||doujs03.shop^
 ||doujs03.xyz^
 ||doujs05.xyz^
 ||doujs06.xyz^
@@ -123107,6 +123108,7 @@
 ||shbzdkj.cn^
 ||shbzegs.cn^
 ||shbzngs.cn^
+||shbznkj.cn^
 ||shbzogs.cn^
 ||shbzokj.cn^
 ||shbzpgs.cn^
@@ -131038,6 +131040,7 @@
 ||swepfa.com^
 ||sweptbroadarchly.com^
 ||sweptgrimace.com^
+||swerilxb.top^
 ||sweriob.top^
 ||swesomepop.com^
 ||swetrix.org^
@@ -133591,6 +133594,7 @@
 ||tetigi.com^
 ||tetlienquan.com^
 ||tetlienquan2023.website^
+||tetlwsi.top^
 ||tetoninnovationlabs.org^
 ||tetoolbox.com^
 ||vinted-pl-gj32d.tetown.top^
