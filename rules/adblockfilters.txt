@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240809021922
-! Last modified: 2024/08/09 02:19:22
-! Blocked Filters: 1252
+! Version: 20240809103449
+! Last modified: 2024/08/09 10:34:49
+! Blocked Filters: 1254
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -230,6 +230,7 @@ ifanr.com##DIV.page-body:first-child > DIV.c-goto-top:nth-child(8) > DIV.c-goto-
 ifanr.com##DIV.page-body:first-child > DIV.c-goto-top:nth-child(8) > DIV.c-goto-top-item.c-goto-top-item--qrcodes:nth-child(3)
 ifanr.com##DIV.page-body:first-child > HEADER.c-global-header:nth-child(3) > DIV.c-header-navbar:first-child > DIV.c-header-navbar__content > DIV.c-header-navbar－content__right:last-child > DIV.c-header-sns__about--hover:first-child > A:first-child
 ifanr.com##DIV.page-body:first-child > HEADER.c-global-header:nth-child(3) > DIV.c-header-sns:first-child > DIV.c-header-sns__wrapper > DIV.c-header-sns__about:last-child > DIV.c-header-sns__about--hover:first-child > A:first-child
+ifeng.com##div[class*="callupBtn"]
 ifeng.com##div[class^="ad_box"]
 ifeng.com##div[class^="bottomSlide"]
 ifeng.com##div[class^="bottom_box"]
@@ -241,6 +242,7 @@ ifeng.com##div[class^="shareFix"]
 ifeng.com##div[class^="share_box"]
 ifeng.com##div[class^="silde_box"]
 ifeng.com##header:contains(立即打开)
+ifeng.com##header[class*="headerIn"]
 iqiyi.com##.header_app.iqiyi-h5-empty
 iqiyi.com##.hotWords-wrap
 iqiyi.com##.m-iqyGuide-layer
