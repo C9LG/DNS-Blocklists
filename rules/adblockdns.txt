@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240910104832
-! Last modified: 2024/09/10 10:48:32
-! Blocked domains: 68753
+! Version: 20240910182358
+! Last modified: 2024/09/10 18:23:58
+! Blocked domains: 68756
 ! unBlocked domains: 11
 !
 ||0008d6ba2e.com^
@@ -16703,6 +16703,7 @@
 ||currantsummary.com^
 ||currencychillythoughtless.com^
 ||currencyoffuture.com^
+||pub-referral-widget.current.us^
 ||currentaccountadv.com^
 ||currentlyobsessed.me^
 ||curriculture.com^
@@ -28203,6 +28204,7 @@
 ||hdfdsdaw.com^
 ||hdfn.online^
 ||hdfoweey.com^
+||hdickeu.top^
 ||hdipsumu.top^
 ||hdjfeed.top^
 ||hdjthzg.cn^
@@ -29853,6 +29855,7 @@
 ||hysteriaethicalsewer.com^
 ||hystericalarraignment.com^
 ||hystericalpotprecede.com^
+||hyth74.fun^
 ||hytxg2.com^
 ||hyusnisu.top^
 ||hyuwkbu.top^
