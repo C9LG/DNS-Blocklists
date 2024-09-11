@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240911104510
-! Last modified: 2024/09/11 10:45:10
-! Blocked domains: 68201
+! Version: 20240911182306
+! Last modified: 2024/09/11 18:23:06
+! Blocked domains: 68205
 ! unBlocked domains: 11
 !
 ||0008d6ba2e.com^
@@ -22081,6 +22081,7 @@
 ||equirekeither.xyz^
 ||equitydefault.com^
 ||equkgm.xyz^
+||analytics.equmeniakyrkan.se^
 ||crmx.eqvn.net^
 ||eqvudqracrhalsg.com^
 ||eqyarlabvqjnl.top^
@@ -29856,6 +29857,7 @@
 ||ax.idg.se^
 ||intextlinks.idg.zone^
 ||idiafix.com^
+||idickeo.top^
 ||idio.co^
 ||idiothungryensue.com^
 ||idioticskinner.com^
@@ -53276,6 +53278,7 @@
 ||sjalipa.cn^
 ||sjczzdfvd.com^
 ||sjevdjqhdmlelo.com^
+||analytics.sjf.se^
 ||sjfku11.com^
 ||sjfku88.com^
 ||sjgsgy.xyz^
@@ -63394,6 +63397,7 @@
 ||vwtqjotm.com^
 ||vwvatp.xyz^
 ||vwwzygltq.com^
+||vxcvd67.fun^
 ||vxdpmxw.xyz^
 ||vxdrfr.xyz^
 ||vxfdepn.cn^
