@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240912104706
-! Last modified: 2024/09/12 10:47:06
-! Blocked domains: 68275
+! Version: 20240912182401
+! Last modified: 2024/09/12 18:24:01
+! Blocked domains: 68279
 ! unBlocked domains: 11
 !
 ||0008d6ba2e.com^
@@ -11763,6 +11763,7 @@
 ||bnpmtoazgw.com^
 ||26gg.bnq86.com^
 ||bnrdom.com^
+||bnrk7esglquispx2lsluttlm.xyz^
 ||bnrs.it^
 ||bnrsis.com^
 ||bnrslks.com^
@@ -24070,6 +24071,7 @@
 ||flirt4e.com^
 ||flirt4free.com^
 ||flirtatiousconsultyoung.com^
+||flirtclickmatches.life^
 ||flirtfusiontoys.toys^
 ||flirthere1.com^
 ||flirtingsms.com^
@@ -24902,6 +24904,7 @@
 ||fseotgcigbrq.com^
 ||fsfwetubfgd.com^
 ||fsgiosi.com^
+||fsijngnfsfk.com^
 ||w1.fskwai.com^
 ||analytics.fsoft.com.vn^
 ||fsotrmshy.com^
@@ -32128,6 +32131,7 @@
 ||jdhgswknl.com^
 ||jdhpfnfc.com^
 ||counter.jdi5.com^
+||jdickea.top^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdkmbvbyy.com^
