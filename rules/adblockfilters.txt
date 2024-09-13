@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240913182400
-! Last modified: 2024/09/13 18:24:00
-! Blocked Filters: 434
+! Version: 20240914022931
+! Last modified: 2024/09/14 02:29:31
+! Blocked Filters: 433
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
@@ -387,7 +387,6 @@
 ||talkfusion.com
 ||talpa-analytics.
 ||taplytics-umami.grubhub.com
-||teasernet.
 ||tedious-weight.pro
 ||telcyhlw.com
 ||telemetry*.transcend.io^
