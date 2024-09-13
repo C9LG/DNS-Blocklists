@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240913104808
-! Last modified: 2024/09/13 10:48:08
-! Blocked domains: 68358
+! Version: 20240913182400
+! Last modified: 2024/09/13 18:24:00
+! Blocked domains: 68365
 ! unBlocked domains: 11
 !
 ||0008d6ba2e.com^
@@ -26839,6 +26839,7 @@
 ||gooods4you.com^
 ||analytics.gooogol.com^
 ||goosebomb.com^
+||goosierappetit.com^
 ||goosimes.com^
 ||goossb.com^
 ||goostist.com^
@@ -30858,6 +30859,7 @@
 ||inhalebrinkrush.com^
 ||inhaleecstatic.com^
 ||inhaletroubledgentle.com^
+||inhanceego.com^
 ||inheart.ru^
 ||inheritancepillar.com^
 ||inheritedgeneralrailroad.com^
@@ -33335,6 +33337,7 @@
 ||kdfjabv.com^
 ||kdgjsf.com^
 ||kdh095.cn^
+||kdicked.top^
 ||kdipsumd.top^
 ||kdjdpyrt.xyz^
 ||kdkatxfkxmgmbhu.xyz^
@@ -45741,6 +45744,7 @@
 ||pointed-deal.pro^
 ||pointeddifference.com^
 ||pointedmana.info^
+||pointespassage.com^
 ||pointinginexperiencedbodyguard.com^
 ||pointlesseventuallydesignate.com^
 ||pointlessmorselgemini.com^
@@ -50286,6 +50290,7 @@
 ||rocketyield.com^
 ||rockfellertest.com^
 ||rockierfought.top^
+||rockiertaar.com^
 ||rockingfolders.com^
 ||rockmostbet.com^
 ||rps-uk.rockpapershotgun.com^
@@ -50749,6 +50754,7 @@
 ||runmixed.com^
 ||runnethfumier.top^
 ||runningdestructioncleanliness.com^
+||runnionpox.click^
 ||runnyestablishment.pro^
 ||runoj.click^
 ||runsclothingpig.com^
@@ -65290,6 +65296,7 @@
 ||wormdehydratedaeroplane.com^
 ||wornie.com^
 ||wornshoppingenvironment.com^
+||worritsmahra.com^
 ||worryingonto.com^
 ||worshipstubborn.com^
 ||worst-zone.pro^
