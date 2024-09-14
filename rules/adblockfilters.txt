@@ -2,35 +2,35 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20240914182120
-! Last modified: 2024/09/14 18:21:20
+! Version: 20240915022741
+! Last modified: 2024/09/15 02:27:41
 ! Blocked Filters: 433
 !
 *$3p,domain=d3ward.github.io
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
-/*.*.shouji.sogou.com/
-/*.[a-zA-Z0-9.-]skwai.com/
-/*.a.market.xiaomi.com/
-/*.data.hicloud.com/
-/*.log.aliyuncs.com/
-/*.shouji.sogou.com/
-/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com/
-/[a-zA-Z0-9.-]*-ad.sm.cn/
-/[a-zA-Z0-9.-]*-ad.video.yximgs.com/
-/[a-zA-Z0-9.-]*-ad.wtzw.com/
-/[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com/
-/[a-zA-Z0-9.-]*-lm.adkwai.com/
-/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com/
-/[a-zA-Z0-9.-]*-normal.zijieapi.com/
+/*\.*\.shouji\.sogou\.com/
+/*\.[a-zA-Z0-9.-]skwai\.com/
+/*\.a\.market\.xiaomi\.com/
+/*\.data\.hicloud\.com/
+/*\.log\.aliyuncs\.com/
+/*\.shouji\.sogou\.com/
+/[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com/
+/[a-zA-Z0-9.-]*-ad\.sm\.cn/
+/[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com/
+/[a-zA-Z0-9.-]*-ad\.wtzw\.com/
+/[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com/
+/[a-zA-Z0-9.-]*-lm\.adkwai\.com/
+/[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com/
+/[a-zA-Z0-9.-]*-normal\.zijieapi\.com/
 /^139\.45\.197\.2(4[0-9]|5[0-4]):/
 /^139\.45\.19[5-7]\.\d{1,3}/
 /^188\.42\.84\.\d{1,3}/
 /^23\.109\.170\.(18[7-9]|19[0-2])$/
 /^23\.109\.73\.\d{3}/
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
-/cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com/
+/cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
 /pagead.js$domain=d3ward.github.io
 @@*$redirect-rule,domain=d3ward.github.io
 ||1024wanzhai.
