@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240917102547
-! Last modified: 2024/09/17 10:25:47
-! Blocked domains: 67877
+! Version: 20240917155738
+! Last modified: 2024/09/17 15:57:38
+! Blocked domains: 67879
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -47347,6 +47347,7 @@
 ||qdcxia.xyz^
 ||qdeduzaixe.com^
 ||qdibvllqu.com^
+||qdickey.top^
 ||qdipsumy.top^
 ||qdlbdpsctalt.com^
 ||qdlesuneeqoglp.com^
@@ -67134,6 +67135,7 @@
 ||zcsbgzasy.com^
 ||zcswet.com^
 ||zcvtqdyvnhnjp.com^
+||zcypmsp.icu^
 ||tracksrv.zdf.de^
 ||zdf3q.xyz^
 ||a.zdg.de^
