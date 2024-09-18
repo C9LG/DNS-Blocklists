@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240918104811
-! Last modified: 2024/09/18 10:48:11
-! Blocked domains: 67652
+! Version: 20240918182357
+! Last modified: 2024/09/18 18:23:57
+! Blocked domains: 67656
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -24349,6 +24349,7 @@
 ||fq03.shop^
 ||fq04.shop^
 ||fq05.shop^
+||fq06.shop^
 ||fq67.top^
 ||fqab5xq7qlgt.info^
 ||fqbjzj.xyz^
@@ -32675,6 +32676,7 @@
 ||jy05.shop^
 ||jy06.shop^
 ||jy07.shop^
+||jy08.shop^
 ||o.jy135.com^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
@@ -42667,6 +42669,7 @@
 ||opwoga.xyz^
 ||opxogkbiqkti.com^
 ||oq6ry.com^
+||oqaejin.icu^
 ||oqcjtifihpi.com^
 ||oqcrqirncna.xyz^
 ||oqddkgixmqhovv.xyz^
@@ -47302,6 +47305,7 @@
 ||qkfwiylmib.com^
 ||qkhvongctffugm.com^
 ||qkikkg.xyz^
+||qkitery.top^
 ||qkjjuhs.com^
 ||qkodjvdsm.com^
 ||qkqlqjjobvkr.top^
