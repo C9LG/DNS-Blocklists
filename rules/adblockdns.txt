@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240919104936
-! Last modified: 2024/09/19 10:49:36
-! Blocked domains: 67649
+! Version: 20240919182359
+! Last modified: 2024/09/19 18:23:59
+! Blocked domains: 67654
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -16331,6 +16331,7 @@
 ||csbtd.com^
 ||cschyogh.com^
 ||csdata1.com^
+||csdcfvgf4.fun^
 ||csdf4dn.pro^
 ||event.csdn.net^
 ||csfabdtmrs.com^
@@ -37204,6 +37205,7 @@
 ||meghis.com^
 ||megmobpoi.club^
 ||megnotch.xyz^
+||megydyk.icu^
 ||stats.mehrnews.com^
 ||static.meijiacun.com^
 ||ff.meikanguo.com^
@@ -55633,6 +55635,7 @@
 ||syyycc.com^
 ||syzijqaufe.com^
 ||syzwiooheckxb.com^
+||szapaqi.cn^
 ||szbhb.cn^
 ||szbnnqyqn.com^
 ||szbpf.cn^
@@ -59588,6 +59591,7 @@
 ||ukgfniu.cn^
 ||ukidiayddbshfl.com^
 ||ukindwouldmeu.com^
+||ukitert.top^
 ||ukizeiasninan.info^
 ||ukkkmg.xyz^
 ||uklgakwqy.com^
@@ -67239,6 +67243,7 @@
 ||zjo0tjqpm1.com^
 ||zjplnz.xyz^
 ||zjpwrpo.com^
+||zjsnhl.xyz^
 ||zjupukgjuez.com^
 ||dig.zjurl.cn^
 ||dm.zjut.cc^
