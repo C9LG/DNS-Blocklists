@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240921234957
-! Last modified: 2024/09/21 23:49:57
-! Blocked domains: 67688
+! Version: 20240922022759
+! Last modified: 2024/09/22 02:27:59
+! Blocked domains: 67714
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -278,6 +278,7 @@
 ||106.53.213.253^
 ||106.54.199.174^
 ||106.75.184.240^
+||10614305.xyz^
 ||107.145.144.57^
 ||107.150.19.141^
 ||107.172.29.162^
@@ -2475,6 +2476,7 @@
 ||41.77.74.90^
 ||4126fe80.xyz^
 ||415677.com^
+||4164d5b6eb.com^
 ||42.176.116.92^
 ||42.176.164.14^
 ||42.176.242.93^
@@ -6579,6 +6581,7 @@
 ||aggravatecapeamoral.com^
 ||aggregateknowledge.com^
 ||aggregationcontagion.com^
+||aggressivedifficulty.com^
 ||aggressivefrequentneckquirky.com^
 ||aghppuhixd.com^
 ||aghtag.tech^
@@ -16549,6 +16552,7 @@
 ||cvuvoljuqlkeuc.com^
 ||cvxwaslonejulyha.info^
 ||cvyimypsjxca.com^
+||cwaterf.top^
 ||z1.cwbaike.com^
 ||cwchmb.com^
 ||cwerilxf.top^
@@ -18187,6 +18191,7 @@
 ||ddagyoyucaqay.com^
 ||ddaixdz.cn^
 ||ddcfzd.com^
+||ddctoqpfve.com^
 ||dddashasledopyt.com^
 ||ddddynf.com^
 ||dddevki4u.com^
@@ -18444,6 +18449,7 @@
 ||delightcash.com^
 ||delightedheavy.com^
 ||delightedintention.com^
+||delightedplash.com^
 ||delightedprawn.com^
 ||delightful-page.pro^
 ||delightspiritedtroop.com^
@@ -19269,6 +19275,7 @@
 ||dismalthroat.pro^
 ||dismantlepenantiterrorist.com^
 ||dismantleunloadaffair.com^
+||dismastrostra.com^
 ||dismaybrave.com^
 ||dismaytestimony.com^
 ||dismissabuse.com^
@@ -20865,6 +20872,7 @@
 ||eatasesetitoefa.info^
 ||eatengossipyautomobile.com^
 ||eaterdrewduchess.com^
+||eatmenttogeth.com^
 ||eatssetaria.top^
 ||eaudigonal.top^
 ||eavailandproc.info^
@@ -22054,6 +22062,7 @@
 ||essaycosigninvite.com^
 ||essaycoupons.com^
 ||essbritanidim.club^
+||essededowns.click^
 ||essential-apps-analytics.herokuapp.com^
 ||essential-trash.com^
 ||essentialblunder.com^
@@ -23101,6 +23110,7 @@
 ||fdawdnh.com^
 ||fddjhiihhnvbu.com^
 ||fdelphaswcealifornica.com^
+||fdfqbxsaas.com^
 ||fdheincvdbp.com^
 ||fdhnsr56.shop^
 ||fdiirjong.com^
@@ -26229,6 +26239,7 @@
 ||gntsrybdc.com^
 ||gnuppbsxa.xyz^
 ||gnvpmftcgp.com^
+||gnyjxyzqdcjb.com^
 ||go-cpa.click^
 ||go-g3t-msg.com^
 ||go-g3t-push.net^
@@ -27183,6 +27194,7 @@
 ||gutteryrhachi.com^
 ||guttulatruancy.com^
 ||gutwn.info^
+||guvmcalwio.com^
 ||guvsxiex.xyz^
 ||guvwolr.com^
 ||guwohvw.icu^
@@ -27416,6 +27428,7 @@
 ||halovay.com^
 ||halthomosexual.com^
 ||haltough.net^
+||haltowe.info^
 ||halveimpendinggig.com^
 ||hamashtap.co.il^
 ||l.hamazo.tv^
@@ -31509,6 +31522,7 @@
 ||ixqthii.com^
 ||ixspublic.com^
 ||ixstng.cn^
+||ixtxxvbgudre.com^
 ||ixwereksbeforeb.info^
 ||ixwloxw.com^
 ||ixxljgh.com^
@@ -32658,6 +32672,7 @@
 ||jy06.shop^
 ||jy07.shop^
 ||jy08.shop^
+||jy09.shop^
 ||o.jy135.com^
 ||jy147a.com^
 ||jybaekajjmrqw.top^
@@ -32860,6 +32875,7 @@
 ||karstsnill.com^
 ||b.karte.io^
 ||cf-native.karte.io^
+||client-log.karte.io^
 ||gae.karte.io^
 ||static.karte.io^
 ||t.karte.io^
@@ -33994,6 +34010,7 @@
 ||kxwhiogrswx.com^
 ||kxxfdwt.cn^
 ||kxyfhxbsvfhy.com^
+||ky595images.com^
 ||kyaj11.com^
 ||ct2.kyarame.com^
 ||kyaywy.xyz^
@@ -38522,6 +38539,7 @@
 ||mopemodelingfrown.com^
 ||mopesrubelle.com^
 ||mopinion.com^
+||mopiwhoisqui.com^
 ||moplahsoleil.top^
 ||track.mopo.de^
 ||utiq.mopo.de^
@@ -47354,6 +47372,7 @@
 ||qnartpbxjaxep.com^
 ||qnbiiygyrox.com^
 ||a.qncye.net^
+||qnesnufjs.com^
 ||qnhuxyqjv.com^
 ||qnhvvrpkus.com^
 ||qnifdlay.top^
@@ -47818,6 +47837,7 @@
 ||quisma.com^
 ||quitepoet.com^
 ||quitesousefulhe.info^
+||quitjav11.fun^
 ||quittalmacaque.top^
 ||quitzon.net^
 ||quiveringgland.com^
@@ -48346,6 +48366,7 @@
 ||rcaobxvagv.com^
 ||rcaqaogrcjukkg.com^
 ||rcblkkhfvrxyn.com^
+||rccdmvlyhsuc.com^
 ||rcdjkdesdn.com^
 ||rceqdysdjfhy.com^
 ||rcerrohatfad.com^
@@ -50591,6 +50612,7 @@
 ||sanedfalsely.com^
 ||sanggilregard.com^
 ||sanglah.com^
+||sanhpaox.xyz^
 ||sanitarysustain.com^
 ||sanjagh.com^
 ||sanjagh.net^
@@ -50858,6 +50880,7 @@
 ||scarpeweevily.top^
 ||scarymarine.com^
 ||scashwl.com^
+||scatteredhecheaper.com^
 ||scatulalactate.com^
 ||scavelbuntine.life^
 ||scdienmayxanh.com^
@@ -55721,6 +55744,7 @@
 ||szpzm.cn^
 ||szqxvo.com^
 ||szsmtk.com^
+||szwschryizrb.com^
 ||szzhwaaxhnnrx.com^
 ||t-analytics.com^
 ||lokalwerben.t-online.de^
@@ -66565,6 +66589,7 @@
 ||yrqxygxnpg.com^
 ||yrsfs.com^
 ||yrszy.com.cn^
+||yrudsrdignej.com^
 ||yrvzqabfxe.com^
 ||ys3e965d.top^
 ||yscfsmxrtcifye.com^
@@ -66920,6 +66945,7 @@
 ||p6.zbjimg.com^
 ||zboac.com^
 ||jet.zbp.ru^
+||zbrfqupfyfu.com^
 ||zbtlgd.com^
 ||zbvhwaakws.com^
 ||zbvpfsorrl.com^
