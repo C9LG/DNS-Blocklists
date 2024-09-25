@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240925105515
-! Last modified: 2024/09/25 10:55:15
-! Blocked domains: 67814
+! Version: 20240925182534
+! Last modified: 2024/09/25 18:25:34
+! Blocked domains: 67818
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -44483,6 +44483,7 @@
 ||phhxlhdjw.xyz^
 ||phialedamende.com^
 ||phicmune.net^
+||phidianowlet.com^
 ||phiduvuka.pro^
 ||phieudangky-quetthetindungvn.com^
 ||phieudangkyquetthetindungvn.com^
@@ -62863,6 +62864,7 @@
 ||lti.cs.vt.edu^
 ||vt894axs16.com^
 ||vtabnalp.net^
+||vtbfgnf00.fun^
 ||vtbrcixnca.com^
 ||ads.vtc.vn^
 ||delivery.vtc.vn^
@@ -64808,6 +64810,7 @@
 ||wpihekqpm.xyz^
 ||wpinfnyp.com^
 ||wpjhenqutmdzd.com^
+||wpmdeo.xyz^
 ||stats1.wpmudev.com^
 ||wpncdn.com^
 ||wpnetwork.eu^
@@ -65786,6 +65789,7 @@
 ||dms.xuexxing.com^
 ||a.xuezizhai.com^
 ||xuffojr.com^
+||xufyxhiu.icu^
 ||xuiqxlhqyo.com^
 ||xuircnbbidmu.com^
 ||xujhdtynpgctncq.com^
