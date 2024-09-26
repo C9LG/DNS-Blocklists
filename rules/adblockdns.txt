@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240926105251
-! Last modified: 2024/09/26 10:52:51
-! Blocked domains: 67843
+! Version: 20240926182452
+! Last modified: 2024/09/26 18:24:52
+! Blocked domains: 67852
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -15144,6 +15144,7 @@
 ||track.collegehumor.com^
 ||colleyporule.top^
 ||collisionasheseliminate.com^
+||colloqlarum.com^
 ||colloquialassassinslavery.com^
 ||collowhypoxis.com^
 ||collserve.com^
@@ -21652,6 +21653,7 @@
 ||endurancetransmitted.com^
 ||endurecorpulent.com^
 ||enduresopens.com^
+||endwaysdsname.com^
 ||endymehnth.info^
 ||enebyq.com^
 ||enecto.com^
@@ -23038,6 +23040,7 @@
 ||faulterdeplume.com^
 ||faultspiano.com^
 ||fauneeptoaso.com^
+||fauphoaglu.net^
 ||fausothaur.com^
 ||fauvekintra.com^
 ||fauwhoocoa.com^
@@ -24594,6 +24597,7 @@
 ||fromjoytohappiness.com^
 ||fromoffspringcaliber.com^
 ||frompilis.com^
+||frondsgenoas.com^
 ||frontcognizance.com^
 ||frontendcodingtips.com^
 ||fronthlpr.com^
@@ -26444,6 +26448,7 @@
 ||goneryacked.top^
 ||goneviral.com^
 ||m.gongzhilian.com.cn^
+||gonoushauw.net^
 ||gonzalodaemon.top^
 ||goo-access-analytics.appspot.com^
 ||adcdn.goo.ne.jp^
@@ -40925,6 +40930,7 @@
 ||nofidroa.xyz^
 ||nognoongut.com^
 ||nohezu.xyz^
+||nohowsankhya.com^
 ||noibu.com^
 ||noiselessvegetables.com^
 ||noisesperusemotel.com^
@@ -44649,6 +44655,7 @@
 ||piar-m.ru^
 ||piarecdn.com^
 ||piaroankenyte.store^
+||piazzatepal.com^
 ||picadmedia.com^
 ||picarasgalax.com^
 ||picbucks.com^
@@ -47851,6 +47858,7 @@
 ||data.queryly.com^
 ||querysteer.com^
 ||quesid.com^
+||questeelskin.com^
 ||questionfly.com^
 ||questioningexperimental.com^
 ||questioningsanctifypuberty.com^
@@ -48614,6 +48622,7 @@
 ||rebindskayoes.com^
 ||rebojf.xyz^
 ||rebonebilify.click^
+||rebosoyodle.com^
 ||rebrew-foofteen.com^
 ||rebsouvaih.com^
 ||rebukessedgier.shop^
