@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240927105320
-! Last modified: 2024/09/27 10:53:20
-! Blocked domains: 67968
+! Version: 20240927182441
+! Last modified: 2024/09/27 18:24:41
+! Blocked domains: 67982
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -9916,6 +9916,7 @@
 ||baifaphoa.com^
 ||baifendian.com^
 ||baigamp.icu^
+||baigh8eosmgie01.site^
 ||pic.baihuawen.cn^
 ||baijs010.shop^
 ||baijs010.xyz^
@@ -16007,6 +16008,7 @@
 ||coveredbetting.com^
 ||coveredsnortedelectronics.com^
 ||coveredstress.com^
+||covettunica.com^
 ||covivado.club^
 ||cow-timerbudder.org^
 ||cowerscrowers.top^
@@ -25417,6 +25419,7 @@
 ||p.gazeta.pl^
 ||events-api.gazetadopovo.com.br^
 ||ads.gazetaesportiva.net^
+||gazozfelines.shop^
 ||gazumpers27.fun^
 ||gb1aff.com^
 ||gbbdkrkvn.xyz^
@@ -26090,6 +26093,7 @@
 ||glasssmash.site^
 ||glatatsoo.net^
 ||glattepush.com^
+||glaubsoopsehen.net^
 ||glaubuph.com^
 ||glaultoa.com^
 ||glaurtas.com^
@@ -27291,6 +27295,7 @@
 ||guomob.com^
 ||guoshipartners.com^
 ||gupqacqf.com^
+||gurgehumours.com^
 ||gurimix.com^
 ||gurneysretene.top^
 ||guro2.com^
@@ -28795,6 +28800,7 @@
 ||honeymoondisappointed.com^
 ||honeymoonregular.com^
 ||honeyreadinesscentral.com^
+||hongi7ie8owiie01.site^
 ||adx.hongtinnhanh.com^
 ||tracking.hongtinnhanh.com^
 ||honitonchyazic.com^
@@ -31956,6 +31962,7 @@
 ||jdhpfnfc.com^
 ||counter.jdi5.com^
 ||jdickea.top^
+||jdiekknmcb.com^
 ||jdipsuma.top^
 ||jditera.top^
 ||jdkmbvbyy.com^
@@ -32226,6 +32233,7 @@
 ||jissingirgoa.com^
 ||jitanvlw.com^
 ||jitigkvqf.com^
+||jiuab8eig2oateh01.site^
 ||jiujy5r3.fun^
 ||edu.jiukang.org^
 ||main.jiukang.org^
@@ -32922,6 +32930,7 @@
 ||ds1.kaijia.com^
 ||kaijooth.net^
 ||kailsfrot.com^
+||kainitwhip.com^
 ||kaisaimy.net^
 ||kaiseki-website.com^
 ||kaishepe.xyz^
@@ -34410,6 +34419,7 @@
 ||lardonsmein.top^
 ||lardpersecuteunskilled.com^
 ||lardyirreproachabledeserve.com^
+||lardyjeg.com^
 ||larentisol.com^
 ||lareson.com^
 ||largeharass.com^
@@ -35623,6 +35633,7 @@
 ||lobesforcing.com^
 ||lobfrbrlx.com^
 ||loboclick.com^
+||loboloshetaery.com^
 ||lobsterbusily.com^
 ||lobsterredress.com^
 ||lobsudsauhiw.xyz^
@@ -45615,6 +45626,7 @@
 ||porcelainviolationshe.com^
 ||poredii.com^
 ||porkolt.com^
+||porkpielepidin.com^
 ||public.porn.fr^
 ||porn369.net^
 ||porn88.net^
@@ -47722,6 +47734,7 @@
 ||qq8788viet.com^
 ||qqainj.cn^
 ||a1.qqan.com^
+||qqbqy.com^
 ||qqdxtmllptdlz.com^
 ||down.qqfarmer.com.cn^
 ||qqfelxqmhoc.com^
@@ -50680,6 +50693,7 @@
 ||saifcrack.com^
 ||track.saigon.pro^
 ||log.saigondautu.com.vn^
+||saigreetoudi.xyz^
 ||saikeela.net^
 ||analytics.saikosoft.jp^
 ||sail-horizon.com^
