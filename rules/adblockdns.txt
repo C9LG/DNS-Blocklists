@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240928105052
-! Last modified: 2024/09/28 10:50:52
-! Blocked domains: 67833
+! Version: 20240928182140
+! Last modified: 2024/09/28 18:21:40
+! Blocked domains: 67841
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -8751,6 +8751,7 @@
 ||atonefreeman.top^
 ||atonementfosterchild.com^
 ||atonementimmersedlacerate.com^
+||atoniaregracy.com^
 ||atoplayads.com^
 ||atordeg.com.br^
 ||atovub.com^
@@ -12382,6 +12383,7 @@
 ||bunintruder.com^
 ||external-ad.bunjang.co.kr^
 ||log.bunjang.co.kr^
+||bunjaraserumal.com^
 ||bunnslibby.com^
 ||bunny-net.com^
 ||rum-metrics.bunny.net^
@@ -26873,6 +26875,7 @@
 ||grocerysurveyingentrails.com^
 ||groguzoo.net^
 ||groinopposed.com^
+||grojaigrerdugru.xyz^
 ||groleepugny.net^
 ||grondrens.com^
 ||gronsoad.com^
@@ -33101,6 +33104,7 @@
 ||kfjslid.top^
 ||kflybplr.xyz^
 ||kfngvuu.com^
+||kfocken.icu^
 ||kfpicimage.xyz^
 ||kfpljakmiousajl.com^
 ||kfpnqug.cn^
@@ -40272,6 +40276,7 @@
 ||pf.newegg.com^
 ||imk.neweggimages.com^
 ||newestchalk.com^
+||newestnone.shop^
 ||webh5.newfastloan.cc^
 ||newhigee.net^
 ||newir3ltyug79aiman.com^
@@ -47877,6 +47882,7 @@
 ||quillion.com^
 ||quintelligence.com^
 ||quintessential-telephone.pro^
+||quippedtcawi.com^
 ||quiresraviney.com^
 ||quiri-iix.com^
 ||quisma.com^
@@ -58978,6 +58984,7 @@
 ||tuanlevang.vn^
 ||tuanlocvang123.com^
 ||tubberlo.com^
+||tubbiedumous.com^
 ||tubbyconversation.pro^
 ||sexemulator.tube-sexs.com^
 ||tube.ac^
@@ -67135,6 +67142,7 @@
 ||zeewhaih.com^
 ||zefusgk.com^
 ||zegnoogho.xyz^
+||zegridelughipot.net^
 ||zegrumse.net^
 ||zegvid.com^
 ||zegvid.net^
