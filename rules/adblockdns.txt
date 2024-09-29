@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20240929105810
-! Last modified: 2024/09/29 10:58:10
-! Blocked domains: 68135
+! Version: 20240929182154
+! Last modified: 2024/09/29 18:21:54
+! Blocked domains: 68136
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -50264,6 +50264,7 @@
 ||roxfrv.xyz^
 ||roxieguitars.com^
 ||roxot-panel.com^
+||roxwusak.icu^
 ||roxyaffiliates.com^
 ||royal-cash.com^
 ||codes.royalad.pl^
