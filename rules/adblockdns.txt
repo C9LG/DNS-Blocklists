@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241001110154
-! Last modified: 2024/10/01 11:01:54
-! Blocked domains: 68179
+! Version: 20241001182555
+! Last modified: 2024/10/01 18:25:55
+! Blocked domains: 68209
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -8619,6 +8619,7 @@
 ||aryana.io^
 ||aryancrack.com^
 ||aryastake.io^
+||aryici.xyz^
 ||arylidealchemy.com^
 ||stat.arzamas.academy^
 ||as5000.com^
@@ -8753,6 +8754,7 @@
 ||asparaguspallorspoken.com^
 ||asparaguspopcorn.com^
 ||aspartos.com^
+||aspectreinforce.com^
 ||aspectsofcukorp.com^
 ||asperencium.com^
 ||asperityhorizontally.com^
@@ -10412,6 +10414,7 @@
 ||bcajjtbzmdrl.com^
 ||bcaquzxajka.com^
 ||bcash4you.com^
+||dichvucong.bcavnvnvngov.com^
 ||bcbe.site^
 ||bcd8072b72.com^
 ||bcdjcjjhgfiejgfjhah.world^
@@ -10731,7 +10734,6 @@
 ||benefactorstoppedfeedback.com^
 ||beneficialviewedallude.com^
 ||benefitsshea.com^
-||benelph.de^
 ||benengagewriggle.com^
 ||benevolencepair.com^
 ||benevolentrome.com^
@@ -12698,6 +12700,7 @@
 ||ping.buto.tv^
 ||butrathakinrol.com^
 ||butterflyitem.com^
+||butterflyjobs.com^
 ||butterflypronounceditch.com^
 ||butterflyunkindpractitioner.com^
 ||buttersource.com^
@@ -12964,6 +12967,7 @@
 ||c67209d67f.com^
 ||c67524ad03.com^
 ||c67adca.com^
+||c6i0ilgden1ve8eb1here4s.ddns.net^
 ||c71genemobile.com^
 ||c72w6.com^
 ||c76d1a1b.live^
@@ -13927,6 +13931,7 @@
 ||chamsocthekhachhang-thang4.online^
 ||tpbank.chamsocthekhachhang-truc-tuyen.com^
 ||chamsocthekhachhang-tructuyen-thang8.com.vn^
+||chamsocthekhachhang-uudai-tructuyen-thang9.com.vn^
 ||chamsocthekhachhang-uudai-tructuyen.com^
 ||chamsocuudaithekhachhang-tructuyen.com^
 ||chancecorny.com^
@@ -21074,6 +21079,7 @@
 ||ad-img.ebaykorea.com^
 ||ebayobjects.com.au^
 ||ebayshopnet.com^
+||ebayu.top^
 ||ebb174824f.com^
 ||ebcfjgnjw.com^
 ||ebdlthbijshfj.com^
@@ -25842,6 +25848,7 @@
 ||gfdgfhh.cn^
 ||gffedashb6.fun^
 ||gfjn5.xyz^
+||gfkpbebwqwhlginna.org^
 ||gfmvxeeqcrhy.com^
 ||gfnfzleduflvkt.com^
 ||gforanythingam.com^
@@ -25953,6 +25960,7 @@
 ||s.giaoducthoidai.vn^
 ||giaohangtietkiem247.com^
 ||giaohangtietkiem247.top^
+||giaohangtietkiemvietnam.com^
 ||giaohangtietkiemvn.com^
 ||giaothuongvietnhat.org^
 ||giaythethaonuhcm.com^
@@ -26076,6 +26084,7 @@
 ||gitajwl.com^
 ||gitam.co.il^
 ||tracker.gitee.com^
+||github-scanner.com^
 ||collector.github.com^
 ||collector-cdn.github.com^
 ||collector.githubapp.com^
@@ -27724,6 +27733,7 @@
 ||ggiao.hangtietkiem.com^
 ||giiao.hangtietkiem.com^
 ||vgiao.hangtietkiem.com^
+||vngiao.hangtietkiem.online^
 ||go.hangzhou.com.cn^
 ||hangzhouhdb.top^
 ||adservice.hani.co.kr^
@@ -28091,6 +28101,7 @@
 ||healte.de^
 ||healthfailed.com^
 ||gtm-server.healthline.com^
+||healthnasdaqfeature.com^
 ||healthreports.co.il^
 ||healthsmd.com^
 ||healthtrader.com^
@@ -28809,6 +28820,7 @@
 ||hoctor-pharity.xyz^
 ||hocusedcassan.top^
 ||hocylpbff.com^
+||chinhphu.hodancu.com^
 ||hoegutvie.com^
 ||hogei.info^
 ||hoggersundue.com^
@@ -29064,6 +29076,7 @@
 ||hotrochatluongchuyennghieptoanquoc.click^
 ||hotrodienmayxanh.com^
 ||hotrokhachhang-garena-account.com^
+||hotrokhachhang-uudai-tructuyen.com.vn^
 ||hotrokhachhangtindungvietinbank.com^
 ||hotromayxanh.com^
 ||hotronganhang.site^
@@ -32742,6 +32755,7 @@
 ||jtolkiamnax.com^
 ||jtpdev.co.uk^
 ||jtpgjihhix.com^
+||jtqqzvqrd.net^
 ||lm10111.jtrincc.cn^
 ||jtthvswmc.com^
 ||jttowoxlomde.com^
@@ -33200,6 +33214,7 @@
 ||stat.kbs.co.kr^
 ||kbugxeslbjc8.com^
 ||kbumnvc.com^
+||kbvnpjijrahsgchor.org^
 ||kcaamcduwwu.com^
 ||e459.kcci.com^
 ||kcdn.xyz^
@@ -33251,10 +33266,10 @@
 ||keefeezo.net^
 ||keegesta.com^
 ||keegleedaphi.com^
+||keeklagqpvg.com^
 ||keeliethalweg.top^
 ||keen-slip.com^
 ||keenmosquitosadly.com^
-||keenstockholm.com.se^
 ||keepinfit.net^
 ||keepingconcerned.com^
 ||keepsagri.net^
@@ -33986,6 +34001,7 @@
 ||kpjuilkzfi.com^
 ||webstag.kplus.vn^
 ||kpmose.xyz^
+||kpt32165s.com^
 ||kpyerxzn.xyz^
 ||kq272lw4c.com^
 ||kq6lwk3m9g.ru^
@@ -34010,6 +34026,7 @@
 ||krankenwagenmotor.com^
 ||krasisa.info^
 ||krazil.com^
+||krbulhb.com^
 ||krclyfkitjyvlls.com^
 ||krcykddubkrsjm.xyz^
 ||kreisis.top^
@@ -34279,6 +34296,7 @@
 ||kxrglnpolgofvr.xyz^
 ||kxshyo.com^
 ||kxsvelr.com^
+||kxtmstjs.org^
 ||kxuattexg.com^
 ||kxvxonkymcnm.com^
 ||kxwhiogrswx.com^
@@ -34513,6 +34531,7 @@
 ||lapbscpgazh.com^
 ||lapdatinternet.net^
 ||lapeduzis.org^
+||lapmangsctv.com.vn^
 ||lapnicjaqxu.com^
 ||lapowed.com^
 ||lapre28rmcat2.com^
@@ -36997,7 +37016,6 @@
 ||mastexpelledsink.com^
 ||mastinstungmoreal.com^
 ||masturbaseinvegas.com^
-||masture.mobi^
 ||ctx.matchads.net^
 ||static.matchads.net^
 ||matchaix.net^
@@ -37154,6 +37172,7 @@
 ||mbbkh-canhan.com^
 ||mbcanhan-cskh.com^
 ||mbdippex.com^
+||mbdk555.com^
 ||mbdk99.com^
 ||mbdkb.com^
 ||mbewimcotjri.com^
@@ -37191,6 +37210,7 @@
 ||mbvsm.com^
 ||mbww.com^
 ||mbxudcghfy.com^
+||mc-live.online^
 ||mc-nudes.com^
 ||mc-ya.ru^
 ||mc7clurd09pla4nrtat7ion.com^
@@ -38323,7 +38343,6 @@
 ||mmczmfgpq.com^
 ||mmdyvkndcsiw.com^
 ||mmentorapp.com^
-||mmetrix.mobi^
 ||mmgap.cn^
 ||mmiedf.xyz^
 ||mmismm.com^
@@ -38744,6 +38763,8 @@
 ||ev.moneymade.io^
 ||moneymak3rstrack.com^
 ||moneymakercdn.com^
+||sdk.moneyoyo.com^
+||api.moneyoyo.org^
 ||moneyplatform.biz^
 ||stcollection.moneysupermarket.com^
 ||moneytatorone.com^
@@ -41781,6 +41802,7 @@
 ||az.nzn.io^
 ||nznkaq5.cn^
 ||nzrzgorm.com^
+||nzu66938s.com^
 ||nzuebfy.com^
 ||nzvlpvgqsa.com^
 ||nzwxemqwpv.com^
@@ -48686,6 +48708,7 @@
 ||rbcdn.com^
 ||rbcfecxs.com^
 ||rbcxttd.com^
+||rbdwa.com^
 ||rbfive.bid^
 ||rbfour.bid^
 ||rbfxoex.xyz^
@@ -52506,6 +52529,7 @@
 ||shopee92.vip^
 ||shopee99.vip^
 ||shopee9977.com^
+||shopeeace.com^
 ||shopeeblue.com^
 ||shopeec.xyz^
 ||shopeechinhthuc.com^
@@ -55832,6 +55856,7 @@
 ||statistik.svenskaakademien.se^
 ||analytics.svenskdam.se^
 ||annons.svenskjakt.se^
+||vssid.svgov.cc^
 ||svhdbmp.cn^
 ||sviakavgwjg.xyz^
 ||sviter2s1olenyami1.com^
@@ -57696,6 +57721,7 @@
 ||tikstok.fun^
 ||tikt88.com^
 ||tiktakz.xyz^
+||tiktikshopvn.com^
 ||ads.tiktok.com^
 ||ads-api.tiktok.com^
 ||ads-jp.tiktok.com^
@@ -59459,6 +59485,7 @@
 ||tuwaqtjcood.com^
 ||tuwopnajwv.com^
 ||tuxbpnne.com^
+||tuxpfiok.icu^
 ||tuxycml.com^
 ||tuxzlhrwejszu.com^
 ||tuyendung-shopee.com^
@@ -60684,6 +60711,7 @@
 ||uqrcuxp.cn^
 ||uqueae.xyz^
 ||uqwbcm.xyz^
+||wl.uqwjdhgv.top^
 ||uqydcs.xyz^
 ||uqykeq.xyz^
 ||p.ura.news^
@@ -60915,6 +60943,7 @@
 ||uucfeebvz.com^
 ||uudai-tructuyen-chamsockhachhang-the.com.vn^
 ||uudaikhachhang-tructuyen.com.vn^
+||uudaikhachhangthe-tructuyen-thang9.com.vn^
 ||uudailienquan.com^
 ||uudainapthe.vn^
 ||uudainganhang.com^
@@ -66100,6 +66129,7 @@
 ||xtcxflak.xyz^
 ||xtdioaawlam.com^
 ||xtendmedia.com^
+||xtgfujmknprb.ru^
 ||xtgreat.com^
 ||xtnfuuckmubrb.com^
 ||xtnwxhjv.xyz^
