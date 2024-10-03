@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241003182433
-! Last modified: 2024/10/03 18:24:33
-! Blocked domains: 68291
+! Version: 20241004023114
+! Last modified: 2024/10/04 02:31:14
+! Blocked domains: 68317
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -11434,6 +11434,7 @@
 ||bkrmyhynjddpl.com^
 ||mopub-win-us-east.bksn.se^
 ||bktdmqdcvshs.xyz^
+||bktsauna.com^
 ||bkujacocdop.com^
 ||bkuqgkjpqzofi.com^
 ||bkvtrack.com^
@@ -11615,6 +11616,7 @@
 ||log.bloodsugars.live^
 ||blooks.info^
 ||analytics.bloomberg.com^
+||eventrecorder.cm.bloomberg.com^
 ||tracking.bloomberg.com^
 ||bloomsgoas.com^
 ||blossomfertilizerproperly.com^
@@ -12400,6 +12402,7 @@
 ||brucelead.com^
 ||bruceleadx.com^
 ||bruceleadx1.com^
+||brucinabowmen.com^
 ||brucineborneo.top^
 ||bruisedpaperworkmetre.com^
 ||bruiserbodies.com^
@@ -15382,6 +15385,7 @@
 ||comfortlessspotsbury.com^
 ||comfreeads.com^
 ||comfyunhealthy.com^
+||comicad.net^
 ||comicplanet.net^
 ||comicsdashboardcombustible.com^
 ||comicsscripttrack.com^
@@ -17919,6 +17923,7 @@
 ||daero.pw^
 ||dafdfd.cn^
 ||daffaite.com^
+||daffodilnotifyquarterback.com^
 ||daffyfleecy.top^
 ||dagcoin.org^
 ||dagd0kz7sipfl.cloudfront.net^
@@ -20906,6 +20911,7 @@
 ||analytics.e1.ru^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||e1ce13d5.xyz^
+||e1zin.icu^
 ||e2bec62b64.com^
 ||e2ertt.com^
 ||analytics.e2estudios.com^
@@ -24924,6 +24930,7 @@
 ||ftxolfex.xyz^
 ||ftylpm.com^
 ||fualujqbhqyn.xyz^
+||fucategallied.com^
 ||fuckbook.cm^
 ||fuckbookdating.com^
 ||fuckedbyme.com^
@@ -28883,6 +28890,7 @@
 ||ads.holid.io^
 ||holidaycoconutconsciousness.com^
 ||holistnunatak.com^
+||hollekejokiest.com^
 ||collect.hollisterco.com^
 ||hollowcharacter.com^
 ||holm.ru^
@@ -29439,6 +29447,7 @@
 ||hukogpanbs.com^
 ||hulabipptemux.com^
 ||hulahooprect.com^
+||huldahflotter.com^
 ||hulichuang.mobi^
 ||hulledaries.top^
 ||hulocvvma.com^
@@ -30088,6 +30097,7 @@
 ||ihgmsdypohtg.com^
 ||ihhqwaurke.com^
 ||ihknbyeaclaxikb.com^
+||ihkybtde.com^
 ||ihnhnpz.com^
 ||ihoolrun.net^
 ||fpbone.ihowguide.com^
@@ -30981,6 +30991,7 @@
 ||instantnewzz.com^
 ||instantresp.com^
 ||ping.instantsearchplus.com^
+||heatmap-events-collector.instapage.com^
 ||instapagemetrics.com^
 ||player-metrics.instaread.co^
 ||instaruptilt.com^
@@ -32513,6 +32524,7 @@
 ||jobbio.com^
 ||jobcity.com^
 ||joberopolicycr.com^
+||jobetartane.com^
 ||jobfilletfortitude.com^
 ||jobleveled.top^
 ||joblouder.com^
@@ -40491,6 +40503,7 @@
 ||nervousclangprobable.com^
 ||nervoustolsel.com^
 ||nerydw.xyz^
+||neryt111.fun^
 ||nesefurthere.info^
 ||nesfspublicate.info^
 ||neshigreek.com^
@@ -40621,6 +40634,7 @@
 ||newbluetrue.xyz^
 ||newbornleasetypes.com^
 ||newbornprayerseagle.com^
+||newcategory.pro^
 ||newchallenges-dsp.com^
 ||newclick.com^
 ||adimg.newdaily.co.kr^
@@ -41878,6 +41892,7 @@
 ||z1.o8h7d.cn^
 ||o911o.com^
 ||oacaighy.com^
+||oaceewhouceet.net^
 ||oachailo.net^
 ||oackoubs.com^
 ||oackoulimtoo.com^
@@ -42911,6 +42926,7 @@
 ||thongke.opencps.vn^
 ||sync.opendsp.ru^
 ||openerkey.com^
+||openersbens.com^
 ||openfpcdn.io^
 ||openhit.com^
 ||g-stats.openhost.es^
@@ -48043,6 +48059,7 @@
 ||qtejflbrrtesvk.com^
 ||adlaunch.qtfm.cn^
 ||qtoidch.icu^
+||qtoxhaamntfi.com^
 ||qtq632.com^
 ||qtuopsqmunzo.com^
 ||qtuxulczymu.com^
@@ -50297,6 +50314,7 @@
 ||da.rosrabota.ru^
 ||visitping.rossel.be^
 ||backbone.rossel.tech^
+||rosskenyte.click^
 ||rossoad.com^
 ||rosttraborago.com^
 ||rosyfeeling.pro^
@@ -58487,6 +58505,7 @@
 ||analytics.touchnote.io^
 ||api.touchxd.com^
 ||touchyeccentric.com^
+||touchytautogs.com^
 ||touficpaloma.com^
 ||toughdrizzleleftover.com^
 ||toughtoxacid.com^
@@ -58500,6 +58519,7 @@
 ||tournamentfosterchild.com^
 ||tournamentsevenhung.com^
 ||touroumu.com^
+||toushuhoophis.xyz^
 ||analytics.tout.com^
 ||toutanymm.asia^
 ||go.toutapp.com^
@@ -59266,8 +59286,10 @@
 ||trustedpeach.com^
 ||widgets.trustedshops.com^
 ||trustedzone.info^
+||trusteenubian.com^
 ||mevents.trusteer.com^
 ||trustflayer1.online^
+||trusting-offer.com^
 ||trustiseverything.de^
 ||trustisimportant.fun^
 ||trustlearningclearly.com^
@@ -60516,6 +60538,7 @@
 ||unluckydead.pro^
 ||unluckyflagtopmost.com^
 ||unluxioer.com^
+||unmanyabby.com^
 ||unmeltsavaged.click^
 ||unmightboxen.com^
 ||unmisdreavusom.com^
@@ -64227,6 +64250,7 @@
 ||weethery.com^
 ||weeweesozoned.com^
 ||weewhunoamo.xyz^
+||weezoptez.net^
 ||data-collector.wefi.com^
 ||wefihob.cn^
 ||wefinexvietnam.xyz^
@@ -65037,6 +65061,7 @@
 ||wokaptoa.com^
 ||wokenoptionalcohabit.com^
 ||wokm8isd4zit.com^
+||wokseephishopty.net^
 ||wolaufie.com^
 ||wolffiareecho.com^
 ||wolist.ru^
@@ -65504,6 +65529,7 @@
 ||wwpush22.com^
 ||wwqssmg.com^
 ||wwunnmshmv.xyz^
+||wwursere.top^
 ||wwvxdhbmlqcgk.xyz^
 ||www-fb.com^
 ||www-icloud.com^
