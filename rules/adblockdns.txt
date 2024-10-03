@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241003105313
-! Last modified: 2024/10/03 10:53:13
-! Blocked domains: 68287
+! Version: 20241003182433
+! Last modified: 2024/10/03 18:24:33
+! Blocked domains: 68291
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -10791,6 +10791,7 @@
 ||berthsorry.com^
 ||bertrammontleymontleyexists.com^
 ||berush.com^
+||beryt111.fun^
 ||cdn.bescore.com^
 ||bescourpeined.top^
 ||besguses.pro^
@@ -19613,6 +19614,7 @@
 ||dj2550.com^
 ||dj4odketdva9s.cloudfront.net^
 ||djadoc.com^
+||djecgyk.icu^
 ||djers.com^
 ||djfiln.com^
 ||djfuieotdlo.com^
@@ -22563,6 +22565,7 @@
 ||ewrolidenratrigh.info^
 ||ewruuqe5p8ca.com^
 ||ewtgmfajrdhsyn.xyz^
+||ewurserw.top^
 ||ewxufqs.cn^
 ||ewyngnnxl.com^
 ||ewzavfde.xyz^
@@ -65955,6 +65958,7 @@
 ||xjrwxfdphc.com^
 ||xjs.lol^
 ||xjsx.lol^
+||xjtosdof.icu^
 ||miniye.xjts.cn^
 ||xjupijxdt.xyz^
 ||xjwcnvnqdm.com^
