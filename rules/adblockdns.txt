@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241005105031
-! Last modified: 2024/10/05 10:50:31
-! Blocked domains: 68381
+! Version: 20241005182200
+! Last modified: 2024/10/05 18:22:00
+! Blocked domains: 68394
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -4548,6 +4548,7 @@
 ||abruptnesscarrier.com^
 ||abruth.com^
 ||abs-static.org^
+||absalomcsa.com^
 ||absenceoverload.com^
 ||absentcleannewspapers.com^
 ||absentlybiddingleopard.com^
@@ -19999,6 +20000,7 @@
 ||donkstar1.online^
 ||donkstar2.online^
 ||donneesskilder.top^
+||donnishsubgrin.com^
 ||donstick.com^
 ||donttbeevils.de^
 ||donyandmark.xyz^
@@ -23708,6 +23710,7 @@
 ||fiiqmjyrznkhbv.com^
 ||fiisscqwokt.com^
 ||fijekone.com^
+||fijiicaria.com^
 ||fijipic.xyz^
 ||fikedaquabib.com^
 ||fiksu.com^
@@ -26260,6 +26263,7 @@
 ||stat.glaze.ai^
 ||glazegha.com^
 ||glazepalette.com^
+||glazieroometer.click^
 ||glbtracker.com^
 ||glbtrk.com^
 ||a.glcdn.co^
@@ -34389,6 +34393,7 @@
 ||kyaywy.xyz^
 ||kyccmn.com^
 ||kycxhgrp.xyz^
+||kydagoba.com^
 ||kydzfldt.xyz^
 ||kyefakwa.com^
 ||kyemwo.xyz^
@@ -40293,6 +40298,7 @@
 ||naucaish.net^
 ||naufistuwha.com^
 ||naughtynotice.pro^
+||naukegainok.net^
 ||naulme.info^
 ||naupouch.xyz^
 ||naupseko.com^
@@ -43829,6 +43835,7 @@
 ||packmenappui.top^
 ||pacoaniy.net^
 ||pacontainer.s3.amazonaws.com^
+||pacquetmuysca.com^
 ||pacquetpusher.com^
 ||metrics.pacsun.com^
 ||analytics.paddle.com^
@@ -44267,6 +44274,7 @@
 ||paulcorrectfluid.com^
 ||paunaupa.com^
 ||paushoow.net^
+||pausingroyale.com^
 ||paussidsipage.com^
 ||pausteegohoa.net^
 ||pavfazbwiap.com^
@@ -46185,6 +46193,7 @@
 ||pr-linktausch.de^
 ||pr-sunshine.de^
 ||pr0xqyrgl.com^
+||prabblealltud.com^
 ||practicalbar.pro^
 ||practicalframingfiddle.com^
 ||practicallyfire.com^
@@ -46801,6 +46810,7 @@
 ||prscripts.com^
 ||prtadf.xyz^
 ||prtawe.com^
+||prtfpl.xyz^
 ||prtord.com^
 ||prtracker.com^
 ||prtrackings.com^
@@ -51676,6 +51686,7 @@
 ||secondquaver.com^
 ||secondunderminecalm.com^
 ||secprf.com^
+||secqueduomo.com^
 ||secretbehindporn.com^
 ||tracker.secretescapes.com^
 ||secretionforbearace.com^
@@ -60585,6 +60596,7 @@
 ||unkinpigsty.com^
 ||unknownhormonesafeguard.com^
 ||unknowntray.com^
+||unlargecamden.com^
 ||unlawedimaret.top^
 ||unlesscooler.com^
 ||unlika.com^
@@ -61172,6 +61184,7 @@
 ||uwougheels.net^
 ||uwrzjgtnur.com^
 ||uwumr.cn^
+||uwursert.top^
 ||uwzxukualwdkx.com^
 ||ux782mkgx.com^
 ||uxernab.com^
