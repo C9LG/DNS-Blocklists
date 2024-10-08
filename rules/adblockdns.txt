@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241008105559
-! Last modified: 2024/10/08 10:55:59
-! Blocked domains: 69122
+! Version: 20241008182423
+! Last modified: 2024/10/08 18:24:23
+! Blocked domains: 69130
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -2882,6 +2882,7 @@
 ||gw.365you.com^
 ||366226193c.com^
 ||367p.com^
+||36833185.xyz^
 ||369bgrec.top^
 ||36b7ca5028.com^
 ||adx.36kr.com^
@@ -8012,6 +8013,7 @@
 ||allsports4free.online^
 ||cdn.allsportsflix.best^
 ||allstat-pp.ru^
+||stat.alltforforaldrar.se^
 ||alltizer.ru^
 ||alltopnewz.com^
 ||alltopposts.com^
@@ -12256,6 +12258,7 @@
 ||blogcounter.de^
 ||pr.blogflux.com^
 ||newstats.blogg.se^
+||stat.blogg.se^
 ||stats.blogg.se^
 ||statistik.blogg1.se^
 ||blogger2020.com^
@@ -13027,6 +13030,7 @@
 ||brokergesture.com^
 ||brokerspunacquired.com^
 ||brollmoocha.top^
+||stat.brollopstorget.se^
 ||bromidsluluai.com^
 ||brominer.com^
 ||bromiosgemmula.shop^
@@ -23809,6 +23813,7 @@
 ||analytics.fam.ir^
 ||familialsimulation.com^
 ||familiarpyromaniasloping.com^
+||stat.familjeliv.se^
 ||familyborn.com^
 ||familycomplexionardently.com^
 ||h031.familydollar.com^
@@ -32516,6 +32521,7 @@
 ||iwstats.com^
 ||iwtserve.com^
 ||iwuh.org^
+||iwursero.top^
 ||iwwdcglj.com^
 ||iwwmaq.xyz^
 ||iwyrldaeiyv.com^
@@ -35007,6 +35013,7 @@
 ||kvidcq.com^
 ||kvjkkwyomjrx.com^
 ||tdep.kvk.nl^
+||kvkcei.xyz^
 ||kvovs.xyz^
 ||kvpqrydt.xyz^
 ||kvskknklssv.com^
@@ -50978,6 +50985,7 @@
 ||rocoloagrotis.fun^
 ||rodecommercial.com^
 ||rodejessie.com^
+||stat.rodeo.net^
 ||rodirgix.com^
 ||rodmfv.xyz^
 ||rodplayed.com^
