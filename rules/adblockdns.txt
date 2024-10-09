@@ -2,8 +2,8 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241009105252
-! Last modified: 2024/10/09 10:52:52
+! Version: 20241009182513
+! Last modified: 2024/10/09 18:25:13
 ! Blocked domains: 69138
 ! unBlocked domains: 11
 !
@@ -5379,7 +5379,6 @@
 ||achycompassionate.com^
 ||achyrepeatitchy.com^
 ||acidicresist.pro^
-||manhua.acimg.cn^
 ||acint.net^
 ||ackcdn.net^
 ||ackekryieyvkvby.com^
@@ -35634,6 +35633,7 @@
 ||leafmedia.io^
 ||leafminefield.com^
 ||leafy-feel.com^
+||leagsmk.icu^
 ||league-of-legends.ru^
 ||leaguedispleasedjut.com^
 ||leakervassar.top^
