@@ -2,9 +2,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241010105253
-! Last modified: 2024/10/10 10:52:53
-! Blocked domains: 69105
+! Version: 20241010182432
+! Last modified: 2024/10/10 18:24:32
+! Blocked domains: 69122
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -2741,6 +2741,7 @@
 ||330e4e8090.com^
 ||3337723.com^
 ||3337738.com^
+||333bbb777bbb.com^
 ||333lotte.com^
 ||33848102.xyz^
 ||33across.com^
@@ -3851,6 +3852,7 @@
 ||64z1afiw7.com^
 ||65.132.139.90^
 ||65.49.44.84^
+||65035033.xyz^
 ||6528fdyngk.xyz^
 ||656f1ba3.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
@@ -9485,6 +9487,7 @@
 ||at885.icu^
 ||atableofcup.com^
 ||atacticserena.top^
+||ataiyalstrays.com^
 ||atala-apw.com^
 ||atamansdockize.com^
 ||atampharosom.com^
@@ -10275,6 +10278,7 @@
 ||azxdkucizr.com^
 ||azxhlzxmrqc.com^
 ||azxsd.pro^
+||azygotesonless.com^
 ||azyuuk.xyz^
 ||azyyyeyeqeazj.top^
 ||b-5-shield.com^
@@ -10609,6 +10613,7 @@
 ||bailoaso.xyz^
 ||bailonushe.com^
 ||bainushe.com^
+||baipahanoop.net^
 ||bairnsvibrion.top^
 ||baiseesh.net^
 ||baithoph.net^
@@ -12991,6 +12996,7 @@
 ||broredir1s.site^
 ||brothersincash.com^
 ||brothersparklingresolve.com^
+||brottpyric.com^
 ||broughtalienshear.com^
 ||broughtenragesince.com^
 ||broughtincompatiblewasp.com^
@@ -19908,6 +19914,7 @@
 ||dilruwha.net^
 ||dilutegulpedshirt.com^
 ||dilutemylodon.top^
+||diluterocciput.click^
 ||dilutesnoopzap.com^
 ||dilutionavailstoker.com^
 ||dilvyi2h98h1q.cloudfront.net^
@@ -22485,6 +22492,7 @@
 ||endingmedication.com^
 ||endingrude.com^
 ||endjigsur.com^
+||endlessgoes.com^
 ||endlesslyalwaysbeset.com^
 ||endlessvow.com^
 ||endolift.cn^
@@ -27447,6 +27455,7 @@
 ||gorselpanel.com^
 ||goryachie-foto.net^
 ||sp.gosanangelo.com^
+||goschenelect.com^
 ||goshbiopsy.com^
 ||goshop.vin^
 ||goshop2018.com^
@@ -28276,6 +28285,7 @@
 ||stats.habr.com^
 ||habutaeirisate.com^
 ||habutaeunroost.com^
+||hackeestrict.click^
 ||counter.hackers.lv^
 ||hackgamemienphi.com^
 ||f11.hackhome.com^
@@ -30709,6 +30719,7 @@
 ||igbfwa.com^
 ||sdk.open.phone.igexin.com^
 ||ads.igfhaber.com^
+||iggbky.xyz^
 ||ightdecipientconc.info^
 ||ightsapph.info^
 ||igidskio.top^
@@ -37252,6 +37263,7 @@
 ||mabila.ua^
 ||a.mabipa.com^
 ||mabolmvcuo.com^
+||mabolocorrive.com^
 ||analytics.mabra.com^
 ||mabtcaraqdho.com^
 ||mabyerwaxand.click^
@@ -37628,6 +37640,7 @@
 ||mbid.marfeelrev.com^
 ||margaritaimmense.com^
 ||margaritapowerclang.com^
+||marginshache.com^
 ||mariadock.com^
 ||marial.pro^
 ||marianneflog.com^
@@ -42787,6 +42800,7 @@
 ||ocggec.xyz^
 ||ocheebou.xyz^
 ||ochoawhou.com^
+||ochoovoajaw.xyz^
 ||ocjdmjxm.com^
 ||ocjmbhy.com^
 ||ockerfisher.top^
@@ -47709,6 +47723,7 @@
 ||ptoaltie.com^
 ||ptoangir.com^
 ||ptoapouk.com^
+||ptoavibsaron.net^
 ||ptobsagn.com^
 ||ptochair.xyz^
 ||ptoftaupsift.com^
@@ -50420,6 +50435,7 @@
 ||reticencecarefully.com^
 ||retillbicycle.top^
 ||retinaesprent.com^
+||retingexylogen.com^
 ||retintsmillion.com^
 ||retinueabash.com^
 ||retinuegigoh.com^
@@ -63763,6 +63779,7 @@
 ||vozer.voffka.com^
 ||vogozae.ru^
 ||vogozara.ru^
+||voguesmaison.com^
 ||admin.voh.com.vn^
 ||vohqpgsdn.xyz^
 ||ads.voiceads.cn^
