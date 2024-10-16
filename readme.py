@@ -44,7 +44,7 @@ class ReadMe(object):
         
         with open(self.filename, 'a') as f:
             f.write("# AdBlock DNS Filters\n")
-            f.write("适用于AdGuard Home的去广告规则，每8个小时更新一次\n")
+            f.write("适用于AdGuard Home的去广告规则\n")
             f.write("\n")
             f.write("## 订阅链接\n")
             f.write("\n")
