@@ -123,9 +123,9 @@ class Filter(object):
         with open(fileName, 'a') as f:
             f.write("!\n")
             f.write("! Title: AdBlock DNS\n")
-            f.write("! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD。\n")
-            f.write("! Homepage: https://github.com/217heidai/adblockfilters\n")
-            f.write("! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt\n")
+            f.write("! Description: 适用于AdGuardHome的去广告规则\n")
+            f.write("! Homepage: https://github.com/C9LG/DNS-Blocklists\n")
+            f.write("! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt\n")
             f.write("! Version: %s\n"%(time.strftime("%Y%m%d%H%M%S", time.localtime())))
             f.write("! Last modified: %s\n"%(time.strftime("%Y/%m/%d %H:%M:%S", time.localtime())))
             f.write("! Blocked domains: %s\n"%(len(blockList)))
