@@ -1,5 +1,5 @@
 # AdBlock DNS Filters
-适用于AdGuard Home的去广告规则，每8个小时更新一次
+适用于AdGuard Home的去广告规则
 
 ## 订阅链接
 
