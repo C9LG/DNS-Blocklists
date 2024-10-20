@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241020105756
-! Last modified: 2024/10/20 10:57:56
-! Blocked domains: 63636
+! Version: 20241020182110
+! Last modified: 2024/10/20 18:21:10
+! Blocked domains: 63639
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -9395,6 +9395,7 @@
 ||atoniaregracy.com^
 ||atoplayads.com^
 ||atordeg.com.br^
+||atorks.xyz^
 ||atovub.com^
 ||ad.atown.jp^
 ||prod.fennec.atp.fox^
@@ -40721,6 +40722,7 @@
 ||ourcoolstories.com^
 ||ourdesperate.com^
 ||ourdreamsanswer.info^
+||ouresdk.top^
 ||ourgumpu.xyz^
 ||ourhotstories.com^
 ||ourhypewords.com^
@@ -52388,6 +52390,7 @@
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||sysfiles.net^
 ||syshrugglefor.info^
+||syshwc.xyz^
 ||sysomos.com^
 ||sysoutvariola.com^
 ||system-notify.app^
