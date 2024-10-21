@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241021105610
-! Last modified: 2024/10/21 10:56:10
-! Blocked domains: 63779
+! Version: 20241021182449
+! Last modified: 2024/10/21 18:24:49
+! Blocked domains: 63787
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -4784,6 +4784,7 @@
 ||8db4fde90b.com^
 ||8de5d7e235.com^
 ||8dt0a8.cyou^
+||8dwd87c7a091b12x.com^
 ||8ec9b7706a.com^
 ||8eef59a5.live^
 ||8exx9qtuojv1.shop^
@@ -12832,6 +12833,7 @@
 ||bureauelderlydivine.com^
 ||bureautrickle.com^
 ||bureauxcope.casa^
+||buresdv.top^
 ||burgea.com^
 ||burghkharwa.com^
 ||burglaryeffectuallyderange.com^
@@ -22215,6 +22217,7 @@
 ||exqbondtwitvj.com^
 ||exquisitefundlocations.com^
 ||exquisiteseptember.com^
+||exqvak.xyz^
 ||exrtbsrv.com^
 ||exslluqexs.com^
 ||exta-z.ru^
@@ -22442,6 +22445,7 @@
 ||faeryreified.com^
 ||faestara.com^
 ||fafc5ra5.ru^
+||fafmimgubcm.com^
 ||tracking.fagersta-posten.se^
 ||tracking.etidning.fagersta-posten.se^
 ||faggapmunost.com^
@@ -31995,6 +31999,7 @@
 ||kingads.mobi^
 ||kingads.net^
 ||kingads2.org^
+||kingbaba.org^
 ||kingking79.com^
 ||kingmoney.io^
 ||kingrecommendation.com^
@@ -33119,6 +33124,7 @@
 ||leadhit.ru^
 ||leadid.com^
 ||leadin.com^
+||leadinfo.net^
 ||leadingindication.pro^
 ||leadingservicesintimate.com^
 ||leadintelligence.co.uk^
@@ -45720,6 +45726,7 @@
 ||rbrightscarletcl.info^
 ||rbrmhz.xyz^
 ||rbrxg.com^
+||rbsr0.icu^
 ||rbtfit.com^
 ||rbthre.work^
 ||rbtwo.bid^
@@ -53441,6 +53448,7 @@
 ||tfsxszw.com^
 ||tftnbbok.xyz^
 ||tftrm.com^
+||tfzah.icu^
 ||tgadv.it^
 ||tgadvcdn.it^
 ||tgamtip.icu^
