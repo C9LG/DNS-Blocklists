@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241022105252
-! Last modified: 2024/10/22 10:52:52
-! Blocked domains: 63902
+! Version: 20241022182205
+! Last modified: 2024/10/22 18:22:05
+! Blocked domains: 63906
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -8895,6 +8895,7 @@
 ||appmateforbests.com^
 ||appmetr.com^
 ||bd-china-1.appmobile.cn^
+||cnbd1.appmobile.cn^
 ||appnext-a.akamaihd.net^
 ||appnext.com^
 ||appnotrix.com^
@@ -16082,6 +16083,7 @@
 ||courtoyz.com^
 ||cousingypsy.com^
 ||cousinscostsalready.com^
+||couvxlif.top^
 ||couwainu.xyz^
 ||couwhivu.com^
 ||couwooji.xyz^
@@ -48071,6 +48073,7 @@
 ||sbiloi.xyz^
 ||ta.sbird.xyz^
 ||sblhp.com^
+||sbmhqe.xyz^
 ||sbonjqsxicqfo.xyz^
 ||pay.sboot.cn^
 ||sbovgy.xyz^
@@ -53088,6 +53091,7 @@
 ||tartarsharped.com^
 ||tartator.com^
 ||tarvardsusyseinpou.info^
+||tarvrf.xyz^
 ||tasesetitoefany.info^
 ||tashietrent.com^
 ||taskapi.net^
