@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241023182152
-! Last modified: 2024/10/23 18:21:52
-! Blocked Filters: 417
+! Version: 20241024022810
+! Last modified: 2024/10/24 02:28:10
+! Blocked Filters: 418
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -348,6 +348,7 @@
 ||seller-log-collector.shopee.
 ||sensorsdata*.read.duokan.com^
 ||servo-report.dvdfab.
+||servo-report.keepstreams.*^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
 ||smart.allocine.fr
