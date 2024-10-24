@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241024105135
-! Last modified: 2024/10/24 10:51:35
-! Blocked domains: 63936
+! Version: 20241024182205
+! Last modified: 2024/10/24 18:22:05
+! Blocked domains: 63943
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -9186,6 +9186,7 @@
 ||ascensionunfinished.com^
 ||ascentflabbysketch.com^
 ||ascentloinconvenience.com^
+||ascentsboni.com^
 ||ascertainedthetongs.com^
 ||ascertainintend.com^
 ||img.ascontentcloud.com^
@@ -24002,6 +24003,7 @@
 ||freeoffers.co.il^
 ||sp.freep.com^
 ||freepccrack.com^
+||freepopnews.skin^
 ||freerotator.com^
 ||freesitemapgenerator.com^
 ||freesoftwarelive.com^
@@ -30559,6 +30561,7 @@
 ||izlok.xyz^
 ||izlutev.com^
 ||izmiua.xyz^
+||izoaghiwoft.net^
 ||izooto.com^
 ||izqeyo.xyz^
 ||izqogb.cn^
@@ -36343,6 +36346,7 @@
 ||update.avlyun.sec.miui.com^
 ||miuo.cloud^
 ||miveci.uno^
+||mivibsegnuhaub.xyz^
 ||miwfkm.xyz^
 ||miwllmo.com^
 ||miwpkk.xyz^
@@ -54001,6 +54005,7 @@
 ||thrustlumpypulse.com^
 ||thruudrad.com^
 ||thrzbf.xyz^
+||thsantmirza.shop^
 ||thsdbj.com^
 ||thseaeing.fun^
 ||thshopee.com^
@@ -54642,6 +54647,7 @@
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
+||toffiesoxgall.com^
 ||toftforcal.com^
 ||toftheca.buzz^
 ||togenron.com^
@@ -60663,6 +60669,7 @@
 ||geoiplookup.wikimedia.org^
 ||intake-analytics.wikimedia.org^
 ||intake-logging.wikimedia.org^
+||analytics.wikitide.net^
 ||wild-plant.pro^
 ||track.wildblue.com^
 ||wildedbarley.com^
