@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241029182004
-! Last modified: 2024/10/29 18:20:04
-! Blocked domains: 2204
+! Version: 20241030022527
+! Last modified: 2024/10/30 02:25:27
+! Blocked domains: 2202
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -74,7 +74,6 @@
 ||analytics.300624.com^
 ||301848.com^
 ||d1.3158.cn^
-||ttykok.320.io^
 ||mg.32r.com^
 ||download.350.com^
 ||ad.dev.360.cn^
@@ -747,7 +746,6 @@
 ||first-vay.com^
 ||adv.fjtv.net^
 ||bd1.flfgw.cn^
-||pid.fly160.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||bdu.focus.cn^
@@ -1361,7 +1359,6 @@
 ||ivy.pconline.com.cn^
 ||ashow.pcpop.com^
 ||video-dsp.pddpic.com^
-||download.pdf00.cn^
 ||pdweoyw.cn^
 ||penxiangge.com^
 ||v1.phb123.com^
@@ -1549,7 +1546,6 @@
 ||x.adnet.qq.com^
 ||yun-hl.3g.qq.com^
 ||a1.qqan.com^
-||down.qqfarmer.com.cn^
 ||qqhuhu.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -1804,6 +1800,7 @@
 ||datas.tianqistatic.com^
 ||yptqys.tianqistatic.com^
 ||api-ads.tiantianqutao.com^
+||tianyinsoft.top^
 ||adx-bid.tianzhuobj.com^
 ||adx.timewit.cn^
 ||wkrd.tingyun.com^
@@ -2201,6 +2198,7 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
+||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
