@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241029022521
-! Last modified: 2024/10/29 02:25:21
-! Blocked domains: 2202
+! Version: 20241029105229
+! Last modified: 2024/10/29 10:52:29
+! Blocked domains: 2204
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -516,6 +516,7 @@
 ||p3-tt.byteimg.com^
 ||c11011.com^
 ||b1.c1km4.com^
+||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -898,6 +899,7 @@
 ||msg-na.hismarttv.com^
 ||unified-ter-na.hismarttv.com^
 ||resu8.hjfile.cn^
+||yp.hnggzyjy.cn^
 ||hnrjign.cn^
 ||adadmin.house365.com^
 ||ad-log-upload-os.hoyoverse.com^
@@ -1802,7 +1804,6 @@
 ||datas.tianqistatic.com^
 ||yptqys.tianqistatic.com^
 ||api-ads.tiantianqutao.com^
-||tianyinsoft.top^
 ||adx-bid.tianzhuobj.com^
 ||adx.timewit.cn^
 ||wkrd.tingyun.com^
@@ -2164,6 +2165,7 @@
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
 ||fdfda.zhuzhai.com^
+||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
