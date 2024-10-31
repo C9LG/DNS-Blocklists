@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241031181928
-! Last modified: 2024/10/31 18:19:28
-! Blocked domains: 2202
+! Version: 20241101022518
+! Last modified: 2024/11/01 02:25:18
+! Blocked domains: 2196
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -627,7 +627,6 @@
 ||cs02-pps-drcn.dbankcdn.com^
 ||adx-drcn.op.dbankcloud.cn^
 ||events-drcn.op.dbankcloud.cn^
-||hiboard-drcn.ai.dbankcloud.cn^
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||logservice1.dbankcloud.cn^
 ||recommend-drcn.hms.dbankcloud.cn^
@@ -699,7 +698,6 @@
 ||rc.dxsvr.com^
 ||fumiad.dxys.pro^
 ||a.dxzy163.com^
-||dyg34.cn^
 ||a.dyjqd.com^
 ||by.dyq.cn^
 ||hl.dyq.cn^
@@ -1602,7 +1600,6 @@
 ||adrs.sdo.com^
 ||guang.sdsgwy.com^
 ||sensorsdata.cn^
-||ini.sh-pp.com^
 ||js.shangxueba.com^
 ||jpaasne.e.shifen.com^
 ||1.shopit.cn^
@@ -1985,7 +1982,6 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||khrtac.xiangha.com^
-||xiangshunjy.com^
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||b1.xiao84.com^
@@ -2139,7 +2135,6 @@
 ||adapi.yynetwk.com^
 ||q1.yyxwzx.com^
 ||yzgid.cn^
-||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
@@ -2198,7 +2193,6 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
-||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
