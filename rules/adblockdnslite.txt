@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241101181958
-! Last modified: 2024/11/01 18:19:58
-! Blocked domains: 2201
+! Version: 20241102022506
+! Last modified: 2024/11/02 02:25:06
+! Blocked domains: 2197
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -20,7 +20,6 @@
 ||smartad.10010.com^
 ||1010pic.com^
 ||adm.10jqka.com.cn^
-||soft.110route.com^
 ||1.11130.com.cn^
 ||1.11467.com^
 ||js1.122cha.com^
@@ -515,7 +514,6 @@
 ||p3-tt.byteimg.com^
 ||c11011.com^
 ||b1.c1km4.com^
-||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -641,7 +639,6 @@
 ||sh996.dftoutiao.com^
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
-||es-update.digiwincloud.com.cn^
 ||bea-s.dinghuoche.com^
 ||stdown.dinju.com^
 ||code.ditiezu.net^
@@ -1298,7 +1295,6 @@
 ||projecta-common-1258344701.file.myqcloud.com^
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
-||dl.natgo.cn^
 ||advert.lx.netease.com^
 ||da.netease.com^
 ||hubble.netease.com^
@@ -1350,7 +1346,6 @@
 ||gromore.pangolin-sdk-toutiao.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
-||paonancs.cn^
 ||bt1.patexplorer.com^
 ||pc768.com^
 ||ipad.pc899.cn^
@@ -1545,6 +1540,7 @@
 ||x.adnet.qq.com^
 ||yun-hl.3g.qq.com^
 ||a1.qqan.com^
+||down.qqfarmer.com.cn^
 ||qqhuhu.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
