@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241101105926
-! Last modified: 2024/11/01 10:59:26
-! Blocked domains: 63649
+! Version: 20241101181958
+! Last modified: 2024/11/01 18:19:58
+! Blocked domains: 63650
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -24199,6 +24199,7 @@
 ||g33ktr4ck.com^
 ||g33tr4c3r.com^
 ||g4news.biz^
+||g4y7uuk.com^
 ||g52bxi1v1w.com^
 ||g5fzq2l.com^
 ||g5rkmcc9f.com^
@@ -42624,6 +42625,7 @@
 ||pmtkhcr.com^
 ||pmtrkp.icu^
 ||pmweb.com.br^
+||pmwofrq.icu^
 ||pmwwedke.com^
 ||pmxyzqm.com^
 ||pmzer.com^
@@ -47902,7 +47904,6 @@
 ||scheduleginnarcotic.com^
 ||schedulerationally.com^
 ||cis.schibsted.com^
-||jssdk.pulse.schibsted.com^
 ||sdk.pulse.schibsted.com^
 ||collector.schibsted.io^
 ||dc.schibsted.io^
@@ -50629,6 +50630,7 @@
 ||sothiacalain.com^
 ||admin.sothuchi.vn^
 ||sotunet.com^
+||soublib.top^
 ||soughtflaredeeper.com^
 ||soukoope.com^
 ||roi.soulapp.cn^
@@ -57575,7 +57577,6 @@
 ||veinteractive.com^
 ||veitgov.cc^
 ||www.vejaskor.com.se^
-||www.vejasskor.com^
 ||vejhln.xyz^
 ||vekseptaufin.com^
 ||velaro.com^
