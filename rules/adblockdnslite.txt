@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241101022518
-! Last modified: 2024/11/01 02:25:18
-! Blocked domains: 2196
+! Version: 20241101105926
+! Last modified: 2024/11/01 10:59:26
+! Blocked domains: 2201
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -20,6 +20,7 @@
 ||smartad.10010.com^
 ||1010pic.com^
 ||adm.10jqka.com.cn^
+||soft.110route.com^
 ||1.11130.com.cn^
 ||1.11467.com^
 ||js1.122cha.com^
@@ -698,6 +699,7 @@
 ||rc.dxsvr.com^
 ||fumiad.dxys.pro^
 ||a.dxzy163.com^
+||dyg34.cn^
 ||a.dyjqd.com^
 ||by.dyq.cn^
 ||hl.dyq.cn^
@@ -1543,7 +1545,6 @@
 ||x.adnet.qq.com^
 ||yun-hl.3g.qq.com^
 ||a1.qqan.com^
-||down.qqfarmer.com.cn^
 ||qqhuhu.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -1600,6 +1601,7 @@
 ||adrs.sdo.com^
 ||guang.sdsgwy.com^
 ||sensorsdata.cn^
+||ini.sh-pp.com^
 ||js.shangxueba.com^
 ||jpaasne.e.shifen.com^
 ||1.shopit.cn^
@@ -1982,6 +1984,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||khrtac.xiangha.com^
+||xiangshunjy.com^
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||b1.xiao84.com^
@@ -2135,6 +2138,7 @@
 ||adapi.yynetwk.com^
 ||q1.yyxwzx.com^
 ||yzgid.cn^
+||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
@@ -2193,6 +2197,7 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
+||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
