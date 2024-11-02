@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241102104742
-! Last modified: 2024/11/02 10:47:42
-! Blocked domains: 63689
+! Version: 20241102181739
+! Last modified: 2024/11/02 18:17:39
+! Blocked domains: 63694
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -6053,6 +6053,7 @@
 ||adoperator.com^
 ||adoperatorx.com^
 ||adopexchange.com^
+||adopstar.uk^
 ||adoptedproducerdiscernible.com^
 ||adoptim.com^
 ||adoptioneitherrelaxing.com^
@@ -48226,6 +48227,7 @@
 ||seeablywitness.com^
 ||seeawhale.com^
 ||seebait.com^
+||seecaimooth.com^
 ||seedapp-creative.s3.amazonaws.com^
 ||seedconsistedcheerful.com^
 ||seedlingneurotic.com^
@@ -53792,6 +53794,7 @@
 ||thyobscure.com^
 ||thyroidaketon.com^
 ||l.ti-da.net^
+||ti4la.icu^
 ||vapi.tiandi.com^
 ||counter.tianjimedia.com^
 ||datas.tianqistatic.com^
@@ -59060,6 +59063,7 @@
 ||tds.vrcteam.ru^
 ||vrdfxioe.icu^
 ||vrdxznr.xyz^
+||vrelai.com^
 ||vreqnait.com^
 ||cts.vresp.com^
 ||vrewpywootyu.com^
@@ -60879,6 +60883,7 @@
 ||woryuc.com^
 ||wos.lv^
 ||wotihxqbdrbmk.xyz^
+||woublie.top^
 ||woudaufe.net^
 ||woujaupi.xyz^
 ||woujoami.com^
