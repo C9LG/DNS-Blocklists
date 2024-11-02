@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241102181739
-! Last modified: 2024/11/02 18:17:39
-! Blocked domains: 2200
+! Version: 20241103022234
+! Last modified: 2024/11/03 02:22:34
+! Blocked domains: 2199
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -1278,7 +1278,6 @@
 ||ad.api.moji.com^
 ||adlaunch.moji.com^
 ||momoguoji.xyz^
-||adx.mossru.com^
 ||mqwtgq.xyz^
 ||browser.events.data.msn.cn^
 ||srtb.msn.cn^
@@ -1349,6 +1348,7 @@
 ||gromore.pangolin-sdk-toutiao.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
+||paonancs.cn^
 ||bt1.patexplorer.com^
 ||pc768.com^
 ||ipad.pc899.cn^
@@ -2122,7 +2122,6 @@
 ||report.yumobi.cn^
 ||yunshipei.com^
 ||adsclick.yx.js.cn^
-||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
