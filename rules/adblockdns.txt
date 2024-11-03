@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241103105530
-! Last modified: 2024/11/03 10:55:30
-! Blocked domains: 63809
+! Version: 20241103182000
+! Last modified: 2024/11/03 18:20:00
+! Blocked domains: 63813
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -10634,6 +10634,7 @@
 ||bdawrsi.icu^
 ||bdbovbmfu.xyz^
 ||bdckqpofmclr.com^
+||bdcmwcl.icu^
 ||bddc935c97.com^
 ||bdf7a07377.com^
 ||bdfagcumunjzx.com^
@@ -19927,6 +19928,7 @@
 ||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsethimdownthmo.com^
+||dsfh2.icu^
 ||dsfjhfhyry2hh8jo09.com^
 ||dsghhbqey6ytg.cloudfront.net^
 ||dsh1ct2zrfakt.cloudfront.net^
@@ -54755,6 +54757,7 @@
 ||totogetica.com^
 ||totycb.cyou^
 ||touaz.xyz^
+||toublii.top^
 ||touchclarity.com^
 ||touched35one.pro^
 ||analytics.touchnote.io^
@@ -56926,6 +56929,7 @@
 ||urocyoncabrit.top^
 ||urodakt.com^
 ||uropygimoraine.com^
+||urpkktc.icu^
 ||urqwzbu.cn^
 ||urstats.de^
 ||urtirepor.com^
