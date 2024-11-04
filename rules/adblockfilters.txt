@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241104105451
-! Last modified: 2024/11/04 10:54:51
-! Blocked Filters: 417
+! Version: 20241104182022
+! Last modified: 2024/11/04 18:20:22
+! Blocked Filters: 414
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -178,7 +178,6 @@
 ||dn*.ixinwei.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
-||dxotbknruf.com
 ||eberalofe.pro
 ||eclog*-*.cafe24.com^
 ||edgetrksvc.ebay.
@@ -238,7 +237,6 @@
 ||jeeng-api-prod.azureedge.net
 ||js*.abolezi.com^
 ||jtbo*.nqxvevk.cn^
-||jyjbdwox.com
 ||ky891.oss-*.aliyuncs.com^
 ||letssex.
 ||linkexchange.
@@ -375,7 +373,6 @@
 ||talpa-analytics.
 ||taplytics-umami.grubhub.com
 ||tedious-weight.pro
-||telcyhlw.com
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
 ||timedirect.ru
