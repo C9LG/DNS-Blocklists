@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241104182022
-! Last modified: 2024/11/04 18:20:22
+! Version: 20241105022417
+! Last modified: 2024/11/05 02:24:17
 ! Blocked domains: 2200
 ! unBlocked domains: 7
 !
@@ -1177,6 +1177,7 @@
 ||litchiads.com^
 ||a.llysc.cn^
 ||lockview.cn^
+||lostheaven.com.cn^
 ||game.loveota.com^
 ||veim.lrswl.com^
 ||a1.lshou.com^
@@ -1600,7 +1601,6 @@
 ||adrs.sdo.com^
 ||guang.sdsgwy.com^
 ||sensorsdata.cn^
-||ini.sh-pp.com^
 ||js.shangxueba.com^
 ||jpaasne.e.shifen.com^
 ||1.shopit.cn^
