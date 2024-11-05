@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241105104718
-! Last modified: 2024/11/05 10:47:18
-! Blocked domains: 2200
+! Version: 20241105182013
+! Last modified: 2024/11/05 18:20:13
+! Blocked domains: 2196
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -1072,7 +1072,6 @@
 ||jiaopei.com^
 ||api.jietuhb.com^
 ||jiguang.cn^
-||jintonghua.com^
 ||1.jiqie.cn^
 ||ub1.job592.com^
 ||ywg.jobui.com^
@@ -1091,7 +1090,6 @@
 ||log.kajicam.com^
 ||short-video.kakamobi.cn^
 ||smart-789.kakamobi.cn^
-||x1.kantu.com^
 ||panda.kdnet.net^
 ||ssp.kdnet.net^
 ||super.kdnet.net^
@@ -1350,7 +1348,6 @@
 ||api-access.pangolin-sdk-toutiao1.com^
 ||paonancs.cn^
 ||bt1.patexplorer.com^
-||pc768.com^
 ||ipad.pc899.cn^
 ||btn.pchome.net^
 ||ivy.pconline.com.cn^
@@ -1547,7 +1544,6 @@
 ||qqhuhu.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
-||img1.qqwangming6.com^
 ||adlaunch.qtfm.cn^
 ||a.quangushi.com^
 ||adtrack.quark.cn^
