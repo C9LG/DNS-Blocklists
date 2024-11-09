@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241109181642
-! Last modified: 2024/11/09 18:16:42
-! Blocked domains: 2190
+! Version: 20241110022146
+! Last modified: 2024/11/10 02:21:46
+! Blocked domains: 2192
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -743,6 +743,7 @@
 ||first-vay.com^
 ||adv.fjtv.net^
 ||bd1.flfgw.cn^
+||pid.fly160.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||bdu.focus.cn^
@@ -869,6 +870,7 @@
 ||mini.hao123.com^
 ||cdn.haocaa.com^
 ||js1.haoge500.com^
+||2.haory.cn^
 ||2.haoxue360.com^
 ||img1.hblds.com^
 ||hechaocheng.cn^
@@ -1342,7 +1344,6 @@
 ||gromore.pangolin-sdk-toutiao.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
-||paonancs.cn^
 ||bt1.patexplorer.com^
 ||ipad.pc899.cn^
 ||btn.pchome.net^
@@ -1944,6 +1945,7 @@
 ||dm.wenshenxiu.com^
 ||ws.wenshenxiu.com^
 ||s1.wesiedu.com^
+||powercx1.wetolink.com^
 ||a.wifi33.com^
 ||adnew.wifi8.com^
 ||ad.winrar.com.cn^
