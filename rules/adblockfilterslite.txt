@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241112181901
-! Last modified: 2024/11/12 18:19:01
-! Blocked Filters: 360
+! Version: 20241113022416
+! Last modified: 2024/11/13 02:24:16
+! Blocked Filters: 361
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -215,6 +215,7 @@
 ||ky891.oss-*.aliyuncs.com^
 ||letssex.
 ||linkexchange.
+||linksprf.com^$badfilter
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
