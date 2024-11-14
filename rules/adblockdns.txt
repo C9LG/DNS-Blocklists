@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241114104916
-! Last modified: 2024/11/14 10:49:16
-! Blocked domains: 61689
+! Version: 20241114181945
+! Last modified: 2024/11/14 18:19:45
+! Blocked domains: 61702
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -12613,6 +12613,7 @@
 ||byluvdiscor.com^
 ||bylwtf.xyz^
 ||bymahuxv.xyz^
+||bynamebosh.com^
 ||bynix.xyz^
 ||bypasseaseboot.com^
 ||bypassmaestro.com^
@@ -12781,6 +12782,7 @@
 ||events.caffeine.tv^
 ||cagakzcwyr.com^
 ||cageinattentiveconfederate.com^
+||cagitfiz.com^
 ||caglaikr.net^
 ||caglonseeh.com^
 ||cagolgzazof.com^
@@ -15554,6 +15556,7 @@
 ||cowtpvi.com^
 ||coxiesthubble.com^
 ||coxziptwo.com^
+||coyureviral.com^
 ||cozeswracks.com^
 ||cozibaneco.com^
 ||cpa-optimizer.online^
@@ -18525,6 +18528,7 @@
 ||dinerinvite.com^
 ||dinerpropagandatoothbrush.com^
 ||dingdong.co.il^
+||dingerhoes.shop^
 ||dinghologyden.org^
 ||bea-s.dinghuoche.com^
 ||dinhdanhcutru.com^
@@ -29382,6 +29386,7 @@
 ||iwatojc.cn^
 ||iwebtrack.com^
 ||pro.iweihai.cn^
+||iweisio.top^
 ||iwerilxo.top^
 ||iwerioo.top^
 ||iwhejirurage.com^
@@ -33317,6 +33322,7 @@
 ||lwrnikzjpp.com^
 ||lwrohd.xyz^
 ||lwurserl.top^
+||lwvrv.icu^
 ||lwxjg.com^
 ||lwxuo.com^
 ||lx2rv.com^
@@ -35222,6 +35228,7 @@
 ||mobidriven.com^
 ||viaviet03.mobie.in^
 ||analytics.mobiedu.vn^
+||analytics-cds.mobiedu.vn^
 ||mobiflyc.com^
 ||mobiflyd.com^
 ||mobiflyn.com^
@@ -37053,6 +37060,7 @@
 ||customerevents.netflix.com^
 ||ichnaea.netflix.com^
 ||ichnaea-web.netflix.com^
+||logs.netflix.com^
 ||nmtracking.netflix.com^
 ||presentationtracking.netflix.com^
 ||netflopin.com^
@@ -39424,6 +39432,7 @@
 ||ositracker.com^
 ||oskiwood.com^
 ||w1.oskwai.com^
+||osmeticjewlike.com^
 ||osmoticupbound.com^
 ||osmzym.xyz^
 ||ospartners.xyz^
@@ -47278,6 +47287,7 @@
 ||sharion.xyz^
 ||sharkbleed.com^
 ||sharks.vn^
+||sharondemurer.shop^
 ||tracking.sharplink.us^
 ||sharpmarketing.eu^
 ||sharpofferlinks.com^
@@ -54275,6 +54285,7 @@
 ||u595sebqih.com^
 ||u5e.com^
 ||u5lxh1y1pgxy.shop^
+||u5ps5.icu^
 ||u68t5.icu^
 ||u78s.top^
 ||u7kgr54jr7.ru^
@@ -58226,6 +58237,7 @@
 ||weeklideals.com^
 ||ween.bid^
 ||weensnandow.com^
+||weensydudler.com^
 ||weephuwe.xyz^
 ||weepingheartache.com^
 ||weepingpretext.com^
@@ -59170,6 +59182,7 @@
 ||wrathyblesmol.com^
 ||wrating.com^
 ||analytics.wrc.nic.in^
+||wrdamoe.icu^
 ||wrdnaunq.com^
 ||wreaksyolkier.com^
 ||wreathabble.com^
