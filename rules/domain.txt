@@ -4983,6 +4983,7 @@ absentcleannewspapers.com
 absentlybiddingleopard.com
 absentlygratefulcamomile.com
 absentlyrindbulk.com
+absentmissingaccept.com
 abservinean.com
 abskursin.com
 abslroan.com
@@ -6508,6 +6509,7 @@ ads-dot-fbc-web-2018.uc.r.appspot.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 ads-gdl.imovideo.ru
 ads-go.adroi.com.cn
+ads-image.production-public.tubi.io
 ads-img-qc.xhscdn.com
 ads-interfaces.sc-cdn.net
 ads-jp.tiktok.com
@@ -10560,6 +10562,7 @@ atsabwhkox.com
 atservineor.com
 atsfi.de
 atshroomisha.com
+atsod.launch.liveramp.com
 atspace.tv
 attacarbo.com
 attachedkneel.com
@@ -13690,6 +13693,7 @@ buvdkt.icu
 bux1le001.com
 buxbaumiaceae.sbs
 buxflow.com
+buxfmookn.com
 buxfznnf.xyz
 buxim.com
 buxp.org
@@ -22631,6 +22635,7 @@ ev.kck.st
 ev.moneymade.io
 ev.stellarlabs.ai
 ev.tpocdm.com
+ev2.api.bdg.com
 eva-ad.24hstatic.com
 evadavdsp.pro
 evaff.com
@@ -23283,6 +23288,7 @@ faggrim.com
 fagovwnavab.com
 fagywalu.pro
 faibl.org
+fail.adr.ec
 failedmengodless.com
 failingaroused.com
 failpendingoppose.com
@@ -26044,6 +26050,7 @@ gloumsee.net
 gloumsie.net
 glounugeepse.xyz
 glouseer.net
+glousoonomsy.xyz
 gloussowu.xyz
 gloustoa.net
 gloutanacard.com
@@ -31254,6 +31261,7 @@ jvzoupeh.com
 jwalf.com
 jwamnd.com
 jwatera.top
+jweisia.top
 jwerilxa.top
 jwerioa.top
 jwfesuk.cn
@@ -40218,6 +40226,7 @@ outofthecath.org
 outpush.net
 outrotomr.com
 outseeltor.com
+outseethoozet.net
 outsetnormalwaited.com
 outseylor.com
 outsimiseara.com
@@ -45727,6 +45736,7 @@ rhinoseo.com
 rhombicsomeday.com
 rhombusads.com
 rhouseoyopers.info
+rhoxbneasg.xyz
 rhrim.com
 rhsorga.com
 rhubarbmasterpiece.com
@@ -50560,6 +50570,7 @@ stats.boringproxy.io
 stats.bradmax.com
 stats.break.com
 stats.browsertrix.com
+stats.bunkr.ru
 stats.callnowbutton.com
 stats.cardschat.com
 stats.christianpost.com
@@ -51837,6 +51848,7 @@ t.a3cloud.net
 t.adbr.io
 t.adbxb.com
 t.adcell.com
+t.adii.se
 t.adlpo.com
 t.ads.sohu.com
 t.ajrkm.link
@@ -56137,6 +56149,7 @@ umphek.com
 umqmxawxnrcp.com
 umrstfl.cn
 umsns.com
+umtchdhkrx.com
 umtudo.com
 umumallowecouldl.info
 umwcyw.xyz
@@ -56640,6 +56653,7 @@ usepanda.com
 user-analysis.7moor.com
 user-clicks.com
 user-shield-check.com
+user-signals.production-public.tubi.io
 user-stats.rbl.ms
 user.ad-locus.com
 user.headlines.pw
@@ -58474,6 +58488,7 @@ vntikiship.com
 vntkm.com
 vntsm.com
 vntsm.io
+vnuuh.icu
 vnvay.top
 vnvietcombank.cc
 vnvietcombanks.cc

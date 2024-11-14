@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241114181945
-! Last modified: 2024/11/14 18:19:45
-! Blocked domains: 61702
+! Version: 20241115022545
+! Last modified: 2024/11/15 02:25:45
+! Blocked domains: 61717
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -5029,6 +5029,7 @@
 ||absentlybiddingleopard.com^
 ||absentlygratefulcamomile.com^
 ||absentlyrindbulk.com^
+||absentmissingaccept.com^
 ||abservinean.com^
 ||abskursin.com^
 ||abslroan.com^
@@ -5701,6 +5702,7 @@
 ||adiam.tech^
 ||adicate.com^
 ||adiceltic.de^
+||t.adii.se^
 ||adiingsinspiri.org^
 ||adiingsinspiringt.com^
 ||adikteev.com^
@@ -6073,6 +6075,7 @@
 ||adquire.com^
 ||adquota.com^
 ||adqva.com^
+||fail.adr.ec^
 ||adrange.net^
 ||adrank24.de^
 ||adrazzi.com^
@@ -10487,6 +10490,7 @@
 ||bdfjw.cn^
 ||bdg-analytics.appspot.com^
 ||ev.api.bdg.com^
+||ev2.api.bdg.com^
 ||bdhsahmg.com^
 ||tracking.bdi-services.de^
 ||trck.bdi-services.de^
@@ -12414,6 +12418,7 @@
 ||external-ad.bunjang.co.kr^
 ||log.bunjang.co.kr^
 ||bunjaraserumal.com^
+||stats.bunkr.ru^
 ||bunnslibby.com^
 ||bunny-net.com^
 ||rum-metrics.bunny.net^
@@ -12494,6 +12499,7 @@
 ||bux1le001.com^
 ||buxbaumiaceae.sbs^
 ||buxflow.com^
+||buxfmookn.com^
 ||buxfznnf.xyz^
 ||buxim.com^
 ||buxp.org^
@@ -24670,6 +24676,7 @@
 ||gloumsie.net^
 ||glounugeepse.xyz^
 ||glouseer.net^
+||glousoonomsy.xyz^
 ||gloussowu.xyz^
 ||gloustoa.net^
 ||gloutanacard.com^
@@ -30304,6 +30311,7 @@
 ||jwalf.com^
 ||jwamnd.com^
 ||jwatera.top^
+||jweisia.top^
 ||jwerilxa.top^
 ||jwerioa.top^
 ||jwfesuk.cn^
@@ -32612,6 +32620,7 @@
 ||liveprivates.com^
 ||livepromotools.com^
 ||liverail.com^
+||atsod.launch.liveramp.com^
 ||ttauri.livescience.com^
 ||analytics.livesense.marketing^
 ||livesexbar.com^
@@ -39613,6 +39622,7 @@
 ||geolocation.outreach.com^
 ||outrotomr.com^
 ||outseeltor.com^
+||outseethoozet.net^
 ||outsetnormalwaited.com^
 ||outseylor.com^
 ||outsimiseara.com^
@@ -45186,6 +45196,7 @@
 ||rhombicsomeday.com^
 ||rhombusads.com^
 ||rhouseoyopers.info^
+||rhoxbneasg.xyz^
 ||rhrim.com^
 ||rhsorga.com^
 ||rhubarbmasterpiece.com^
@@ -53919,7 +53930,9 @@
 ||tubeultra.com^
 ||tubevay.com^
 ||tubewalk.com^
+||ads-image.production-public.tubi.io^
 ||analytics-ingestion.production-public.tubi.io^
+||user-signals.production-public.tubi.io^
 ||analytics-ingestion-production.tubitv.com^
 ||tubroaffs.org^
 ||tuckedmajor.com^
@@ -54639,6 +54652,7 @@
 ||umqmxawxnrcp.com^
 ||umrstfl.cn^
 ||umsns.com^
+||umtchdhkrx.com^
 ||umtudo.com^
 ||umumallowecouldl.info^
 ||umwcyw.xyz^
@@ -57102,6 +57116,7 @@
 ||vntkm.com^
 ||vntsm.com^
 ||vntsm.io^
+||vnuuh.icu^
 ||vnvay.top^
 ||vnvietcombank.cc^
 ||vnvietcombanks.cc^
