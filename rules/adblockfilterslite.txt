@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241116022535
-! Last modified: 2024/11/16 02:25:35
-! Blocked Filters: 364
+! Version: 20241116105411
+! Last modified: 2024/11/16 10:54:11
+! Blocked Filters: 365
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -332,6 +332,7 @@
 ||t.delfi.
 ||tag-based.s3.*.amazonaws.com^
 ||talpa-analytics.
+||telemetry*.api.playstation.com^
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
 ||tnc*.zijieapi.com^
