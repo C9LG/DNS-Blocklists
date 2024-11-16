@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241116105411
-! Last modified: 2024/11/16 10:54:11
-! Blocked domains: 61720
+! Version: 20241116181810
+! Last modified: 2024/11/16 18:18:10
+! Blocked domains: 61735
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -5159,6 +5159,7 @@
 ||ackeysulfid.top^
 ||ackhoo.com^
 ||acknowledgecalculated.com^
+||aclemonliner.com^
 ||aclickads.com^
 ||aclicktds.org^
 ||aclktrkr.com^
@@ -9127,6 +9128,7 @@
 ||edge.atmtd.com^
 ||ato.mx^
 ||atodiler.com^
+||atollanaboly.com^
 ||atomex.net^
 ||atomicarot.com^
 ||atomictrivia.ru^
@@ -9823,6 +9825,7 @@
 ||x.babe.today^
 ||bablace.com^
 ||bablogon.net^
+||bablohfleshes.com^
 ||customfingerprints.bablosoft.com^
 ||babun.club^
 ||babyboomboomads.com^
@@ -13062,6 +13065,7 @@
 ||cassetteflask.com^
 ||cassettelancefriday.com^
 ||cassettesandwicholive.com^
+||cassinamawger.top^
 ||analytics.castel.jp^
 ||casterpretic.com^
 ||castingmannergrim.com^
@@ -17872,6 +17876,7 @@
 ||defigroups.com^
 ||definedbootnervous.com^
 ||definitial.com^
+||deforcediau.com^
 ||defpush.com^
 ||cdn.defractal.com^
 ||defybrick.com^
@@ -18581,6 +18586,7 @@
 ||disastrousdetestablegoody.com^
 ||disastrousfinal.pro^
 ||disbeliefenvelopemeow.com^
+||disburymixy.shop^
 ||disccompose.com^
 ||discernibletickpang.com^
 ||dischargecompound.com^
@@ -23168,6 +23174,7 @@
 ||freezedispense.com^
 ||freezereraserelated.com^
 ||freezescrackly.com^
+||freezyquieten.com^
 ||fregtrsatnt.com^
 ||freightopen.com^
 ||freihit.de^
@@ -29537,6 +29544,7 @@
 ||a3.jandan.net^
 ||jane1.top^
 ||jane2.top^
+||janemmf.com^
 ||jangiddywashed.com^
 ||jangleachy.com^
 ||jangonetwork.com^
@@ -33728,6 +33736,7 @@
 ||maniconclavis.com^
 ||manifefashiona.info^
 ||manipulativegraphic.com^
+||manitusbaclava.com^
 ||manjeetsteelproductions.com^
 ||mannerconflict.com^
 ||manoeuvrestretchingpeer.com^
@@ -43260,6 +43269,7 @@
 ||qgevavwyafjf.com^
 ||qgexkmi.com^
 ||qgf338jtt8tty7rx.myfritz.net^
+||qgg7e.icu^
 ||qgidskiy.top^
 ||qgl27.xyz^
 ||qglinlrtdfc.com^
@@ -44183,6 +44193,7 @@
 ||rationallyagreement.com^
 ||ratioregarding.com^
 ||ratke.biz^
+||rattersexpeded.com^
 ||rauceesh.com^
 ||raudoufoay.com^
 ||raufajoo.net^
@@ -48377,6 +48388,7 @@
 ||sketchyaggravation.com^
 ||sketchyrecycleimpose.com^
 ||sketchystairwell.com^
+||skewserer.com^
 ||skfda5.com^
 ||skhf11.com^
 ||skhf66.com^
@@ -49061,6 +49073,7 @@
 ||solutionsadultes.com^
 ||solutionshindsight.net^
 ||soluzionibio.it^
+||somaskeefs.shop^
 ||sombes.com^
 ||somedaytrip.com^
 ||stats.someecards.com^
@@ -52778,6 +52791,7 @@
 ||toffeeallergythrill.com^
 ||toffeebigot.com^
 ||toffeecollationsdogcollar.com^
+||toffiesoxgall.com^
 ||toftforcal.com^
 ||togenron.com^
 ||togetherballroom.com^
@@ -54095,6 +54109,7 @@
 ||tw-shopee.xyz^
 ||e.tw.cx^
 ||twads.gg^
+||twaitevirgal.com^
 ||twamjb.cn^
 ||twazzyoidwlfe.com^
 ||kmp.twbymc.cn^
