@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241118182116
-! Last modified: 2024/11/18 18:21:16
-! Blocked Filters: 418
+! Version: 20241119022619
+! Last modified: 2024/11/19 02:26:19
+! Blocked Filters: 420
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -84,6 +84,7 @@
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aff*.kolektiva.net^
+||ali-bj-pcdn-*.biliapi.net^
 ||alishop*.ru^
 ||allsportsflix.
 ||almosto.com
@@ -221,6 +222,7 @@
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
 ||hvkwmvpxvjo.xyz
+||hw-sh-pcdn-*.biliapi.net^
 ||i-*.ci360.sas.com^
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
