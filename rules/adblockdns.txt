@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241118105956
-! Last modified: 2024/11/18 10:59:56
-! Blocked domains: 61751
+! Version: 20241118182116
+! Last modified: 2024/11/18 18:21:16
+! Blocked domains: 61755
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -8224,6 +8224,7 @@
 ||anzu.io^
 ||anzvn.net^
 ||ao-freegeoip.herokuapp.com^
+||ao1118kas.top^
 ||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aoao11111iis.top^
@@ -15827,6 +15828,7 @@
 ||cryjun.com^
 ||cryorganichash.com^
 ||cryp-o.online^
+||crypto-ads.net^
 ||crypto-loot.com^
 ||crypto-o.click^
 ||cryptoad.space^
@@ -34683,6 +34685,7 @@
 ||mhub.work^
 ||mhvllvgrefplg.com^
 ||mhwpwcj.com^
+||mhwy6.icu^
 ||mhzftye.xyz^
 ||resolver.gslb.mi-idc.com^
 ||mi62r416j.com^
@@ -55376,6 +55379,7 @@
 ||uwaxoyfklhm.com^
 ||ads.uwayapply.com^
 ||uwdvcn.com^
+||uweisit.top^
 ||uweriot.top^
 ||uwerpyh.cn^
 ||uwfcqtdb.xyz^
