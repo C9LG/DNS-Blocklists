@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241120105551
-! Last modified: 2024/11/20 10:55:51
-! Blocked domains: 61753
+! Version: 20241120182008
+! Last modified: 2024/11/20 18:20:08
+! Blocked domains: 61767
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1803,6 +1803,7 @@
 ||1betandgonow.com^
 ||1bf00b950c.com^
 ||1bm3n8sld.de^
+||1buo.icu^
 ||1c447fc5b7.com^
 ||1c52e1e2.live^
 ||1c7cf19baa.com^
@@ -5406,6 +5407,7 @@
 ||adchemix.com^
 ||adchemy.com^
 ||adchoice.com^
+||gefkyqjq.adckt.tech^
 ||adcl1ckspr0f1t.com^
 ||adclear.net^
 ||adclerks.com^
@@ -8182,11 +8184,13 @@
 ||anzvn.net^
 ||ao-freegeoip.herokuapp.com^
 ||ao1118kas.top^
+||ao1120kas.top^
 ||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aoao11111iis.top^
 ||aoao11120iis.top^
 ||aoao11121iis.top^
+||aoao11201iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoihaizo.xyz^
@@ -22122,6 +22126,7 @@
 ||fetinhapinhedt.com^
 ||ads.fetnet.net^
 ||feuageepitoke.com^
+||feubgzfx.icu^
 ||feudalmalletconsulate.com^
 ||feudalplastic.com^
 ||feuingcrche.com^
@@ -24592,6 +24597,7 @@
 ||glomtipagrou.xyz^
 ||glonsophe.com^
 ||gloodsie.com^
+||glooftezoad.net^
 ||gloogeed.xyz^
 ||gloogruk.com^
 ||gloohozedoa.xyz^
@@ -25887,6 +25893,7 @@
 ||log.happyapkdown.com^
 ||metrics.happycolor.app^
 ||happydate.today^
+||happykitcr.com^
 ||log1.happymod.com^
 ||ad.happynest.vn^
 ||happypavilion.com^
@@ -30988,6 +30995,7 @@
 ||klikadvertising.com^
 ||klikajadeh.com^
 ||kliksaya.com^
+||klingxai.com^
 ||klipmart.com^
 ||kliqz.com^
 ||klivz.com^
@@ -33244,6 +33252,7 @@
 ||lutachechu.pro^
 ||lutoorgourgi.com^
 ||lutrbr.xyz^
+||lutrineextant.com^
 ||luuming.com^
 ||luuvanquang.com^
 ||luvaihoo.com^
@@ -33624,6 +33633,7 @@
 ||log22.makeshop.co.kr^
 ||makethebusiness.com^
 ||makeupenumerate.com^
+||makhzanpopulin.com^
 ||making.party^
 ||makingnude.com^
 ||adserv.mako.co.il^
@@ -45326,6 +45336,7 @@
 ||beacon.riskified.com^
 ||riskymuzzlebiopsy.com^
 ||rituationscardb.info^
+||rivacathood.com^
 ||rivalpout.com^
 ||rivatedqualizebruisi.info^
 ||rivcash.com^
@@ -48220,6 +48231,7 @@
 ||sincenturypro.org^
 ||sincerelyseverelyminimum.com^
 ||tag.digops.sincro.io^
+||sinderpalaced.top^
 ||sindtex.shop^
 ||sinefilmizlesen.com^
 ||prod-clientlog.fastly.newssuite.sinfony.ne.jp^
@@ -59002,6 +59014,7 @@
 ||womenclick.ru^
 ||womens-insider.info^
 ||womenvocationanxious.com^
+||womerasecocide.com^
 ||wompanalytics.azurewebsites.net^
 ||woncherish.com^
 ||wonconsists.com^
@@ -60592,6 +60605,7 @@
 ||ynwia.com^
 ||ynyy83za4i.ru^
 ||ynzhby.com^
+||tqmwqfh.yo-bc.de^
 ||oaprodlogging.yo-digital.com^
 ||yoads.net^
 ||yoads.network^
