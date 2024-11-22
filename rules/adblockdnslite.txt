@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241122022605
-! Last modified: 2024/11/22 02:26:05
-! Blocked domains: 2192
+! Version: 20241122105656
+! Last modified: 2024/11/22 10:56:56
+! Blocked domains: 2190
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -871,7 +871,6 @@
 ||mini.hao123.com^
 ||cdn.haocaa.com^
 ||js1.haoge500.com^
-||2.haory.cn^
 ||2.haoxue360.com^
 ||img1.hblds.com^
 ||hechaocheng.cn^
@@ -1173,6 +1172,7 @@
 ||litchiads.com^
 ||a.llysc.cn^
 ||lockview.cn^
+||lostheaven.com.cn^
 ||game.loveota.com^
 ||veim.lrswl.com^
 ||a1.lshou.com^
@@ -1538,7 +1538,6 @@
 ||x.adnet.qq.com^
 ||yun-hl.3g.qq.com^
 ||a1.qqan.com^
-||down.qqfarmer.com.cn^
 ||qqhuhu.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -1716,7 +1715,6 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
-||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
 ||szbxm.cn^
