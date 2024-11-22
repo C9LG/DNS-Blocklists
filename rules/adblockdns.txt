@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241122182004
-! Last modified: 2024/11/22 18:20:04
-! Blocked domains: 61767
+! Version: 20241123022540
+! Last modified: 2024/11/23 02:25:40
+! Blocked domains: 61776
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -10987,7 +10987,6 @@
 ||metrics.biddertmz.com^
 ||biddingfitful.com^
 ||ana.masky.biddingx.com^
-||creative.bidease.com^
 ||track-resource.bidease.com^
 ||track-us.bidease.com^
 ||bidehunter.com^
@@ -15899,6 +15898,7 @@
 ||ctosrd.com^
 ||t810.ctpost.com^
 ||ctr-media.info^
+||apps-pbd.ctraffic.io^
 ||ctrdwm.com^
 ||ctrhub.com^
 ||ma-adx.ctrip.com^
@@ -16075,7 +16075,7 @@
 ||cxlvlbx.xyz^
 ||cxmolk.com^
 ||live.cxo.name^
-||cxpublic.com^
+||csm.cxpublic.com^
 ||cxsh.cn.com^
 ||cxtvli.com^
 ||cxvyk.com^
@@ -18840,6 +18840,7 @@
 ||dmevejjt.icu^
 ||dmg0877nfcvqj.cloudfront.net^
 ||dmhbbivu.top^
+||dmhclkohnrpvg.com^
 ||dmiredindeed.com^
 ||dmiredindeed.info^
 ||dmkdtkad2jyb9.cloudfront.net^
@@ -19361,6 +19362,7 @@
 ||drearypassport.com^
 ||drenastheycam.com^
 ||drenchsealed.com^
+||drenqils.com^
 ||dressceaseadapt.com^
 ||dresserbirth.com^
 ||dresserderange.com^
@@ -22767,6 +22769,7 @@
 ||fontdeterminer.com^
 ||foodieblogroll.com^
 ||trackingapi.foody.vn^
+||fooguthauque.net^
 ||foojeshoops.xyz^
 ||foolishcounty.pro^
 ||foolishjunction.com^
@@ -25516,6 +25519,7 @@
 ||aqc.gucheng.com^
 ||dm.gucheng.com^
 ||guchihyfa.pro^
+||guckoash.net^
 ||gudangbanner.com^
 ||gudohuxy.uno^
 ||gueikw.xyz^
@@ -31469,6 +31473,7 @@
 ||kwdflqos.com^
 ||kwedzcq.com^
 ||kweisid.top^
+||kweizad.top^
 ||kwerilxd.top^
 ||kweriod.top^
 ||kwgefe.com^
@@ -44298,6 +44303,7 @@
 ||rchmupnlifo.xyz^
 ||rclsnaips.com^
 ||rcnithgm.xyz^
+||rcqwmwxdvnt.com^
 ||revi.rcs.it^
 ||rcsadv.it^
 ||dmpmetrics.rcsmetrics.it^
@@ -45997,6 +46003,7 @@
 ||ingest.make.rvapps.io^
 ||rvbiocn.cn^
 ||rvddfchkj.xyz^
+||api.rvere.com^
 ||rvetreyu.net^
 ||ns.rvmkitt.com^
 ||rvnaxwqe.icu^
@@ -51431,6 +51438,7 @@
 ||tcs-asp.net^
 ||i.tct-rom.com^
 ||tctm.co^
+||tcvjhwizmy.com^
 ||tcvmtp.xyz^
 ||tcvnhomefic.com^
 ||tcwhycdinjtgar.xyz^
@@ -53165,6 +53173,7 @@
 ||2882.tpddns.cn^
 ||tpdethnol.com^
 ||tphcrjth.xyz^
+||tpi-app.herokuapp.com^
 ||tpizy1uy3x.ru^
 ||tpmedia-reactads.com^
 ||tpmedia.online^
