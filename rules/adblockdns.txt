@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241123105210
-! Last modified: 2024/11/23 10:52:10
-! Blocked domains: 61707
+! Version: 20241123181810
+! Last modified: 2024/11/23 18:18:10
+! Blocked domains: 61714
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -15287,6 +15287,7 @@
 ||getcode.cotsta.ru^
 ||t.cotsta.ru^
 ||cottersguayabi.click^
+||cottoidearldom.com^
 ||cottoncabbage.com^
 ||cottondivorcefootprint.com^
 ||cotwcpcjcrjfj.xyz^
@@ -20794,6 +20795,7 @@
 ||eputysolomon.com^
 ||epxfjcb.xyz^
 ||epxprfk.xyz^
+||epylliafending.com^
 ||eqads.com^
 ||eqav33.com^
 ||eqav77.com^
@@ -24439,6 +24441,7 @@
 ||glideimpulseregulate.com^
 ||glidelamppost.com^
 ||gligheew.xyz^
+||gligoubsed.com^
 ||glimpaid.net^
 ||glimpsedrastic.com^
 ||glimpsemankind.com^
@@ -24551,6 +24554,7 @@
 ||gloustoa.net^
 ||gloutanacard.com^
 ||gloutchi.com^
+||glouvugnirsy.net^
 ||glouxaih.net^
 ||glouxalt.net^
 ||glouzokrache.com^
@@ -50719,6 +50723,7 @@
 ||sweetstudents.com^
 ||swegospright.click^
 ||sweisib.top^
+||sweizab.top^
 ||swelen.com^
 ||track.byzon.swelen.net^
 ||swellingconsultation.com^
@@ -58587,6 +58592,7 @@
 ||whyl-laz-i-264.site^
 ||d.wi-fi.ru^
 ||tms.dmp.wi-fi.ru^
+||wi1f.icu^
 ||statistics.wibiya.com^
 ||wibtntmvox.com^
 ||wichauru.xyz^
@@ -59547,6 +59553,7 @@
 ||analyticswritenew.xerevo.com^
 ||xeryt111.fun^
 ||xetlugupyug.com^
+||xevaix.com^
 ||xevbjycybvb.xyz^
 ||xevzdl.xyz^
 ||xfahjal.com^
