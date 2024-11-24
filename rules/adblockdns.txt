@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241124110207
-! Last modified: 2024/11/24 11:02:07
-! Blocked domains: 61798
+! Version: 20241124181845
+! Last modified: 2024/11/24 18:18:45
+! Blocked domains: 61797
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -24134,13 +24134,9 @@
 ||gettopup.com^
 ||gettraffnews.com^
 ||gettrf.org^
+||getui.cn^
 ||getui.com^
-||b-gi.getui.net^
-||b-gtc.getui.net^
-||c-gtc.getui.net^
-||gi.getui.net^
-||sdk.open.talk.getui.net^
-||talk.nz4.getui.net^
+||getui.net^
 ||getvideoz.click^
 ||getwindowsactivator.info^
 ||getxml.org^
@@ -27825,7 +27821,7 @@
 ||igaming.biz^
 ||ssp.igaw.io^
 ||igbfwa.com^
-||sdk.open.phone.igexin.com^
+||igexin.com^
 ||ads.igfhaber.com^
 ||iggbky.xyz^
 ||ightsapph.info^
@@ -33170,6 +33166,7 @@
 ||ltrac4vyw.com^
 ||tracking.ltz.se^
 ||tracking.etidning.ltz.se^
+||stats.med.lu.se^
 ||lubbardstrouds.com^
 ||lubowitz.biz^
 ||lubricantexaminer.com^
@@ -46138,6 +46135,7 @@
 ||sackbarngroups.com^
 ||sackeelroy.net^
 ||sacombank.net.vn^
+||sacombankvn.com^
 ||sacredperpetratorbasketball.com^
 ||sacrificeaffliction.com^
 ||sacvmb.icu^
@@ -59408,6 +59406,7 @@
 ||wwclickserv.club^
 ||stats.wwd.com^
 ||wweisie.top^
+||wweizae.top^
 ||wwerioe.top^
 ||wwfx.xyz^
 ||wwgate.ru^
