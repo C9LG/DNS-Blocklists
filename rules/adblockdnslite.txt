@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241125182058
-! Last modified: 2024/11/25 18:20:58
-! Blocked domains: 2183
+! Version: 20241126022614
+! Last modified: 2024/11/26 02:26:14
+! Blocked domains: 2187
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -900,6 +900,7 @@
 ||sg-public-data-api.hoyoverse.com^
 ||ys-log-upload-os.hoyoverse.com^
 ||hpplay.cn^
+||hseda.com^
 ||g.hsw.cn^
 ||api-analytics-cn.huami.com^
 ||app-analytics-ru.huami.com^
@@ -1166,7 +1167,6 @@
 ||litchiads.com^
 ||a.llysc.cn^
 ||lockview.cn^
-||lostheaven.com.cn^
 ||game.loveota.com^
 ||veim.lrswl.com^
 ||a1.lshou.com^
@@ -1218,7 +1218,6 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
-||360down7.miiyun.cn^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1286,6 +1285,7 @@
 ||projecta-common-1258344701.file.myqcloud.com^
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
+||dl.natgo.cn^
 ||advert.lx.netease.com^
 ||da.netease.com^
 ||hubble.netease.com^
@@ -1357,6 +1357,7 @@
 ||res.pinpai8.cn^
 ||bd1.pipaw.com^
 ||s1.pipishu.com^
+||pkoplink.com^
 ||pkyjuc.cn^
 ||bdx.playnext.cn^
 ||pmiskc.cn^
@@ -1708,8 +1709,10 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
+||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
+||szbdyd.com^
 ||szbxm.cn^
 ||szbxw.cn^
 ||wm.szdushi.com.cn^
@@ -2180,6 +2183,7 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
+||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
