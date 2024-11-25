@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241125105934
-! Last modified: 2024/11/25 10:59:34
-! Blocked domains: 61763
+! Version: 20241125182058
+! Last modified: 2024/11/25 18:20:58
+! Blocked domains: 61768
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -6625,6 +6625,7 @@
 ||ae888vip.com^
 ||aeaw.cn^
 ||aec40f9e073ba6.com^
+||aedi.ai^
 ||aedileundern.shop^
 ||aeefpine.com^
 ||aeeg5idiuenbi7erger.com^
@@ -7148,6 +7149,7 @@
 ||dmym.aixyy.com^
 ||dm.aizhan.com^
 ||dmm.aizhan.com^
+||aizhantj.com^
 ||aj1052.online^
 ||aj1070.online^
 ||aj1090.online^
@@ -23506,6 +23508,7 @@
 ||tracking.g2crowd.com^
 ||g33ktr4ck.com^
 ||g33tr4c3r.com^
+||g41i.icu^
 ||g4news.biz^
 ||g4y7uuk.com^
 ||g52bxi1v1w.com^
@@ -43300,6 +43303,7 @@
 ||cj.qidian.com^
 ||uedas.qidian.com^
 ||qidmhohammat.com^
+||qidzwhfp.icu^
 ||qienews.cn^
 ||qifake.com^
 ||haostat.qihoo.com^
@@ -54136,6 +54140,7 @@
 ||navigator-analytics.tweakwise.com^
 ||tweezesmalanga.com^
 ||tweisii.top^
+||tweizai.top^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
 ||twelvemissionjury.com^
