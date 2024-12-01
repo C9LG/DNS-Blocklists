@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241201111532
-! Last modified: 2024/12/01 11:15:32
-! Blocked domains: 61045
+! Version: 20241201181909
+! Last modified: 2024/12/01 18:19:09
+! Blocked domains: 61049
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -6660,6 +6660,7 @@
 ||af-z.jp^
 ||eq.af31f.site^
 ||af6937a2.live^
+||af6s.icu^
 ||af9dc9.xyz^
 ||afahivar.com^
 ||afaktrio.com^
@@ -8101,6 +8102,7 @@
 ||ao1120kas.top^
 ||ao1122kas.top^
 ||ao1123kas.top^
+||ao1201kas.top^
 ||aoakss.com^
 ||aoalmfwinbsstec23.com^
 ||aoao11111iis.top^
@@ -8108,6 +8110,7 @@
 ||aoao11121iis.top^
 ||aoao11201iis.top^
 ||aoao11211iis.top^
+||aoao12011iis.top^
 ||aobtwv.icu^
 ||aogk88.asia^
 ||aoihaizo.xyz^
@@ -11894,6 +11897,7 @@
 ||bringthrust.com^
 ||brinkprovenanceamenity.com^
 ||brioletredeyes.com^
+||brircel.com^
 ||track.briskfile.com^
 ||bristlemarinade.com^
 ||bristlepuncture.com^
@@ -16276,7 +16280,6 @@
 ||d1wc0ojltqk24g.cloudfront.net^
 ||d1wd81rzdci3ru.cloudfront.net^
 ||d1wi563t0137vz.cloudfront.net^
-||d1wix2gc2cgqis.cloudfront.net^
 ||d1wjz6mrey9f5v.cloudfront.net^
 ||d1wv5x2u0qrvjw.cloudfront.net^
 ||d1x9q8w2e4.xyz^
@@ -19688,6 +19691,7 @@
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||e8100325bc.com^
 ||e822e00470.com^
+||e8d7.icu^
 ||e8e2063b.xyz^
 ||e9d13e3e01.com^
 ||ea011c4ae4.com^
@@ -19931,6 +19935,7 @@
 ||edaightutaitlastwe.info^
 ||edalloverwiththinl.info^
 ||edallthroughthe.info^
+||edamcsw.top^
 ||edbehindforhewa.info^
 ||edbritingsynt.info^
 ||edbythe67ak.cfd^
@@ -29296,6 +29301,7 @@
 ||jcqueawk.xyz^
 ||jcreje.com^
 ||jcrnbnw.com^
+||jcwlsofn.icu^
 ||jcyjly.com^
 ||jczunp.xyz^
 ||ads-union.jd.com^
@@ -35723,7 +35729,6 @@
 ||mxn191102202nm.click^
 ||mxn191102203nm.click^
 ||mxn191102205nm.click^
-||statistik.mxo.se^
 ||mxp00338.com^
 ||ads-server.mxplay.com^
 ||evt.mxplay.com^
@@ -56909,7 +56914,6 @@
 ||vxdpmxw.xyz^
 ||vxdrfr.xyz^
 ||vxfdepn.cn^
-||tracking.vxonews.se^
 ||vxorjza.com^
 ||vxpdfb.xyz^
 ||vxvw11.com^
