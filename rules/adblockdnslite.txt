@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241201022417
-! Last modified: 2024/12/01 02:24:17
-! Blocked domains: 2185
+! Version: 20241201111532
+! Last modified: 2024/12/01 11:15:32
+! Blocked domains: 2187
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -866,6 +866,7 @@
 ||cdn.haocaa.com^
 ||js1.haoge500.com^
 ||2.haory.cn^
+||by.haory.cn^
 ||2.haoxue360.com^
 ||img1.hblds.com^
 ||hechaocheng.cn^
@@ -1709,6 +1710,7 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
+||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
 ||szbdyd.com^
@@ -2108,7 +2110,6 @@
 ||report.yumobi.cn^
 ||yunshipei.com^
 ||adsclick.yx.js.cn^
-||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
@@ -2182,6 +2183,7 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
+||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
