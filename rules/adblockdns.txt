@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241203110405
-! Last modified: 2024/12/03 11:04:05
-! Blocked domains: 59061
+! Version: 20241203182156
+! Last modified: 2024/12/03 18:21:56
+! Blocked domains: 59064
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -10528,6 +10528,7 @@
 ||native-ads-events-api2.c4s-rd.services^
 ||c4tracking01.com^
 ||c4tw.net^
+||c4uy.icu^
 ||c5cdfd1601.com^
 ||c5e739a769.com^
 ||c67209d67f.com^
@@ -13384,7 +13385,6 @@
 ||cpcvabi.com^
 ||cpddgcr.xyz^
 ||cpdronhu.xyz^
-||cpdsrv.de^
 ||log.cpex.cz^
 ||pixel.cpex.cz^
 ||cpfclassifieds.com^
@@ -28053,6 +28053,7 @@
 ||cl.k5a.io^
 ||cl-eu2.k5a.io^
 ||cl-eu4.k5a.io^
+||k5uj.icu^
 ||k5zoom.com^
 ||k68tkg.com^
 ||k6syi.space^
@@ -40574,6 +40575,7 @@
 ||puzzoa.xyz^
 ||pv4b.com^
 ||pvclouds.com^
+||pvdbkr.com^
 ||pvhjkzo.xyz^
 ||pviasld.icu^
 ||pvk2e.icu^
@@ -51811,6 +51813,7 @@
 ||px.ucweb.com^
 ||uc.ucweb.com^
 ||udalmancozen.com^
+||udamcst.top^
 ||udarem.com^
 ||udb3n.icu^
 ||udbaa.com^
