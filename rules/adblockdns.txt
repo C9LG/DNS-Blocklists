@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241204110234
-! Last modified: 2024/12/04 11:02:34
-! Blocked domains: 60582
+! Version: 20241204182104
+! Last modified: 2024/12/04 18:21:04
+! Blocked domains: 60586
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -16451,6 +16451,7 @@
 ||d5db478dde.com^
 ||d5i9o0tpq9sa1.cloudfront.net^
 ||d5onopbfw009h.cloudfront.net^
+||d5r.icu^
 ||d5wxfe8ietrpg.cloudfront.net^
 ||d6030fe5c6.com^
 ||d63a3au5lqmtu.cloudfront.net^
@@ -21963,6 +21964,7 @@
 ||fnwsemxgs.com^
 ||fnyaynma.com^
 ||fnzuymy.com^
+||fo0.icu^
 ||foaglaid.xyz^
 ||foagrucheedauza.net^
 ||foakiwhazoja.com^
@@ -31055,6 +31057,7 @@
 ||lcwnlhy.com^
 ||lcxxwxo.com^
 ||ld82ydd.com^
+||ldamcsl.top^
 ||ldbqxwbqdz.com^
 ||lddt.de^
 ||ldedallover.info^
@@ -37199,6 +37202,7 @@
 ||nutshellwhipunderstood.com^
 ||nuttedmoireed.shop^
 ||nuttishstromb.shop^
+||nuvaioqds.com^
 ||cnt.nuvid.com^
 ||nuxwlc.cn^
 ||campaign.remp.nv.ua^
