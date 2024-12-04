@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241204182104
-! Last modified: 2024/12/04 18:21:04
-! Blocked domains: 2183
+! Version: 20241205022802
+! Last modified: 2024/12/05 02:28:02
+! Blocked domains: 2186
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -1533,6 +1533,7 @@
 ||x.adnet.qq.com^
 ||yun-hl.3g.qq.com^
 ||a1.qqan.com^
+||down.qqfarmer.com.cn^
 ||qqhuhu.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -1709,7 +1710,6 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
-||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
 ||szbdyd.com^
@@ -1970,6 +1970,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||khrtac.xiangha.com^
+||xiangshunjy.com^
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||b1.xiao84.com^
@@ -2108,6 +2109,7 @@
 ||report.yumobi.cn^
 ||yunshipei.com^
 ||adsclick.yx.js.cn^
+||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
@@ -2180,6 +2182,7 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
+||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
