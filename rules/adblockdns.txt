@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241207105946
-! Last modified: 2024/12/07 10:59:46
-! Blocked domains: 61265
+! Version: 20241207181959
+! Last modified: 2024/12/07 18:19:59
+! Blocked domains: 61267
 ! unBlocked domains: 11
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -3319,6 +3319,7 @@
 ||4rabettraff.com^
 ||4rm.de^
 ||4seeresults.com^
+||4sq.icu^
 ||4sqt6jq.de^
 ||4stats.de^
 ||4t6u.icu^
@@ -21486,6 +21487,7 @@
 ||f780f.space^
 ||f794d2f9d9.com^
 ||f7fe0.cyou^
+||f7j.icu^
 ||f816e81d.xyz^
 ||f8260adbf8558d6.com^
 ||f83d8a9867.com^
@@ -29661,6 +29663,7 @@
 ||jjcjwtactsgvkj.com^
 ||jjcwq.site^
 ||jjekxle.com^
+||jjimtya.top^
 ||jjmrmeovo.world^
 ||jjqsdll.com^
 ||jjthmis.com^
@@ -36558,7 +36561,6 @@
 ||s.news.naver.com^
 ||shopsquare.naver.com^
 ||sp.naver.com^
-||tivan.naver.com^
 ||trendpick.shopping.naver.com^
 ||veta.naver.com^
 ||volts.shopping.naver.com^
