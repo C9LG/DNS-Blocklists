@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241209182210
-! Last modified: 2024/12/09 18:22:10
-! Blocked Filters: 423
+! Version: 20241210022753
+! Last modified: 2024/12/10 02:27:53
+! Blocked Filters: 424
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -359,6 +359,7 @@
 ||smart.allocine.fr
 ||sn00.net
 ||snowplow-collector-*.amazonaws.com^
+||snowplow-collector.
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||ssp*.rtb.beeline.ru^
