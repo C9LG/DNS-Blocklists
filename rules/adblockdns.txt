@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241210110424
-! Last modified: 2024/12/10 11:04:24
-! Blocked domains: 61777
+! Version: 20241210182135
+! Last modified: 2024/12/10 18:21:35
+! Blocked domains: 61780
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -52749,6 +52749,7 @@
 ||tjekscores.dk^
 ||tjfbh.icu^
 ||tjfot.com^
+||tjimtyi.top^
 ||tjk-njk.com^
 ||tjme.io^
 ||tjpzz.buzz^
@@ -53068,6 +53069,7 @@
 ||ta.toprework.vn^
 ||topsecurity2024.com^
 ||topsem.com^
+||analytics.topseotoolkit.com^
 ||ads.topsex.cc^
 ||topsexcams.club^
 ||topsite.lv^
@@ -59315,6 +59317,7 @@
 ||wt-eu02.net^
 ||wt-safetag.com^
 ||wt20trk.com^
+||wt6.icu^
 ||h019.wtae.com^
 ||wtcysmm.com^
 ||camsbanner.wtfgroup.co^
