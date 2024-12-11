@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241211022758
-! Last modified: 2024/12/11 02:27:58
+! Version: 20241211110140
+! Last modified: 2024/12/11 11:01:40
 ! Blocked domains: 2188
 ! unBlocked domains: 7
 !
