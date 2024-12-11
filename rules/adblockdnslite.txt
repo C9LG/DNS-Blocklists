@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241211182110
-! Last modified: 2024/12/11 18:21:10
-! Blocked domains: 2188
+! Version: 20241212022756
+! Last modified: 2024/12/12 02:27:56
+! Blocked domains: 2192
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -413,6 +413,7 @@
 ||eiv.baidu.com^
 ||entry.baidu.com^
 ||fclog.baidu.com^
+||feed-image.baidu.com^
 ||gsp1.baidu.com^
 ||hdj.baidu.com^
 ||hijack.baidu.com^
@@ -643,7 +644,6 @@
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
 ||bea-s.dinghuoche.com^
-||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -1043,6 +1043,7 @@
 ||ads-union.jd.com^
 ||chat1.jd.com^
 ||dsp-x.jd.com^
+||img-x.jd.com^
 ||janapi.jd.com^
 ||jrad.jd.com^
 ||kepler.jd.com^
@@ -1051,6 +1052,7 @@
 ||mapi.m.jd.com^
 ||orbit.jd.com^
 ||skdisplay.jd.com^
+||wl.jd.com^
 ||wn.x.jd.com^
 ||xlog.jd.com^
 ||jddaw.com^
@@ -1100,6 +1102,7 @@
 ||g.koowo.com^
 ||kossog.xyz^
 ||slb-p2p.vcloud.ks-live.com^
+||log-sdk.ksapisrv.com^
 ||web-trace.ksapisrv.com^
 ||odoo.kseibitools.com^
 ||w1.kskwai.com^
@@ -1652,6 +1655,7 @@
 ||log-hl.snssdk.com^
 ||mcs.snssdk.com^
 ||mon.snssdk.com^
+||open.snssdk.com^
 ||pangolin.snssdk.com^
 ||sdfp.snssdk.com^
 ||toutiao-frontier.snssdk.com^
