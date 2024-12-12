@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241212110223
-! Last modified: 2024/12/12 11:02:23
-! Blocked domains: 61721
+! Version: 20241212182111
+! Last modified: 2024/12/12 18:21:11
+! Blocked domains: 61723
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -7708,6 +7708,7 @@
 ||counter.all.biz^
 ||allabc.com^
 ||gtm.allabolag.se^
+||stats.allabolag.se^
 ||allactualjournal.com^
 ||allactualstories.com^
 ||allads4you.de^
@@ -11408,6 +11409,7 @@
 ||bjappzvz.xyz^
 ||galaxy.bjcathay.com^
 ||bjhhbox.xyz^
+||bjimtyv.top^
 ||bjiuck.com^
 ||bjjabc.com^
 ||bjjkuoxidr.xyz^
@@ -36843,6 +36845,7 @@
 ||natexo-programmatic.com^
 ||nathanaeldan.pro^
 ||nathejewlike.shop^
+||ingest.analytics.nation.dev^
 ||nationalarguments.com^
 ||nationhandbook.com^
 ||nationsencodecordial.com^
@@ -49467,7 +49470,6 @@
 ||splief.com^
 ||splinky.com^
 ||mms.splinternews.com^
-||events.split.io^
 ||splitbee.io^
 ||splittag.com^
 ||splittingpick.com^
