@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241213022739
-! Last modified: 2024/12/13 02:27:39
-! Blocked Filters: 423
+! Version: 20241213110346
+! Last modified: 2024/12/13 11:03:46
+! Blocked Filters: 424
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -189,6 +189,7 @@
 ||f-log-*.grammarly.io^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||fjuga.top
 ||flipflapflo.
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
