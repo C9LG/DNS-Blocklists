@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241213110346
-! Last modified: 2024/12/13 11:03:46
-! Blocked domains: 61842
+! Version: 20241213182049
+! Last modified: 2024/12/13 18:20:49
+! Blocked domains: 61843
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -4567,6 +4567,7 @@
 ||8dwd87c7a091b12x.com^
 ||8ec9b7706a.com^
 ||8eef59a5.live^
+||8et.icu^
 ||8exx9qtuojv1.shop^
 ||8f2b4c98e7.com^
 ||8feichai.com^
@@ -16023,6 +16024,7 @@
 ||doubleclick.ctfile.com^
 ||mydisplay.ctfile.com^
 ||cthbini.xyz^
+||ctimiyf.top^
 ||z492.ctinsider.com^
 ||ctiotjobkfu.com^
 ||ctivo.com^
@@ -61121,7 +61123,6 @@
 ||ztevents.zaloapp.com^
 ||zalorashop.com^
 ||zaltaumi.net^
-||services.zam.com^
 ||log.zamba.vn^
 ||zamiko.ru^
 ||zamioculcas2.org^
