@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241215110758
-! Last modified: 2024/12/15 11:07:58
-! Blocked domains: 61811
+! Version: 20241215181931
+! Last modified: 2024/12/15 18:19:31
+! Blocked domains: 61812
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -57803,6 +57803,7 @@
 ||atom-qa.warnermedia.com^
 ||warnmessage.com^
 ||warnothnayword.shop^
+||warped-bus.com^
 ||warrantpiece.com^
 ||warrenmoneytrader.com^
 ||warriorflowsweater.com^
