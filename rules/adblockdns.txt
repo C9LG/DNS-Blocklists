@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241216110602
-! Last modified: 2024/12/16 11:06:02
-! Blocked domains: 61875
+! Version: 20241216182201
+! Last modified: 2024/12/16 18:22:01
+! Blocked domains: 61877
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -15751,6 +15751,7 @@
 ||crackquarrelsomeslower.com^
 ||cracktube.net^
 ||crackyunfence.com^
+||craegvin.com^
 ||craftkeys.com^
 ||craftsmangraygrim.com^
 ||crafty-math.com^
@@ -36590,6 +36591,7 @@
 ||n69adserv.com^
 ||n7181.com^
 ||n74s9.com^
+||n7a.icu^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
 ||n9s74npl.de^
 ||tracking.na.se^
