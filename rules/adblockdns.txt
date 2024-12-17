@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241217110114
-! Last modified: 2024/12/17 11:01:14
-! Blocked domains: 61962
+! Version: 20241217182053
+! Last modified: 2024/12/17 18:20:53
+! Blocked domains: 61964
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -3528,6 +3528,7 @@
 ||4iazoa.xyz^
 ||4imk5.online^
 ||4ir17.icu^
+||4jc.icu^
 ||4jffu.cn^
 ||4kggatl1p7ps.top^
 ||4l903.com^
@@ -43848,6 +43849,7 @@
 ||qtciam.xyz^
 ||qtdopwuau.xyz^
 ||adlaunch.qtfm.cn^
+||qtimiyy.top^
 ||qtkjqmxhmgspb.com^
 ||qtoidch.icu^
 ||qtoxhaamntfi.com^
