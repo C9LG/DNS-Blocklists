@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241218105622
-! Last modified: 2024/12/18 10:56:22
-! Blocked domains: 61852
+! Version: 20241218182019
+! Last modified: 2024/12/18 18:20:19
+! Blocked domains: 61860
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -19414,6 +19414,7 @@
 ||tracker.downdetector.com^
 ||download-adblock-zen.com^
 ||download-alert.com^
+||download-privacybear.com^
 ||download-ready.net^
 ||download4.cfd^
 ||download4allfree.com^
@@ -20427,6 +20428,7 @@
 ||edvxgqx.com^
 ||edvxygh.com^
 ||metrics.ee.co.uk^
+||ee5.icu^
 ||ee625e4b1d.com^
 ||eeaczcf.icu^
 ||eecd.xyz^
@@ -20712,6 +20714,7 @@
 ||ellingsen.cn^
 ||elliotannouncing.com^
 ||ellipticaldatabase.pro^
+||elloisny.com^
 ||gtm.ellos.se^
 ||elmasistatistik.com.tr^
 ||elmonopolicycr.info^
@@ -41617,6 +41620,7 @@
 ||poemswrestlingstrategy.com^
 ||poeticmetric.com^
 ||poetrydeteriorate.com^
+||pofbpx.icu^
 ||analytics.poferries.com^
 ||poflix.com^
 ||pofmnj.xyz^
@@ -42013,6 +42017,7 @@
 ||pphwrevr.com^
 ||ppimdog.com^
 ||ad.pping.kr^
+||ppio12181ios.top^
 ||ppixufsalgm.com^
 ||ppjdfki.com^
 ||ppjqgbz.com^
@@ -46680,6 +46685,7 @@
 ||scisselfungus.com^
 ||scissorsstitchdegrade.com^
 ||scissorwailed.com^
+||sckyf.com^
 ||scl6gc5l.site^
 ||sclrnnp.com^
 ||scmn0di.com^
@@ -55398,6 +55404,7 @@
 ||utilizeimplore.com^
 ||utilizepersonalityillegible.com^
 ||utillib.xyz^
+||utimiyt.top^
 ||widget.utinet.ru^
 ||utiq-aws.net^
 ||utkauo.xyz^
@@ -61054,6 +61061,7 @@
 ||zaamgqlgdhac.love^
 ||ban.zab.ru^
 ||zabanit.xyz^
+||zabpgtjh.icu^
 ||zacff.com^
 ||zachunsears.com^
 ||zacleporis.com^
