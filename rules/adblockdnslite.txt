@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241219182021
-! Last modified: 2024/12/19 18:20:21
-! Blocked domains: 2188
+! Version: 20241220022525
+! Last modified: 2024/12/20 02:25:25
+! Blocked domains: 2176
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -172,8 +172,6 @@
 ||m1.81312.com^
 ||cc.8181zx.com^
 ||d.8181zx.com^
-||88lm02.com^
-||88lm03.com^
 ||88lm04.com^
 ||88lm05.com^
 ||88lm06.com^
@@ -225,7 +223,6 @@
 ||adsame.com^
 ||adsmogo.com^
 ||adreport.adtianmai.com^
-||adtx2.cn^
 ||aduu.cn^
 ||adview.cn^
 ||sdk.mobads.adwangmai.com^
@@ -515,7 +512,6 @@
 ||tnc3-alisc1.bytedance.com^
 ||tnc3-bjlgy.bytedance.com^
 ||p3-tt.byteimg.com^
-||c11011.com^
 ||b1.c1km4.com^
 ||download.caihong.com^
 ||gg.caixin.com^
@@ -721,7 +717,6 @@
 ||js.entm.top^
 ||jquery.envi-met.com.cn^
 ||m.ercos.cn^
-||etkht.cn^
 ||ewjhic.cn^
 ||ewxufqs.cn^
 ||a.exam58.com^
@@ -745,6 +740,7 @@
 ||first-vay.com^
 ||adv.fjtv.net^
 ||bd1.flfgw.cn^
+||pid.fly160.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||bdu.focus.cn^
@@ -889,7 +885,6 @@
 ||msg-na.hismarttv.com^
 ||unified-ter-na.hismarttv.com^
 ||resu8.hjfile.cn^
-||hnrjign.cn^
 ||adadmin.house365.com^
 ||ad-log-upload-os.hoyoverse.com^
 ||apm-log-upload-os.hoyoverse.com^
@@ -1220,6 +1215,7 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
+||360down7.miiyun.cn^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1564,7 +1560,6 @@
 ||iot-logser.realme.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
-||regwiuv.cn^
 ||bolt.jebe.renren.com^
 ||ebp.renren.com^
 ||static.jebe.renren.com^
@@ -1572,7 +1567,6 @@
 ||retrefsf.cn^
 ||richh.cn^
 ||ad.richmob.cn^
-||rnzmynh.cn^
 ||static.rongkao.com^
 ||ds.ruanwengfa.com^
 ||rumt-zh.com^
@@ -1711,11 +1705,9 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
-||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
 ||szbdyd.com^
-||szbxm.cn^
 ||szbxw.cn^
 ||wm.szdushi.com.cn^
 ||bd1.szhk.com^
@@ -1850,7 +1842,6 @@
 ||adsmind.ugdtimg.com^
 ||pgdt.ugdtimg.com^
 ||bdjs.uimg.cn^
-||ukgfniu.cn^
 ||umeng.com^
 ||alog.umengcloud.com^
 ||alogs.umengcloud.com^
@@ -1927,7 +1918,6 @@
 ||webdissector.com^
 ||log.webnovel.com^
 ||cl2.webterren.com^
-||wefihob.cn^
 ||dp.im.weibo.cn^
 ||ad.weibo.com^
 ||adimg.uve.weibo.com^
@@ -2004,7 +1994,6 @@
 ||app.chat.xiaomi.net^
 ||resolver.msg.xiaomi.net^
 ||xiaopinwo.com^
-||xiaoxiuapp.com^
 ||viva.api.xiaoying.co^
 ||bd1.xiby.cn^
 ||1.xilu.com^
@@ -2028,7 +2017,6 @@
 ||zhihu.xmcimg.com^
 ||cmm.xmfish.com^
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
-||xn--gmq238c5fy.com^
 ||xn--w9q675dm1p7em.net^
 ||bchina-1.xsfaya.com^
 ||rdbd.xsread.com^
@@ -2125,7 +2113,6 @@
 ||yylady.cn^
 ||adapi.yynetwk.com^
 ||q1.yyxwzx.com^
-||yzgid.cn^
 ||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
@@ -2185,6 +2172,7 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
+||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
