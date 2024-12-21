@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241221104519
-! Last modified: 2024/12/21 10:45:19
-! Blocked domains: 60330
+! Version: 20241221181650
+! Last modified: 2024/12/21 18:16:50
+! Blocked domains: 60334
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -2972,6 +2972,7 @@
 ||3twentyfour.xyz^
 ||pclog.3u.com^
 ||3u4zyeugi.com^
+||3vp.icu^
 ||3wr110.net^
 ||3zap7emt4.com^
 ||4.180.120.64^
@@ -26973,6 +26974,7 @@
 ||hwhqbjhrqekbvh.com^
 ||aa.hwigroup.com^
 ||ab.hwigroup.com^
+||hwilmiu.top^
 ||hwmonitor-ru.ru^
 ||hwnojj.xyz^
 ||hwof.info^
@@ -35302,6 +35304,7 @@
 ||mugfulacrania.top^
 ||mugleafly.com^
 ||mugpothop.com^
+||muiuim.icu^
 ||mukhtarproving.com^
 ||js.mulan.cloud^
 ||mulberrydoubloons.com^
@@ -40798,6 +40801,7 @@
 ||popsample.com^
 ||popsdietary.com^
 ||popsreputation.com^
+||popsvg.xyz^
 ||track.popsww.com^
 ||popt.in^
 ||poptival.com^
@@ -47869,7 +47873,6 @@
 ||extlog.snssdk.com^
 ||gecko-hl.snssdk.com^
 ||gecko-lq.snssdk.com^
-||i.snssdk.com^
 ||ib.snssdk.com^
 ||is.snssdk.com^
 ||log.snssdk.com^
@@ -56300,6 +56303,7 @@
 ||vvbox.cz^
 ||ub-xjp.vvbrd.com^
 ||vvehvch.com^
+||vvfgjzwa.icu^
 ||vviietcombank.com^
 ||vvmblock.ru^
 ||vvpojbsibm.xyz^
