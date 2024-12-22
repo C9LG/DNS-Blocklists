@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241222022239
-! Last modified: 2024/12/22 02:22:39
-! Blocked domains: 2173
+! Version: 20241222105405
+! Last modified: 2024/12/22 10:54:05
+! Blocked domains: 2177
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -513,6 +513,7 @@
 ||tnc3-bjlgy.bytedance.com^
 ||p3-tt.byteimg.com^
 ||b1.c1km4.com^
+||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -1214,6 +1215,7 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
+||360down7.miiyun.cn^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1528,6 +1530,7 @@
 ||x.adnet.qq.com^
 ||yun-hl.3g.qq.com^
 ||a1.qqan.com^
+||down.qqfarmer.com.cn^
 ||qqhuhu.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -2111,6 +2114,7 @@
 ||yylady.cn^
 ||adapi.yynetwk.com^
 ||q1.yyxwzx.com^
+||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
