@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241223181945
-! Last modified: 2024/12/23 18:19:45
-! Blocked domains: 2174
+! Version: 20241224022418
+! Last modified: 2024/12/24 02:24:18
+! Blocked domains: 2175
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -860,6 +860,7 @@
 ||mini.hao123.com^
 ||cdn.haocaa.com^
 ||js1.haoge500.com^
+||2.haory.cn^
 ||by.haory.cn^
 ||2.haoxue360.com^
 ||img1.hblds.com^
@@ -894,6 +895,7 @@
 ||sg-public-data-api.hoyoverse.com^
 ||ys-log-upload-os.hoyoverse.com^
 ||hpplay.cn^
+||hseda.com^
 ||g.hsw.cn^
 ||api-analytics-cn.huami.com^
 ||app-analytics-ru.huami.com^
@@ -1162,6 +1164,7 @@
 ||litchiads.com^
 ||a.llysc.cn^
 ||lockview.cn^
+||lostheaven.com.cn^
 ||game.loveota.com^
 ||veim.lrswl.com^
 ||a1.lshou.com^
@@ -2111,7 +2114,6 @@
 ||yylady.cn^
 ||adapi.yynetwk.com^
 ||q1.yyxwzx.com^
-||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
@@ -2170,7 +2172,6 @@
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
 ||pvnwap.zol.com.cn^
-||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
