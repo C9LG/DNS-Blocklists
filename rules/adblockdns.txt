@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241224104907
-! Last modified: 2024/12/24 10:49:07
-! Blocked domains: 60728
+! Version: 20241224181848
+! Last modified: 2024/12/24 18:18:48
+! Blocked domains: 60733
 ! unBlocked domains: 11
 !
 ||t.0000o.xyz^
@@ -7804,6 +7804,7 @@
 ||altarrousebrows.com^
 ||altastat.com^
 ||altcoin.care^
+||altema-log.com^
 ||altenlayer.com^
 ||alterassumeaggravate.com^
 ||p.altergeo.ru^
@@ -14335,6 +14336,7 @@
 ||clkrev.com^
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
+||clktds.org^
 ||clkwnl.xyz^
 ||clmbtech.com^
 ||clmbtrk.com^
@@ -17584,7 +17586,6 @@
 ||dbclix.com^
 ||dberthformttete.com^
 ||dbfocus.jp^
-||dbfukofby5ycr.cloudfront.net^
 ||dbfv8ylr8ykfg.cloudfront.net^
 ||dbizrrslifc.com^
 ||dblijd.xyz^
@@ -19343,6 +19344,7 @@
 ||drillcompensate.com^
 ||drinksbookcaseconsensus.com^
 ||dripe.site^
+||drivago.top^
 ||cdn.driveback.ru^
 ||dbex-tracker-v2.driveback.ru^
 ||drivenetwork.online^
@@ -30027,6 +30029,7 @@
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
 ||k8trangphim.com^
 ||k9gj.site^
+||k9u.icu^
 ||kaascypher.com^
 ||kabakamarbles.top^
 ||kabarnaira.com^
@@ -51030,6 +51033,7 @@
 ||ma.tgdd.vn^
 ||tgel2ebtx.ru^
 ||tget.me^
+||tghrfv.icu^
 ||tgidskii.top^
 ||tgknt.com^
 ||tgktlgyqsffx.xyz^
@@ -58443,6 +58447,7 @@
 ||wwhnjrg.com^
 ||wwhsxwow.xyz^
 ||wwija.com^
+||wwilmie.top^
 ||stats.wwitv.com^
 ||wwjnoafuexamtg.com^
 ||wwjtdjj.cn^
