@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuardHome的去广告规则
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241224022418
-! Last modified: 2024/12/24 02:24:18
-! Blocked domains: 2175
+! Version: 20241224104907
+! Last modified: 2024/12/24 10:49:07
+! Blocked domains: 2177
 ! unBlocked domains: 7
 !
 ||img.0279.net^
@@ -1216,6 +1216,7 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
+||360down7.miiyun.cn^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -2114,6 +2115,7 @@
 ||yylady.cn^
 ||adapi.yynetwk.com^
 ||q1.yyxwzx.com^
+||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
