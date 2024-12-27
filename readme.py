@@ -100,7 +100,7 @@ class ReadMe(object):
             f.write("\n")
 
             f.write("## 上游规则源\n")
-            f.write("1. 感谢各位广告过滤规则维护大佬们的辛苦付出。\n")
+            f.write("感谢各位广告过滤规则维护大佬们的辛苦付出。\n")
             f.write("\n")
 
             tmp = "| 规则 | 类型 | 原始链接 |"
