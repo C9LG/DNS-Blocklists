@@ -1,11 +1,11 @@
 !
-! Title: AdBlock Filter
-! Description: 适用于 AdGuard 的去广告合并规则。
+! Title: AdBlock Filter Lite
+! Description: 适用于 AdGuard 的去广告合并规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
 ! Version: 20241228022653
 ! Last modified: 2024/12/28 02:26:53
-! Blocked Filters: 416
+! Blocked Filters: 374
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -87,10 +87,8 @@
 ||ali-bj-pcdn-*.biliapi.net^
 ||alishop*.ru^
 ||allsportsflix.
-||almosto.com
 ||an.yandex.
 ||ana*.inews24.com^
-||analysis.polarisoffice.com
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
@@ -106,8 +104,6 @@
 ||api*.batmobil.net^
 ||api*.bidmachine.io^
 ||api-*.hismarttv.com^
-||api-ad-callback.mobiuspace.net
-||api.cloudmobi.net
 ||api2.branch.io^$dnsrewrite=0.0.0.0
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
@@ -118,9 +114,7 @@
 ||ax.*.ifeng.com^
 ||backstory.ebay.
 ||banner*.kinogo.by^
-||banner-in.net
 ||banner.*.tccapis.com^
-||banner.kiev.ua
 ||bar*.shinobi.jp^
 ||basvformu*.xyz^
 ||batchlogging*-eu.truecaller.com^
@@ -141,7 +135,6 @@
 ||cdn-adn-*.rayjump.com^
 ||ce-global-track-*.amazonaws.com^
 ||cl*.k5a.io^
-||clickvip.ru
 ||clk.rtpdn*.com^
 ||clog*.yuanfudao.com^
 ||cnt.hd21.
@@ -157,7 +150,6 @@
 ||collector-*.tvsquared.com^
 ||collector.hamsterix.
 ||collector.xhamster*.
-||config.appjolt.com
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
 ||counter*.stat.ovh^
@@ -165,18 +157,15 @@
 ||cs*.mp3bars.com^
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
-||d241ujsiy3yht0.cloudfront.net
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
-||dl.qcash.ws
 ||dm*.yxlady.com^
 ||dn*.ixinwei.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
-||eberalofe.pro
 ||eclog*-*.cafe24.com^
 ||edgetrksvc.ebay.
 ||eum*.instana.io^
@@ -192,10 +181,7 @@
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
 ||fpb1.chinacar.
-||freecontent.date
-||freecontent.stream
 ||fxhpaoxqyajvmdg.
-||gbs.gamingmedia.ru
 ||gcw*.2liang.cn^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
@@ -206,7 +192,6 @@
 ||goodadvert.
 ||gscounters.*.gigya.com^
 ||gtmdev.jabra.
-||hitcounter.ru
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -216,7 +201,6 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
-||hvkwmvpxvjo.xyz
 ||hw-sh-pcdn-*.biliapi.net^
 ||i-*.ci360.sas.com^
 ||iad-*.appboy.com^
@@ -226,12 +210,10 @@
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
-||iphone-caviar.ru*entranceId
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||itv.hexun.com
 ||ja*.gamersky.com^
-||jeeng-api-prod.azureedge.net
 ||js*.abolezi.com^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
@@ -254,9 +236,7 @@
 ||log-collector.shopee.
 ||logger-*.dailymotion.com^
 ||logs*.smithsonian.museum^
-||logs.juspay.in
 ||logservice-*.platform.dbankcloud.cn^
-||loneday.com
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mapi-log.qoo*.jp^
@@ -272,21 +252,15 @@
 ||metrics*.fitanalytics.com^
 ||mf*.advantage.as^
 ||minitds-*.info^
-||mjavagames.ru
 ||mob*.novanewsapp.com^
 ||mobileanalytics.*.amazonaws.com^
 ||mon*-*.tiktokv.us^
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
-||moneymaiker.ru
-||moneysyst.biz
-||mptri.net
 ||ms*.applvn.com^
 ||mssdk*.zijieapi.com^
 ||mssdk-*.tiktokw.us^
-||mtm.qdqmedia.com
-||obislame.ru
 ||orbit*.lun.ua^
 ||pangolin*.sgsnssdk.com^
 ||parkdomainreal*.site^
@@ -301,7 +275,6 @@
 ||pixel.archive.
 ||pixel.wp.pl^$important
 ||pixelapi-*.cs.mysamba.tv^
-||platinumcode.net
 ||polaris*-normal-*.zijieapi.com^
 ||pop-parad.
 ||pop-under.
@@ -312,7 +285,6 @@
 ||poshalim.
 ||prebid-*.rubiconproject.com^
 ||production-adserver-*.amazonaws.com^
-||promoblocks.ru
 ||putrr*.com^
 ||px*.mediahills.ru^
 ||pxl-*.ozone.ru^
@@ -323,7 +295,6 @@
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
-||rebill.me
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||report.*.qq.com^
@@ -336,7 +307,6 @@
 ||rtlog*.tiktokv.us^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
-||ruscams.com
 ||rusrestbest.
 ||s*.adduplex.com^
 ||s*.skencituer.com^
@@ -349,7 +319,6 @@
 ||servo-report.keepstreams.*^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
-||sn00.net
 ||snowplow-collector-*.amazonaws.com^
 ||snowplow-collector.
 ||sock*-goguardian.pusher.com^
@@ -361,31 +330,22 @@
 ||static*.365inews.com^
 ||stats*.videonow.ru^
 ||stats-*.p2pnow.ru^
-||stats.debatdirect.tweedekamer.nl
 ||stats.zone-telechargement.
 ||stats2.*.fdnames.com^
 ||subnewss*.net^
 ||suite*.linximpulse.net^
-||superpcexpert.ru
-||suppressedbottlesenjoyable.com
 ||t*.zcvh.net^
 ||t.delfi.
 ||tag-based.s3.*.amazonaws.com^
-||talkfusion.com
 ||talpa-analytics.
-||taplytics-umami.grubhub.com
 ||tccd.douglas.
 ||telemetry*.api.playstation.com^
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
 ||thegreatesthits.
-||timedirect.ru
-||tiz.neosmi.ru
-||tms-st.cdn.ngenix.net
 ||tnc*.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||track.*.roku.com^
-||track.datescan.info
 ||track.tiara.
 ||track.zalando.
 ||tracker.twenga.
@@ -405,7 +365,6 @@
 ||under-click.
 ||underclick.
 ||union*.365inews.com^
-||uts.auction.co.kr
 ||v*-ad.video.yximgs.com^
 ||v*.sitecounter.site^
 ||v.newsportal*.ru^
@@ -420,6 +379,5 @@
 ||www.fuze-sea*.xyz^
 ||xlog*-*.tiktokv.com^
 ||ya*.dwstatic.com^
-||yottos.com
 ||ysdm*.ys137.com.cn^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
