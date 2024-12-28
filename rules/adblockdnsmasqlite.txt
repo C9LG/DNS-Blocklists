@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/C9LG/DNS-Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnsmasqlite.txt
-# Version: 20241228181905
-# Last modified: 2024/12/28 18:19:05
-# Blocked domains: 2438
+# Version: 20241229022543
+# Last modified: 2024/12/29 02:25:43
+# Blocked domains: 2436
 #
 local=/img.0279.net/
 local=/o.027eat.com/
@@ -17,6 +17,7 @@ local=/0941.org/
 local=/1.117.72.208/
 local=/1.92.86.239/
 local=/1.94.172.68/
+local=/1717.1000uc.com/
 local=/m1.ad.10010.com/
 local=/smartad.10010.com/
 local=/101.126.11.168/
@@ -36,7 +37,7 @@ local=/106.15.239.51/
 local=/106.75.61.100/
 local=/adm.10jqka.com.cn/
 local=/110.41.2.207/
-local=/110.41.23.0/
+local=/soft.110route.com/
 local=/111.229.208.249/
 local=/111.230.25.167/
 local=/111.42.156.130/
@@ -51,7 +52,6 @@ local=/114.55.106.136/
 local=/1.11467.com/
 local=/115.28.26.10/
 local=/115.55.198.46/
-local=/115.55.216.63/
 local=/115.62.183.217/
 local=/116.196.95.100/
 local=/116.198.229.197/
@@ -294,7 +294,6 @@ local=/union.6.cn/
 local=/60.166.36.5/
 local=/60.22.23.50/
 local=/609999.xyz/
-local=/61.136.87.182/
 local=/t1.612.com/
 local=/m5.66077.cn/
 local=/6669667.com/
@@ -1155,7 +1154,6 @@ local=/e-stat.huya.com/
 local=/metric.huya.com/
 local=/statwup.huya.com/
 local=/ylog.huya.com/
-local=/ecs-123-60-182-88.compute.hwclouds-dns.com/
 local=/t.hypers.com.cn/
 local=/adx.hzbxm.com/
 local=/api.hzsanjiaomao.com/
@@ -2358,6 +2356,7 @@ local=/report.yumobi.cn/
 local=/yunshipei.com/
 local=/ywxww.net/
 local=/adsclick.yx.js.cn/
+local=/qiniuyunxz.yxflzs.com/
 local=/ali-ad.a.yximgs.com/
 local=/hw-ot-ad.a.yximgs.com/
 local=/js-ad.a.yximgs.com/
@@ -2370,7 +2369,6 @@ local=/v3-ad.video.yximgs.com/
 local=/gt.yy.com/
 local=/yylady.cn/
 local=/adapi.yynetwk.com/
-local=/yzkzixun.com/
 local=/yktj.yzz.cn/
 local=/zampda.net/
 local=/zantainet.com/
