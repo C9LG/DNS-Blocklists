@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdomain.txt
-! Version: 20241228104715
-! Last modified: 2024/12/28 10:47:15
-! Blocked domains: 46468
+! Version: 20241228181905
+! Last modified: 2024/12/28 18:19:05
+! Blocked domains: 46472
 !
 t.0000o.xyz
 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
@@ -9352,6 +9352,7 @@ ad.ccement.com
 cchbdata.net
 cchdbond.com
 ccjzuavqrh.com
+cclimif.top
 lists.ccmbg.com
 ccmiocw.com
 ccn08sth.de
@@ -37040,6 +37041,7 @@ smuggeralapa.com
 smugismanaxon.com
 smv.to
 analytics-api.smzdm.com
+sn9.icu
 snack-media.com
 counter.snackly.co
 errors.snackly.co
@@ -40802,6 +40804,7 @@ trisectdoigt.top
 triumphalstrandedpancake.com
 triumphantplace.com
 triviasms.com
+trjfoagf.icu
 trjwraxkfkm.com
 trk-aspernatur.com
 trk-consulatu.com
@@ -40953,6 +40956,7 @@ tsapphiresand.info
 tsaristcanapes.com
 tsarkinds.com
 tsbck.com
+tsbrzz.icu
 tscounter.com
 tsdfxv.xyz
 tsiwqtng8huauw30n.com
