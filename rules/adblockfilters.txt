@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20241228022653
-! Last modified: 2024/12/28 02:26:53
-! Blocked Filters: 416
+! Version: 20241228104715
+! Last modified: 2024/12/28 10:47:15
+! Blocked Filters: 426
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -166,9 +166,12 @@
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||d241ujsiy3yht0.cloudfront.net
+||d2fj3s7h83rb61.cloudfront.net
+||d71e6dd31a026d45.com
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||deliveryengine.adswizz.com
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||dl.qcash.ws
@@ -186,6 +189,7 @@
 ||f-log-*.grammarly.io^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||fjuga.top
 ||flipflapflo.
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -195,6 +199,7 @@
 ||freecontent.date
 ||freecontent.stream
 ||fxhpaoxqyajvmdg.
+||gbpkmltxpcsj.xyz
 ||gbs.gamingmedia.ru
 ||gcw*.2liang.cn^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
@@ -202,6 +207,7 @@
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
 ||get-me-wow.
+||globalteaser.ru
 ||gonews*.net^
 ||goodadvert.
 ||gscounters.*.gigya.com^
@@ -349,6 +355,7 @@
 ||servo-report.keepstreams.*^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
+||smart.allocine.fr
 ||sn00.net
 ||snowplow-collector-*.amazonaws.com^
 ||snowplow-collector.
@@ -415,6 +422,7 @@
 ||vns86.oss-*.aliyuncs.com^
 ||w*statistics.info^
 ||wa.gmx.
+||web-rotation.net
 ||web-visor.
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
@@ -422,4 +430,6 @@
 ||ya*.dwstatic.com^
 ||yottos.com
 ||ysdm*.ys137.com.cn^
+||yxhstwzjbu.info
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||zorosrv.com
