@@ -8,7 +8,6 @@
 1.66law.cn
 1.78500.cn
 1.92.86.239
-1.94.149.77
 1.94.172.68
 1.95ye.com
 1.arpun.com
@@ -55,7 +54,6 @@
 112.124.71.123
 112.33.27.73
 113.219.177.95
-113.221.14.156
 113.98.201.248
 114.215.27.238
 114.242.26.64
@@ -174,7 +172,6 @@
 3q1lsj.cn
 4171764.fls.doubleclick.net
 42.192.195.221
-42.193.42.92
 43.241.17.143
 43.241.17.145
 47.100.196.58
@@ -203,12 +200,12 @@
 47.96.13.97
 47.98.194.85
 49.234.48.162
-4wu3gf.cn
 5.ccutu.com
 50bang.org
 50m.gkcyc.com
 54kefu.net
 58.216.207.82
+58.47.120.159
 59.110.136.135
 59.110.47.61
 59.59.6.86
@@ -615,7 +612,6 @@ aegis.qq.com
 aeventlog.beacon.qq.com
 afd.baidu.com
 afs.googlesyndication.com
-agapi.cqjjb.cn
 agn.aty.snmsohu.aisee.tv
 agn.aty.sohu.com
 ai.bioon.com
@@ -632,6 +628,7 @@ alime-pic.oss-cn-hangzhou.aliyuncs.com
 alitui.weibo.com
 all.cnzz.com.danuoyi.tbcache.com
 allyes.com
+alog.umeng.com
 alog.umengcloud.com
 alogs.umeng.com
 alogs.umengcloud.com
@@ -873,6 +870,7 @@ beiletoys.com
 beizi.biz
 bes-mtj.baidu.com
 besc.baidustatic.com
+best.obs.cn-sz1.ctyun.cn
 bfhueh.top
 bgg.baidu.com
 bi.manhuaren.com
@@ -994,7 +992,6 @@ changyan.sohu.com
 channel-analysis-js.gmw.cn
 chat1.jd.com
 china.inmobi.com
-chinaapper.com
 chiq-cloud.com
 chshcms.net
 cj.qidian.com
@@ -1098,7 +1095,6 @@ d8.sina.com.cn
 d9.sina.com.cn
 da.mmarket.com
 da.netease.com
-daima.ijq.tv
 daliantong.com.cn
 daraz.com
 darren01.oss-cn-beijing.aliyuncs.com
@@ -1144,6 +1140,7 @@ diagnosis.ad.xiaomi.com
 dig.bdurl.net
 dig.zjurl.cn
 dingbu.bj.bcebos.com
+disk.accord1key.cn
 dispatcher.upmc.uc.cn
 dktad.com
 dl.natgo.cn
@@ -1177,11 +1174,14 @@ dotserver.douyucdn.cn
 doubleclick-cn.net
 doubleclick.ctfile.com
 doubleclick.net
+dow.andylab.cn
 down.qqfarmer.com.cn
+down.ruanmei.com
 down10d.zol.com.cn
 download-winsdownload-wins.oss-cn-hangzhou.aliyuncs.com
 download.350.com
 download.adsage.com
+download.caihong.com
 download.changhong.upgrade2.huan.tv
 download.haozip.com
 download.skycn.com
@@ -1194,6 +1194,7 @@ dragate.dc.oppomobile.com
 drcn-weather.cloud.huawei.com
 ds.ruanwengfa.com
 ds1.kaijia.com
+dsa-mfp.fengshows.cn
 dsp-x.jd.com
 dsp.ads.umeng.com
 dsp.ali213.net
@@ -1415,6 +1416,7 @@ guang.sdsgwy.com
 guangzhuiyuan.com
 gw.365you.com
 gw2cddpt2hao.asia
+gw2cddpt2hao.cloud
 gxbr.cnzz.com
 gzhying1.cn
 gzzkjdam.cn
@@ -1557,6 +1559,7 @@ ipv4.gdt.qq.com
 ipv4.kkmh.com
 iqiyi.m.cn.miaozhen.com
 irc.qubiankeji.com
+irs01.com
 irulws.xyz
 is.snssdk.com
 item.mediav.com
@@ -1744,6 +1747,7 @@ logservice1.hicloud.com
 logtake.weidian.com
 logtj.kugou.com
 logupdate.avlyun.sec.miui.com
+lostheaven.com.cn
 love.furenkeji.com
 ls.l.qq.com
 luimg.baidu.com
@@ -1831,6 +1835,7 @@ mini.hao123.com
 miniapp.qiluyidian.mobi
 minigame5-normal-hl.zijieapi.com
 minigame5-normal-lq.zijieapi.com
+mininews.kpzip.com
 minor-api-os.hoyoverse.com
 misc.wcd.qq.com
 mission-pub.smart-tv.cn
@@ -2146,6 +2151,8 @@ res1.hubcloud.com.cn
 resolve.umeng.com
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
+resource.baomihua.com
+rest.irs01.com
 resu8.hjfile.cn
 retrefsf.cn
 retrieval-bd.duote.com
@@ -2309,6 +2316,7 @@ show-s.mediav.com
 show.g.mediav.com
 show.m.mediav.com
 show.mediav.com
+shqdown.ggzuhao.com
 shrek.6.cn
 shzzzz.dftoutiao.com
 sigmob.com
@@ -2337,6 +2345,7 @@ sofire.bdstatic.com
 sofseo.cn
 soft.110route.com
 soft.wsyhn.com
+softdl.360tpcdn.com
 sohu-dtv.m.cn.miaozhen.com
 sohutv.m.cn.miaozhen.com
 soorbka.cn
@@ -2413,6 +2422,7 @@ statscollector-1.agora.io
 statscollector.sd-rtn.com
 statwup.huya.com
 statwup.nimo.tv
+stdown.dinju.com
 stg-data.ads.heytapmobi.com
 stgowan.com
 stm-cdn.cn.miaozhen.com
@@ -2807,7 +2817,6 @@ xianshangzixun.net
 xiaomi-dtv.m.cn.miaozhen.com
 xiaomi.m.cn.miaozhen.com
 xiaopinwo.com
-xingpai.weilay.com.cn
 xinhuanet.adsame.com
 xiongdong.com
 xladapi.izuiyou.com
@@ -2839,7 +2848,6 @@ yje912.cn
 yk-ssp.ad.youku.com
 ykad-data.youku.com
 ykad-gateway.youku.com
-ykkhihg.cn
 yktd.m.cn.miaozhen.com
 yktj.yzz.cn
 yl04z4v.cn
@@ -2903,7 +2911,6 @@ zip-store.oss-ap-southeast-1.aliyuncs.com
 zjliloveyou.ixiunv.com
 zlclgzs.cn
 zlonline.oss-cn-shenzhen.aliyuncs.com
-znrq.zifwxq.cn
 zoosnet.net
 zoossoft.net
 zq.lansedir.com
