@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdomain.txt
-! Version: 20241229105657
-! Last modified: 2024/12/29 10:56:57
-! Blocked domains: 46505
+! Version: 20241229181900
+! Last modified: 2024/12/29 18:19:00
+! Blocked domains: 46528
 !
 t.0000o.xyz
 id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
@@ -1574,6 +1574,7 @@ img.3sjt.com
 3twentyfour.xyz
 3u4zyeugi.com
 3wr110.net
+3xl.icu
 3zap7emt4.com
 v063.4029tv.com
 40451343.xyz
@@ -1977,6 +1978,7 @@ m5.66077.cn
 666hh999gg.com
 666ppp222ppp.com
 666ppp888ppp.com
+66a5e92d66.com
 1.66law.cn
 bj.ad.track.66mobi.com
 67.213.59.251
@@ -4617,6 +4619,7 @@ akaiksots.com
 akanoo.com
 akaroafrypan.com
 akavita.com
+matomo.akbal.dev
 akdbr.com
 akeedser.com
 akentaspectsof.com
@@ -6039,6 +6042,7 @@ athoaphu.xyz
 atholicncesispe.info
 athostouco.com
 athvicatfx.com
+athyimemediat.com
 athyimemediates.info
 r1.ati.su
 userdata.ati.su
@@ -7301,6 +7305,7 @@ beiletoys.com
 bd.beimap.com
 adm.beimg.com
 beingajoyto.info
+beingajoytow.com
 beingsjeanssent.com
 beitandfalloni.com
 beizi.biz
@@ -8745,6 +8750,7 @@ burstnet.com
 burt.io
 burydwellingchristmas.com
 templates.buscape.com
+busedsoccage.shop
 busherdebates.com
 bushibousy.click
 bushsurprising.com
@@ -15859,6 +15865,7 @@ ethnarc.de
 ethnio.com
 ethoamee.xyz
 ethophipek.com
+ethylicestops.top
 etingplansfo.buzz
 etiquettegrapesdoleful.com
 stats.etix.vn
@@ -20476,6 +20483,7 @@ ys-log-upload-os.hoyoverse.com
 hp1mufjhk.com
 hpcyk.com
 hpeaxbmuh.com
+hpilzison-r.online
 hpk42r7a.de
 banner.hpmdnetwork.ru
 hpmstr.com
@@ -20845,6 +20853,7 @@ adserver.icimedias.ca
 ickersanthine.com
 iclckk.com
 iclickcdn.com
+iclimio.top
 iclnxqe.com
 ads.icloseli.cn
 metrics.icloud.com
@@ -22921,6 +22930,7 @@ k5zoom.com
 k8ik878i.top
 k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
 k9gj.site
+kaarheciqa.xyz
 kaascypher.com
 kabakamarbles.top
 kabarnaira.com
@@ -23356,6 +23366,7 @@ r.kleertjes.com
 klenhosnc.com
 klert.com
 statsjs.klevu.com
+klh3j19w.xyz
 klhswcxt-o.icu
 klick.vn
 klick4u.de
@@ -24296,6 +24307,7 @@ liabletablesoviet.com
 liambafaying.com
 engine.liandaomobi.com
 dm.lianzhixiu.com
+lianzl.xyz
 liaoptse.net
 liarcram.com
 lib1.biz
@@ -26040,6 +26052,7 @@ messenger-notify.xyz
 messengeridentifiers.com
 messengerreinsomething.com
 messsomehow.com
+messyadvance.com
 mestkom.ru
 mestreqa.com
 mestupidity.com
@@ -27930,6 +27943,7 @@ newrrb.bid
 newrtbbid.com
 js.newrutor.eu.org
 news-back.org
+news-bbipasu.today
 news-buzz.cc
 news-galuzo.cc
 news-getogo.com
@@ -28560,6 +28574,7 @@ ntvsw.com
 ntxviewsinterfu.info
 ntygtomuj.com
 count.nuanyuehanxing.com
+nubileforward.com
 nubseech.com
 nuclearads.com
 nucleo.online
@@ -30132,6 +30147,7 @@ palharesinformatica.com.br
 palibs.tech
 palibzh.tech
 analytics.palitra.ge
+palliwaklgz.com
 pallorirony.com
 palmcodliverblown.com
 palmfulcultivateemergency.com
@@ -30798,6 +30814,7 @@ clientinfo.phimmoizz.net
 phimtronbo.pro
 phiriaxi.com
 phitchoord.com
+phjsnwuzj.com
 phjtxx.xyz
 phkucgq.com
 phkwimm.com
@@ -31313,6 +31330,7 @@ pmxyzqm.com
 pmzer.com
 pmzlnt.xyz
 pnads.com
+sentry.pnblab.com
 100.pncdn.cn
 pncvaoh.com
 pnd.gs
@@ -32981,6 +32999,7 @@ qlnomb.com
 qmaacxajsovk.com
 qmahepzo.one
 qmbdta.cn
+qmrelvezolbrv.top
 qmxbqwbprwavac.xyz
 qn-5.com
 qnajplxtvz-a.akamaihd.net
@@ -36778,6 +36797,7 @@ skulldesperatelytransfer.com
 skullhalfway.com
 skullmagnets.com
 skunscold.top
+skvxbool.xyz
 skwstat.ru
 analytics.global.sky.com
 skyad.video
@@ -41925,6 +41945,7 @@ urgedhearted.com
 urgentlyfeerobots.com
 urgentprotections.com
 urgigan.info
+urhjoqudc.com
 urimnugocfr.com
 urinebladdernovember.com
 urinousbiriba.com
@@ -43332,6 +43353,7 @@ vwuiefsgtvixw.xyz
 vwvatp.xyz
 vwwzygltq.com
 vxdrfr.xyz
+vxfxkhzdaa.com
 vxorjza.com
 vxpdfb.xyz
 vyborexperta.ru
@@ -44810,6 +44832,7 @@ wxmhau.xyz
 wxqbopca-i.global
 wxseedslpi.com
 wxymag.xyz
+wxzjxasvczjoh.com
 wy213.com
 wydpt.com
 wyeczfx.com
