@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20241229181900
-! Last modified: 2024/12/29 18:19:00
-! Blocked domains: 2447
+! Version: 20241230022517
+! Last modified: 2024/12/30 02:25:17
+! Blocked domains: 2444
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -140,7 +140,6 @@
 ||180.117.160.2^
 ||180.76.138.238^
 ||182.116.21.142^
-||182.127.128.65^
 ||182.92.99.95^
 ||1999019.com^
 ||ssp.1nmob.com^
@@ -363,7 +362,6 @@
 ||999bb222ww.com^
 ||a32a.com.cn^
 ||abjalrq.cn^
-||disk.accord1key.cn^
 ||jscode.acg68.com^
 ||acgshenshicha.cn^
 ||imp.ad-plus.cn^
@@ -432,6 +430,7 @@
 ||m.ailezhai.cn^
 ||atiws.aipai.com^
 ||agn.aty.snmsohu.aisee.tv^
+||admin.aishangzhua.com^
 ||domain.aishengji.com^
 ||log.aispeech.com^
 ||aivaylaco.com^
@@ -1076,9 +1075,7 @@
 ||cdn.haocaa.com^
 ||js1.haoge500.com^
 ||2.haory.cn^
-||by.haory.cn^
 ||2.haoxue360.com^
-||download.haozip.com^
 ||a.hbf23.cn^
 ||img1.hblds.com^
 ||hechaocheng.cn^
@@ -1778,7 +1775,6 @@
 ||a1.qqan.com^
 ||down.qqfarmer.com.cn^
 ||qqhuhu.com^
-||qqqmy.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
 ||adlaunch.qtfm.cn^
@@ -2190,6 +2186,7 @@
 ||vs.biz.weibo.com^
 ||logtake.weidian.com^
 ||1.weiheshidai.com^
+||xingpai.weilay.com.cn^
 ||ads.weilitoutiao.net^
 ||mj.weimob.net^
 ||badjs.weixinbridge.com^

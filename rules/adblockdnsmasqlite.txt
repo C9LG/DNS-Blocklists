@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/C9LG/DNS-Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnsmasqlite.txt
-# Version: 20241229181900
-# Last modified: 2024/12/29 18:19:00
-# Blocked domains: 2447
+# Version: 20241230022517
+# Last modified: 2024/12/30 02:25:17
+# Blocked domains: 2444
 #
 local=/img.0279.net/
 local=/o.027eat.com/
@@ -139,7 +139,6 @@ local=/dm.17xuexiba.com/
 local=/180.117.160.2/
 local=/180.76.138.238/
 local=/182.116.21.142/
-local=/182.127.128.65/
 local=/182.92.99.95/
 local=/1999019.com/
 local=/ssp.1nmob.com/
@@ -362,7 +361,6 @@ local=/a1.99966.cn/
 local=/999bb222ww.com/
 local=/a32a.com.cn/
 local=/abjalrq.cn/
-local=/disk.accord1key.cn/
 local=/jscode.acg68.com/
 local=/acgshenshicha.cn/
 local=/imp.ad-plus.cn/
@@ -431,6 +429,7 @@ local=/usr-api.aiclk.com/
 local=/m.ailezhai.cn/
 local=/atiws.aipai.com/
 local=/agn.aty.snmsohu.aisee.tv/
+local=/admin.aishangzhua.com/
 local=/domain.aishengji.com/
 local=/log.aispeech.com/
 local=/aivaylaco.com/
@@ -1075,9 +1074,7 @@ local=/mini.hao123.com/
 local=/cdn.haocaa.com/
 local=/js1.haoge500.com/
 local=/2.haory.cn/
-local=/by.haory.cn/
 local=/2.haoxue360.com/
-local=/download.haozip.com/
 local=/a.hbf23.cn/
 local=/img1.hblds.com/
 local=/hechaocheng.cn/
@@ -1777,7 +1774,6 @@ local=/yun-hl.3g.qq.com/
 local=/a1.qqan.com/
 local=/down.qqfarmer.com.cn/
 local=/qqhuhu.com/
-local=/qqqmy.com/
 local=/sdk-ab-config.qquanquan.com/
 local=/tracelog-debug.qquanquan.com/
 local=/adlaunch.qtfm.cn/
@@ -2189,6 +2185,7 @@ local=/alitui.weibo.com/
 local=/vs.biz.weibo.com/
 local=/logtake.weidian.com/
 local=/1.weiheshidai.com/
+local=/xingpai.weilay.com.cn/
 local=/ads.weilitoutiao.net/
 local=/mj.weimob.net/
 local=/badjs.weixinbridge.com/
