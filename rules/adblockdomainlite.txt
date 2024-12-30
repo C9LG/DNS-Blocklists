@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdomainlite.txt
-! Version: 20241230022517
-! Last modified: 2024/12/30 02:25:17
-! Blocked domains: 2444
+! Version: 20241230105306
+! Last modified: 2024/12/30 10:53:06
+! Blocked domains: 2442
 !
 img.0279.net
 o.027eat.com
@@ -39,8 +39,6 @@ smartad.10010.com
 106.75.61.100
 adm.10jqka.com.cn
 110.41.2.207
-soft.110route.com
-111.173.118.193
 111.229.208.249
 111.230.25.167
 111.42.156.130
@@ -48,7 +46,6 @@ soft.110route.com
 112.124.71.123
 112.33.27.73
 113.219.177.95
-113.221.79.121
 113.98.201.248
 114.215.27.238
 114.242.26.64
@@ -86,6 +83,7 @@ soft.110route.com
 122.51.52.109
 122.51.75.246
 js1.122cha.com
+123.12.244.152
 123.132.224.187
 123.253.12.111
 123.56.191.147
@@ -138,6 +136,7 @@ trk1.17admob.com
 dm.17xuexiba.com
 180.117.160.2
 180.76.138.238
+182.113.10.150
 182.116.21.142
 182.92.99.95
 1999019.com
@@ -193,6 +192,7 @@ hjkhxfh.360doc.cn
 hye.comp.360os.com
 hyt.comp.360os.com
 p1.360soucha.com
+softdl.360tpcdn.com
 365dmp.com
 gw.365you.com
 adx.36kr.com
@@ -219,6 +219,7 @@ uu1.3gu.com
 3q1lsj.cn
 img.3sjt.com
 42.192.195.221
+42.234.140.131
 43.241.17.143
 43.241.17.145
 47.100.196.58
@@ -279,7 +280,6 @@ union.56.com
 v16.56.com
 3.5646.cn
 58.216.207.82
-58.47.120.159
 tracklog.58.com
 59.110.136.135
 59.110.172.50
@@ -530,7 +530,6 @@ log.amemv.com
 analysys.cn
 dow.andylab.cn
 api.antibanads.com
-aogk88.asia
 app-measurement.com
 appgift.sinaapp.com
 b.appjiagu.com
@@ -749,7 +748,6 @@ dvs.china.com
 dvser.china.com
 sssvd.china.com
 union.china.com.cn
-chinaapper.com
 same.chinadaily.com.cn
 sdkoptedge.chinanetcenter.com
 a2put.chinaz.com
@@ -795,7 +793,6 @@ reportwest-midas.codmwest.com
 moa-upload-online.coloros.com
 commander1.com
 12.cookcai.com
-courtoyz.com
 adt.cpatrk.net
 ap.cpatrk.net
 me.cpatrk.net
@@ -1056,7 +1053,6 @@ mo.gushiji.cc
 abcdcfasda.gushiwen.cn
 enennsa.gushiwen.cn
 ggw.gusuwang.com
-m.gutousoft.com
 a.guzhilin.com
 gw2cddpt2hao.asia
 gw2cddpt2hao.cloud
@@ -1073,7 +1069,6 @@ as1.m.hao123.com
 mini.hao123.com
 cdn.haocaa.com
 js1.haoge500.com
-2.haory.cn
 2.haoxue360.com
 a.hbf23.cn
 img1.hblds.com
@@ -1189,7 +1184,6 @@ erg.ihclam.cn
 hnl.ijgocb.cn
 mlb.did.ijinshan.com
 sdk.mobad.ijinshan.com
-lm.ijq.tv
 imasdk.googleapis.com
 windriversfiles.imeitools.com
 ssp.indexmob.com
@@ -1318,10 +1312,13 @@ kfpnqug.cn
 abroad-ad.kingsoft-office-service.com
 houyi.kkmh.com
 ipv4.kkmh.com
+affiliate.klook.com
 kolsh.cn
 adsmart.konka.com
 g.koowo.com
 kossog.xyz
+d.kpzip.com
+mininews.kpzip.com
 slb-p2p.vcloud.ks-live.com
 log-sdk.ksapisrv.com
 web-trace.ksapisrv.com
@@ -1375,6 +1372,7 @@ update.lejiao.tv
 analyze.lemurbrowser.com
 adapi.lenovogame.com
 adcore.lenovomm.com
+tracking.lenzmx.com
 apple.www.letv.com
 c.webp2p.letv.com
 dc.letv.com
@@ -1793,7 +1791,6 @@ msg.qy.net
 msg-intl.qy.net
 msgv6.qy.net
 hades.qyer.com
-u1.qyxxpd.com
 qzorwe.xyz
 reachmax.cn
 iot-eu-logser.realme.com
@@ -1810,6 +1807,7 @@ api.revenuads.com
 richh.cn
 ad.richmob.cn
 static.rongkao.com
+down.ruanmei.com
 ds.ruanwengfa.com
 rumt-zh.com
 rxys.cn
@@ -1828,6 +1826,7 @@ statscollector.sd-rtn.com
 adrs.sdo.com
 guang.sdsgwy.com
 sensorsdata.cn
+ini.sh-pp.com
 js.shangxueba.com
 shaorgs.cn
 jpaasne.e.shifen.com
@@ -1943,6 +1942,7 @@ y1.spreton.com
 3.ssqzj.com
 app.starschina.com
 stgowan.com
+stnew.xyz
 brt.studylabs.cn
 uc9.suinidai.com.cn
 log-dmp.suishenyun.cn
@@ -2185,7 +2185,6 @@ alitui.weibo.com
 vs.biz.weibo.com
 logtake.weidian.com
 1.weiheshidai.com
-xingpai.weilay.com.cn
 ads.weilitoutiao.net
 mj.weimob.net
 badjs.weixinbridge.com
@@ -2306,7 +2305,6 @@ g.yccdn.com
 ycuhky.xyz
 adpublish.ydstatic.com
 bdm.ye-su.cn
-yeahmobi.com
 abc.yebaike.com
 a.yellowurl.cn
 bi.yeshen.com
@@ -2376,6 +2374,7 @@ v3-ad.video.yximgs.com
 gt.yy.com
 yylady.cn
 adapi.yynetwk.com
+yzkzixun.com
 yktj.yzz.cn
 zampda.net
 zantainet.com
@@ -2403,7 +2402,6 @@ jy.zhongxues.com
 u.zhugeapi.net
 zgsdk.zhugeio.com
 fdfda.zhuzhai.com
-znrq.zifwxq.cn
 ad.zijieapi.com
 ads3-normal.zijieapi.com
 ads3-normal-hl.zijieapi.com
