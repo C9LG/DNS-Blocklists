@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20241230105306
-! Last modified: 2024/12/30 10:53:06
-! Blocked domains: 46511
+! Version: 20241230182132
+! Last modified: 2024/12/30 18:21:32
+! Blocked domains: 46513
 ! unBlocked domains: 9
 !
 ||t.0000o.xyz^
@@ -28719,6 +28719,7 @@
 ||o313o.com^
 ||e20d8e38992b.o3n.io^
 ||o3sxhw5ad.com^
+||o3t.icu^
 ||o4nofsh6.de^
 ||o4svlxhjun.xyz^
 ||o4uxrk33.com^
@@ -44870,6 +44871,7 @@
 ||xazojei-z.top^
 ||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
+||xbfebqya.icu^
 ||xbtw.com^
 ||xbuycgcae.com^
 ||d0.xcar.com.cn^
