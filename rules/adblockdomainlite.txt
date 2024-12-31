@@ -3,8 +3,8 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdomainlite.txt
-! Version: 20241231104936
-! Last modified: 2024/12/31 10:49:36
+! Version: 20241231182037
+! Last modified: 2024/12/31 18:20:37
 ! Blocked domains: 2445
 !
 img.0279.net
