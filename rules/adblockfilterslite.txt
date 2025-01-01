@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20250101022631
-! Last modified: 2025/01/01 02:26:31
-! Blocked Filters: 374
+! Version: 20250101105730
+! Last modified: 2025/01/01 10:57:30
+! Blocked Filters: 373
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -339,7 +339,6 @@
 ||tag-based.s3.*.amazonaws.com^
 ||talpa-analytics.
 ||tccd.douglas.
-||telemetry*.api.playstation.com^
 ||telemetry*.transcend.io^
 ||teleriumads-*.netdna-ssl.com^
 ||thegreatesthits.
