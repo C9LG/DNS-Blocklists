@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则。
 # Homepage: https://github.com/C9LG/DNS-Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnsmasq.txt
-# Version: 20250101105730
-# Last modified: 2025/01/01 10:57:30
-# Blocked domains: 45782
+# Version: 20250101182028
+# Last modified: 2025/01/01 18:20:28
+# Blocked domains: 45784
 #
 local=/t.0000o.xyz/
 local=/id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com/
@@ -2275,6 +2275,7 @@ local=/8chuyenphongthe.com/
 local=/8coins.net/
 local=/8eef59a5.live/
 local=/8feichai.com/
+local=/8fo.icu/
 local=/8il2nsgm5.com/
 local=/8j1f0af5.de/
 local=/8jay04c4q7te.com/
@@ -32174,6 +32175,7 @@ local=/qcerujcajnme.com/
 local=/www.qchannel01.cn/
 local=/qchannel03.cn/
 local=/www.qchannel04.cn/
+local=/qclimiy.top/
 local=/log.qvb.qcloud.com/
 local=/tracker-00.qvb.qcloud.com/
 local=/car.qcmrjx.com/

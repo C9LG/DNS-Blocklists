@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250101105730
-! Last modified: 2025/01/01 10:57:30
-! Blocked domains: 45782
+! Version: 20250101182028
+! Last modified: 2025/01/01 18:20:28
+! Blocked domains: 45784
 ! unBlocked domains: 9
 !
 ||t.0000o.xyz^
@@ -2276,6 +2276,7 @@
 ||8coins.net^
 ||8eef59a5.live^
 ||8feichai.com^
+||8fo.icu^
 ||8il2nsgm5.com^
 ||8j1f0af5.de^
 ||8jay04c4q7te.com^
@@ -32175,6 +32176,7 @@
 ||www.qchannel01.cn^
 ||qchannel03.cn^
 ||www.qchannel04.cn^
+||qclimiy.top^
 ||log.qvb.qcloud.com^
 ||tracker-00.qvb.qcloud.com^
 ||car.qcmrjx.com^
