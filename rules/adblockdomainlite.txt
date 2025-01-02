@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdomainlite.txt
-! Version: 20250102182027
-! Last modified: 2025/01/02 18:20:27
-! Blocked domains: 2405
+! Version: 20250103022730
+! Last modified: 2025/01/03 02:27:30
+! Blocked domains: 2396
 !
 img.0279.net
 o.027eat.com
@@ -16,7 +16,6 @@ gg.0598yu.com
 0941.org
 1.117.72.208
 1.92.86.239
-1717.1000uc.com
 m1.ad.10010.com
 smartad.10010.com
 101.126.11.168
@@ -85,7 +84,6 @@ js1.122cha.com
 123.56.191.147
 123.57.230.183
 123.57.250.154
-123.60.182.88
 ad.12306.cn
 124.220.235.28
 124.221.174.136
@@ -131,7 +129,6 @@ trk1.17admob.com
 dm.17xuexiba.com
 180.117.160.2
 180.76.138.238
-182.113.10.218
 182.113.13.128
 182.92.99.95
 1999019.com
@@ -197,6 +194,7 @@ adx.36kr.com
 39.105.31.193
 39.106.216.88
 39.107.136.241
+39.108.237.194
 39.98.174.154
 39.99.131.244
 abody.39.net
@@ -323,7 +321,6 @@ cp.7y7.com
 m1.81312.com
 cc.8181zx.com
 d.8181zx.com
-82.156.19.76
 82.156.193.24
 88lm04.com
 88lm05.com
@@ -457,7 +454,6 @@ a12xxx1.oss-cn-hongkong.aliyuncs.com
 a15aaa1.oss-cn-hongkong.aliyuncs.com
 a16eea1.oss-cn-hongkong.aliyuncs.com
 a17rrr1.oss-cn-hongkong.aliyuncs.com
-a18qqq1.oss-cn-hongkong.aliyuncs.com
 a19ccc1.oss-cn-hongkong.aliyuncs.com
 a23uuu1.oss-cn-hongkong.aliyuncs.com
 a26bbb1.oss-cn-hongkong.aliyuncs.com
@@ -929,6 +925,7 @@ a1.firefoxchina.cn
 first-vay.com
 adv.fjtv.net
 bd1.flfgw.cn
+pid.fly160.com
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
 bdu.focus.cn
@@ -969,6 +966,7 @@ biz.gexing.com
 gfdfegg.cn
 gfdfgfgr.cn
 gfdgfhh.cn
+shqdown.ggzuhao.com
 ad.partner.gifshow.com
 gdfp.gifshow.com
 log-sdk.gifshow.com
@@ -1149,7 +1147,6 @@ report2.iciba.com
 ads.icloseli.cn
 rc.ie13.com
 iemiq.com
-ievvo.xyz
 analytics.ifanrusercontent.com
 9fum.ifeng.com
 api.newad.ifeng.com
@@ -1339,7 +1336,6 @@ lady177.com
 zq.lansedir.com
 wap1.laogu.wang
 un1.lawyernet.cn
-ldcdn.ldmnq.com
 mnqlog.ldmnq.com
 banana.le.com
 stat.le.com
@@ -2129,7 +2125,6 @@ topapi.cp12.wasu.tv
 valatm.cp12.wasu.tv
 ggw.watertu.com
 bd.watu.cn
-wbvfj.xyz
 manage.wdfans.cn
 m1.we556.com
 ctc.weather.com.cn
@@ -2202,7 +2197,6 @@ data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 o2o.api.xiaomi.com
-register.xmpush.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
@@ -2213,7 +2207,6 @@ t6.a.market.xiaomi.com
 tracker.ai.xiaomi.com
 tz.sec.xiaomi.com
 video.market.xiaomi.com
-app.chat.xiaomi.net
 resolver.msg.xiaomi.net
 xiaopinwo.com
 viva.api.xiaoying.co
@@ -2235,7 +2228,6 @@ mobwsa.ximalaya.com
 xdcs-collector.ximalaya.com
 ichc1.xinglinpukang.com
 a2.xinhuanet.com
-xiongdong.com
 z1hihu.xmcimg.com
 zhihu.xmcimg.com
 cmm.xmfish.com
@@ -2337,7 +2329,6 @@ v3-ad.video.yximgs.com
 gt.yy.com
 yylady.cn
 adapi.yynetwk.com
-yzkzixun.com
 yktj.yzz.cn
 zampda.net
 zantainet.com
