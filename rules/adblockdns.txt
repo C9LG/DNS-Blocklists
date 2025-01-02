@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250102104934
-! Last modified: 2025/01/02 10:49:34
-! Blocked domains: 44929
+! Version: 20250102182027
+! Last modified: 2025/01/02 18:20:27
+! Blocked domains: 44933
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1005,6 +1005,7 @@
 ||1traf.ru^
 ||1ts18.top^
 ||1ts19.top^
+||1tv.icu^
 ||pixel.1und1.de^
 ||log.1vn.app^
 ||1warie.com^
@@ -27880,6 +27881,7 @@
 ||okkywctpvfu.com^
 ||oko.net^
 ||okoshechka.net^
+||okpp01021.xyz^
 ||okrasbj6.de^
 ||okt.to^
 ||okt5mpi4u570pygje5v9zy.com^
@@ -30467,6 +30469,7 @@
 ||static.g.pptv.com^
 ||tj.g.pptv.com^
 ||ppvmhhpxuomjwo.xyz^
+||ppxndfgf.icu^
 ||pq-mzfusgpzt.xyz^
 ||wvontgd.pqmg.bid^
 ||pqrtd9hhtu9x.info^
@@ -39913,6 +39916,7 @@
 ||uchmuk.com^
 ||ucjevgue.xyz^
 ||uckgqa.xyz^
+||uclimit.top^
 ||a.ucoz.net^
 ||ucounter.ucoz.net^
 ||teasers.ucoz.ru^

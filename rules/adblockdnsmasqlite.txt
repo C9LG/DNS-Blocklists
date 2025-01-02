@@ -3,8 +3,8 @@
 # Description: 适用于 DNSMasq 的去广告合并规则。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/C9LG/DNS-Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnsmasqlite.txt
-# Version: 20250102104934
-# Last modified: 2025/01/02 10:49:34
+# Version: 20250102182027
+# Last modified: 2025/01/02 18:20:27
 # Blocked domains: 2405
 #
 local=/img.0279.net/

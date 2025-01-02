@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则。
 # Homepage: https://github.com/C9LG/DNS-Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnsmasq.txt
-# Version: 20250102104934
-# Last modified: 2025/01/02 10:49:34
-# Blocked domains: 44929
+# Version: 20250102182027
+# Last modified: 2025/01/02 18:20:27
+# Blocked domains: 44933
 #
 local=/id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com/
 local=/vietconbank-digital.otjwvhdd.nethost-4211.000nethost.com/
@@ -1004,6 +1004,7 @@ local=/ads.1thegioi.vn/
 local=/1traf.ru/
 local=/1ts18.top/
 local=/1ts19.top/
+local=/1tv.icu/
 local=/pixel.1und1.de/
 local=/log.1vn.app/
 local=/1warie.com/
@@ -27879,6 +27880,7 @@ local=/okkodoo.com/
 local=/okkywctpvfu.com/
 local=/oko.net/
 local=/okoshechka.net/
+local=/okpp01021.xyz/
 local=/okrasbj6.de/
 local=/okt.to/
 local=/okt5mpi4u570pygje5v9zy.com/
@@ -30466,6 +30468,7 @@ local=/jp.as.pptv.com/
 local=/static.g.pptv.com/
 local=/tj.g.pptv.com/
 local=/ppvmhhpxuomjwo.xyz/
+local=/ppxndfgf.icu/
 local=/pq-mzfusgpzt.xyz/
 local=/wvontgd.pqmg.bid/
 local=/pqrtd9hhtu9x.info/
@@ -39912,6 +39915,7 @@ local=/ucheephu.com/
 local=/uchmuk.com/
 local=/ucjevgue.xyz/
 local=/uckgqa.xyz/
+local=/uclimit.top/
 local=/a.ucoz.net/
 local=/ucounter.ucoz.net/
 local=/teasers.ucoz.ru/
