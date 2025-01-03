@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则。
 # Homepage: https://github.com/C9LG/DNS-Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnsmasq.txt
-# Version: 20250103105046
-# Last modified: 2025/01/03 10:50:46
-# Blocked domains: 46219
+# Version: 20250103182036
+# Last modified: 2025/01/03 18:20:36
+# Blocked domains: 46223
 #
 local=/t.0000o.xyz/
 local=/id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com/
@@ -20738,6 +20738,7 @@ local=/stats.ibtimes.co.in/
 local=/stats.ibtimes.co.uk/
 local=/ibugreeza.com/
 local=/ibutheptesitrew.com/
+local=/ibyrwvi.cn/
 local=/moon.ibytecdn.cn/
 local=/analytics.ica.se/
 local=/web-analytics.ica.se/
@@ -23889,6 +23890,7 @@ local=/lby2kd27c.com/
 local=/lc2ads.ru/
 local=/lcfooiqhro.com/
 local=/heatmaps.lcisoft.it/
+local=/lclimil.top/
 local=/lcmbppikwtxujc.xyz/
 local=/lcolumnstoodth.info/
 local=/lcwfab1.com/
@@ -28949,6 +28951,7 @@ local=/okkywctpvfu.com/
 local=/oko.net/
 local=/okoshechka.net/
 local=/okpp01030.xyz/
+local=/okpp01031.xyz/
 local=/okrasbj6.de/
 local=/okt.to/
 local=/okt5mpi4u570pygje5v9zy.com/
@@ -45039,6 +45042,7 @@ local=/y-track.com/
 local=/y06ney2v.xyz/
 local=/y1jxiqds7v.com/
 local=/y1zoxngxp.com/
+local=/y4l.icu/
 local=/y8lsyibocd.ru/
 local=/y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me/
 local=/r.yabancidizi.in/
