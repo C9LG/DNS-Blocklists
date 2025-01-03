@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdomainlite.txt
-! Version: 20250103182036
-! Last modified: 2025/01/03 18:20:36
-! Blocked domains: 2423
+! Version: 20250104022717
+! Last modified: 2025/01/04 02:27:17
+! Blocked domains: 2424
 !
 img.0279.net
 o.027eat.com
@@ -36,13 +36,13 @@ smartad.10010.com
 106.75.61.100
 adm.10jqka.com.cn
 110.41.2.207
+soft.110route.com
 111.229.208.249
 111.230.25.167
 111.42.156.130
 1.11130.com.cn
 112.124.71.123
 112.33.27.73
-113.219.177.95
 113.98.201.248
 114.215.27.238
 114.242.26.64
@@ -213,7 +213,6 @@ img.3sjt.com
 42.240.133.45
 43.241.17.143
 43.241.17.145
-47.100.196.58
 47.101.206.165
 47.103.126.166
 47.103.143.60
@@ -234,7 +233,6 @@ img.3sjt.com
 47.120.46.210
 47.120.60.201
 47.121.137.189
-47.92.83.128
 47.93.243.161
 47.94.196.131
 47.96.13.97
@@ -741,7 +739,6 @@ dvs.china.com
 dvser.china.com
 sssvd.china.com
 union.china.com.cn
-chinaapper.com
 same.chinadaily.com.cn
 sdkoptedge.chinanetcenter.com
 a2put.chinaz.com
@@ -791,6 +788,7 @@ adt.cpatrk.net
 ap.cpatrk.net
 me.cpatrk.net
 tdsdk.cpatrk.net
+agapi.cqjjb.cn
 crasheye.cn
 crashlyticsreports-pa.googleapis.com
 gg.cs090.com
@@ -1061,9 +1059,9 @@ as1.m.hao123.com
 mini.hao123.com
 cdn.haocaa.com
 js1.haoge500.com
+2.haory.cn
 by.haory.cn
 2.haoxue360.com
-download.haozip.com
 a.hbf23.cn
 img1.hblds.com
 hechaocheng.cn
@@ -1149,6 +1147,7 @@ e-stat.huya.com
 metric.huya.com
 statwup.huya.com
 ylog.huya.com
+ecs-123-60-182-88.compute.hwclouds-dns.com
 t.hypers.com.cn
 adx.hzbxm.com
 api.hzsanjiaomao.com
@@ -1609,6 +1608,7 @@ dm.pw0.cn
 cdn.pyadx.com
 q02orc.cn
 139520.aioc.qbgxl.com
+912648.aioc.qbgxl.com
 www.qchannel01.cn
 www.qchannel04.cn
 log.qvb.qcloud.com
@@ -1758,6 +1758,7 @@ yun-hl.3g.qq.com
 a1.qqan.com
 down.qqfarmer.com.cn
 qqhuhu.com
+qqqmy.com
 sdk-ab-config.qquanquan.com
 tracelog-debug.qquanquan.com
 adlaunch.qtfm.cn
