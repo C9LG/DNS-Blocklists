@@ -6,7 +6,7 @@ from typing import List,Dict,Set,Tuple
 from loguru import logger
 from tld import get_tld
 
-from app import AdGuard, AdGuardHome, Clash, DNSMasq, InviZible, QuantumultX, SmartDNS
+from app import AdGuard, AdGuardHome
 from readme import Rule
 from resolver import Resolver
 
@@ -206,20 +206,10 @@ class Filter(object):
         blockList, blockSet_block = self.__domainSort(blockDict, blackSet, whiteSet)
         unblockList, unblockSet_unblock = self.__domainSort(unblockDict, blackSet, whiteSet)
         filterList_var, filterList, domainSet_filter = self.__filterSort(filterDict, set(blockList), set(unblockList), blackSet, whiteSet)
-        # 生成合并规则 AdGuard, AdGuardHome, DNSMasq, InviZible, SmartDNS
+        # 生成合并规则 AdGuard, AdGuardHome
         adguard = AdGuard(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockfilters.txt", sourceRule)
         adguard.generateAll()
         adguardhome = AdGuardHome(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockdns.txt", sourceRule)
         adguardhome.generateAll()
-        clash = Clash(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockclash.list", sourceRule)
-        clash.generateAll()
-        dnsmasq = DNSMasq(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockdnsmasq.txt", sourceRule)
-        dnsmasq.generateAll()
-        invizible = InviZible(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockdomain.txt", sourceRule)
-        invizible.generateAll()
-        quantumultx = QuantumultX(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblockqx.conf", sourceRule)
-        quantumultx.generateAll()
-        smartdns = SmartDNS(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, self.path + "/adblocksmartdns.conf", sourceRule)
-        smartdns.generateAll()
         # 生成用于域名连通性检测的全域名清单
         self.__generateDomainBackup(blockSet_block | unblockSet_unblock | domainSet_filter, self.path + "/domain.txt")
