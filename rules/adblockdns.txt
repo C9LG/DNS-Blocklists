@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250115104710
-! Last modified: 2025/01/15 10:47:10
-! Blocked domains: 45870
+! Version: 20250115182140
+! Last modified: 2025/01/15 18:21:40
+! Blocked domains: 45875
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -30,6 +30,7 @@
 ||0351dvd.cn^
 ||04-f-bmf.com^
 ||04424170.xyz^
+||04o.fun^
 ||05420795.xyz^
 ||05454674.xyz^
 ||appimg.0575bbs.com^
@@ -641,6 +642,7 @@
 ||172.115.81.23^
 ||172.245.123.7^
 ||172.73.72.87^
+||17282.org^
 ||173.178.94.224^
 ||173.231.247.84^
 ||1736253261.rsc.cdn77.org^
@@ -8560,6 +8562,7 @@
 ||tracking.bt.se^
 ||btagmedia.com^
 ||btbuckets.com^
+||btcili.top^
 ||ion.btcswe.com^
 ||btdirectnav.com^
 ||track.btdmp.com^
@@ -28146,6 +28149,7 @@
 ||ntedbycathyhou.com^
 ||ntent.com^
 ||mas.nth.ch^
+||ntkimg.cloud^
 ||ntlab.org^
 ||analytics.ntlc.com.vn^
 ||ntlcgevw-u.one^
@@ -39856,6 +39860,7 @@
 ||toutsneskhi.com^
 ||touweptouceeru.xyz^
 ||touzoaty.net^
+||tovbus.cn^
 ||tovery.net^
 ||tovespiquener.com^
 ||tovwhxpomgkd.com^
