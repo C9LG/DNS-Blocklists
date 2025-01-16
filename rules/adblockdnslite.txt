@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250116182157
-! Last modified: 2025/01/16 18:21:57
-! Blocked domains: 2398
+! Version: 20250117022751
+! Last modified: 2025/01/17 02:27:51
+! Blocked domains: 2395
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -16,7 +16,6 @@
 ||gg.0598yu.com^
 ||0941.org^
 ||1.92.86.239^
-||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
@@ -42,9 +41,8 @@
 ||111.230.25.167^
 ||111.42.156.130^
 ||1.11130.com.cn^
-||112.124.71.123^
 ||112.33.27.73^
-||112.74.184.37^
+||113.219.177.95^
 ||113.31.111.76^
 ||113.98.201.248^
 ||114.215.27.238^
@@ -464,12 +462,10 @@
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
-||asgbucket.oss-ap-southeast-3.aliyuncs.com^
 ||b46.oss-cn-hongkong.aliyuncs.com^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||bruplong.oss-accelerate.aliyuncs.com^
-||buck1st.oss-ap-southeast-5.aliyuncs.com^
 ||c3poolbat.oss-accelerate.aliyuncs.com^
 ||c3poolbat2.oss-ap-northeast-1.aliyuncs.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
@@ -486,7 +482,6 @@
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kuakuawenjian.oss-cn-hangzhou.aliyuncs.com^
-||lusibuck.oss-cn-hongkong.aliyuncs.com^
 ||lusii.oss-ap-southeast-1.aliyuncs.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mymin11.oss-cn-hangzhou.aliyuncs.com^
@@ -690,6 +685,7 @@
 ||click.bokecc.com^
 ||vstat.borderlessbd.com^
 ||static.bshare.cn^
+||xww.bucea.edu.cn^
 ||beijing.buzhi5.com^
 ||bvubasnf.com^
 ||ad.bwton.com^
@@ -739,6 +735,7 @@
 ||dvser.china.com^
 ||sssvd.china.com^
 ||union.china.com.cn^
+||chinaapper.com^
 ||same.chinadaily.com.cn^
 ||sdkoptedge.chinanetcenter.com^
 ||a2put.chinaz.com^
@@ -1166,7 +1163,6 @@
 ||mlb.did.ijinshan.com^
 ||sdk.mobad.ijinshan.com^
 ||imasdk.googleapis.com^
-||windriversfiles.imeitools.com^
 ||ssp.indexmob.com^
 ||inmobi.cn^
 ||inmobicdn.net^
@@ -1737,6 +1733,7 @@
 ||yun-hl.3g.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
+||down.qqfarmer.com.cn^
 ||qqqmy.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -2316,6 +2313,7 @@
 ||yunshipei.com^
 ||ywxww.net^
 ||adsclick.yx.js.cn^
+||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
@@ -2346,7 +2344,6 @@
 ||udd1i5.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
-||zhikey.com^
 ||logapi.zhipin.com^
 ||t.zhipin.com^
 ||w11.zhongkaohelp.com^
