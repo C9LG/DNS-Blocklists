@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250116104553
-! Last modified: 2025/01/16 10:45:53
-! Blocked domains: 45798
+! Version: 20250116182157
+! Last modified: 2025/01/16 18:21:57
+! Blocked domains: 45805
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1716,6 +1716,7 @@
 ||4fs3r.icu^
 ||4g0b1inr.de^
 ||collect.4gtv.tv^
+||4gu.fun^
 ||4hfchest5kdnfnut.com^
 ||4iazoa.xyz^
 ||4ir17.icu^
@@ -17067,6 +17068,7 @@
 ||foundationhorny.com^
 ||foundry42.com^
 ||foundtr.com^
+||foupeestokiy.net^
 ||foupeethaija.com^
 ||fourmtagservices.appspot.com^
 ||fourteenthcongratulate.com^
@@ -21890,6 +21892,7 @@
 ||iwmigu.xyz^
 ||iwouhoft.com^
 ||iwovfiidszrk.tech^
+||iwpkp.xyz^
 ||iwqzrm.com^
 ||iwrcoct.info^
 ||iwstats.com^
@@ -25387,6 +25390,7 @@
 ||measurementapi.com^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
+||meatabdicatedelicatessen.com^
 ||meatjav11.fun^
 ||ssp.meba.kr^
 ||mebohjhh.xyz^
@@ -31463,6 +31467,7 @@
 ||privacyprotector.com^
 ||privacysearching.com^
 ||private-show.live^
+||private-stage.com^
 ||private4.com^
 ||privateappealingsymphony.com^
 ||pirati.privatedns.org^
@@ -35628,6 +35633,7 @@
 ||sherryfaithfulhiring.com^
 ||shertuwipsumt.net^
 ||sheschemetraitor.com^
+||shetchoultoocha.net^
 ||shexawhy.net^
 ||shfsdvc.com^
 ||shhh.lol^
@@ -37533,6 +37539,7 @@
 ||stlpnom.xyz^
 ||stnew.xyz^
 ||stoachaigog.com^
+||stoachdarts.com^
 ||stoadivap.com^
 ||stoaglauksargoo.xyz^
 ||stoagouruzostee.net^
