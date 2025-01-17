@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250117104520
-! Last modified: 2025/01/17 10:45:20
-! Blocked domains: 45846
+! Version: 20250117182125
+! Last modified: 2025/01/17 18:21:25
+! Blocked domains: 45861
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -2343,6 +2343,7 @@
 ||8stream-ai.com^
 ||logs.8thwall.com^
 ||8trd.online^
+||8u0.fun^
 ||8wtkfxiss1o2.com^
 ||90.227.7.171^
 ||90.230.28.6^
@@ -11457,6 +11458,7 @@
 ||metrics.ctvdigital.net^
 ||ctvnmxl.com^
 ||ctvrtrya.xyz^
+||ctwmcd.com^
 ||ctxtfl.com^
 ||best.obs.cn-sz1.ctyun.cn^
 ||dienlanhnguyenkim.ctyvn.net^
@@ -14973,6 +14975,7 @@
 ||edtotigainare.info^
 ||edtp.de^
 ||edttmar.com^
+||edttwm.com^
 ||track.edu-info.jp^
 ||edu-lib.com^
 ||edua29146y.com^
@@ -14991,6 +14994,7 @@
 ||edutechlearners.com^
 ||edvfwlacluo.com^
 ||tracking.edvisors.com^
+||edwmpt.com^
 ||metrics.ee.co.uk^
 ||eeaczcf.icu^
 ||eebuksaicmirte.net^
@@ -18159,6 +18163,7 @@
 ||gladsince.com^
 ||glaghoowingauck.net^
 ||glaickoxaksy.com^
+||glaicmauxoah.net^
 ||glaidalr.net^
 ||glaidekeemp.net^
 ||glaidipt.net^
@@ -18267,6 +18272,7 @@
 ||hnjgdl.geps.glodon.com^
 ||glodsaccate.com^
 ||glofodazoass.com^
+||gloghauzolso.xyz^
 ||glogoowo.net^
 ||glogopse.net^
 ||player-feedback-v1.glomex.com^
@@ -19052,6 +19058,7 @@
 ||gumgum.com^
 ||gumlahdeprint.com^
 ||gummierhedera.life^
+||gunlockpepped.shop^
 ||ad.gunosy.com^
 ||ads-delivery.gunosy.com^
 ||tr.gunosy.com^
@@ -21521,6 +21528,7 @@
 ||intruderalreadypromising.com^
 ||intrustedzone.site^
 ||eventbus.intuit.com^
+||eventcollector.mcf-prod.a.intuit.com^
 ||logging.api.intuit.com^
 ||monitoring-sdk.experimentation.intuit.com^
 ||pf.intuit.com^
@@ -21541,6 +21549,7 @@
 ||inventionwere.com^
 ||inventionyolk.com^
 ||inventoryproducedjustice.com^
+||inventsloosely.com^
 ||invest-pool.ru^
 ||invest-system.net^
 ||investcoma.com^
@@ -21585,6 +21594,7 @@
 ||ioniserpinones.com^
 ||ioniseryeaoman.shop^
 ||ionistkhaya.website^
+||ionogenbakutu.shop^
 ||iononetravoy.com^
 ||pixel.ionos.com^
 ||ionscormationwind.info^
@@ -31823,6 +31833,7 @@
 ||psauwaun.com^
 ||psclicks.com^
 ||ff.psd8.com^
+||psedwm.com^
 ||pseeckotees.com^
 ||pseegroah.com^
 ||pseempep.com^
@@ -35032,6 +35043,7 @@
 ||adsgard.aprod.scopely.io^
 ||collector.scopely.io^
 ||preview-collector.scopely.io^
+||scopingrile.com^
 ||scorchstrung.com^
 ||score-feed.com^
 ||scoreasleepbother.com^
@@ -42817,6 +42829,7 @@
 ||beacon.affil.walmart.com^
 ||drfdisvc.walmart.com^
 ||walmartshoping.com^
+||waltzersurvise.com^
 ||waltzprescriptionplate.com^
 ||wamcash.com^
 ||wanalnatnwto.com^
@@ -43825,6 +43838,7 @@
 ||wmaoxrk.com^
 ||wmcasher.ru^
 ||wmccd.com^
+||wmcdct.com^
 ||logs.psm.wmcdp.io^
 ||receive.wmcdp.io^
 ||telemetry.api.wmcdp.io^
@@ -43843,6 +43857,7 @@
 ||wmptctl.com^
 ||wmpted.com^
 ||wmptengate.com^
+||wmptpr.com^
 ||wmpuem.com^
 ||wmrok.com^
 ||wmrok.net^
