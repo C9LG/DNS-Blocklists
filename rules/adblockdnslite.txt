@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250117182125
-! Last modified: 2025/01/17 18:21:25
-! Blocked domains: 2427
+! Version: 20250118022749
+! Last modified: 2025/01/18 02:27:49
+! Blocked domains: 2422
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -43,7 +43,6 @@
 ||111.42.156.130^
 ||1.11130.com.cn^
 ||112.33.27.73^
-||113.219.177.95^
 ||113.221.15.150^
 ||113.31.111.76^
 ||113.98.201.248^
@@ -229,7 +228,6 @@
 ||47.107.29.90^
 ||47.109.137.82^
 ||47.109.77.84^
-||47.109.90.134^
 ||47.111.146.110^
 ||47.113.107.52^
 ||47.113.179.177^
@@ -277,7 +275,6 @@
 ||union.56.com^
 ||v16.56.com^
 ||3.5646.cn^
-||58.216.207.82^
 ||58.47.123.141^
 ||58.87.94.238^
 ||tracklog.58.com^
@@ -689,7 +686,6 @@
 ||ana.masky.biddingx.com^
 ||c.bidtoolads.com^
 ||dataflow.biliapi.com^
-||grpc.biliapi.net^
 ||line1-log.biligame.net^
 ||httpdns.bilivideo.com^
 ||ai.bioon.com^
@@ -717,6 +713,7 @@
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
+||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -989,7 +986,6 @@
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
-||shqdown.ggzuhao.com^
 ||ad.partner.gifshow.com^
 ||gdfp.gifshow.com^
 ||log-sdk.gifshow.com^
@@ -1506,7 +1502,6 @@
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
 ||m.nanyangqiaoxiang.cn^
-||dl.natgo.cn^
 ||advert.lx.netease.com^
 ||da.netease.com^
 ||hubble.netease.com^
@@ -1762,7 +1757,6 @@
 ||yun-hl.3g.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
-||down.qqfarmer.com.cn^
 ||qqqmy.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -1821,8 +1815,8 @@
 ||adrs.sdo.com^
 ||guang.sdsgwy.com^
 ||sensorsdata.cn^
+||ini.sh-pp.com^
 ||js.shangxueba.com^
-||z.shavsl.com^
 ||jpaasne.e.shifen.com^
 ||shilian168.cn^
 ||1.shopit.cn^
@@ -1944,6 +1938,7 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
+||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
 ||szbdyd.com^
