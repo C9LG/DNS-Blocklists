@@ -37,6 +37,7 @@
 101.43.2.116
 101.91.125.228
 1010pic.com
+103.42.243.57
 106.14.126.40
 106.14.213.29
 106.14.69.133
@@ -47,12 +48,10 @@
 11.96131.com.cn
 11.yiqig.cn
 110.41.2.207
+111.173.118.193
 111.230.25.167
 111.231.22.61
-111.42.156.130
 112.33.27.73
-113.219.177.95
-113.221.15.150
 113.31.111.76
 113.98.201.248
 114.215.27.238
@@ -60,6 +59,7 @@
 114.55.106.136
 115.28.26.10
 115.55.196.182
+115.62.184.192
 116.196.95.100
 116.198.229.197
 117.157.17.194
@@ -78,6 +78,7 @@
 120.25.163.165
 120.26.166.249
 120.46.28.4
+120.53.45.192
 120.77.253.240
 121.40.55.28
 121.41.89.22
@@ -110,13 +111,15 @@
 152.136.140.85
 165tchuang.com
 17.huanqiu.com
+1717.1000uc.com
 180.76.138.238
 182.113.15.123
+182.116.22.70
+182.124.12.178
 182.127.127.143
 182.92.99.95
 1999019.com
 1s8pj.cn
-2.haory.cn
 2.haoxue360.com
 20091222.com
 2021.dxsbb.com
@@ -125,6 +128,7 @@
 218.108.181.2
 218.22.21.248
 220.180.255.224
+221.13.249.238
 222.141.82.194
 222.186.172.42
 222.187.223.34
@@ -173,12 +177,10 @@
 47.107.29.90
 47.109.137.82
 47.109.77.84
-47.109.90.134
 47.111.146.110
 47.113.107.52
 47.113.179.177
 47.113.217.92
-47.115.230.159
 47.115.54.19
 47.120.25.38
 47.120.46.210
@@ -188,7 +190,6 @@
 47.93.243.161
 47.94.196.131
 47.95.197.166
-47.96.143.115
 47.98.194.85
 49.234.48.162
 4wu3gf.cn
@@ -196,7 +197,7 @@
 50bang.org
 50m.gkcyc.com
 54kefu.net
-58.216.207.82
+58.47.121.199
 58.47.123.141
 58.87.94.238
 59.110.136.135
@@ -379,6 +380,7 @@ ad.sunflower.vn
 ad.tencentmusic.com
 ad.thsi.cn
 ad.toutiao.com
+ad.us.sinaimg.cn
 ad.v3mh.com
 ad.video.51togic.com
 ad.weibo.com
@@ -649,6 +651,7 @@ analytics.map.qq.com
 analytics.meituan.net
 analytics.myshoptago.com
 analytics.oceanengine.com
+analytics.rayjump.com
 analytics.shop.hisense.com
 analytics.wondershare.cc
 analytics.woozooo.com
@@ -657,6 +660,7 @@ android.bugly.qq.com
 android.rqd.qq.com
 andrqd.play.aiseet.atianqi.com
 anews7.nvwu.com
+aogk88.asia
 ap.cpatrk.net
 ap.dongqiudi.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -980,6 +984,7 @@ changyan.sohu.com
 channel-analysis-js.gmw.cn
 chat1.jd.com
 china.inmobi.com
+chinaapper.com
 chiq-cloud.com
 chshcms.net
 cj.qidian.com
@@ -1070,7 +1075,6 @@ d.8181zx.com
 d.cntv.cn
 d.dgzj.com
 d.gdt.qq.com
-d.kpzip.com
 d.qchannel03.cn
 d0.sina.com.cn
 d0.xcar.com.cn
@@ -1135,7 +1139,6 @@ dingbu.bj.bcebos.com
 disk.accord1key.cn
 dispatcher.upmc.uc.cn
 dktad.com
-dl.natgo.cn
 dl.zuimeitianqi.com
 dld.jxwan.com
 dlogs.bwton.com
@@ -1167,7 +1170,6 @@ doubleclick-cn.net
 doubleclick.ctfile.com
 doubleclick.net
 dow.andylab.cn
-down.qqfarmer.com.cn
 down.ruanmei.com
 down10d.zol.com.cn
 download-winsdownload-wins.oss-cn-hangzhou.aliyuncs.com
@@ -1225,7 +1227,6 @@ eclick.baidu.com
 ecma.bdimg.com
 ecmb.bdimg.com
 eco.taobao.com
-ecs-124-71-158-149.compute.hwclouds-dns.com
 eduad.baidu.com
 ee.j5s9b.cn
 ef-dongfeng.tanx.com
@@ -1267,7 +1268,6 @@ extlog.snssdk.com
 f.aty.sohu.com
 f.gm.mob.com
 f1.zaojv.com
-fabu333.top
 facai383.oss-cn-guangzhou.aliyuncs.com
 fanyi100.com.cn
 fanzhuang.net.cn
@@ -1339,7 +1339,6 @@ gfdfgfgr.cn
 gfdgfhh.cn
 gg.0598yu.com
 gg.blueidea.com
-gg.caixin.com
 gg.cs090.com
 gg.miinaa.com
 gg.miued.com
@@ -1361,6 +1360,7 @@ ggx02.miguvideo.com
 ggx03.miguvideo.com
 ggx10.miguvideo.com
 ggxwb.miguvideo.com
+gh-hr.cn
 ghghgf.51dongshi.com
 ghghgf.xuexiwa.com
 gi.gepush.com
@@ -1392,7 +1392,6 @@ gridsum.com
 gridsumdissector.com
 gromore.pangolin-sdk-toutiao.com
 growingio.com
-grpc.biliapi.net
 grs.dbankcloud.com
 grs.hicloud.com
 gs.getui.com
@@ -1549,7 +1548,6 @@ ipv4.gdt.qq.com
 ipv4.kkmh.com
 iqiyi.m.cn.miaozhen.com
 irc.qubiankeji.com
-irs01.com
 irulws.xyz
 is.snssdk.com
 item.mediav.com
@@ -1601,7 +1599,6 @@ js.yjbys.com
 js1.122cha.com
 js1.dadiniu.cn
 js1.haoge500.com
-js22f.net
 jsb.qianzhan.com
 jscode.acg68.com
 jscode.jbzj.com
@@ -1663,6 +1660,7 @@ lives.l.cp81.ott.cibntv.net
 lives.l.ott.video.qq.com
 lives.l.qq.com
 livew.l.qq.com
+lm.ijq.tv
 lm1.tuliu.com
 lm1.wkpcw.cn
 location.ximalaya.com
@@ -2092,13 +2090,11 @@ pv.kuaizhan.com
 pv.mediav.com
 pv.sohu.com
 pvnwap.zol.com.cn
-pw2ct1.asia
 px.ucweb.com
 pxhuiben.com
 pxx.tnklrs.cn
 py.da.mgtv.com
 q.i.gdt.qq.com
-q02orc.cn
 q14.cnzz.com
 qapm.baidu.com
 qappcenterv6.3g.qq.com
@@ -2144,7 +2140,6 @@ res1.hubcloud.com.cn
 resolve.umeng.com
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
-resource.baomihua.com
 rest.irs01.com
 resu8.hjfile.cn
 retrefsf.cn
@@ -2227,7 +2222,6 @@ sbeacon.sina.com.cn
 sbpb1.chuiyue.com
 scdown.qq.com
 script-bd.baixing.net
-script302.top
 scs.openspeech.cn
 sd.domob.cn
 sdd.hi1718.com
@@ -2310,7 +2304,6 @@ show-s.mediav.com
 show.g.mediav.com
 show.m.mediav.com
 show.mediav.com
-shqdown.ggzuhao.com
 shrek.6.cn
 shzzzz.dftoutiao.com
 sigmob.com
@@ -2339,7 +2332,6 @@ sofire.bdstatic.com
 sofseo.cn
 soft.110route.com
 soft.wsyhn.com
-softdl.360tpcdn.com
 sohu-dtv.m.cn.miaozhen.com
 sohutv.m.cn.miaozhen.com
 soorbka.cn
@@ -2408,7 +2400,6 @@ static.mediav.com
 static.meijiacun.com
 static.rongkao.com
 static.youmi.net
-static.zongheng.com
 statics.woozooo.com
 stats.g.doubleclick.net
 stats.hanmaker.com
@@ -2425,6 +2416,7 @@ stm-cdn.cn.miaozhen.com
 stm-collect.cn.miaozhen.com
 stnetsdk.appstore.vivo.com.cn
 stnetsdk.vivo.com.cn
+stnew.xyz
 stnn.adsame.com
 store.iqiyi.com
 storeconfig.mistat.intl.xiaomi.com
@@ -2733,8 +2725,8 @@ weco.oss-eu-central-1.aliyuncs.com
 weco2.oss-me-east-1.aliyuncs.com
 wenxue.youzhicn.com
 whfpbc.99.com.cn
-win.down.55kantu.com
 win.gdt.qq.com
+windriversfiles.imeitools.com
 wkclick.baidu.com
 wkctj.baidu.com
 wkrd.tingyun.com
@@ -2834,6 +2826,7 @@ yaolu.mh.163.com
 yaolu.yuedu.163.com
 ycuhky.xyz
 ye.dun.163yun.com
+yeahmobi.com
 yin1.zgpingshu.com
 yje912.cn
 yk-ssp.ad.youku.com
@@ -2867,7 +2860,6 @@ yylady.cn
 yzkzixun.com
 z.grfyw.com
 z.nowscore.com
-z.shavsl.com
 z.sora.yoyi.com.cn
 z1.chezhuzhinan.com
 z1.cnzz.com
@@ -2896,10 +2888,10 @@ zhanzhang.toutiao.com
 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 zhihu-web-analytics.zhihu.com
 zhihu.xmcimg.com
+zhikey.com
 zhongwangmy.cn
 zip-store.oss-ap-southeast-1.aliyuncs.com
 zjliloveyou.ixiunv.com
-zlclgzs.cn
 zlonline.oss-cn-shenzhen.aliyuncs.com
 zmdesf.cn
 znrq.zifwxq.cn
