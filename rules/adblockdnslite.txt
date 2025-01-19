@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250119182030
-! Last modified: 2025/01/19 18:20:30
+! Version: 20250120022542
+! Last modified: 2025/01/20 02:25:42
 ! Blocked domains: 2411
 ! unBlocked domains: 6
 !
@@ -40,7 +40,6 @@
 ||soft.110route.com^
 ||111.230.25.167^
 ||111.231.22.61^
-||111.42.156.130^
 ||1.11130.com.cn^
 ||112.124.71.123^
 ||112.33.27.73^
@@ -708,6 +707,7 @@
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
+||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -839,7 +839,6 @@
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
 ||bea-s.dinghuoche.com^
-||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -1068,7 +1067,6 @@
 ||hffxc.com^
 ||hfisngksng.com^
 ||wap.hfoyjg.cn^
-||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||api-gd.hiaiabc.com^
 ||log-verify.hiaiabc.com^
@@ -1143,6 +1141,7 @@
 ||metric.huya.com^
 ||statwup.huya.com^
 ||ylog.huya.com^
+||ecs-124-71-158-149.compute.hwclouds-dns.com^
 ||t.hypers.com.cn^
 ||adx.hzbxm.com^
 ||api.hzsanjiaomao.com^
@@ -1420,7 +1419,6 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
-||360down7.miiyun.cn^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1746,6 +1744,7 @@
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
 ||down.qqfarmer.com.cn^
+||qqqmy.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
 ||adlaunch.qtfm.cn^
@@ -2328,6 +2327,7 @@
 ||yunshipei.com^
 ||ywxww.net^
 ||adsclick.yx.js.cn^
+||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
