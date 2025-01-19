@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250119022546
-! Last modified: 2025/01/19 02:25:46
-! Blocked domains: 2413
+! Version: 20250119105151
+! Last modified: 2025/01/19 10:51:51
+! Blocked domains: 2411
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -38,11 +38,13 @@
 ||adm.10jqka.com.cn^
 ||110.41.2.207^
 ||soft.110route.com^
-||111.173.118.193^
 ||111.230.25.167^
 ||111.231.22.61^
+||111.42.156.130^
 ||1.11130.com.cn^
+||112.124.71.123^
 ||112.33.27.73^
+||113.219.177.95^
 ||113.31.111.76^
 ||113.98.201.248^
 ||114.215.27.238^
@@ -50,7 +52,6 @@
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
-||115.62.184.192^
 ||116.196.95.100^
 ||116.198.229.197^
 ||117.157.17.194^
@@ -78,6 +79,7 @@
 ||122.51.75.246^
 ||js1.122cha.com^
 ||123.132.224.187^
+||123.139.220.173^
 ||123.253.12.111^
 ||123.56.191.147^
 ||123.57.230.183^
@@ -128,8 +130,6 @@
 ||trk1.17admob.com^
 ||dm.17xuexiba.com^
 ||180.76.138.238^
-||182.116.22.70^
-||182.124.12.178^
 ||182.92.99.95^
 ||1999019.com^
 ||ssp.1nmob.com^
@@ -142,10 +142,10 @@
 ||218.22.21.248^
 ||ssp.21ic.com^
 ||220.180.255.224^
-||221.13.249.238^
 ||222.186.172.42^
 ||222.187.223.34^
 ||222aa333bb.com^
+||223.151.72.180^
 ||223.247.198.16^
 ||bd-js1.2345.com^
 ||bdcode.2345.com^
@@ -184,6 +184,7 @@
 ||hye.comp.360os.com^
 ||hyt.comp.360os.com^
 ||p1.360soucha.com^
+||softdl.360tpcdn.com^
 ||365dmp.com^
 ||gw.365you.com^
 ||adx.36kr.com^
@@ -263,6 +264,7 @@
 ||adm.52swine.com^
 ||a.52zxw.com^
 ||54kefu.net^
+||win.down.55kantu.com^
 ||acs.56.com^
 ||acs.agent.56.com^
 ||bill.agent.56.com^
@@ -270,6 +272,7 @@
 ||union.56.com^
 ||v16.56.com^
 ||3.5646.cn^
+||58.216.207.82^
 ||58.47.123.141^
 ||58.87.94.238^
 ||tracklog.58.com^
@@ -519,7 +522,6 @@
 ||analysys.cn^
 ||dow.andylab.cn^
 ||api.antibanads.com^
-||aogk88.asia^
 ||app-measurement.com^
 ||appgift.sinaapp.com^
 ||b.appjiagu.com^
@@ -706,7 +708,7 @@
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
-||download.caihong.com^
+||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
 ||cartx.cloud^
@@ -1044,7 +1046,6 @@
 ||m.gutousoft.com^
 ||a.guzhilin.com^
 ||gw2cddpt2hao.asia^
-||gw2cddpt2hao.cloud^
 ||share.gzdsw.com^
 ||gzhying1.cn^
 ||gzzkjdam.cn^
@@ -1170,7 +1171,6 @@
 ||erg.ihclam.cn^
 ||mlb.did.ijinshan.com^
 ||sdk.mobad.ijinshan.com^
-||lm.ijq.tv^
 ||imasdk.googleapis.com^
 ||windriversfiles.imeitools.com^
 ||ssp.indexmob.com^
@@ -1301,6 +1301,7 @@
 ||adsmart.konka.com^
 ||g.koowo.com^
 ||kossog.xyz^
+||d.kpzip.com^
 ||mininews.kpzip.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||log-sdk.ksapisrv.com^
@@ -1543,7 +1544,6 @@
 ||log-api.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||panyh123456.cn^
-||paonancs.cn^
 ||bt1.patexplorer.com^
 ||ipad.pc899.cn^
 ||btn.pchome.net^
@@ -1745,7 +1745,7 @@
 ||yun-hl.3g.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
-||qqqmy.com^
+||down.qqfarmer.com.cn^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
 ||adlaunch.qtfm.cn^
@@ -1767,7 +1767,6 @@
 ||msgv6.qy.net^
 ||hades.qyer.com^
 ||qzorwe.xyz^
-||analytics.rayjump.com^
 ||reachmax.cn^
 ||iot-eu-logser.realme.com^
 ||iot-in-logser.realme.com^
@@ -1805,6 +1804,7 @@
 ||sensorsdata.cn^
 ||ini.sh-pp.com^
 ||js.shangxueba.com^
+||z.shavsl.com^
 ||jpaasne.e.shifen.com^
 ||shilian168.cn^
 ||1.shopit.cn^
@@ -1918,7 +1918,6 @@
 ||3.ssqzj.com^
 ||app.starschina.com^
 ||stgowan.com^
-||stnew.xyz^
 ||brt.studylabs.cn^
 ||uc9.suinidai.com.cn^
 ||log-dmp.suishenyun.cn^
@@ -1928,7 +1927,6 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
-||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
 ||szbdyd.com^
@@ -2330,7 +2328,6 @@
 ||yunshipei.com^
 ||ywxww.net^
 ||adsclick.yx.js.cn^
-||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
@@ -2401,6 +2398,7 @@
 ||view.zijieapi.com^
 ||dig.zjurl.cn^
 ||dm.zjut.cc^
+||zlclgzs.cn^
 ||abcd.zle.com^
 ||efg.zle.com^
 ||zmdesf.cn^
