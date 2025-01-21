@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250121182218
-! Last modified: 2025/01/21 18:22:18
-! Blocked domains: 2407
+! Version: 20250122022930
+! Last modified: 2025/01/22 02:29:30
+! Blocked domains: 2406
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -137,11 +137,8 @@
 ||ddd.1sapp.com^
 ||20091222.com^
 ||218.108.181.2^
-||218.22.21.248^
 ||ssp.21ic.com^
 ||220.180.255.224^
-||222.139.40.149^
-||222.139.47.194^
 ||222.186.172.42^
 ||222.187.223.34^
 ||222aa333bb.com^
@@ -218,6 +215,7 @@
 ||43.139.216.112^
 ||43.143.123.40^
 ||43.241.17.143^
+||43.241.17.145^
 ||47.101.206.165^
 ||47.102.218.169^
 ||47.103.126.166^
@@ -316,7 +314,6 @@
 ||8.140.242.49^
 ||8.147.234.137^
 ||8.148.5.183^
-||8.153.97.202^
 ||8.156.64.248^
 ||8.217.7.79^
 ||80juqing.com^
@@ -707,6 +704,7 @@
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
+||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -976,7 +974,6 @@
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
-||gh-hr.cn^
 ||ad.partner.gifshow.com^
 ||gdfp.gifshow.com^
 ||log-sdk.gifshow.com^
@@ -1066,7 +1063,6 @@
 ||hffxc.com^
 ||hfisngksng.com^
 ||wap.hfoyjg.cn^
-||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||api-gd.hiaiabc.com^
 ||log-verify.hiaiabc.com^
@@ -1141,6 +1137,7 @@
 ||metric.huya.com^
 ||statwup.huya.com^
 ||ylog.huya.com^
+||ecs-123-60-182-88.compute.hwclouds-dns.com^
 ||ecs-124-71-158-149.compute.hwclouds-dns.com^
 ||t.hypers.com.cn^
 ||adx.hzbxm.com^
@@ -1544,6 +1541,7 @@
 ||log-api.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||panyh123456.cn^
+||paonancs.cn^
 ||bt1.patexplorer.com^
 ||ipad.pc899.cn^
 ||btn.pchome.net^
@@ -1745,6 +1743,7 @@
 ||yun-hl.3g.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
+||down.qqfarmer.com.cn^
 ||qqqmy.com^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
@@ -1801,6 +1800,7 @@
 ||adrs.sdo.com^
 ||guang.sdsgwy.com^
 ||sensorsdata.cn^
+||ini.sh-pp.com^
 ||js.shangxueba.com^
 ||jpaasne.e.shifen.com^
 ||shilian168.cn^
@@ -2147,6 +2147,7 @@
 ||vs.biz.weibo.com^
 ||logtake.weidian.com^
 ||1.weiheshidai.com^
+||xingpai.weilay.com.cn^
 ||ads.weilitoutiao.net^
 ||mj.weimob.net^
 ||badjs.weixinbridge.com^
@@ -2355,7 +2356,6 @@
 ||udd1i5.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
-||zhikey.com^
 ||logapi.zhipin.com^
 ||t.zhipin.com^
 ||w11.zhongkaohelp.com^
@@ -2364,7 +2364,6 @@
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
 ||fdfda.zhuzhai.com^
-||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
