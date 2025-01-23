@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250123182339
-! Last modified: 2025/01/23 18:23:39
-! Blocked domains: 2413
+! Version: 20250124022844
+! Last modified: 2025/01/24 02:28:44
+! Blocked domains: 2410
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -35,7 +35,6 @@
 ||106.15.239.51^
 ||106.55.149.249^
 ||adm.10jqka.com.cn^
-||110.41.2.207^
 ||soft.110route.com^
 ||111.173.118.193^
 ||111.230.25.167^
@@ -141,7 +140,6 @@
 ||ssp.21ic.com^
 ||220.180.255.224^
 ||222.186.172.42^
-||222.187.223.34^
 ||222aa333bb.com^
 ||223.247.198.16^
 ||bd-js1.2345.com^
@@ -210,11 +208,7 @@
 ||3q1lsj.cn^
 ||img.3sjt.com^
 ||42.192.195.221^
-||42.226.67.66^
-||42.226.88.153^
-||42.226.89.20^
 ||42.240.133.45^
-||43.139.216.112^
 ||43.143.123.40^
 ||43.241.17.143^
 ||43.241.17.145^
@@ -277,6 +271,7 @@
 ||tracklog.58.com^
 ||59.110.136.135^
 ||59.110.172.50^
+||59.59.6.86^
 ||595image.com^
 ||d1.5h.com^
 ||abcd.5lu.com^
@@ -692,6 +687,7 @@
 ||click.bokecc.com^
 ||vstat.borderlessbd.com^
 ||static.bshare.cn^
+||xww.bucea.edu.cn^
 ||beijing.buzhi5.com^
 ||bvubasnf.com^
 ||ad.bwton.com^
@@ -838,6 +834,7 @@
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
 ||bea-s.dinghuoche.com^
+||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -1042,7 +1039,6 @@
 ||abcdcfasda.gushiwen.cn^
 ||enennsa.gushiwen.cn^
 ||ggw.gusuwang.com^
-||m.gutousoft.com^
 ||a.guzhilin.com^
 ||gw2cddpt2hao.asia^
 ||share.gzdsw.com^
@@ -1544,6 +1540,7 @@
 ||log-api.pangolin-sdk-toutiao.com^
 ||api-access.pangolin-sdk-toutiao1.com^
 ||panyh123456.cn^
+||paonancs.cn^
 ||bt1.patexplorer.com^
 ||ipad.pc899.cn^
 ||btn.pchome.net^
