@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250124182219
-! Last modified: 2025/01/24 18:22:19
+! Version: 20250125022829
+! Last modified: 2025/01/25 02:28:29
 ! Blocked domains: 2416
 ! unBlocked domains: 6
 !
@@ -50,7 +50,6 @@
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
-||115.55.193.248^
 ||115.55.216.245^
 ||116.196.95.100^
 ||116.198.229.197^
@@ -130,7 +129,6 @@
 ||ye.dun.163yun.com^
 ||165tchuang.com^
 ||trk1.17admob.com^
-||180.76.138.238^
 ||182.92.236.252^
 ||182.92.99.95^
 ||1999019.com^
@@ -197,7 +195,6 @@
 ||39.105.31.193^
 ||39.106.216.88^
 ||39.107.136.241^
-||39.107.254.213^
 ||39.108.237.194^
 ||39.98.174.154^
 ||39.98.48.153^
@@ -205,7 +202,6 @@
 ||abody.39.net^
 ||d-test.39.net^
 ||thetestpage.39.net^
-||wz.3911.com^
 ||classic.39health.com^
 ||39jz.com^
 ||ga1.3dmgame.com^
@@ -214,6 +210,7 @@
 ||3q1lsj.cn^
 ||img.3sjt.com^
 ||42.192.195.221^
+||42.240.133.45^
 ||43.143.123.40^
 ||43.143.235.189^
 ||43.241.17.143^
@@ -228,6 +225,7 @@
 ||47.109.178.54^
 ||47.109.77.84^
 ||47.109.90.134^
+||47.111.146.110^
 ||47.113.107.52^
 ||47.115.54.19^
 ||47.120.25.38^
@@ -235,7 +233,6 @@
 ||47.120.60.201^
 ||47.121.137.189^
 ||47.92.166.33^
-||47.93.243.161^
 ||47.94.196.131^
 ||47.95.197.166^
 ||47.98.194.85^
@@ -271,6 +268,7 @@
 ||union.56.com^
 ||v16.56.com^
 ||3.5646.cn^
+||58.216.207.82^
 ||58.47.123.141^
 ||58.87.94.238^
 ||tracklog.58.com^
@@ -676,6 +674,7 @@
 ||sofire.bdstatic.com^
 ||zz.bdstatic.com^
 ||dig.bdurl.net^
+||beiletoys.com^
 ||beizi.biz^
 ||bfhueh.top^
 ||a.bfking.cn^
@@ -693,6 +692,7 @@
 ||click.bokecc.com^
 ||vstat.borderlessbd.com^
 ||static.bshare.cn^
+||xww.bucea.edu.cn^
 ||beijing.buzhi5.com^
 ||bvubasnf.com^
 ||ad.bwton.com^
@@ -841,7 +841,6 @@
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
 ||bea-s.dinghuoche.com^
-||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -982,7 +981,6 @@
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
-||gh-hr.cn^
 ||ad.partner.gifshow.com^
 ||gdfp.gifshow.com^
 ||log-sdk.gifshow.com^
@@ -1103,6 +1101,7 @@
 ||sg-public-data-api.hoyoverse.com^
 ||ys-log-upload-os.hoyoverse.com^
 ||hpplay.cn^
+||hseda.com^
 ||g.hsw.cn^
 ||api-analytics-cn.huami.com^
 ||app-analytics-ru.huami.com^
@@ -1143,7 +1142,6 @@
 ||metric.huya.com^
 ||statwup.huya.com^
 ||ylog.huya.com^
-||ecs-123-60-182-88.compute.hwclouds-dns.com^
 ||t.hypers.com.cn^
 ||adx.hzbxm.com^
 ||api.hzsanjiaomao.com^
@@ -1749,6 +1747,7 @@
 ||yun-hl.3g.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
+||down.qqfarmer.com.cn^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
 ||adlaunch.qtfm.cn^
@@ -2118,6 +2117,7 @@
 ||bj.imp.voiceads.cn^
 ||rtb.voiceads.cn^
 ||log.voicecloud.cn^
+||mssdk.volces.com^
 ||m.vpadn.com^
 ||vsojfsoj.com^
 ||bu1.vvvdj.com^
