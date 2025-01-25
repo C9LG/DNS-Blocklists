@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250125104102
-! Last modified: 2025/01/25 10:41:02
-! Blocked domains: 45575
+! Version: 20250125181915
+! Last modified: 2025/01/25 18:19:15
+! Blocked domains: 45595
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -2175,6 +2175,7 @@
 ||7jrahgc.de^
 ||7lyonline.com^
 ||7me0ssd6.de^
+||7mk.fun^
 ||user-analysis.7moor.com^
 ||7nkbwdf1uq.ru^
 ||7nt9p4d4.de^
@@ -5608,6 +5609,7 @@
 ||ar-x.site^
 ||hodor-collect.arabam.com^
 ||istatistik.arabam.com^
+||arabinprotoma.com^
 ||reklam.arabul.com^
 ||araifourabsa.net^
 ||aralego.com^
@@ -7638,6 +7640,7 @@
 ||biplihopsdim.com^
 ||biptolyla.com^
 ||api-analytics.prod.birdapp.com^
+||birdeangioid.com^
 ||birdnavy.com^
 ||birqmiowxfh.com^
 ||birthday3452.fun^
@@ -7927,6 +7930,7 @@
 ||bnbmatrix.io^
 ||ox.bncounter.com^
 ||bndxrr.xyz^
+||bnfectkp.icu^
 ||bngdin.com^
 ||bngdyn.com^
 ||bngmadjd.de^
@@ -14060,6 +14064,7 @@
 ||doomna.com^
 ||doompuncturedearest.com^
 ||doopimim.net^
+||dooptoupouwhuwu.xyz^
 ||doorbanker.com^
 ||ad.doorigo.co.kr^
 ||doormantdoormantbumpyinvincible.com^
@@ -16712,6 +16717,7 @@
 ||floraopinionsome.com^
 ||gawx.florenda.com^
 ||sp.floridatoday.com^
+||florinsqrs.top^
 ||analytics.floris.amsterdam^
 ||floristgathering.com^
 ||floroonwhun.com^
@@ -19275,6 +19281,7 @@
 ||hatmiso.net^
 ||hats-47b.com^
 ||sp.hattiesburgamerican.com^
+||hattycivitan.com^
 ||hatwasallo.com^
 ||hatwasallokmv.info^
 ||hauboisphenols.com^
@@ -23930,6 +23937,7 @@
 ||lightssyrupdecree.com^
 ||liglomsoltuwhax.net^
 ||ligninenchant.com^
+||ligulinrhema.com^
 ||ligvraojlrr.com^
 ||lijit.com^
 ||lijjk.space^
@@ -23955,6 +23963,7 @@
 ||lilyrealitycourthouse.com^
 ||pixel.lilystyle.ai^
 ||lilysuffocateacademy.com^
+||limbecculvers.com^
 ||limberkilnman.cam^
 ||limbievireos.com^
 ||api.limbik.com^
@@ -30708,6 +30717,7 @@
 ||plvwyoed.com^
 ||plxnbwjtbr.com^
 ||plyfoni.ru^
+||plygainroundup.com^
 ||plzblz.xyz^
 ||pm0.net^
 ||pmaficza.com^
@@ -32162,6 +32172,7 @@
 ||collector-pxrf8vapwa.px-cdn.net^
 ||collector-pxebumdlwe.px-cloud.net^
 ||collector-pxrf8vapwa.px-cloud.net^
+||stk.px-cloud.net^
 ||px-golf.com^
 ||px3792.com^
 ||pxaction.com^
@@ -32590,6 +32601,7 @@
 ||quartermedia.de^
 ||quaruzon.com^
 ||quasarcouhage.top^
+||quataloden.com^
 ||quatangoral-b.com^
 ||quatanthu.fun^
 ||quatanthu.net^
@@ -33116,6 +33128,7 @@
 ||reasulty.com^
 ||reate.info^
 ||reauksoffyrikm.com^
+||rebakebelage.com^
 ||rebatelirate.top^
 ||rebelhaggard.com^
 ||rebellionnaturalconsonant.com^
@@ -33793,6 +33806,7 @@
 ||riamiavid.com^
 ||riaoz.xyz^
 ||riastats.com^
+||riatahemapod.com^
 ||riazrk-oba.online^
 ||ribougrauchoum.net^
 ||ribsaiji.com^
@@ -35804,6 +35818,7 @@
 ||sicklypercussivecoordinate.com^
 ||sicouthautso.net^
 ||sidanarchy.net^
+||sidderbows.com^
 ||statcollector.sidearmsports.com^
 ||sidebiologyretirement.com^
 ||sidebyx.com^
@@ -36183,6 +36198,7 @@
 ||slockertummies.com^
 ||sloeri.com^
 ||slogantrend.de^
+||sloomcalumba.com^
 ||slopeac.com^
 ||slopeaota.com^
 ||slopingunrein.com^
@@ -38857,6 +38873,7 @@
 ||e664.theoaklandpress.com^
 ||theod-qsr.com^
 ||theologicalpresentation.com^
+||theolwelt.com^
 ||theonecdn.com^
 ||theonesstoodtheirground.com^
 ||theonlins.com^
@@ -39036,6 +39053,7 @@
 ||thsdbj.com^
 ||thshopee.com^
 ||ad.thsi.cn^
+||thudonanselsaps.net^
 ||thudsurdardu.net^
 ||thuekhachsan.com.vn^
 ||thugjudgementpreparations.com^
@@ -40815,6 +40833,7 @@
 ||uncastnork.com^
 ||uncertainimprovementsspelling.com^
 ||logs.unchecky.com^
+||unclealcine.com^
 ||uncleffaan.com^
 ||unclesnewspaper.com^
 ||uncletroublescircumference.com^
@@ -41367,6 +41386,7 @@
 ||vads.vn^
 ||vaebard.com^
 ||prf.vagnt.com^
+||vahinisimcon.com^
 ||vahoupomp.com^
 ||vaicheemoa.net^
 ||co.vaicore.site^
