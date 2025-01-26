@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250126104925
-! Last modified: 2025/01/26 10:49:25
-! Blocked domains: 45688
+! Version: 20250126181946
+! Last modified: 2025/01/26 18:19:46
+! Blocked domains: 45692
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -19,6 +19,7 @@
 ||012024jhvjhkozekl.space^
 ||01counter.com^
 ||01jud3v55z.com^
+||02085170.xyz^
 ||023hysj.com^
 ||0265331.com^
 ||img.0279.net^
@@ -1766,6 +1767,7 @@
 ||47.94.196.131^
 ||47.95.197.166^
 ||47.98.194.85^
+||47206262.xyz^
 ||47235645.xyz^
 ||47296536.xyz^
 ||4736.in^
@@ -2006,6 +2008,7 @@
 ||62.60.226.64^
 ||62.73.121.49^
 ||62.87.151.53^
+||62842068.xyz^
 ||62zd0.icu^
 ||63r2vxacp0pr.com^
 ||63voy9ciyi14.com^
@@ -19160,6 +19163,7 @@
 ||h-zrhgpygrkj.fun^
 ||h0w-t0-watch.net^
 ||h12-media.com^
+||h3d.fun^
 ||log-ana.h3z.jp^
 ||h52ek3i.de^
 ||bm.h576.com^
