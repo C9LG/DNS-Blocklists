@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250126181946
-! Last modified: 2025/01/26 18:19:46
-! Blocked domains: 2388
+! Version: 20250127022604
+! Last modified: 2025/01/27 02:26:04
+! Blocked domains: 2390
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -19,12 +19,15 @@
 ||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
+||101.126.11.168^
+||101.201.227.94^
 ||101.201.247.232^
 ||101.35.228.105^
 ||101.37.34.164^
 ||101.43.2.116^
 ||101.91.125.228^
 ||1010pic.com^
+||106.14.126.40^
 ||106.14.213.29^
 ||106.14.69.133^
 ||106.15.224.147^
@@ -37,7 +40,7 @@
 ||111.230.25.167^
 ||111.42.156.130^
 ||1.11130.com.cn^
-||112.124.71.123^
+||112.33.27.73^
 ||113.31.111.76^
 ||113.98.201.248^
 ||114.215.27.238^
@@ -62,14 +65,13 @@
 ||121.40.55.28^
 ||121.41.89.22^
 ||121.43.104.75^
-||122.51.52.109^
+||122.51.183.116^
 ||122.51.75.246^
 ||js1.122cha.com^
 ||123.132.224.187^
 ||123.253.12.111^
 ||123.56.191.147^
 ||123.57.230.183^
-||123.57.250.154^
 ||123.60.182.88^
 ||ad.12306.cn^
 ||124.221.100.215^
@@ -77,6 +79,7 @@
 ||124.223.200.131^
 ||124.248.65.242^
 ||124.70.0.56^
+||124.70.140.100^
 ||124.71.137.28^
 ||124.71.158.149^
 ||124.71.164.7^
@@ -180,7 +183,6 @@
 ||39.103.217.92^
 ||39.104.73.194^
 ||39.105.31.193^
-||39.106.216.88^
 ||39.107.136.241^
 ||39.108.237.194^
 ||39.98.174.154^
@@ -208,6 +210,7 @@
 ||47.102.218.169^
 ||47.103.126.166^
 ||47.104.169.91^
+||47.104.173.216^
 ||47.107.29.90^
 ||47.109.137.82^
 ||47.109.178.54^
@@ -215,12 +218,11 @@
 ||47.109.90.134^
 ||47.111.146.110^
 ||47.113.107.52^
-||47.115.54.19^
+||47.120.25.38^
 ||47.120.46.210^
 ||47.120.60.201^
 ||47.121.137.189^
 ||47.92.166.33^
-||47.93.243.161^
 ||47.94.196.131^
 ||47.95.197.166^
 ||47.98.194.85^
@@ -261,7 +263,6 @@
 ||58.87.94.238^
 ||tracklog.58.com^
 ||59.110.136.135^
-||59.59.6.86^
 ||595image.com^
 ||d1.5h.com^
 ||abcd.5lu.com^
@@ -335,7 +336,6 @@
 ||999bb222ww.com^
 ||a32a.com.cn^
 ||abjalrq.cn^
-||disk.accord1key.cn^
 ||jscode.acg68.com^
 ||acgshenshicha.cn^
 ||imp.ad-plus.cn^
@@ -488,6 +488,7 @@
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||zffsg.oss-ap-northeast-2.aliyuncs.com^
+||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||zip-store.oss-ap-southeast-1.aliyuncs.com^
 ||zlonline.oss-cn-shenzhen.aliyuncs.com^
 ||allyes.com^
@@ -819,7 +820,6 @@
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
 ||bea-s.dinghuoche.com^
-||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -974,6 +974,7 @@
 ||t7z.cupid.ptqy.gitv.tv^
 ||gjhjjhgc.cn^
 ||50m.gkcyc.com^
+||hnjgdl.geps.glodon.com^
 ||sensorsdata.glowapp.vip^
 ||mg.glwxw.net^
 ||ad.gmw.cn^
@@ -1400,6 +1401,7 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
+||360down7.miiyun.cn^
 ||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
@@ -1781,7 +1783,6 @@
 ||sensorsdata.cn^
 ||ini.sh-pp.com^
 ||js.shangxueba.com^
-||z.shavsl.com^
 ||jpaasne.e.shifen.com^
 ||shilian168.cn^
 ||1.shopit.cn^
@@ -2127,7 +2128,6 @@
 ||vs.biz.weibo.com^
 ||logtake.weidian.com^
 ||1.weiheshidai.com^
-||xingpai.weilay.com.cn^
 ||ads.weilitoutiao.net^
 ||mj.weimob.net^
 ||badjs.weixinbridge.com^
@@ -2339,6 +2339,7 @@
 ||udd1i5.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
+||zhikey.com^
 ||logapi.zhipin.com^
 ||t.zhipin.com^
 ||w11.zhongkaohelp.com^
@@ -2382,6 +2383,7 @@
 ||zmdesf.cn^
 ||p.zol-img.com.cn^
 ||cpro.zol.com.cn^
+||down10d.zol.com.cn^
 ||pvnwap.zol.com.cn^
 ||zoosnet.net^
 ||zoossoft.net^
