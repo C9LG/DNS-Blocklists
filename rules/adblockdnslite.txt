@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250127182303
-! Last modified: 2025/01/27 18:23:03
-! Blocked domains: 2399
+! Version: 20250128022839
+! Last modified: 2025/01/28 02:28:39
+! Blocked domains: 2400
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -189,7 +189,6 @@
 ||39.104.73.194^
 ||39.105.31.193^
 ||39.107.136.241^
-||39.108.237.194^
 ||39.98.174.154^
 ||39.98.48.153^
 ||39.99.131.244^
@@ -221,6 +220,7 @@
 ||47.109.77.84^
 ||47.109.90.134^
 ||47.111.146.110^
+||47.113.107.52^
 ||47.120.25.38^
 ||47.120.46.210^
 ||47.120.60.201^
@@ -2330,6 +2330,7 @@
 ||gt.yy.com^
 ||yylady.cn^
 ||adapi.yynetwk.com^
+||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
