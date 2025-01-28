@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250128104650
-! Last modified: 2025/01/28 10:46:50
-! Blocked domains: 45623
+! Version: 20250128182136
+! Last modified: 2025/01/28 18:21:36
+! Blocked domains: 45638
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -6158,6 +6158,7 @@
 ||audiencerate.com^
 ||audiencerun.com^
 ||audiencesquare.com^
+||audientaphasia.com^
 ||audienzz.ch^
 ||statistic.audima.co^
 ||owads.audioadx.com^
@@ -8622,6 +8623,7 @@
 ||buqkrzbrucz.com^
 ||burbarkholpen.com^
 ||burdaffi.burdadigital.pl^
+||burdenmapwise.com^
 ||bureauelderlydivine.com^
 ||bureautrickle.com^
 ||bureauxcope.casa^
@@ -9495,6 +9497,7 @@
 ||chambermaidthree.xyz^
 ||chambershoist.com^
 ||chambersinterdependententirely.com^
+||chambulwacs.com^
 ||chameleostudios.com^
 ||bet.championat.com^
 ||championshipcoma.com^
@@ -9571,6 +9574,7 @@
 ||chaugroo.net^
 ||chauinubbins.com^
 ||chaunsoops.net^
+||chaupheebe.net^
 ||chaussew.net^
 ||chautcho.com^
 ||chavoads.com^
@@ -11325,6 +11329,7 @@
 ||crowdnextquoted.com^
 ||crowdscience.com^
 ||crowdskout.com^
+||crowdsshook.com^
 ||statistics.crowdynews.com^
 ||wco.crownpeak.com^
 ||crptentry.com^
@@ -15848,6 +15853,7 @@
 ||exchange-traffic.com^
 ||exchangecash.de^
 ||exchangenews.ru^
+||excidekombu.com^
 ||excitead.com^
 ||excitementcolossalrelax.com^
 ||excitementoppressive.com^
@@ -17050,6 +17056,7 @@
 ||fouanalytics.com^
 ||fouderezaifi.net^
 ||foughtdiamond.com^
+||fouhoushaugoak.xyz^
 ||foulfurnished.com^
 ||foundationhemispherebossy.com^
 ||foundationhorny.com^
@@ -18628,6 +18635,7 @@
 ||gqjeqaqrxexmd.com^
 ||gquwuefddojikxo.xyz^
 ||grabifyicu.com^
+||grabmannipmuc.top^
 ||graboverhead.com^
 ||gracefullouisatemperature.com^
 ||gracelessaffected.com^
@@ -19393,6 +19401,7 @@
 ||hdbkell.com^
 ||hdbkome.com^
 ||hdbtop.com^
+||hdinmiu.top^
 ||gr.hdream.cfd^
 ||hdsaison-app.vip^
 ||hdsaison-com.cc^
@@ -19579,6 +19588,7 @@
 ||hereaftertriadcreep.com^
 ||herebybrotherinlawlibrarian.com^
 ||heremployeesihi.info^
+||hereofcineols.com^
 ||heresanothernicemess.com^
 ||heritageamyconstitutional.com^
 ||herlittleboywhow.info^
@@ -22891,6 +22901,7 @@
 ||dspk.kindredplc.com^
 ||kineckekyu.com^
 ||kinedivast.top^
+||kinemasswipper.com^
 ||track.kinetiksoft.com^
 ||adtrack.king.com^
 ||king3rsc7ol9e3ge.com^
@@ -24091,6 +24102,7 @@
 ||linkxchanger.com^
 ||linkyar.com^
 ||linsaicki.net^
+||linterngantlet.shop^
 ||lintgallondissipate.com^
 ||servedby.lintigroup.se^
 ||lintyahimsas.com^
@@ -25209,6 +25221,7 @@
 ||mattressashamed.com^
 ||mattressstumpcomplement.com^
 ||maturecodes.com^
+||matzaslaminar.com^
 ||mauchopt.net^
 ||maudau.com^
 ||maugrewuthigeb.net^
@@ -30162,6 +30175,7 @@
 ||pettyachras.shop^
 ||petulanthamsterunless.com^
 ||pevpbx.icu^
+||pewitspyuria.com^
 ||pexi.nl^
 ||pexuvais.net^
 ||pezoomsekre.com^
@@ -41370,6 +41384,7 @@
 ||v2mlemerald.com^
 ||ad.v3mh.com^
 ||ads.v3mh.com^
+||v4p.fun^
 ||v6rxv5coo5.com^
 ||v9banners.com^
 ||statcounter.va-endpoint.com^
