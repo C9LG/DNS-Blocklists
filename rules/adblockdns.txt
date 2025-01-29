@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250129104542
-! Last modified: 2025/01/29 10:45:42
-! Blocked domains: 45081
+! Version: 20250129182138
+! Last modified: 2025/01/29 18:21:38
+! Blocked domains: 45087
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -34,6 +34,7 @@
 ||05420795.xyz^
 ||05454674.xyz^
 ||appimg.0575bbs.com^
+||0592.mobi^
 ||pic.0597kk.com^
 ||gg.0598yu.com^
 ||0676el9lskux.top^
@@ -21825,6 +21826,7 @@
 ||jdeekqk-bjqt.fun^
 ||jdfzfd.xyz^
 ||counter.jdi5.com^
+||jdinmia.top^
 ||jdmodr.com^
 ||wbk9sohp.jdpz.link^
 ||jdrlfn.xyz^
@@ -22471,6 +22473,7 @@
 ||kctag.net^
 ||kczu-ohhuf.site^
 ||kdata.fr^
+||kdinmid.top^
 ||kdjdpyrt.xyz^
 ||kdlktswsqhpd.com^
 ||kdmjvnk.com^
@@ -24177,6 +24180,7 @@
 ||losingoldfry.com^
 ||losingtiger.com^
 ||losittooday.info^
+||losobo.xyz^
 ||lossactivity.com^
 ||losstrack.com^
 ||lostdormitory.com^
@@ -41755,6 +41759,7 @@
 ||vmuid.com^
 ||vmvajwc.com^
 ||vmweb.net^
+||vmxvcjuf.icu^
 ||vn-apple.com^
 ||vn-eid.com^
 ||vn-express.net^
@@ -41991,6 +41996,7 @@
 ||vszzzj.xyz^
 ||lti.cs.vt.edu^
 ||vtabnalp.net^
+||vtbkhl.icu^
 ||ads.vtc.vn^
 ||delivery.vtc.vn^
 ||delivery.vtcnew.com.vn^
