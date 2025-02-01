@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250201105035
-! Last modified: 2025/02/01 10:50:35
-! Blocked domains: 45037
+! Version: 20250201182001
+! Last modified: 2025/02/01 18:20:01
+! Blocked domains: 45059
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -928,6 +928,7 @@
 ||1betandgonow.com^
 ||1bm3n8sld.de^
 ||1buo.icu^
+||1c0c3fde9d.com^
 ||1cash.info^
 ||1ccbt.com^
 ||1cctcm1gq.de^
@@ -2462,6 +2463,7 @@
 ||94.43.139.153^
 ||94.52.86.60^
 ||94.74.144.229^
+||9421d59b1d.com^
 ||94597672.xyz^
 ||94lm.com^
 ||95.141.135.138^
@@ -4470,6 +4472,7 @@
 ||api.aide-coinbase.com^
 ||aidspectacle.com^
 ||aiejlfb.com^
+||aigeersaibouk.net^
 ||umami.aigenerations.net^
 ||aigenstud.com^
 ||aigfednd.icu^
@@ -5736,6 +5739,7 @@
 ||aryancrack.com^
 ||aryici.xyz^
 ||stat.arzamas.academy^
+||as02010kkp.xyz^
 ||as5000.com^
 ||as62wl63346.rest^
 ||asacdn.com^
@@ -7293,6 +7297,7 @@
 ||best-top.de^
 ||best-video-app.com^
 ||best-vpn-app.com^
+||best0ne.com^
 ||bestadbid.com^
 ||bestadsforyou.com^
 ||bestadsrv.com^
@@ -8070,6 +8075,7 @@
 ||tracking.borlangetidning.se^
 ||tracking.etidning.borlangetidning.se^
 ||bornebeautify.com^
+||bornmandemicria.co.in^
 ||bororango.com^
 ||borotango.com^
 ||boroup.com^
@@ -10345,6 +10351,7 @@
 ||coinzilla.io^
 ||coinzillatag.com^
 ||cokepompositycrest.com^
+||coladinlized.com^
 ||colanbalkily.com^
 ||colanderdecrepitplaster.com^
 ||colarak.com^
@@ -13445,6 +13452,7 @@
 ||advantage.digitalsunray.com^
 ||digitaltarget.ru^
 ||digitalthrottle.com^
+||digitklosh.top^
 ||stats-factory.digitregroup.io^
 ||digitru.st^
 ||dignityhourmulticultural.com^
@@ -15665,6 +15673,7 @@
 ||exactdrive.com^
 ||exactorpilers.shop^
 ||exactsag.com^
+||exaggerating.makeup^
 ||ads.exakt24.se^
 ||exaleprn.com^
 ||exaltationinsufficientintentional.com^
@@ -18681,6 +18690,7 @@
 ||growthrx.in^
 ||growthtransport.com^
 ||grphfzutw.xyz^
+||grpvyrybbqhob.com^
 ||grsm.io^
 ||grt02.com^
 ||grtaanmdu.com^
@@ -24271,6 +24281,7 @@
 ||lskillsexkcerl.com^
 ||lstmoney.xyz^
 ||lsuwndhxt.com^
+||lsxvnzif.icu^
 ||lszydrtzsh.com^
 ||tracking.lt.se^
 ||tracking.etidning.lt.se^
@@ -26026,6 +26037,7 @@
 ||moomenog.com^
 ||vik-analytics.moonactive.net^
 ||moonads.net^
+||mooneyejollier.top^
 ||moonicorn.network^
 ||moonjscdn.info^
 ||moonloaderupdate.ru^
@@ -28085,6 +28097,7 @@
 ||tracking.live.oe24.at^
 ||oehgk.com^
 ||matomo.oekoloewe.de^
+||oempafnyfiexpe.com^
 ||oestpq.com^
 ||oeubqjx.com^
 ||oevery.com^
@@ -28313,6 +28326,7 @@
 ||olnoklmuxo.com^
 ||olomonautcatho.info^
 ||olopruy.com^
+||olpoxumbkput.com^
 ||olq18dx1t.com^
 ||olularhenewrev.info^
 ||olvwnmnp.com^
@@ -28364,6 +28378,7 @@
 ||omitcalculategalactic.com^
 ||omjqukadtolg.com^
 ||omkt.co^
+||ommjkomvweg.com^
 ||omni-ad-blocket.herokuapp.com^
 ||omni-ads.com^
 ||omni-ads.omni.news^
@@ -28490,6 +28505,7 @@
 ||aem-kakao-collector.onkakao.net^
 ||onkavst.com^
 ||onkodjwuq.com^
+||online-1.co.in^
 ||online-adnetwork.com^
 ||online-banners.nl^
 ||stats.online-convert.com^
@@ -33565,6 +33581,7 @@
 ||rmbvzh.xyz^
 ||stracker.rmg.ru^
 ||rmgdapfnccsharpprd.azurewebsites.net^
+||rmishe.com^
 ||rmndme.com^
 ||rmtckjzct.com^
 ||rmtxdn.icu^
@@ -34761,6 +34778,7 @@
 ||senonsiatinus.com^
 ||sensationnominatereflect.com^
 ||sensationtwigpresumptuous.com^
+||senscirrascul.co.in^
 ||tag.search.sensefuel.live^
 ||sensible-ads.com^
 ||sensic.net^
@@ -39956,6 +39974,7 @@
 ||twcouponcenter.com^
 ||tweakarrangement.com^
 ||navigator-analytics.tweakwise.com^
+||tweelessatic.co.in^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
 ||twelvemissionjury.com^
@@ -40300,6 +40319,7 @@
 ||umbrellaepisode.com^
 ||umdgene.com^
 ||umebella.com^
+||umedadelemp.com^
 ||umekana.ru^
 ||umeng.com^
 ||alog.umengcloud.com^
@@ -40910,6 +40930,7 @@
 ||tok.vaicore.xyz^
 ||vaigowoa.com^
 ||vaikijie.net^
+||vaimucuvikuwu.net^
 ||vainfulkmole.com^
 ||vainjav11.fun^
 ||vaipsona.com^
@@ -41534,6 +41555,7 @@
 ||vipadvert.net^
 ||vipbanner.de^
 ||vipcpms.com^
+||vipdragonapp.monster^
 ||viperishly.com^
 ||vipgogo123.site^
 ||vipicmou.net^
