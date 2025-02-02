@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250202022534
-! Last modified: 2025/02/02 02:25:34
+! Version: 20250202104943
+! Last modified: 2025/02/02 10:49:43
 ! Blocked domains: 2419
 ! unBlocked domains: 6
 !
@@ -52,7 +52,7 @@
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
-||115.55.199.74^
+||115.62.147.19^
 ||116.196.95.100^
 ||116.198.229.197^
 ||117.157.17.194^
@@ -130,6 +130,7 @@
 ||trk1.17admob.com^
 ||180.76.138.238^
 ||182.127.109.21^
+||182.127.127.212^
 ||182.92.236.252^
 ||182.92.99.95^
 ||1999019.com^
@@ -143,6 +144,7 @@
 ||218.22.21.248^
 ||ssp.21ic.com^
 ||220.180.255.224^
+||222.139.40.246^
 ||222.186.172.42^
 ||222.187.223.34^
 ||222aa333bb.com^
@@ -184,7 +186,6 @@
 ||hye.comp.360os.com^
 ||hyt.comp.360os.com^
 ||p1.360soucha.com^
-||softdl.360tpcdn.com^
 ||365dmp.com^
 ||gw.365you.com^
 ||adx.36kr.com^
@@ -266,7 +267,6 @@
 ||adm.52swine.com^
 ||a.52zxw.com^
 ||54kefu.net^
-||win.down.55kantu.com^
 ||acs.56.com^
 ||acs.agent.56.com^
 ||bill.agent.56.com^
@@ -277,6 +277,8 @@
 ||58.216.207.82^
 ||58.47.104.208^
 ||58.47.122.135^
+||58.47.122.25^
+||58.47.123.141^
 ||58.87.94.238^
 ||tracklog.58.com^
 ||59.110.136.135^
@@ -293,7 +295,6 @@
 ||60.166.36.5^
 ||60.22.23.50^
 ||609999.xyz^
-||61.183.16.127^
 ||t1.612.com^
 ||m5.66077.cn^
 ||6669667.com^
@@ -354,6 +355,7 @@
 ||999bb222ww.com^
 ||a32a.com.cn^
 ||abjalrq.cn^
+||disk.accord1key.cn^
 ||jscode.acg68.com^
 ||acgshenshicha.cn^
 ||imp.ad-plus.cn^
@@ -498,6 +500,7 @@
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
 ||tmea116.oss-cn-beijing.aliyuncs.com^
 ||tttppp.oss-cn-guangzhou.aliyuncs.com^
+||update33.oss-ap-southeast-3.aliyuncs.com^
 ||uyul.oss-cn-beijing.aliyuncs.com^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||weco.oss-eu-central-1.aliyuncs.com^
@@ -507,7 +510,6 @@
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||zffsg.oss-ap-northeast-2.aliyuncs.com^
 ||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
-||zlonline.oss-cn-shenzhen.aliyuncs.com^
 ||allyes.com^
 ||aly.la^
 ||adashx.ut.amap.com^
@@ -522,7 +524,6 @@
 ||analysys.cn^
 ||dow.andylab.cn^
 ||api.antibanads.com^
-||app-analytics-services.com^
 ||app-measurement.com^
 ||appgift.sinaapp.com^
 ||b.appjiagu.com^
@@ -581,6 +582,7 @@
 ||api1.tuisong.baidu.com^
 ||api3.tuisong.baidu.com^
 ||api8.tuisong.baidu.com^
+||as1.wenku.baidu.com^
 ||baifen.music.baidu.com^
 ||bes-mtj.baidu.com^
 ||bgg.baidu.com^
@@ -709,7 +711,6 @@
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
-||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -792,6 +793,7 @@
 ||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
+||agapi.cqjjb.cn^
 ||crasheye.cn^
 ||crashlyticsreports-pa.googleapis.com^
 ||gg.cs090.com^
@@ -897,6 +899,7 @@
 ||a.dyjqd.com^
 ||by.dyq.cn^
 ||hl.dyq.cn^
+||e4l4.com^
 ||h5.eagllwin.com^
 ||eaqgsw.xyz^
 ||track.easeus.com^
@@ -1280,6 +1283,7 @@
 ||y1.junshitt.com^
 ||dld.jxwan.com^
 ||jyuskb.cn^
+||k2n0f.cn^
 ||ds1.kaijia.com^
 ||adg.kajicam.com^
 ||adg-data.kajicam.com^
@@ -1296,12 +1300,12 @@
 ||abroad-ad.kingsoft-office-service.com^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
+||affiliate.klook.com^
 ||kolsh.cn^
 ||adsmart.konka.com^
 ||g.koowo.com^
 ||kossog.xyz^
 ||d.kpzip.com^
-||mininews.kpzip.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||log-sdk.ksapisrv.com^
 ||web-trace.ksapisrv.com^
@@ -1375,12 +1379,12 @@
 ||linkhaitao.com^
 ||1.lishibu.com^
 ||litchiads.com^
-||a.llysc.cn^
 ||lockview.cn^
 ||game.loveota.com^
 ||veim.lrswl.com^
 ||ny.lshdw.cc^
 ||a1.lshou.com^
+||m.m216j.cn^
 ||xc.macd.cn^
 ||majile.vip^
 ||usejj.makepolo.cn^
@@ -1426,7 +1430,6 @@
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
 ||360down7.miiyun.cn^
-||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1482,7 +1485,6 @@
 ||srtb.msn.cn^
 ||mvcngm.xyz^
 ||apiyd.my91app.com^
-||iuou.myadobe.cn^
 ||cdn.adm.myhayo.com^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||esa-reg-eup.myoppo.com^
@@ -1595,6 +1597,7 @@
 ||dm.pstatp.com^
 ||pig.pupuapi.com^
 ||dm.pw0.cn^
+||pw2ct1.asia^
 ||pxhuiben.com^
 ||cdn.pyadx.com^
 ||139520.aioc.qbgxl.com^
@@ -1751,7 +1754,6 @@
 ||yun-hl.3g.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
-||down.qqfarmer.com.cn^
 ||sdk-ab-config.qquanquan.com^
 ||tracelog-debug.qquanquan.com^
 ||adlaunch.qtfm.cn^
@@ -1830,18 +1832,15 @@
 ||adm.leju.sina.com.cn^
 ||beacon.sina.com.cn^
 ||counter.sina.com.cn^
-||d1.sina.com.cn^
+||d2.sina.com.cn^
 ||d5.sina.com.cn^
 ||d7.sina.com.cn^
-||d8.sina.com.cn^
-||d9.sina.com.cn^
 ||dcads.sina.com.cn^
 ||log.mix.sina.com.cn^
 ||matwbp.iask.sina.com.cn^
 ||sax.sina.com.cn^
 ||saxn.sina.com.cn^
 ||sbeacon.sina.com.cn^
-||s3.pfp.sina.net^
 ||ad.us.sinaimg.cn^
 ||rs.sinajs.cn^
 ||sitebot.cn^
@@ -1921,7 +1920,6 @@
 ||3.ssqzj.com^
 ||app.starschina.com^
 ||stgowan.com^
-||stnew.xyz^
 ||brt.studylabs.cn^
 ||uc9.suinidai.com.cn^
 ||log-dmp.suishenyun.cn^
@@ -1931,7 +1929,6 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
-||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
 ||szbdyd.com^
@@ -2036,6 +2033,7 @@
 ||tnc3-aliec2.toutiaoapi.com^
 ||tnc3-bjlgy.toutiaoapi.com^
 ||towmfs.com^
+||2882.tpddns.cn^
 ||log.trackingio.com^
 ||tradplusad.com^
 ||cnzz.trafficmanager.net^
@@ -2157,6 +2155,7 @@
 ||vs.biz.weibo.com^
 ||logtake.weidian.com^
 ||1.weiheshidai.com^
+||xingpai.weilay.com.cn^
 ||ads.weilitoutiao.net^
 ||mj.weimob.net^
 ||badjs.weixinbridge.com^
@@ -2168,6 +2167,7 @@
 ||www.wjxcdn.com^
 ||h1.wk2.com^
 ||lm1.wkpcw.cn^
+||bdasd.wmxa.cn^
 ||bdjiaoben.wmxa.cn^
 ||analytics.wondershare.cc^
 ||event.wondershare.com^
@@ -2229,7 +2229,6 @@
 ||bd1.xiby.cn^
 ||1.xilu.com^
 ||tongj.xilu.com^
-||ad.ximalaya.com^
 ||adbehavior.ximalaya.com^
 ||adbs.ximalaya.com^
 ||adse.ximalaya.com^
@@ -2336,6 +2335,7 @@
 ||yunshipei.com^
 ||ywxww.net^
 ||adsclick.yx.js.cn^
+||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
