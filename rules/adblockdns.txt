@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250202104943
-! Last modified: 2025/02/02 10:49:43
-! Blocked domains: 45018
+! Version: 20250202181920
+! Last modified: 2025/02/02 18:19:20
+! Blocked domains: 45030
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1895,6 +1895,7 @@
 ||55726zubo56686.com^
 ||55766925.xyz^
 ||558-558-559.com^
+||55f4605f6d.com^
 ||55labs.com^
 ||websocket.55online.news^
 ||acs.56.com^
@@ -3040,6 +3041,7 @@
 ||adara.com^
 ||adaround.net^
 ||adarutoad.com^
+||adasgsts.cc^
 ||adasiaholdings.com^
 ||adasta.it^
 ||adatrix.com^
@@ -10308,6 +10310,7 @@
 ||cogentpatientmama.com^
 ||cogitatetrailsplendid.com^
 ||cognatebenefactor.com^
+||cognatesyringe.com^
 ||cognitionmesmerize.com^
 ||cognizancesteepleelevate.com^
 ||cogocast.net^
@@ -15922,6 +15925,7 @@
 ||faciliatefightpierre.com^
 ||facilitatevoluntarily.com^
 ||facilityearlyimminent.com^
+||facisespess.com^
 ||fackeyess.com^
 ||factortg.com^
 ||factoruser.com^
@@ -16503,6 +16507,7 @@
 ||tag.flagship.io^
 ||flairads.com^
 ||flairadscpc.com^
+||flakefanwort.shop^
 ||flakeschopped.com^
 ||flamebeard.top^
 ||plausible.flamekiller.org^
@@ -20244,6 +20249,7 @@
 ||mwzbp.iask.com.cn^
 ||iasrv.com^
 ||iastrology.net^
+||iaukmlastitytyeast.com^
 ||ibaglhc.icu^
 ||ibanner.de^
 ||ibannerexchange.com^
@@ -23220,6 +23226,7 @@
 ||zq.lansedir.com^
 ||sp.lansingstatejournal.com^
 ||lantodomirus.com^
+||lanyinadiingsin.com^
 ||ads.laodongnghean.vn^
 ||wap1.laogu.wang^
 ||laolcwsd.tech^
@@ -33787,6 +33794,7 @@
 ||adx.rrt365.com^
 ||rruvbtb.com^
 ||rrvay.com^
+||rrxapb.icu^
 ||stripe.rs-1028-a.com^
 ||rs-stripe.com^
 ||rs0.co.uk^
@@ -40555,6 +40563,7 @@
 ||unusuallyswam.com^
 ||unusualwarmingloner.com^
 ||unwelcomegardenerinterpretation.com^
+||unwelcomehurry.com^
 ||unwillingsnick.com^
 ||unwindirenebank.com^
 ||unwoobater.com^
@@ -42959,6 +42968,7 @@
 ||wipepeepcyclist.com^
 ||api.wipmania.com^
 ||wipowaxe.com^
+||wipzxpbs.com^
 ||stats.wired.com^
 ||wiredminds.de^
 ||wiremembership.com^
@@ -44805,6 +44815,7 @@
 ||zkarinoxmq.com^
 ||zkbkat.com^
 ||zkczzltlhp6y.com^
+||zkdefuiz.icu^
 ||zkdkvnzsdxge.info^
 ||zkrdzn.xyz^
 ||zkt0flig7.com^
@@ -44840,6 +44851,7 @@
 ||znhlxvb.xyz^
 ||znnfzx.xyz^
 ||znvlfef.com^
+||znvmlmsqfseioy.com^
 ||zoachoar.net^
 ||zoachops.com^
 ||zoagremo.net^
