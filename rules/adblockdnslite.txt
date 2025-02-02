@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250202181920
-! Last modified: 2025/02/02 18:19:20
-! Blocked domains: 2419
+! Version: 20250203022712
+! Last modified: 2025/02/03 02:27:12
+! Blocked domains: 2414
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -52,7 +52,6 @@
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
-||115.62.147.19^
 ||116.196.95.100^
 ||116.198.229.197^
 ||117.157.17.194^
@@ -130,7 +129,6 @@
 ||trk1.17admob.com^
 ||180.76.138.238^
 ||182.127.109.21^
-||182.127.127.212^
 ||182.92.236.252^
 ||182.92.99.95^
 ||1999019.com^
@@ -144,7 +142,6 @@
 ||218.22.21.248^
 ||ssp.21ic.com^
 ||220.180.255.224^
-||222.139.40.246^
 ||222.186.172.42^
 ||222.187.223.34^
 ||222aa333bb.com^
@@ -197,7 +194,6 @@
 ||39.105.31.193^
 ||39.106.216.88^
 ||39.107.136.241^
-||39.108.237.194^
 ||39.98.174.154^
 ||39.98.48.153^
 ||39.99.131.244^
@@ -711,6 +707,7 @@
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
+||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -1790,7 +1787,6 @@
 ||richh.cn^
 ||ad.richmob.cn^
 ||static.rongkao.com^
-||down.ruanmei.com^
 ||ds.ruanwengfa.com^
 ||rumt-zh.com^
 ||abc.ruodian360.com^
@@ -1812,7 +1808,6 @@
 ||sensorsdata.cn^
 ||ini.sh-pp.com^
 ||js.shangxueba.com^
-||z.shavsl.com^
 ||jpaasne.e.shifen.com^
 ||shilian168.cn^
 ||1.shopit.cn^
