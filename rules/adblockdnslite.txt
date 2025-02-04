@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250204182226
-! Last modified: 2025/02/04 18:22:26
-! Blocked domains: 2412
+! Version: 20250205022848
+! Last modified: 2025/02/05 02:28:48
+! Blocked domains: 2403
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -16,7 +16,6 @@
 ||gg.0598yu.com^
 ||0941.org^
 ||1.92.86.239^
-||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
@@ -30,7 +29,6 @@
 ||101.43.46.181^
 ||101.91.125.228^
 ||1010pic.com^
-||103.42.243.49^
 ||106.14.126.40^
 ||106.14.213.29^
 ||106.14.69.133^
@@ -236,6 +234,7 @@
 ||47.93.243.161^
 ||47.94.196.131^
 ||47.95.197.166^
+||47.98.194.85^
 ||49.234.38.224^
 ||49.234.48.162^
 ||s.4cola.com^
@@ -270,7 +269,6 @@
 ||3.5646.cn^
 ||dl.1003b.56a.com^
 ||58.216.207.82^
-||58.47.104.157^
 ||58.87.94.238^
 ||tracklog.58.com^
 ||59.110.136.135^
@@ -336,7 +334,6 @@
 ||bdm.911cha.com^
 ||m.91heima.cn^
 ||t.91syun.com^
-||cdn.ly.9377.com^
 ||ads.95516.com^
 ||1.95ye.com^
 ||11.96131.com.cn^
@@ -482,8 +479,6 @@
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||kuakuawenjian.oss-cn-hangzhou.aliyuncs.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
-||mymin11.oss-cn-hangzhou.aliyuncs.com^
-||newhip.oss-cn-beijing.aliyuncs.com^
 ||news6.oss-ap-northeast-1.aliyuncs.com^
 ||safefiles2.oss-cn-beijing.aliyuncs.com^
 ||shangmei-test.oss-cn-beijing.aliyuncs.com^
@@ -698,11 +693,9 @@
 ||tnc3-aliec2.bytedance.com^
 ||tnc3-alisc1.bytedance.com^
 ||tnc3-bjlgy.bytedance.com^
-||lf1-cdn-tos.bytegoofy.com^
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
-||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -1488,7 +1481,6 @@
 ||sgz-1302338321.cos.ap-guangzhou.myqcloud.com^
 ||sister-1324943887.cos.ap-guangzhou.myqcloud.com^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
-||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||xss-1253555722.cos.ap-singapore.myqcloud.com^
 ||analytics.myshoptago.com^
 ||ggs.myzaker.com^
@@ -2031,7 +2023,6 @@
 ||tnc3-aliec2.toutiaoapi.com^
 ||tnc3-bjlgy.toutiaoapi.com^
 ||towmfs.com^
-||2882.tpddns.cn^
 ||log.trackingio.com^
 ||tradplusad.com^
 ||cnzz.trafficmanager.net^
@@ -2170,7 +2161,6 @@
 ||v1.wphonelife.com^
 ||api-ad-adapter.wps.com^
 ||wrating.com^
-||soft.wsyhn.com^
 ||cdn-ad.wtzw.com^
 ||improving.wuzhuiso.com^
 ||wvwqywz.cn^
@@ -2330,6 +2320,7 @@
 ||yunshipei.com^
 ||ywxww.net^
 ||adsclick.yx.js.cn^
+||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
@@ -2342,7 +2333,6 @@
 ||gt.yy.com^
 ||yylady.cn^
 ||adapi.yynetwk.com^
-||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
@@ -2361,6 +2351,7 @@
 ||udd1i5.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
+||zhikey.com^
 ||logapi.zhipin.com^
 ||t.zhipin.com^
 ||w11.zhongkaohelp.com^
