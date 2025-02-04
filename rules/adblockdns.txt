@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250204104745
-! Last modified: 2025/02/04 10:47:45
-! Blocked domains: 44991
+! Version: 20250204182226
+! Last modified: 2025/02/04 18:22:26
+! Blocked domains: 44993
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -12696,6 +12696,7 @@
 ||databrain.com^
 ||datacaciques.com^
 ||datacygnal.io^
+||ad.datadeliver.net^
 ||www.datadoghq-browser-agent.com^
 ||browser-http-intake.logs.datadoghq.com^
 ||browser-http-intake.logs.datadoghq.eu^
@@ -14588,6 +14589,7 @@
 ||dzupi9b81okew.cloudfront.net^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
+||dzzdspiu.icu^
 ||e-click.jp^
 ||e-contenta.com^
 ||e-cougar.fr^

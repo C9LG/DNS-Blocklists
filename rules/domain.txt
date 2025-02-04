@@ -5253,6 +5253,7 @@ ad.cub.red
 ad.cyapi.cn
 ad.cyycoy.com
 ad.danawa.com
+ad.datadeliver.net
 ad.daum.net
 ad.ddo.jp
 ad.deepthought.industries
@@ -21163,6 +21164,7 @@ dzupi9b81okew.cloudfront.net
 dzv1ekshu2vbs.cloudfront.net
 dzxr711a4yw31.cloudfront.net
 dzypro.xyz
+dzzdspiu.icu
 e-ad-monitor.huya.com
 e-bankingshopee.vn
 e-click.jp
