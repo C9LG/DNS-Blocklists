@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250204022826
-! Last modified: 2025/02/04 02:28:26
-! Blocked domains: 2404
+! Version: 20250204104745
+! Last modified: 2025/02/04 10:47:45
+! Blocked domains: 2412
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -25,6 +25,7 @@
 ||101.35.228.105^
 ||101.37.34.164^
 ||101.43.16.149^
+||101.43.166.60^
 ||101.43.2.116^
 ||101.43.46.181^
 ||101.91.125.228^
@@ -38,12 +39,12 @@
 ||106.55.149.249^
 ||adm.10jqka.com.cn^
 ||110.41.2.207^
+||111.173.104.246^
 ||111.230.25.167^
 ||111.42.156.130^
 ||1.11130.com.cn^
 ||112.124.71.123^
 ||112.33.27.73^
-||113.219.177.95^
 ||113.31.111.76^
 ||113.98.201.248^
 ||114.215.27.238^
@@ -54,6 +55,7 @@
 ||116.196.95.100^
 ||116.198.229.197^
 ||117.157.17.194^
+||117.50.178.197^
 ||117.50.190.56^
 ||117.50.194.20^
 ||117.50.95.62^
@@ -179,7 +181,6 @@
 ||hye.comp.360os.com^
 ||hyt.comp.360os.com^
 ||p1.360soucha.com^
-||softdl.360tpcdn.com^
 ||365dmp.com^
 ||gw.365you.com^
 ||adx.36kr.com^
@@ -191,6 +192,7 @@
 ||39.105.31.193^
 ||39.106.216.88^
 ||39.107.136.241^
+||39.108.237.194^
 ||39.98.48.153^
 ||39.99.131.244^
 ||abody.39.net^
@@ -205,6 +207,7 @@
 ||3q1lsj.cn^
 ||img.3sjt.com^
 ||42.192.195.221^
+||42.234.143.60^
 ||42.240.133.45^
 ||43.139.216.112^
 ||43.143.123.40^
@@ -233,7 +236,6 @@
 ||47.93.243.161^
 ||47.94.196.131^
 ||47.95.197.166^
-||47.98.194.85^
 ||49.234.38.224^
 ||49.234.48.162^
 ||s.4cola.com^
@@ -259,7 +261,6 @@
 ||adm.52swine.com^
 ||a.52zxw.com^
 ||54kefu.net^
-||win.down.55kantu.com^
 ||acs.56.com^
 ||acs.agent.56.com^
 ||bill.agent.56.com^
@@ -267,6 +268,7 @@
 ||union.56.com^
 ||v16.56.com^
 ||3.5646.cn^
+||dl.1003b.56a.com^
 ||58.216.207.82^
 ||58.47.104.157^
 ||58.87.94.238^
@@ -651,7 +653,6 @@
 ||j.baminw.cn^
 ||n.baminw.com.cn^
 ||xs.houyi.baofeng.net^
-||resource.baomihua.com^
 ||ad.bayescom.com^
 ||raddus.bayescom.com^
 ||du1.bbdj.com^
@@ -659,6 +660,7 @@
 ||dingbu.bj.bcebos.com^
 ||gg88.bj.bcebos.com^
 ||mobads-pre-config.cdn.bcebos.com^
+||qwe0231141.bj.bcebos.com^
 ||httpdns.bcelive.com^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
@@ -701,6 +703,7 @@
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
 ||download.caihong.com^
+||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
 ||cartx.cloud^
@@ -733,6 +736,7 @@
 ||dvser.china.com^
 ||sssvd.china.com^
 ||union.china.com.cn^
+||chinaapper.com^
 ||same.chinadaily.com.cn^
 ||sdkoptedge.chinanetcenter.com^
 ||a2put.chinaz.com^
@@ -831,6 +835,8 @@
 ||sh996.dftoutiao.com^
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
+||bea-s.dinghuoche.com^
+||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -1101,7 +1107,6 @@
 ||adlink-api.huan.tv^
 ||ads.huan.tv^
 ||download.changhong.upgrade2.huan.tv^
-||downloadxml.changhong.upgrade2.huan.tv^
 ||livemonitor.huan.tv^
 ||log.appstore3.huan.tv^
 ||monitor-ads-test.huan.tv^
@@ -1292,7 +1297,6 @@
 ||g.koowo.com^
 ||kossog.xyz^
 ||d.kpzip.com^
-||mininews.kpzip.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||log-sdk.ksapisrv.com^
 ||web-trace.ksapisrv.com^
@@ -1369,7 +1373,6 @@
 ||lockview.cn^
 ||game.loveota.com^
 ||veim.lrswl.com^
-||ny.lshdw.cc^
 ||a1.lshou.com^
 ||m.m216j.cn^
 ||xc.macd.cn^
@@ -1417,6 +1420,7 @@
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
 ||360down7.miiyun.cn^
+||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1585,7 +1589,6 @@
 ||dm.pstatp.com^
 ||pig.pupuapi.com^
 ||dm.pw0.cn^
-||pw2ct1.asia^
 ||pxhuiben.com^
 ||cdn.pyadx.com^
 ||139520.aioc.qbgxl.com^
@@ -1763,8 +1766,6 @@
 ||msgv6.qy.net^
 ||hades.qyer.com^
 ||qzorwe.xyz^
-||analytics.rayjump.com^
-||cdn-adn.rayjump.com^
 ||reachmax.cn^
 ||iot-eu-logser.realme.com^
 ||iot-in-logser.realme.com^
@@ -1780,6 +1781,7 @@
 ||richh.cn^
 ||ad.richmob.cn^
 ||static.rongkao.com^
+||down.ruanmei.com^
 ||ds.ruanwengfa.com^
 ||rumt-zh.com^
 ||abc.ruodian360.com^
@@ -1818,19 +1820,24 @@
 ||ads.sina.com^
 ||ad2.sina.com.cn^
 ||ad3.sina.com.cn^
+||ad4.sina.com.cn^
 ||adm.leju.sina.com.cn^
 ||beacon.sina.com.cn^
 ||counter.sina.com.cn^
+||d0.sina.com.cn^
+||d1.sina.com.cn^
 ||d2.sina.com.cn^
 ||d5.sina.com.cn^
 ||d7.sina.com.cn^
 ||d8.sina.com.cn^
+||d9.sina.com.cn^
 ||dcads.sina.com.cn^
 ||log.mix.sina.com.cn^
 ||matwbp.iask.sina.com.cn^
 ||sax.sina.com.cn^
 ||saxn.sina.com.cn^
 ||sbeacon.sina.com.cn^
+||s3.pfp.sina.net^
 ||ad.us.sinaimg.cn^
 ||rs.sinajs.cn^
 ||sitebot.cn^
@@ -1909,6 +1916,7 @@
 ||3.ssqzj.com^
 ||app.starschina.com^
 ||stgowan.com^
+||stnew.xyz^
 ||brt.studylabs.cn^
 ||uc9.suinidai.com.cn^
 ||log-dmp.suishenyun.cn^
@@ -1917,6 +1925,7 @@
 ||adls.suning.com^
 ||ssac.suning.com^
 ||tad.suning.com^
+||bdunion1.suxiazai.com^
 ||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||synacast.com^
@@ -2028,7 +2037,6 @@
 ||cnzz.trafficmanager.net^
 ||ta.trs.cn^
 ||ts166.net^
-||tudxhzj.cn^
 ||engine.tuia.cn^
 ||lm1.tuliu.com^
 ||appwall.tv2phone.cn^
@@ -2069,7 +2077,6 @@
 ||b.unjs.com^
 ||upceshop.cn^
 ||mobilelog.upqzfile.com^
-||uu22112.com^
 ||uu22662.com^
 ||gg.uuu9.com^
 ||www.uyunad.com^
@@ -2138,6 +2145,7 @@
 ||cl2.webterren.com^
 ||dp.im.weibo.cn^
 ||ad.weibo.com^
+||adimg.uve.weibo.com^
 ||adstrategy.biz.weibo.com^
 ||alitui.weibo.com^
 ||vs.biz.weibo.com^
@@ -2263,6 +2271,7 @@
 ||g.yccdn.com^
 ||ycuhky.xyz^
 ||adpublish.ydstatic.com^
+||bdm.ye-su.cn^
 ||yeahmobi.com^
 ||abc.yebaike.com^
 ||a.yellowurl.cn^
@@ -2321,7 +2330,6 @@
 ||yunshipei.com^
 ||ywxww.net^
 ||adsclick.yx.js.cn^
-||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
@@ -2353,7 +2361,6 @@
 ||udd1i5.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
 ||collector2c.zhihuishu.com^
-||zhikey.com^
 ||logapi.zhipin.com^
 ||t.zhipin.com^
 ||w11.zhongkaohelp.com^
@@ -2399,6 +2406,7 @@
 ||cpro.zol.com.cn^
 ||down10d.zol.com.cn^
 ||pvnwap.zol.com.cn^
+||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
