@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250205104932
-! Last modified: 2025/02/05 10:49:32
-! Blocked domains: 44946
+! Version: 20250205182159
+! Last modified: 2025/02/05 18:21:59
+! Blocked domains: 44950
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -38844,6 +38844,7 @@
 ||tnkad.net^
 ||tnkfactory.com^
 ||pxx.tnklrs.cn^
+||tnlixn.icu^
 ||tns-counter.ru^
 ||tns-cs.net^
 ||tns-gallup.dk^
@@ -40005,6 +40006,7 @@
 ||u595sebqih.com^
 ||u5ps5.icu^
 ||u7kgr54jr7.ru^
+||u7y.pw^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||u9axpzf50.com^
 ||uaaftpsy.com^
@@ -44420,6 +44422,7 @@
 ||zakladka.org.ua^
 ||zakruxxita.com^
 ||zakurdedso.net^
+||zalo-web.me^
 ||stats.lab.zalo.ai^
 ||ads.zalo.me^
 ||ads-platform.zalo.me^
@@ -44450,6 +44453,7 @@
 ||zminer.zaloapp.com^
 ||ztevents.zaloapp.com^
 ||zalorashop.com^
+||zaloweb.pro^
 ||zaltaumi.net^
 ||log.zamba.vn^
 ||zamiko.ru^
