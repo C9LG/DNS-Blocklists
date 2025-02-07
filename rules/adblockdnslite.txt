@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250207182230
-! Last modified: 2025/02/07 18:22:30
-! Blocked domains: 2408
+! Version: 20250208022843
+! Last modified: 2025/02/08 02:28:43
+! Blocked domains: 2407
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -23,7 +23,6 @@
 ||101.201.247.232^
 ||101.35.228.105^
 ||101.37.34.164^
-||101.43.16.149^
 ||101.43.166.60^
 ||101.43.2.116^
 ||101.43.46.181^
@@ -44,14 +43,15 @@
 ||1.11130.com.cn^
 ||112.124.71.123^
 ||112.33.27.73^
+||113.219.177.95^
 ||113.31.111.76^
+||113.44.144.145^
 ||114.215.27.238^
 ||114.242.26.64^
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
 ||115.55.195.46^
-||115.62.155.36^
 ||116.196.95.100^
 ||116.198.229.197^
 ||117.157.17.194^
@@ -68,7 +68,6 @@
 ||119.23.208.137^
 ||119.45.127.116^
 ||120.25.163.165^
-||120.26.164.174^
 ||120.46.28.4^
 ||121.40.55.28^
 ||121.41.89.22^
@@ -270,7 +269,6 @@
 ||3.5646.cn^
 ||dl.1003b.56a.com^
 ||58.216.207.82^
-||58.47.104.208^
 ||58.87.94.238^
 ||tracklog.58.com^
 ||59.110.136.135^
@@ -416,6 +414,7 @@
 ||m.ailezhai.cn^
 ||atiws.aipai.com^
 ||agn.aty.snmsohu.aisee.tv^
+||admin.aishangzhua.com^
 ||domain.aishengji.com^
 ||log.aispeech.com^
 ||aivaylaco.com^
@@ -834,6 +833,7 @@
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
 ||bea-s.dinghuoche.com^
+||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -2364,7 +2364,6 @@
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
 ||fdfda.zhuzhai.com^
-||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
