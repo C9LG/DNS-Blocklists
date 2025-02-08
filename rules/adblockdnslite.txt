@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250208182036
-! Last modified: 2025/02/08 18:20:36
-! Blocked domains: 2416
+! Version: 20250209022559
+! Last modified: 2025/02/09 02:25:59
+! Blocked domains: 2411
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -15,7 +15,6 @@
 ||pic.0597kk.com^
 ||gg.0598yu.com^
 ||0941.org^
-||1.92.86.239^
 ||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
@@ -37,7 +36,6 @@
 ||106.55.149.249^
 ||adm.10jqka.com.cn^
 ||110.41.2.207^
-||soft.110route.com^
 ||111.173.104.246^
 ||111.230.25.167^
 ||111.42.156.130^
@@ -46,13 +44,13 @@
 ||112.33.27.73^
 ||113.219.177.95^
 ||113.31.111.76^
+||113.44.144.145^
 ||113.98.201.248^
 ||114.215.27.238^
 ||114.242.26.64^
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
-||115.55.195.46^
 ||116.196.95.100^
 ||116.198.229.197^
 ||117.157.17.194^
@@ -126,7 +124,6 @@
 ||trk1.17admob.com^
 ||180.76.138.238^
 ||182.127.111.222^
-||182.92.236.252^
 ||182.92.99.95^
 ||1999019.com^
 ||ssp.1nmob.com^
@@ -218,6 +215,7 @@
 ||47.104.173.216^
 ||47.107.29.90^
 ||47.109.137.82^
+||47.109.178.54^
 ||47.109.77.84^
 ||47.109.90.134^
 ||47.111.146.110^
@@ -230,9 +228,7 @@
 ||47.92.166.33^
 ||47.93.243.161^
 ||47.94.196.131^
-||47.95.197.166^
 ||47.98.194.85^
-||47.99.93.43^
 ||49.234.38.224^
 ||49.234.48.162^
 ||s.4cola.com^
@@ -665,7 +661,6 @@
 ||sofire.bdstatic.com^
 ||zz.bdstatic.com^
 ||dig.bdurl.net^
-||beiletoys.com^
 ||beizi.biz^
 ||bfhueh.top^
 ||a.bfking.cn^
@@ -784,7 +779,6 @@
 ||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
-||agapi.cqjjb.cn^
 ||crasheye.cn^
 ||crashlyticsreports-pa.googleapis.com^
 ||gg.cs090.com^
@@ -1038,6 +1032,7 @@
 ||abcdcfasda.gushiwen.cn^
 ||enennsa.gushiwen.cn^
 ||ggw.gusuwang.com^
+||m.gutousoft.com^
 ||a.guzhilin.com^
 ||gw2cddpt2hao.asia^
 ||share.gzdsw.com^
