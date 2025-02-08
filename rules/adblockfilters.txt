@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20250208022843
-! Last modified: 2025/02/08 02:28:43
-! Blocked Filters: 439
+! Version: 20250208104454
+! Last modified: 2025/02/08 10:44:54
+! Blocked Filters: 428
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -32,7 +32,6 @@
 /^94\.242\.247\.(2[0-9]|3[0-2])/
 /^94\.242\.247\.(2[0-9]|3[0-2]):/
 /cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com/
-||03eea1b6dd.com
 ||1024wanzhai.
 ||107.167.16.*.gif
 ||107.167.22.*.gif
@@ -170,12 +169,9 @@
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||d241ujsiy3yht0.cloudfront.net
-||d2fj3s7h83rb61.cloudfront.net
-||d71e6dd31a026d45.com
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
-||deliveryengine.adswizz.com
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||dl.qcash.ws
@@ -193,7 +189,6 @@
 ||f-log-*.grammarly.io^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
-||fjuga.top
 ||flipflapflo.
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -203,7 +198,6 @@
 ||freecontent.date
 ||freecontent.stream
 ||fxhpaoxqyajvmdg.
-||gbpkmltxpcsj.xyz
 ||gbs.gamingmedia.ru
 ||gcw*.2liang.cn^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
@@ -211,6 +205,7 @@
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
 ||get-me-wow.
+||globalteaser.ru
 ||gonews*.net^
 ||goodadvert.
 ||gscounters.*.gigya.com^
@@ -225,7 +220,6 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
-||hvkwmvpxvjo.xyz
 ||hw-sh-pcdn-*.biliapi.net^
 ||i-*.ci360.sas.com^
 ||iad-*.appboy.com^
@@ -240,7 +234,6 @@
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||itv.hexun.com
 ||ja*.gamersky.com^
-||jeeng-api-prod.azureedge.net
 ||js*.abolezi.com^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
@@ -365,7 +358,6 @@
 ||servo-report.keepstreams.*^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
-||smart.allocine.fr
 ||sn00.net
 ||snowplow-collector-*.amazonaws.com^
 ||snowplow-collector.
@@ -434,7 +426,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||w*statistics.info^
 ||wa.gmx.
-||web-rotation.net
 ||web-visor.
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
@@ -442,7 +433,5 @@
 ||ya*.dwstatic.com^
 ||yottos.com
 ||ysdm*.ys137.com.cn^
-||yxhstwzjbu.info
 ||zbb.bbb.*.pics^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
-||zorosrv.com
