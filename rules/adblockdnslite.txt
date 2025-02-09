@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250209182045
-! Last modified: 2025/02/09 18:20:45
-! Blocked domains: 2423
+! Version: 20250210022601
+! Last modified: 2025/02/10 02:26:01
+! Blocked domains: 2421
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -15,6 +15,7 @@
 ||pic.0597kk.com^
 ||gg.0598yu.com^
 ||0941.org^
+||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
@@ -38,9 +39,11 @@
 ||110.41.2.207^
 ||111.173.104.246^
 ||111.230.25.167^
+||111.42.156.130^
 ||1.11130.com.cn^
 ||112.124.71.123^
 ||112.33.27.73^
+||113.219.177.95^
 ||113.31.111.76^
 ||113.98.201.248^
 ||114.215.27.238^
@@ -124,7 +127,6 @@
 ||165tchuang.com^
 ||trk1.17admob.com^
 ||180.76.138.238^
-||182.127.111.222^
 ||182.92.99.95^
 ||1999019.com^
 ||ssp.1nmob.com^
@@ -134,7 +136,6 @@
 ||ddd.1sapp.com^
 ||20091222.com^
 ||218.108.181.2^
-||218.22.21.248^
 ||ssp.21ic.com^
 ||220.180.255.224^
 ||222.186.172.42^
@@ -189,7 +190,6 @@
 ||39.104.73.194^
 ||39.105.31.193^
 ||39.107.136.241^
-||39.108.237.194^
 ||39.98.48.153^
 ||39.99.131.244^
 ||abody.39.net^
@@ -204,7 +204,6 @@
 ||3q1lsj.cn^
 ||img.3sjt.com^
 ||42.192.195.221^
-||42.239.229.239^
 ||42.240.133.45^
 ||43.143.123.40^
 ||43.226.39.44^
@@ -347,6 +346,7 @@
 ||9kh5b.cn^
 ||a32a.com.cn^
 ||abjalrq.cn^
+||disk.accord1key.cn^
 ||jscode.acg68.com^
 ||acgshenshicha.cn^
 ||imp.ad-plus.cn^
@@ -1043,7 +1043,6 @@
 ||abcdcfasda.gushiwen.cn^
 ||enennsa.gushiwen.cn^
 ||ggw.gusuwang.com^
-||m.gutousoft.com^
 ||a.guzhilin.com^
 ||gw2cddpt2hao.asia^
 ||share.gzdsw.com^
@@ -1497,7 +1496,6 @@
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
 ||m.nanyangqiaoxiang.cn^
-||dl.natgo.cn^
 ||advert.lx.netease.com^
 ||da.netease.com^
 ||hubble.netease.com^
@@ -1931,6 +1929,7 @@
 ||ssac.suning.com^
 ||tad.suning.com^
 ||bdunion1.suxiazai.com^
+||download.suxiazai.com^
 ||mscs.svaeuzh.cn^
 ||analytics.sve.cc^
 ||api.sve.cc^
@@ -2417,7 +2416,6 @@
 ||cpro.zol.com.cn^
 ||down10d.zol.com.cn^
 ||pvnwap.zol.com.cn^
-||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
