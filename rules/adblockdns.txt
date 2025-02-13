@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250213105052
-! Last modified: 2025/02/13 10:50:52
-! Blocked domains: 44093
+! Version: 20250213182253
+! Last modified: 2025/02/13 18:22:53
+! Blocked domains: 44097
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -7490,6 +7490,7 @@
 ||bh3.net^
 ||bhalukecky.com^
 ||bhcont.com^
+||bhelzun.com^
 ||bhigziaww.com^
 ||bhkfnroleqcjhm.xyz^
 ||bhlom.com^
@@ -16028,6 +16029,7 @@
 ||fadszone.com^
 ||faecbooks.com^
 ||fafmimgubcm.com^
+||fafvvt.icu^
 ||tracking.fagersta-posten.se^
 ||tracking.etidning.fagersta-posten.se^
 ||faggapmunost.com^
@@ -18856,6 +18858,7 @@
 ||gtm.guitarzoom.com^
 ||gukmodukuleqasfo.com^
 ||gukrathokeewhi.net^
+||gukviels.com^
 ||gulfimply.com^
 ||geoip.gulflive.com^
 ||mms.gulflive.com^
@@ -22490,6 +22493,7 @@
 ||kbvnpjijrahsgchor.org^
 ||e459.kcci.com^
 ||kcggmyeag.com^
+||kcinmad.top^
 ||ev.kck.st^
 ||t.kck.st^
 ||kcolbda.com^
