@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250214182202
-! Last modified: 2025/02/14 18:22:02
-! Blocked domains: 2400
+! Version: 20250215022856
+! Last modified: 2025/02/15 02:28:56
+! Blocked domains: 2396
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -50,7 +50,6 @@
 ||114.55.250.233^
 ||1.11467.com^
 ||115.28.26.10^
-||115.55.223.75^
 ||116.196.95.100^
 ||116.198.229.197^
 ||117.157.17.194^
@@ -107,7 +106,6 @@
 ||139.198.15.223^
 ||150.158.37.254^
 ||152.136.140.85^
-||152.136.159.25^
 ||adgeo.163.com^
 ||clientlog3.music.163.com^
 ||clientlogdep.music.163.com^
@@ -1034,7 +1032,6 @@
 ||abcdcfasda.gushiwen.cn^
 ||enennsa.gushiwen.cn^
 ||ggw.gusuwang.com^
-||m.gutousoft.com^
 ||a.guzhilin.com^
 ||gw2cddpt2hao.asia^
 ||share.gzdsw.com^
@@ -1060,7 +1057,6 @@
 ||hffxc.com^
 ||hfisngksng.com^
 ||wap.hfoyjg.cn^
-||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||api-gd.hiaiabc.com^
 ||log-verify.hiaiabc.com^
@@ -1488,7 +1484,6 @@
 ||gstat.myzaker.com^
 ||fp.nanrenwo.net^
 ||m.nanyangqiaoxiang.cn^
-||dl.natgo.cn^
 ||advert.lx.netease.com^
 ||da.netease.com^
 ||hubble.netease.com^
@@ -2357,6 +2352,7 @@
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
 ||fdfda.zhuzhai.com^
+||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
