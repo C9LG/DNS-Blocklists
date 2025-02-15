@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250215104858
-! Last modified: 2025/02/15 10:48:58
-! Blocked domains: 44815
+! Version: 20250215182025
+! Last modified: 2025/02/15 18:20:25
+! Blocked domains: 44849
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1101,6 +1101,7 @@
 ||211.40.16.243^
 ||211.55.72.203^
 ||ads.211.ru^
+||21162611f8.com^
 ||212.113.35.236^
 ||212.117.190.201^
 ||212.117.190.202^
@@ -2030,6 +2031,7 @@
 ||6rn05mmbct.ru^
 ||6snjvxkawrtolv2x.pro^
 ||ads.6svn.com^
+||6u2h.cn^
 ||6ujk8x9soxhm.com^
 ||6v41p4bsq.com^
 ||xsell.6waves.com^
@@ -6834,6 +6836,7 @@
 ||baptisttop1000.com^
 ||barazasieve.click^
 ||barbabridgeoverprotective.com^
+||barbarasacredassort.com^
 ||barbecuedilatefinally.com^
 ||barbmerchant.com^
 ||barbours.com.se^
@@ -6990,6 +6993,7 @@
 ||bctabsogebtmoutsgs.duckdns.org^
 ||bctuapia.icu^
 ||bcvc.mobi^
+||bcyspirp.xyz^
 ||bd4travel.com^
 ||bd51static.com^
 ||bd742.com^
@@ -7733,7 +7737,6 @@
 ||collect.blishtech.co^
 ||blismedia.com^
 ||bliss91.com^
-||blisscleopatra.com^
 ||blissfulclick.pro^
 ||blissfuldes.com^
 ||blissfulmass.com^
@@ -9228,6 +9231,7 @@
 ||cedrt6.pro^
 ||track.cedsdigital.it^
 ||ceefsyqotuagk.com^
+||ceegrezushu.net^
 ||ceegriwuwoa.net^
 ||ceeheesa.com^
 ||ceekougy.net^
@@ -9513,6 +9517,7 @@
 ||qc1.cheshipin.com^
 ||amplitude.chess.com^
 ||client-metrics.chess.com^
+||pm.chetahtalc.com^
 ||chetchen.net^
 ||chetchoa.com^
 ||chethgentman.live^
@@ -10078,6 +10083,7 @@
 ||clothesgrimily.com^
 ||clothingsphere.com^
 ||clothingtentativesuffix.com^
+||clothmexican.com^
 ||clottedloathe.shop^
 ||tr.cloud-media.fr^
 ||cloud-stats.info^
@@ -11337,6 +11343,7 @@
 ||stats.curds.io^
 ||curemedia.se^
 ||curiosity-seven.vercel.app^
+||curioushingefast.com^
 ||secure.curl7bike.com^
 ||curledbuffet.com^
 ||curlyhomes.com^
@@ -11425,6 +11432,7 @@
 ||cycvyo.xyz^
 ||cyeqeewyr.com^
 ||cyg-byzlgtns.world^
+||cygnetgeorama.shop^
 ||cygnus.com^
 ||cylnkee.com^
 ||cyneburg-yam.com^
@@ -16183,6 +16191,7 @@
 ||februarynip.com^
 ||febtzd.xyz^
 ||fecguzhzeia.vip^
+||feckephorus.com^
 ||feckurteg.net^
 ||fedapush.net^
 ||fedassuagecompare.com^
@@ -16219,6 +16228,7 @@
 ||feetheho.com^
 ||feewostoo.com^
 ||fefgvh.xyz^
+||fefinegoldforeyes.com^
 ||fefqkn.org^
 ||feghijupvucw.com^
 ||fegortius.com^
@@ -16273,6 +16283,7 @@
 ||fetidbelow.com^
 ||fetidgossipleaflets.com^
 ||ads.fetnet.net^
+||fetorsboozer.shop^
 ||feuageepitoke.com^
 ||feudalmalletconsulate.com^
 ||feudalplastic.com^
@@ -16837,7 +16848,6 @@
 ||formsassistanceclassy.com^
 ||analytics.formstack.com^
 ||formteddy.com^
-||formulacountess.com^
 ||formulamuseconnected.com^
 ||formyasemia.shop^
 ||forooqso.tv^
@@ -17102,6 +17112,7 @@
 ||fruitflan.com^
 ||fruitfullocksmith.com^
 ||fruitfulthinnersuspicion.com^
+||fruitiesmatchina.com^
 ||fruitkings.com^
 ||fruitlesshooraytheirs.com^
 ||fruitnotability.com^
@@ -17304,6 +17315,7 @@
 ||fzgetdy.cn^
 ||fzgrpqktmq.com^
 ||fzivunnigra.com^
+||fziwzaalp.com^
 ||fzmflvwn.tech^
 ||fznpq.com^
 ||fzpzrqou.icu^
@@ -18136,6 +18148,7 @@
 ||gmodmp.jp^
 ||ads.gmodules.com^
 ||gmossp-sp.jp^
+||gmstatute.com^
 ||ad.gmw.cn^
 ||channel-analysis-js.gmw.cn^
 ||ymprove.gmx.net^
@@ -18515,6 +18528,7 @@
 ||gratis-neuken.com^
 ||gratitudeobservestayed.com^
 ||gratituderefused.com^
+||grauckoonsaul.xyz^
 ||grauglak.com^
 ||graugnoogimsauy.net^
 ||grauhoat.xyz^
@@ -19069,6 +19083,7 @@
 ||hardcoretrayversion.com^
 ||harderjuniormisty.com^
 ||analytics.hardlightgames.com^
+||hardnesscorkimmature.com^
 ||hardynylon.com^
 ||hareeditoriallinked.com^
 ||haresmodus.com^
@@ -19308,6 +19323,7 @@
 ||heleric.com^
 ||helesandoral.com^
 ||helic3oniusrcharithonia.com^
+||helipsymphony.com^
 ||beacons.helium.com^
 ||heliumwinebluff.com^
 ||hellay.net^
@@ -22590,6 +22606,7 @@
 ||khuyenkhichsangtaoviet.net^
 ||khuyenmaitanthu.com^
 ||kiaughsviner.com^
+||kibmswncw.com^
 ||kibyglsp.top^
 ||kicka.xyz^
 ||kickchecking.com^
@@ -22673,6 +22690,7 @@
 ||kiosked.com^
 ||kv-analytics.kiotviet.vn^
 ||kipchakshoat.shop^
+||kipnjjwvulmy.fun^
 ||kipyn.com^
 ||kiretafly.com^
 ||kirteexe.tv^
@@ -24640,6 +24658,7 @@
 ||log22.makeshop.co.kr^
 ||makethebusiness.com^
 ||makeupenumerate.com^
+||makeupmildaccompaniment.com^
 ||making.party^
 ||makingnude.com^
 ||adserv.mako.co.il^
@@ -25526,6 +25545,7 @@
 ||mindlessslogan.com^
 ||mindlytix.com^
 ||sp.minds.com^
+||mindscelebrationearnestly.com^
 ||mindssometimes.com^
 ||mindtake.com^
 ||minealoftcolumnist.com^
@@ -25605,6 +25625,7 @@
 ||mishandlemole.com^
 ||mishapideal.com^
 ||mishapsummonmonster.com^
+||mislaidshakos.shop^
 ||reklam.misli.com^
 ||misljen.net^
 ||misputidemetome.com^
@@ -25756,6 +25777,7 @@
 ||moaglail.xyz^
 ||moagrejinubiko.xyz^
 ||moakaumo.com^
+||moanamberdrone.com^
 ||moanhaul.com^
 ||moaningbeautifulnobles.com^
 ||moanishaiti.com^
@@ -27550,6 +27572,7 @@
 ||nougacoush.com^
 ||noughttrustthreshold.com^
 ||noukotumorn.com^
+||noulddrugged.com^
 ||noungundated.com^
 ||nounooch.com^
 ||nounpasswordangles.com^
@@ -27601,6 +27624,7 @@
 ||noxiousinvestor.com^
 ||noxiousrecklesssuspected.com^
 ||track.noz.de^
+||nozhscywegvjj.com^
 ||nozirelower.top^
 ||nozoakamsaun.net^
 ||lma.npaw.com^
@@ -28522,7 +28546,6 @@
 ||oos4l.com^
 ||oosoojainy.xyz^
 ||oostotsu.com^
-||ootchaig.xyz^
 ||ootchoft.com^
 ||oowkzpjo-o.click^
 ||utiq.op-online.de^
@@ -31817,6 +31840,7 @@
 ||qeedaa.xyz^
 ||qel-qel-fie.com^
 ||qelqlunebz.com^
+||qelvaykmkqjoj.top^
 ||qerkbejqwqjkr.top^
 ||qerusgreyt.com^
 ||qeuckn.icu^
@@ -32274,6 +32298,7 @@
 ||qymkbmjssadw.top^
 ||qyusgj.xyz^
 ||qywbslk.top^
+||qyyrynjspeamfx.com^
 ||qz-hjgrdqih.fun^
 ||qz496amxfh87mst.com^
 ||qzaoltruzfus.com^
@@ -33441,6 +33466,7 @@
 ||rixaka.com^
 ||rixengine.com^
 ||rixibe.xyz^
+||rixsymdjb.com^
 ||record.rizk.com^
 ||rizzonelli.it^
 ||rjeruqs.com^
@@ -33511,6 +33537,7 @@
 ||robberyinscription.com^
 ||robberynominal.com^
 ||robberysordid.com^
+||robedonedip.com^
 ||track.robee.tech^
 ||roberehearsal.com^
 ||analytics.robinhood.com^
@@ -34775,6 +34802,8 @@
 ||servicesrc.org^
 ||servicetechtracker.com^
 ||pub.servidoresge.com^
+||bs.serving-sys.com^
+||secure-ds.serving-sys.com^
 ||servingcdn.net^
 ||servingsurroundworldwide.com^
 ||ab.servogram.io^
@@ -35652,6 +35681,7 @@
 ||sleptbereave.com^
 ||slfpu.com^
 ||slfsmf.com^
+||slfxgbhlleuvg.xyz^
 ||mobile.slgnt.eu^
 ||offer.slgnt.eu^
 ||site-azp.slgnt.eu^
@@ -36190,6 +36220,7 @@
 ||sophus3.com^
 ||sopital.com^
 ||soportegira.net^
+||sopranishamim.com^
 ||sorbussmacked.shop^
 ||sordimtaulee.com^
 ||sordiniswivet.shop^
@@ -39955,6 +39986,7 @@
 ||uamobile.net^
 ||uaoaig.xyz^
 ||uarating.com^
+||uaucqlwwo.com^
 ||uavbgdw.com^
 ||uawvmni.com^
 ||ubar-pro4.ru^
@@ -40012,6 +40044,7 @@
 ||ad4.udn.com^
 ||ad5.udn.com^
 ||udookrou.com^
+||udoxeswdhatp.com^
 ||udswai.xyz^
 ||uduxztwig.com^
 ||udzpel.com^
@@ -41421,6 +41454,7 @@
 ||visummer.com^
 ||event.lib.visumo.io^
 ||t.visx.net^
+||vital-might.pro^
 ||tr.vitals.co^
 ||vitaminalcove.com^
 ||vitaminlease.com^
@@ -44432,7 +44466,6 @@
 ||zeekaihu.net^
 ||zeemeewhoowhoa.xyz^
 ||zeepartners.com^
-||zeephouh.com^
 ||zeeshith.net^
 ||zeewhaih.com^
 ||zeksaugaunes.net^
@@ -44467,6 +44500,7 @@
 ||zeropark.com^
 ||zesep.com^
 ||zestpocosin.com^
+||zestysample.pro^
 ||tag.voice.zetacx.net^
 ||zeti.com^
 ||zeusadx.com^
