@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250216182006
-! Last modified: 2025/02/16 18:20:06
-! Blocked domains: 2366
+! Version: 20250217022640
+! Last modified: 2025/02/17 02:26:40
+! Blocked domains: 2363
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -15,7 +15,6 @@
 ||pic.0597kk.com^
 ||gg.0598yu.com^
 ||0941.org^
-||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
@@ -215,6 +214,7 @@
 ||47.109.90.134^
 ||47.113.107.52^
 ||47.113.217.92^
+||47.115.54.19^
 ||47.119.189.207^
 ||47.120.25.38^
 ||47.120.46.210^
@@ -1460,7 +1460,6 @@
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
 ||m.nanyangqiaoxiang.cn^
-||dl.natgo.cn^
 ||advert.lx.netease.com^
 ||da.netease.com^
 ||hubble.netease.com^
@@ -1565,7 +1564,6 @@
 ||log.game.qcplay.com^
 ||news.qcyz.cn^
 ||qguwoq.cn^
-||qhocciks.com^
 ||m.qhxcdmfj.cn^
 ||jsb.qianzhan.com^
 ||cj.qidian.com^
@@ -2280,7 +2278,6 @@
 ||yunshipei.com^
 ||ywxww.net^
 ||adsclick.yx.js.cn^
-||qiniuyunxz.yxflzs.com^
 ||ali-ad.a.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
 ||js-ad.a.yximgs.com^
