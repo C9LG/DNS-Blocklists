@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250217105355
-! Last modified: 2025/02/17 10:53:55
-! Blocked domains: 44539
+! Version: 20250217182357
+! Last modified: 2025/02/17 18:23:57
+! Blocked domains: 44567
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -2164,6 +2164,7 @@
 ||7aey.icu^
 ||7anfpatlo8lwmb.com^
 ||7app.top^
+||7b91f8c7a4.com^
 ||7bchhgh.de^
 ||7bpeople.com^
 ||7c3514356.com^
@@ -6276,6 +6277,7 @@
 ||avatarthree.lol^
 ||avatarweb.site^
 ||avault.net^
+||avauntinnyard.shop^
 ||avazone.ru^
 ||avazu.net^
 ||avazudsp.net^
@@ -6428,6 +6430,7 @@
 ||axonix.com^
 ||axotrade.com^
 ||axtlqoo.com^
+||axvelures.top^
 ||axwwvfugh.com^
 ||axxxfam.com^
 ||axxxfeee.lat^
@@ -10883,6 +10886,7 @@
 ||corruptobstacle.com^
 ||corruptsolitaryaudibly.com^
 ||corveseiren.com^
+||corylussunroof.com^
 ||cos1999.top^
 ||cosedluteo.com^
 ||sp.coshoctontribune.com^
@@ -10986,6 +10990,7 @@
 ||sp.courierpress.com^
 ||coursebonfire.com^
 ||insights-mxp.coursecareers.com^
+||coursedbardes.com^
 ||coursejavgg124.fun^
 ||stats.coursepad.com^
 ||coursewimplongitude.com^
@@ -11072,6 +11077,7 @@
 ||cqisam.xyz^
 ||cqlupb.com^
 ||cqnmtmqxecqvyl.com^
+||cqrqtegwqqfw.com^
 ||cqrvwq.com^
 ||cquotient.com^
 ||cr-brands.net^
@@ -13400,6 +13406,7 @@
 ||dic9vgwbkxd8r.cloudfront.net^
 ||nova.dice.net^
 ||dicerchaster.top^
+||dicesstipo.com^
 ||diceunacceptable.com^
 ||dich-vu-dien-mayxanh.com^
 ||dicheeph.com^
@@ -16958,6 +16965,7 @@
 ||fpninv.xyz^
 ||fpnpmcdn.net^
 ||fppcrl.xyz^
+||fppicfedo.com^
 ||statistics.fppressa.ru^
 ||fpqwpqiyq.com^
 ||fprnt.com^
@@ -18892,6 +18900,7 @@
 ||gw2cddpt2hao.cloud^
 ||gwallet.com^
 ||gwbone-cpw.today^
+||gwcadvlamk.com^
 ||gwggiroo.com^
 ||gwmtracking.com^
 ||gwogbic.com^
@@ -21922,6 +21931,7 @@
 ||jfkc5pwa.world^
 ||statistics.jfmedier.dk^
 ||jfnjgiq.com^
+||jfpkihlsfglc.com^
 ||jfrrnf.icu^
 ||jg1668.com^
 ||jgfuxnrloev.com^
@@ -22007,6 +22017,7 @@
 ||jjabxojxx.com^
 ||jjbmukufwu.com^
 ||jjcwq.site^
+||jjcxmyeymj.com^
 ||jjmrmeovo.world^
 ||jjplaqyo.icu^
 ||jjthmis.com^
@@ -24010,6 +24021,7 @@
 ||lobby-x.eu^
 ||lobesforcing.com^
 ||loboclick.com^
+||lobstermonitortower.com^
 ||local-flirt.com^
 ||localedgemedia.com^
 ||stats.locallabs.com^
@@ -30041,6 +30053,7 @@
 ||pmetorealiukze.xyz^
 ||pmi1yarhxx.com^
 ||pmiskc.cn^
+||pmiswxkxztebq.xyz^
 ||pmkez.tech^
 ||pmsrvr.com^
 ||pmweb.com.br^
@@ -30183,6 +30196,7 @@
 ||poodledopas.cam^
 ||pooksys.site^
 ||poolgmsd.com^
+||poolirido.com^
 ||poonproscash.com^
 ||pooptoom.net^
 ||pooraithacuzaum.net^
@@ -31504,6 +31518,7 @@
 ||912648.aioc.qbgxl.com^
 ||qbhzghb.xyz^
 ||qbop.com^
+||qbrzvovrozqer.top^
 ||qbsday.xyz^
 ||cdn.qc24h.com^
 ||qccoccocmedia.vn^
@@ -31653,6 +31668,7 @@
 ||qpigoa.xyz^
 ||qppq166n.de^
 ||qprskl.com^
+||qpwvhsxxzwgft.global^
 ||qpyrqg.xyz^
 ||ad.qq.com^
 ||ad.weixin.qq.com^
@@ -31954,6 +31970,7 @@
 ||quzwteqzaabm.com^
 ||qvikar.com^
 ||qvjqbtbt.com^
+||qvkrfcjwebgvyuw.com^
 ||qvnbjjd.xyz^
 ||qvtcigr.com^
 ||iadctest.qwapi.com^
@@ -32645,6 +32662,7 @@
 ||relaido.jp^
 ||relap.io^
 ||relappro.com^
+||relatedmetamer.shop^
 ||relativeballoons.com^
 ||relativefraudulentprop.com^
 ||relativelyfang.com^
@@ -32905,6 +32923,7 @@
 ||retherdoresper.info^
 ||rethinkshone.com^
 ||reticencecarefully.com^
+||retimedtactor.shop^
 ||retinaesprent.com^
 ||retintsmillion.com^
 ||retinueabash.com^
@@ -34050,6 +34069,7 @@
 ||scentbracehardship.com^
 ||scentservers.com^
 ||scfhspacial.com^
+||scfmfurls.shop^
 ||scfsdvc.com^
 ||scheduleginnarcotic.com^
 ||schedulerationally.com^
@@ -34468,6 +34488,7 @@
 ||sermonoccupied.com^
 ||serpentreplica.com^
 ||sersh.com^
+||sertingglucid.com^
 ||serv-selectmedia.com^
 ||serv01001.xyz^
 ||serv1for.pro^
@@ -34970,6 +34991,7 @@
 ||showdoyoukno.info^
 ||showedinburgh.com^
 ||showedprovisional.com^
+||showierberetta.com^
 ||showjav11.fun^
 ||showmebars.com^
 ||showmeyouradsnow.com^
@@ -36608,6 +36630,7 @@
 ||stirringdebrisirriplaceableirriplaceable.com^
 ||stlpnom.xyz^
 ||stnew.xyz^
+||stoachdarts.com^
 ||stoagouruzostee.net^
 ||stoampaliy.net^
 ||stoaphalti.com^
@@ -37691,6 +37714,7 @@
 ||metrics.ted.com^
 ||mixpanel-proxy.ted.com^
 ||tedhilarlymcken.org^
+||tedhoweverbu.org^
 ||tediousgorgefirst.com^
 ||analytics.tedium.co^
 ||tedo-stats.de^
@@ -38185,6 +38209,7 @@
 ||throwsceases.com^
 ||thrtle.com^
 ||thrustlumpypulse.com^
+||thruwaybasqued.shop^
 ||thrzbf.xyz^
 ||thsantmirza.shop^
 ||thsdbj.com^
@@ -38797,6 +38822,7 @@
 ||tpciqzm.com^
 ||tpcserve.com^
 ||tpdethnol.com^
+||tpfydtjsvepno.xyz^
 ||tpi-app.herokuapp.com^
 ||tpmedia-reactads.com^
 ||tpmedia.online^
@@ -40645,6 +40671,7 @@
 ||vdoing.com^
 ||vdzna.com^
 ||ve6k5.top^
+||vealedincite.com^
 ||vebadu.com^
 ||odds.vebo.xyz^
 ||vebv8me7q.com^
@@ -43784,6 +43811,7 @@
 ||yoozbit.com^
 ||yopard.com^
 ||yoredi.com^
+||yorgagetnizatio.com^
 ||sp.yorkdispatch.com^
 ||yorkvillemarketing.net^
 ||p.yotpo.com^
