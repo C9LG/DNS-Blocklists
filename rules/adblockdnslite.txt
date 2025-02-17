@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250217182357
-! Last modified: 2025/02/17 18:23:57
-! Blocked domains: 2393
+! Version: 20250218022832
+! Last modified: 2025/02/18 02:28:32
+! Blocked domains: 2392
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -39,9 +39,9 @@
 ||111.42.156.130^
 ||1.11130.com.cn^
 ||112.124.71.123^
+||112.33.27.73^
 ||113.219.177.95^
 ||113.31.111.76^
-||113.44.48.28^
 ||113.44.90.0^
 ||113.98.201.248^
 ||114.215.27.238^
@@ -71,6 +71,7 @@
 ||120.24.64.74^
 ||120.25.163.165^
 ||120.46.28.4^
+||121.4.36.95^
 ||121.40.48.175^
 ||121.40.55.28^
 ||121.41.89.22^
@@ -107,7 +108,6 @@
 ||pg-ad-b1.nosdn.127.net^
 ||yt-adp.nosdn.127.net^
 ||139.159.155.204^
-||139.196.237.171^
 ||139.198.15.223^
 ||150.158.37.254^
 ||152.136.140.85^
@@ -126,7 +126,6 @@
 ||165tchuang.com^
 ||trk1.17admob.com^
 ||180.76.138.238^
-||182.127.128.73^
 ||182.92.99.95^
 ||1999019.com^
 ||d1.1ppt.com^
@@ -265,6 +264,8 @@
 ||union.56.com^
 ||v16.56.com^
 ||3.5646.cn^
+||dl.1003b.56a.com^
+||58.216.207.82^
 ||58.87.94.238^
 ||tracklog.58.com^
 ||59.59.6.86^
@@ -412,7 +413,6 @@
 ||m.ailezhai.cn^
 ||atiws.aipai.com^
 ||agn.aty.snmsohu.aisee.tv^
-||admin.aishangzhua.com^
 ||domain.aishengji.com^
 ||log.aispeech.com^
 ||lcd.aivote.com^
@@ -733,7 +733,6 @@
 ||dvser.china.com^
 ||sssvd.china.com^
 ||union.china.com.cn^
-||chinaapper.com^
 ||same.chinadaily.com.cn^
 ||sdkoptedge.chinanetcenter.com^
 ||a2put.chinaz.com^
@@ -782,6 +781,7 @@
 ||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
+||agapi.cqjjb.cn^
 ||crasheye.cn^
 ||crashlyticsreports-pa.googleapis.com^
 ||gg.cs090.com^
@@ -1787,7 +1787,6 @@
 ||adrs.sdo.com^
 ||guang.sdsgwy.com^
 ||sensorsdata.cn^
-||ini.sh-pp.com^
 ||js.shangxueba.com^
 ||jpaasne.e.shifen.com^
 ||shilian168.cn^
