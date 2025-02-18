@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250218104933
-! Last modified: 2025/02/18 10:49:33
-! Blocked domains: 44857
+! Version: 20250218182253
+! Last modified: 2025/02/18 18:22:53
+! Blocked domains: 44863
 ! unBlocked domains: 9
 !
 ||t.0000o.xyz^
@@ -15814,6 +15814,7 @@
 ||lanapengar.expressen.se^
 ||spel.expressen.se^
 ||tracking.expressen.se^
+||tracking.livesport.expressen.se^
 ||tracking.tailsweep.expressen.se^
 ||expressingblossomjudicious.com^
 ||expressjustifierlent.com^
@@ -22969,6 +22970,8 @@
 ||collector.kstptv5.com^
 ||ksyrium0014.com^
 ||api.kingdata.ksyun.com^
+||log.onmas.kt.com^
+||logapi.kt.com^
 ||ktien.vn^
 ||ktikpuruxasq.com^
 ||ktilahosxv.com^
@@ -23334,6 +23337,7 @@
 ||lcebfpvqdbih.com^
 ||heatmaps.lcisoft.it^
 ||lcloperoxeo.xyz^
+||lclqbh.icu^
 ||lcolumnstoodth.info^
 ||lcuabcwas.com^
 ||lcvwdn.icu^
@@ -23596,6 +23600,7 @@
 ||lg777.club^
 ||lgepbups.xyz^
 ||lgforbes.akamaized.net^
+||clog.lghv.net^
 ||lgjtvyurnivf.com^
 ||lgkocdi.icu^
 ||lgs3ctypw.com^
@@ -31919,6 +31924,7 @@
 ||qnajplxtvz-a.akamaihd.net^
 ||a.qncye.net^
 ||qnesnufjs.com^
+||qnhi.cn^
 ||qnhuxyqjv.com^
 ||qnmesegceogg.com^
 ||qnowyhbtjqvyn.com^
