@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250220182303
-! Last modified: 2025/02/20 18:23:03
-! Blocked domains: 2394
+! Version: 20250221022938
+! Last modified: 2025/02/21 02:29:38
+! Blocked domains: 2389
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -23,7 +23,6 @@
 ||101.201.247.232^
 ||101.35.228.105^
 ||101.37.34.164^
-||101.43.16.149^
 ||101.43.166.60^
 ||101.43.2.116^
 ||101.43.46.181^
@@ -36,16 +35,17 @@
 ||106.52.37.207^
 ||adm.10jqka.com.cn^
 ||soft.110route.com^
-||111.230.25.167^
 ||111.42.156.130^
 ||1.11130.com.cn^
 ||112.124.71.123^
+||112.33.27.73^
 ||113.219.177.95^
 ||113.31.111.76^
 ||113.44.90.0^
 ||113.98.201.248^
 ||114.215.27.238^
 ||114.242.26.64^
+||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
 ||115.55.192.101^
@@ -120,8 +120,6 @@
 ||165tchuang.com^
 ||trk1.17admob.com^
 ||180.76.138.238^
-||182.113.2.137^
-||182.116.20.112^
 ||182.127.108.183^
 ||182.92.99.95^
 ||1999019.com^
@@ -213,7 +211,6 @@
 ||47.106.217.147^
 ||47.107.29.90^
 ||47.109.137.82^
-||47.109.178.54^
 ||47.109.201.173^
 ||47.109.77.84^
 ||47.109.90.134^
@@ -337,7 +334,6 @@
 ||9kh5b.cn^
 ||a32a.com.cn^
 ||abjalrq.cn^
-||disk.accord1key.cn^
 ||jscode.acg68.com^
 ||acgshenshicha.cn^
 ||imp.ad-plus.cn^
@@ -779,7 +775,6 @@
 ||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
-||agapi.cqjjb.cn^
 ||crasheye.cn^
 ||crashlyticsreports-pa.googleapis.com^
 ||gg.cs090.com^
@@ -1060,6 +1055,7 @@
 ||hffxc.com^
 ||hfisngksng.com^
 ||wap.hfoyjg.cn^
+||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||api-gd.hiaiabc.com^
 ||log-verify.hiaiabc.com^
@@ -1162,7 +1158,6 @@
 ||mlb.did.ijinshan.com^
 ||sdk.mobad.ijinshan.com^
 ||imasdk.googleapis.com^
-||windriversfiles.imeitools.com^
 ||ssp.indexmob.com^
 ||inmobi.cn^
 ||inmobicdn.net^
@@ -1411,6 +1406,7 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
+||360down7.miiyun.cn^
 ||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
@@ -1786,7 +1782,6 @@
 ||adrs.sdo.com^
 ||guang.sdsgwy.com^
 ||sensorsdata.cn^
-||ini.sh-pp.com^
 ||js.shangxueba.com^
 ||jpaasne.e.shifen.com^
 ||shilian168.cn^
