@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250221105148
-! Last modified: 2025/02/21 10:51:48
-! Blocked domains: 44869
+! Version: 20250221182239
+! Last modified: 2025/02/21 18:22:39
+! Blocked domains: 44909
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1249,6 +1249,7 @@
 ||2a4snhmtm.de^
 ||2a6d9e5059.com^
 ||2aefgbf.de^
+||2bc533c900.com^
 ||2ben92aml.com^
 ||2beon.co.kr^
 ||adsby.2bet.co.jp^
@@ -1331,6 +1332,7 @@
 ||2trafficcmpny.com^
 ||2ts55ek00.de^
 ||2ucz3ymr1.com^
+||2ueb.cn^
 ||2vaxwkujrfwh.info^
 ||2xclick.ru^
 ||2xs4eumlc.com^
@@ -2538,6 +2540,7 @@
 ||abixkw.xyz^
 ||abjalrq.cn^
 ||abjectionpatheticcoloured.com^
+||abkajbvlymqmb.top^
 ||abkmbrf.com^
 ||abkoxlikbzs.com^
 ||ablativekeynotemuseum.com^
@@ -4930,6 +4933,7 @@
 ||amesgraduatel.xyz^
 ||amexcadrillon.com^
 ||amfennekinom.com^
+||amgladthereisosome.org^
 ||amhen.com^
 ||amhpbhyxfgvd.com^
 ||amiabledelinquent.com^
@@ -6371,6 +6375,7 @@
 ||sdtagging.azureedge.net^
 ||sd-tagging.azurefd.net^
 ||ss.azuremagazine.com^
+||azurestealth.com^
 ||azurousdollar.shop^
 ||azygotesonless.com^
 ||azyuuk.xyz^
@@ -7279,6 +7284,7 @@
 ||betwinner1.com^
 ||betwinnerpromo.com^
 ||betzapdoson.com^
+||beujuezuzajot.world^
 ||beunblkd.xyz^
 ||beusable.net^
 ||beveledetna.com^
@@ -7306,6 +7312,7 @@
 ||bfnsnehjbkewk.com^
 ||bfoleyinteractive.com^
 ||web-vitals.bfops.io^
+||bfvadionchrecq.com^
 ||bfxytxdpnk.com^
 ||bg4nxu2u5t.com^
 ||bgecvddelzg.com^
@@ -8689,6 +8696,7 @@
 ||caizaipt.net^
 ||cajangeurymus.com^
 ||cajbdciiefegiifciabc.world^
+||cajwgkgbuccs.xyz^
 ||cakangautchus.net^
 ||collector.cakeresume.com^
 ||cakgsijbt.xyz^
@@ -9020,6 +9028,7 @@
 ||doppler-reporting.cbsivideo.com^
 ||mms.cbslocal.com^
 ||tealium.cbsnews.com^
+||cbvgbmgqhybzo.com^
 ||dichvucong.ccbcavn.cc^
 ||ccccc66kkkkk.com^
 ||ccccc67kkkkk.com^
@@ -9675,6 +9684,7 @@
 ||civilizationperspirationhoroscope.com^
 ||civilizationthose.com^
 ||ciwhacheho.pro^
+||cixgkfngaus.com^
 ||cixompoqpbgh.com^
 ||cizion.com^
 ||affiliatepluginintegration.cj.com^
@@ -11840,6 +11850,7 @@
 ||d2bkkt3kqfmyo0.cloudfront.net^
 ||d2bs5vtcw2lxsv.cloudfront.net^
 ||d2bvfdz3bljcfk.cloudfront.net^
+||d2bxqnokimz7h9.cloudfront.net^
 ||d2bxxk33t58v29.cloudfront.net^
 ||d2byenqwec055q.cloudfront.net^
 ||d2byrpuyl3x3q4.cloudfront.net^
@@ -12807,6 +12818,7 @@
 ||ddqmlfu.icu^
 ||ddrsemxv.com^
 ||ddrvjrfwnij7n.cloudfront.net^
+||ddtladjyq.com^
 ||ddtvskish.com^
 ||ddvbjehruuj5y.cloudfront.net^
 ||ddvfoj5yrl2oi.cloudfront.net^
@@ -13277,6 +13289,7 @@
 ||tracking.etidning.di.se^
 ||tracking.nyhetstjansterna.di.se^
 ||di028lywwye7s.cloudfront.net^
+||di2xlfgjbl0v7.cloudfront.net^
 ||di7stero.com^
 ||diabeteprecursor.com^
 ||diagramjawlineunhappy.com^
@@ -14328,6 +14341,7 @@
 ||track2.dulingo.com^
 ||dulladaptationcontemplate.com^
 ||dulojet.com^
+||dulosismispage.top^
 ||dumay.site^
 ||dumbpop.com^
 ||dumedia.ru^
@@ -14761,6 +14775,7 @@
 ||edoumeph.com^
 ||edoxoonsackefte.net^
 ||edpl9v.pro^
+||edprivatedqualize.org^
 ||edralintheirbrights.com^
 ||edrevenuedur.xyz^
 ||edrone.me^
@@ -15126,6 +15141,7 @@
 ||encyclopediacriminalleads.com^
 ||endangersquarereducing.com^
 ||endationforea.com^
+||endballbemires.com^
 ||endinglocksassume.com^
 ||endingmedication.com^
 ||endlessloveonline.online^
@@ -16644,6 +16660,7 @@
 ||fncash.com^
 ||fndrsp.net^
 ||fnelqqh.com^
+||fngmeat.top^
 ||fnlojkpbe.com^
 ||utiq.fnp.de^
 ||fnyaynma.com^
@@ -17104,6 +17121,7 @@
 ||fudukrujoa.com^
 ||fuegodevida.com^
 ||fuelbuck.com^
+||fuelclair.top^
 ||fueldeck.com^
 ||z929.fuelfix.com^
 ||fuelpearls.com^
@@ -19029,6 +19047,7 @@
 ||haresmodus.com^
 ||hariheadacheasperity.com^
 ||hariken.co^
+||harlockluridly.top^
 ||harmless-sample.pro^
 ||harmvaluesrestriction.com^
 ||harnessabreastpilotage.com^
@@ -20727,6 +20746,7 @@
 ||inboldoreer.com^
 ||tracking.inboxads.com^
 ||inboxtag.com^
+||inbreedbeelbow.shop^
 ||inbrowserplay.com^
 ||f793.inc.com^
 ||incapableenormously.com^
@@ -22150,6 +22170,7 @@
 ||jstracker.com^
 ||jsxwfb.xyz^
 ||jtckxssibwijpn.com^
+||jtefxxesopqqw.com^
 ||jtegqwmjfxu.site^
 ||jthotb.icu^
 ||jtkjixnmj.org^
@@ -22850,6 +22871,7 @@
 ||kops1.site^
 ||kopsil.com^
 ||koqjok.xyz^
+||koraitqantar.shop^
 ||korarea.com^
 ||ad5.koreadaily.com^
 ||koreanzad.xyz^
@@ -22931,6 +22953,7 @@
 ||api.kingdata.ksyun.com^
 ||log.onmas.kt.com^
 ||logapi.kt.com^
+||kteopzgukl.com^
 ||ktien.vn^
 ||ktikpuruxasq.com^
 ||ktilahosxv.com^
@@ -23512,6 +23535,7 @@
 ||lessite.pro^
 ||lessonworkman.com^
 ||letaikay.net^
+||lethescrusca.shop^
 ||letimsnami.ru^
 ||letinclusionbone.com^
 ||letitnews.com^
@@ -23548,6 +23572,7 @@
 ||lexozfldkklgvc.com^
 ||lf8q.online^
 ||lfb.ink^
+||lfbfkkkqiza.com^
 ||lfeaqcozlbki.com^
 ||sc.lfeeder.com^
 ||tr.lfeeder.com^
@@ -27795,6 +27820,7 @@
 ||nxcount.com^
 ||nxdefd.icu^
 ||nxexydg.com^
+||nxfpjutby.com^
 ||nxgzeejhs.com^
 ||nxhfkfyy.xyz^
 ||nxikijn.com^
@@ -28693,6 +28719,7 @@
 ||ad.orange-park.jp^
 ||orangeclickmedia.com^
 ||oranges88.com^
+||orantesjonnock.shop^
 ||oraporn.com^
 ||oratefinauknceiwo.com^
 ||oratorpounds.com^
@@ -28790,6 +28817,7 @@
 ||ossfloetteor.com^
 ||ossgogoaton.com^
 ||osshydreigonan.com^
+||ossjkgvrpgax.com^
 ||ossmightyenar.net^
 ||ossnidorinoom.com^
 ||osspalkiaom.com^
@@ -29372,6 +29400,7 @@
 ||partypoker.com^
 ||partyroll.xyz^
 ||parumal.com^
+||parvuliremue.top^
 ||parwiderunder.com^
 ||pas-rahav.com^
 ||h562.pasadenastarnews.com^
@@ -30295,6 +30324,7 @@
 ||plumbsplash.com^
 ||plumousfouldre.shop^
 ||plumpdianafraud.com^
+||plumperblocage.top^
 ||plumpgrabbedseventy.com^
 ||plumsbusiness.com^
 ||plumsscientific.com^
@@ -33332,6 +33362,7 @@
 ||rhinocerosobtrusive.com^
 ||rhinoseo.com^
 ||rhizopiseparte.shop^
+||rhlenmdrw.com^
 ||rhombicsomeday.com^
 ||rhombusads.com^
 ||rhouseoyopers.info^
@@ -33410,6 +33441,7 @@
 ||rikip.com^
 ||rileimply.com^
 ||rilelogicbuy.com^
+||rillocksever.com^
 ||rilseessinipto.xyz^
 ||riluaneth.com^
 ||rimefatling.com^
@@ -34378,6 +34410,7 @@
 ||scientificmission.pro^
 ||plausible.scimago.es^
 ||event.scimo.io^
+||scinvdb.top^
 ||scisselfungus.com^
 ||scissordisciplinaryrace.com^
 ||scissorsstitchdegrade.com^
@@ -40390,6 +40423,7 @@
 ||unrulymorning.pro^
 ||unrulytroll.com^
 ||unsaltyalemmal.com^
+||unsavedbaruch.top^
 ||unseaminoax.click^
 ||unseamssafes.com^
 ||unseenrazorcaptain.com^
@@ -40816,6 +40850,7 @@
 ||vanderlisten.pro^
 ||vanflooding.com^
 ||vang999.com^
+||vangsligulae.shop^
 ||vangtv.com^
 ||vaniacozzolino.com^
 ||vanillacoolestresumed.com^
@@ -41914,6 +41949,7 @@
 ||wa4y.com^
 ||waardex.com^
 ||waazgwojnfqx.life^
+||wacapousoth.top^
 ||wacisi.xyz^
 ||wadauthy.net^
 ||waescyne.com^
@@ -43147,6 +43183,7 @@
 ||wrathful-alternative.com^
 ||wrathyblesmol.com^
 ||wrating.com^
+||wrayagalma.top^
 ||analytics.wrc.nic.in^
 ||wreaksyolkier.com^
 ||wreathabble.com^
@@ -43611,6 +43648,7 @@
 ||adma.xsrv.jp^
 ||xstalkx.ru^
 ||xstreamsoftwar3x.com^
+||xsyqbdylnfpo.world^
 ||xszjh.tech^
 ||xszpuvwr7.com^
 ||xtalfuwcxh.com^
@@ -43626,6 +43664,7 @@
 ||xtremeserve.xyz^
 ||xtremeviewing.com^
 ||xtremline.com^
+||xtrgqmnflnfnj.buzz^
 ||xtrkhv.xyz^
 ||xtroglobal.com^
 ||xtube.chat^
@@ -43849,6 +43888,7 @@
 ||yarranpyrope.shop^
 ||yasesumedadele.com^
 ||yashi.com^
+||yaszcbffjnfak.today^
 ||yatr.ru^
 ||yaudience.com^
 ||yauperstote.top^
