@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250222022903
-! Last modified: 2025/02/22 02:29:03
-! Blocked domains: 2382
+! Version: 20250222104800
+! Last modified: 2025/02/22 10:48:00
+! Blocked domains: 2386
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -15,7 +15,6 @@
 ||pic.0597kk.com^
 ||gg.0598yu.com^
 ||0941.org^
-||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
@@ -23,6 +22,7 @@
 ||101.201.247.232^
 ||101.35.228.105^
 ||101.37.34.164^
+||101.43.16.149^
 ||101.43.166.60^
 ||101.43.2.116^
 ||101.43.46.181^
@@ -47,6 +47,8 @@
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
+||115.55.219.137^
+||116.171.106.3^
 ||116.196.95.100^
 ||116.198.229.197^
 ||116.205.98.214^
@@ -59,7 +61,6 @@
 ||117.72.70.169^
 ||118.178.133.241^
 ||118.26.174.163^
-||119.167.70.110^
 ||119.23.208.137^
 ||119.45.127.116^
 ||120.24.64.74^
@@ -119,6 +120,8 @@
 ||165tchuang.com^
 ||trk1.17admob.com^
 ||180.76.138.238^
+||182.113.9.168^
+||182.116.22.237^
 ||182.92.99.95^
 ||1999019.com^
 ||ssp.1nmob.com^
@@ -170,6 +173,7 @@
 ||hye.comp.360os.com^
 ||hyt.comp.360os.com^
 ||p1.360soucha.com^
+||softdl.360tpcdn.com^
 ||365dmp.com^
 ||gw.365you.com^
 ||adx.36kr.com^
@@ -245,6 +249,7 @@
 ||adm.52swine.com^
 ||a.52zxw.com^
 ||54kefu.net^
+||win.down.55kantu.com^
 ||acs.56.com^
 ||acs.agent.56.com^
 ||bill.agent.56.com^
@@ -252,7 +257,6 @@
 ||union.56.com^
 ||v16.56.com^
 ||3.5646.cn^
-||dl.1003b.56a.com^
 ||58.216.207.82^
 ||58.87.94.238^
 ||tracklog.58.com^
@@ -351,7 +355,6 @@
 ||ads-go.adroi.com.cn^
 ||www.adsage.cn^
 ||download.adsage.com^
-||mws.adsage.com^
 ||adsame.com^
 ||adsmogo.com^
 ||adreport.adtianmai.com^
@@ -641,6 +644,8 @@
 ||j.baminw.cn^
 ||n.baminw.com.cn^
 ||xs.houyi.baofeng.net^
+||a.baomihua.com^
+||djs.baomihua.com^
 ||resource.baomihua.com^
 ||ad.bayescom.com^
 ||raddus.bayescom.com^
@@ -656,7 +661,6 @@
 ||sofire.bdstatic.com^
 ||zz.bdstatic.com^
 ||dig.bdurl.net^
-||beiletoys.com^
 ||beizi.biz^
 ||bfhueh.top^
 ||a.bfking.cn^
@@ -670,15 +674,15 @@
 ||img11.biyan8.com^
 ||galaxy.bjcathay.com^
 ||file.blackint3.com^
+||blue-rain.com.cn^
 ||gg.blueidea.com^
 ||click.bokecc.com^
 ||vstat.borderlessbd.com^
 ||static.bshare.cn^
-||xww.bucea.edu.cn^
 ||bvubasnf.com^
 ||ad.bwton.com^
 ||dlogs.bwton.com^
-||bydcxdy.cn^
+||monitor-frontend-collector.a.bybit-aws.com^
 ||byscy.cn^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
@@ -688,6 +692,7 @@
 ||p3-tt.byteimg.com^
 ||s.c-ctrip.com^
 ||b1.c1km4.com^
+||download.caihong.com^
 ||gg.caixin.com^
 ||ad.caiyunapp.com^
 ||baidu1.cardbaobao.com^
@@ -770,6 +775,7 @@
 ||ap.cpatrk.net^
 ||me.cpatrk.net^
 ||tdsdk.cpatrk.net^
+||agapi.cqjjb.cn^
 ||crasheye.cn^
 ||crashlyticsreports-pa.googleapis.com^
 ||gg.cs090.com^
@@ -793,7 +799,6 @@
 ||ggjs.d17.cc^
 ||js1.dadiniu.cn^
 ||pv.dakawm.cc^
-||daliantong.com.cn^
 ||datacaciques.com^
 ||datamaster.com.cn^
 ||jc1.dayfund.com.cn^
@@ -1022,7 +1027,6 @@
 ||abcdcfasda.gushiwen.cn^
 ||enennsa.gushiwen.cn^
 ||ggw.gusuwang.com^
-||m.gutousoft.com^
 ||a.guzhilin.com^
 ||gw2cddpt2hao.asia^
 ||share.gzdsw.com^
@@ -1150,6 +1154,7 @@
 ||mlb.did.ijinshan.com^
 ||sdk.mobad.ijinshan.com^
 ||imasdk.googleapis.com^
+||windriversfiles.imeitools.com^
 ||ssp.indexmob.com^
 ||inmobi.cn^
 ||inmobicdn.net^
@@ -1253,7 +1258,6 @@
 ||fpb1.jsq886.com^
 ||jiaoben.jucanw.com^
 ||y1.junshitt.com^
-||dld.jxwan.com^
 ||jyuskb.cn^
 ||k2n0f.cn^
 ||ds1.kaijia.com^
