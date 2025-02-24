@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250224182356
-! Last modified: 2025/02/24 18:23:56
-! Blocked domains: 2400
+! Version: 20250225023027
+! Last modified: 2025/02/25 02:30:27
+! Blocked domains: 2393
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -36,12 +36,11 @@
 ||106.15.239.51^
 ||adm.10jqka.com.cn^
 ||110.41.147.219^
-||soft.110route.com^
 ||111.42.156.130^
 ||1.11130.com.cn^
 ||112.124.71.123^
-||112.33.27.73^
 ||113.219.177.95^
+||113.31.111.76^
 ||113.44.90.0^
 ||113.98.201.248^
 ||114.215.27.238^
@@ -75,7 +74,6 @@
 ||122.51.52.109^
 ||js1.122cha.com^
 ||123.132.224.187^
-||123.253.12.111^
 ||123.56.191.147^
 ||123.57.250.154^
 ||ad.12306.cn^
@@ -181,7 +179,6 @@
 ||39.100.33.142^
 ||39.102.210.162^
 ||39.103.150.56^
-||39.103.217.92^
 ||39.104.73.194^
 ||39.105.211.255^
 ||39.105.31.193^
@@ -202,7 +199,6 @@
 ||42.192.195.221^
 ||42.230.32.137^
 ||42.240.133.45^
-||43.139.139.40^
 ||43.143.123.40^
 ||43.226.39.44^
 ||43.241.17.143^
@@ -493,6 +489,7 @@
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
+||zffsg.oss-ap-northeast-2.aliyuncs.com^
 ||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||zlonline.oss-cn-shenzhen.aliyuncs.com^
 ||allyes.com^
@@ -934,7 +931,6 @@
 ||fotao9.com^
 ||frontier100-toutiao-lf.fqnovel.com^
 ||fsijngnfsfk.com^
-||down.ftp21.cc^
 ||fugetech.com^
 ||adm.funshion.com^
 ||conf.funshion.com^
@@ -1580,8 +1576,6 @@
 ||pxhuiben.com^
 ||cdn.pyadx.com^
 ||q8q.icu^
-||139520.aioc.qbgxl.com^
-||912648.aioc.qbgxl.com^
 ||www.qchannel01.cn^
 ||www.qchannel04.cn^
 ||log.qvb.qcloud.com^
@@ -2180,6 +2174,7 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||khrtac.xiangha.com^
+||xiangshunjy.com^
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||b1.xiao84.com^
@@ -2305,7 +2300,6 @@
 ||wenxue.youzhicn.com^
 ||z.sora.yoyi.com.cn^
 ||analysis.yozocloud.cn^
-||ysbaojia.com^
 ||yssryr.cn^
 ||iuou.ysw365.com^
 ||frog.yuanfudao.com^
@@ -2394,7 +2388,6 @@
 ||cpro.zol.com.cn^
 ||down10d.zol.com.cn^
 ||pvnwap.zol.com.cn^
-||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
