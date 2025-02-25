@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250225023027
-! Last modified: 2025/02/25 02:30:27
-! Blocked domains: 2393
+! Version: 20250225105455
+! Last modified: 2025/02/25 10:54:55
+! Blocked domains: 2380
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -16,13 +16,13 @@
 ||gg.0598yu.com^
 ||0941.org^
 ||1.118.34.220^
+||1.13.158.52^
 ||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
 ||101.201.227.94^
 ||101.201.247.232^
-||101.34.66.77^
 ||101.35.228.105^
 ||101.37.34.164^
 ||101.43.16.149^
@@ -50,7 +50,6 @@
 ||116.171.106.3^
 ||116.196.95.100^
 ||116.198.229.197^
-||116.205.98.214^
 ||117.157.17.194^
 ||117.50.178.197^
 ||117.50.190.56^
@@ -78,6 +77,7 @@
 ||123.57.250.154^
 ||ad.12306.cn^
 ||bdad.123pan.cn^
+||124.220.235.28^
 ||124.222.48.227^
 ||124.222.82.19^
 ||124.223.200.131^
@@ -146,7 +146,6 @@
 ||s0.2mdn.net^
 ||s1.2mdn.net^
 ||atom-log.3.cn^
-||static.3001.net^
 ||analytics.300624.com^
 ||301848.com^
 ||d1.3158.cn^
@@ -172,7 +171,6 @@
 ||hye.comp.360os.com^
 ||hyt.comp.360os.com^
 ||p1.360soucha.com^
-||softdl.360tpcdn.com^
 ||365dmp.com^
 ||gw.365you.com^
 ||adx.36kr.com^
@@ -249,7 +247,6 @@
 ||adm.52swine.com^
 ||a.52zxw.com^
 ||54kefu.net^
-||win.down.55kantu.com^
 ||acs.56.com^
 ||acs.agent.56.com^
 ||bill.agent.56.com^
@@ -644,8 +641,8 @@
 ||j.baminw.cn^
 ||n.baminw.com.cn^
 ||xs.houyi.baofeng.net^
+||a.baomihua.com^
 ||djs.baomihua.com^
-||resource.baomihua.com^
 ||ad.bayescom.com^
 ||raddus.bayescom.com^
 ||du1.bbdj.com^
@@ -683,7 +680,6 @@
 ||bvubasnf.com^
 ||ad.bwton.com^
 ||dlogs.bwton.com^
-||monitor-frontend-collector.a.bybit-aws.com^
 ||byscy.cn^
 ||dm.bytedance.com^
 ||mssdk.bytedance.com^
@@ -826,7 +822,6 @@
 ||shzzzz.dftoutiao.com^
 ||d.dgzj.com^
 ||bea-s.dinghuoche.com^
-||stdown.dinju.com^
 ||code.ditiezu.net^
 ||img16.diyifanwen.com^
 ||dd1.diymianmo.com^
@@ -960,7 +955,6 @@
 ||talk.nz4.gepush.com^
 ||getui.cn^
 ||getui.com^
-||getui.net^
 ||biz.gexing.com^
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
@@ -1193,6 +1187,7 @@
 ||store.iqiyi.com^
 ||t7z.cupid.iqiyi.com^
 ||tracker.sns.iqiyi.com^
+||irs01.com^
 ||s.irs03.com^
 ||s06aa680.irs03.com^
 ||s1.irs03.com^
@@ -1241,7 +1236,6 @@
 ||uranus.jd.com^
 ||wn.x.jd.com^
 ||xlog.jd.com^
-||app-store.s3.cn-north-1.jdcloud-oss.com^
 ||jddaw.com^
 ||api.jialiangad.com^
 ||8961.jianbihua.com^
@@ -1284,8 +1278,6 @@
 ||kolsh.cn^
 ||adsmart.konka.com^
 ||g.koowo.com^
-||d.kpzip.com^
-||mininews.kpzip.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||log-sdk.ksapisrv.com^
 ||web-trace.ksapisrv.com^
@@ -1363,7 +1355,6 @@
 ||lockview.cn^
 ||game.loveota.com^
 ||veim.lrswl.com^
-||ny.lshdw.cc^
 ||a1.lshou.com^
 ||m.m216j.cn^
 ||xc.macd.cn^
@@ -1408,7 +1399,6 @@
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
 ||360down7.miiyun.cn^
-||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1766,7 +1756,6 @@
 ||richh.cn^
 ||ad.richmob.cn^
 ||static.rongkao.com^
-||down.ruanmei.com^
 ||ds.ruanwengfa.com^
 ||rumt-zh.com^
 ||abc.ruodian360.com^
@@ -2148,6 +2137,7 @@
 ||www.wjxcdn.com^
 ||h1.wk2.com^
 ||lm1.wkpcw.cn^
+||bdjiaoben.wmxa.cn^
 ||analytics.wondershare.cc^
 ||event.wondershare.com^
 ||analytics.woozooo.com^
@@ -2174,7 +2164,6 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||khrtac.xiangha.com^
-||xiangshunjy.com^
 ||xianshangzixun.com^
 ||xianshangzixun.net^
 ||b1.xiao84.com^
@@ -2185,7 +2174,6 @@
 ||spider-tracker.xiaohongshu.com^
 ||adtrack.xiaojukeji.com^
 ||a0.app.xiaomi.com^
-||abtest.mistat.xiaomi.com^
 ||api.installer.xiaomi.com^
 ||api.miui.security.xiaomi.com^
 ||data.mistat.xiaomi.com^
@@ -2322,7 +2310,6 @@
 ||gt.yy.com^
 ||yylady.cn^
 ||adapi.yynetwk.com^
-||yzkzixun.com^
 ||yktj.yzz.cn^
 ||zampda.net^
 ||zantainet.com^
