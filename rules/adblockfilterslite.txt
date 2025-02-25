@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilterslite.txt
-! Version: 20250225182340
-! Last modified: 2025/02/25 18:23:40
-! Blocked Filters: 403
+! Version: 20250226023026
+! Last modified: 2025/02/26 02:30:26
+! Blocked Filters: 405
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -257,6 +257,7 @@
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
 ||mcs-va-*.tiktokv.com^
+||mcs.*.tiktokv.com^
 ||mediacontext.
 ||medialand.
 ||mediate-ios-*.hyprmx.com^
@@ -267,9 +268,9 @@
 ||mob*.novanewsapp.com^
 ||mobiadvert*.livesportmedia.eu^
 ||mobileanalytics.*.amazonaws.com^
+||mon*-*.tiktokv.com^
 ||mon*-*.tiktokv.us^
 ||mon*-misc-lf.fqnovel.com^
-||mon*-platform-*.tiktokv.com^
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.tiktokv.com^
@@ -400,6 +401,7 @@
 ||videoclick.
 ||videoclik.
 ||vns86.oss-*.aliyuncs.com^
+||vst.videolink.
 ||w*statistics.info^
 ||wa.gmx.
 ||web-visor.
