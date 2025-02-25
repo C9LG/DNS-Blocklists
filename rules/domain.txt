@@ -14450,7 +14450,10 @@ ckywou.com
 cl-997764a8.gcdn.co
 cl-ad.x-flow.app
 cl-eu2.k5a.io
+cl-eu3.k5a.io
 cl-eu4.k5a.io
+cl-eu5.k5a.io
+cl-eu6.k5a.io
 cl.canva.com
 cl.k5a.io
 cl.qualaroo.com
@@ -14740,6 +14743,7 @@ clientlog.midomi.com
 clientlog.portal.office.com
 clientlog3.music.163.com
 clientlogdep.music.163.com
+clientlogger.marketplace.aws.a2z.com
 clientlogsf.music.163.com
 clientmetrics-augmentum.kik.com
 clientmetrics.kik.com
@@ -32791,6 +32795,7 @@ lvhcqaku.com
 lvietcombank.com
 lvkwz.com
 lvlhmjerf.buzz
+lvnr.cn
 lvnzrh.xyz
 lvodomo.info
 lvojjayaaoqym.top
@@ -37643,6 +37648,7 @@ oktranhfyfa.com
 okueroskynt.com
 okunyox.com
 okwan.cn
+okwjmii.top
 olayomad.com
 old-go.pro
 oldcname.ieasyclick.net
@@ -37851,6 +37857,7 @@ onifdlak.top
 onigagalai.ru
 onionetmabela.top
 onirybank.com
+onjncgq.top
 onkafxtiqcu.com
 onkavst.com
 onkodjwuq.com
@@ -59504,6 +59511,7 @@ zmysashrep.com
 znavidsde.cfd
 zncbitr.com
 znhlxvb.xyz
+znlvhnej.icu
 znnfzx.xyz
 znrq.zifwxq.cn
 znvlfef.com

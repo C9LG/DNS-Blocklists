@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250225105455
-! Last modified: 2025/02/25 10:54:55
-! Blocked domains: 44912
+! Version: 20250225182340
+! Last modified: 2025/02/25 18:23:40
+! Blocked domains: 44920
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -2507,6 +2507,7 @@
 ||a2nn5eri7ce.com^
 ||a2tw6yoodsag.com^
 ||a2wx.icu^
+||clientlogger.marketplace.aws.a2z.com^
 ||prod.cm.publishers.advertising.a2z.com^
 ||prod.tahoe-analytics.publishers.advertising.a2z.com^
 ||a32a.com.cn^
@@ -22318,7 +22319,10 @@
 ||k55p9ka2.de^
 ||cl.k5a.io^
 ||cl-eu2.k5a.io^
+||cl-eu3.k5a.io^
 ||cl-eu4.k5a.io^
+||cl-eu5.k5a.io^
+||cl-eu6.k5a.io^
 ||k5uj.icu^
 ||k5zoom.com^
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
@@ -24401,6 +24405,7 @@
 ||lvhcqaku.com^
 ||lvkwz.com^
 ||lvlhmjerf.buzz^
+||lvnr.cn^
 ||lvnzrh.xyz^
 ||lvodomo.info^
 ||lvojjayaaoqym.top^
@@ -28294,6 +28299,7 @@
 ||oktopost.com^
 ||oktranhfyfa.com^
 ||okunyox.com^
+||okwjmii.top^
 ||tracking.olandsbladet.se^
 ||log.olark.com^
 ||stats.olark.com^
@@ -28491,6 +28497,7 @@
 ||ongsono.com^
 ||onhercam.com^
 ||qlqd5zqefmkcr34a.onion.sh^
+||onjncgq.top^
 ||onkafxtiqcu.com^
 ||aem-kakao-collector.onkakao.net^
 ||onkavst.com^
@@ -44735,6 +44742,7 @@
 ||zncbitr.com^
 ||log.znews.vn^
 ||znhlxvb.xyz^
+||znlvhnej.icu^
 ||znnfzx.xyz^
 ||znvlfef.com^
 ||zoachoar.net^
