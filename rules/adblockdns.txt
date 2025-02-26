@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250226105355
-! Last modified: 2025/02/26 10:53:55
-! Blocked domains: 44891
+! Version: 20250226182341
+! Last modified: 2025/02/26 18:23:41
+! Blocked domains: 44894
 ! unBlocked domains: 9
 !
 ||t.0000o.xyz^
@@ -14508,6 +14508,7 @@
 ||dyv1bugovvq1g.cloudfront.net^
 ||dywuhp-unbnf.love^
 ||dyywcxfftue.com^
+||dyyygyg.top^
 ||dyzgdp.xyz^
 ||dz4ad.com^
 ||dz6uw9vrm7nx6.cloudfront.net^
@@ -27898,6 +27899,7 @@
 ||o-oo.ooo^
 ||finead.o00.kr^
 ||z.o00.kr^
+||o02260aokk.com^
 ||o18.click^
 ||o18.link^
 ||servedby.o2.co.uk^
@@ -36064,6 +36066,7 @@
 ||socksupgradeproposed.com^
 ||sockwardrobe.com^
 ||plugins.soclminer.com.br^
+||o.socoms.net^
 ||socy.es^
 ||sodallay.com^
 ||sodamash.com^
