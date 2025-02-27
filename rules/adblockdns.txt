@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250227105458
-! Last modified: 2025/02/27 10:54:58
-! Blocked domains: 44971
+! Version: 20250227182339
+! Last modified: 2025/02/27 18:23:39
+! Blocked domains: 44996
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -6412,6 +6412,7 @@
 ||azartcash.com^
 ||azartplay.com^
 ||azawv.rocks^
+||azazyjjovmker.top^
 ||azbjjbwkeokvj.top^
 ||azbns.com^
 ||sp.azcentral.com^
@@ -6451,6 +6452,7 @@
 ||azyuuk.xyz^
 ||b-5-shield.com^
 ||0a0d-d3l1vr.b-cdn.net^
+||578297a5.b-cdn.net^
 ||91116e9f.b-cdn.net^
 ||ad-serve.b-cdn.net^
 ||adblockers.b-cdn.net^
@@ -6512,6 +6514,7 @@
 ||cdn-t.b5c1d2e8c9982e3b965a27ac72ru7284cc.com^
 ||b70456bf.xyz^
 ||b73uszzq3g9h.com^
+||b7dff0913b.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b8pfulzbyj7h.com^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
@@ -7829,6 +7832,7 @@
 ||blzwvb.xyz^
 ||blzz.xyz^
 ||bm23.com^
+||bmasamd.top^
 ||bmcdn1.com^
 ||bmcdn2.com^
 ||bmcdn3.com^
@@ -8510,6 +8514,7 @@
 ||burningpushing.info^
 ||burntarcherydecompose.com^
 ||burntclear.com^
+||burnybdl.com^
 ||adn.bursadabugun.com^
 ||burstbeacon.com^
 ||burstnet.com^
@@ -9237,6 +9242,7 @@
 ||ceilingbruiseslegend.com^
 ||cekgsyc.com^
 ||ceklcxte.com^
+||celai.site^
 ||celeb-ads.com^
 ||celebnewsuggestions.com^
 ||celebratedrighty.com^
@@ -13829,6 +13835,7 @@
 ||widget-view.dmm.com^
 ||dmmzkfd82wayn.cloudfront.net^
 ||dmnqfn.xyz^
+||dmntft.com^
 ||dmp-ai.ru^
 ||dmp-one.ru^
 ||dmp.one^
@@ -14503,7 +14510,9 @@
 ||dwellsew.com^
 ||dwene4pgj0r33.cloudfront.net^
 ||dwf6crl4raal7.cloudfront.net^
+||dwfbs38k9z6bu.cloudfront.net^
 ||dwfupceuqm.com^
+||dwhfqyafsct.com^
 ||dwnm2295blvjq.cloudfront.net^
 ||dwqjaehnk.com^
 ||dwr3zytn850g.cloudfront.net^
@@ -15158,6 +15167,7 @@
 ||eminencedarker.com^
 ||emissionidiompolygon.com^
 ||emitmagnitude.com^
+||emittediodids.top^
 ||emjpbua.com^
 ||emjrwypl.xyz^
 ||emkarto.fun^
@@ -15698,6 +15708,7 @@
 ||ewituhinlargeconsu.com^
 ||ewjhic.cn^
 ||ewnkfnsajr.com^
+||ewouwamsubsouvy.net^
 ||ewrgryxjaq.com^
 ||ewruuqe5p8ca.com^
 ||ewuvpujntjoael.com^
@@ -19340,6 +19351,7 @@
 ||heavespectaclescoefficient.com^
 ||analytics.hebela.vn^
 ||hebiichigo.com^
+||hecathedralinth.org^
 ||hechaocheng.cn^
 ||hectorfeminine.com^
 ||hectorobedient.com^
@@ -22247,6 +22259,7 @@
 ||776.jstatic.xyz^
 ||jstracker.com^
 ||jsxwfb.xyz^
+||jtclvwseqvejily.xyz^
 ||jtegqwmjfxu.site^
 ||jthotb.icu^
 ||jtkjixnmj.org^
@@ -22569,6 +22582,7 @@
 ||kenkenlimted.top^
 ||kennelbakerybasketball.com^
 ||kensecuryrentat.info^
+||kentishprided.com^
 ||kentorjose.com^
 ||kepnatick.com^
 ||ker2clk.com^
@@ -23128,6 +23142,7 @@
 ||kvhee.com^
 ||kviglxabhwwhf.xyz^
 ||kvkcei.xyz^
+||kvoiiedftqzyb.com^
 ||kvovs.xyz^
 ||kvtgl4who.com^
 ||kvum-bpelzw.icu^
@@ -24926,6 +24941,7 @@
 ||martyrvindictive.com^
 ||marvelbuds.com^
 ||masakeku.com^
+||masconbaiting.shop^
 ||masculineillness.com^
 ||exacttarget.api.mashery.com^
 ||mashrokit.info^
@@ -25356,6 +25372,7 @@
 ||meorzoi.xyz^
 ||meowpushnot.com^
 ||mepirtedic.com^
+||mepkbonqzmuvl.xyz^
 ||mepupr486.top^
 ||mepuzz.com^
 ||tracking.meraosterlen.se^
@@ -28935,6 +28952,7 @@
 ||oszlnxwqlc.com^
 ||otaserve.net^
 ||otbuzvqq8fm5.com^
+||otbydhpfhzbjd.today^
 ||otclick-adv.ru^
 ||otdalxhhiah.com^
 ||otekmnyfcv.com^
@@ -29574,6 +29592,7 @@
 ||pawderstream.com^
 ||pawheatyous.com^
 ||pawhiqsi.com^
+||pawjfavraag.com^
 ||pawmaudwaterfront.com^
 ||pawscreationsurely.com^
 ||paxmedia.net^
@@ -30421,6 +30440,7 @@
 ||plugin.management^
 ||plugin.ws^
 ||pluginsjquery.com^
+||plugmanhidel.top^
 ||plugrush.com^
 ||plugs.co^
 ||plumagebenevolenttv.com^
@@ -31026,6 +31046,7 @@
 ||prevailinsolence.com^
 ||prevalentpotsrice.com^
 ||preventionhoot.com^
+||previous-trip.pro^
 ||log.prezi.com^
 ||analytics.prezly.com^
 ||prezna.com^
@@ -33111,6 +33132,7 @@
 ||remarkableflashseptember.com^
 ||remarkablycommunity.com^
 ||remarkedoneof.info^
+||remarkedoneoftheo.org^
 ||remarketstats.com^
 ||remarksnicermasterpiece.com^
 ||remedyabruptness.com^
@@ -33632,6 +33654,7 @@
 ||rnmd.net^
 ||rnnlfpaxjar.xyz^
 ||rnodydenknowl.org^
+||rnomqihksna.com^
 ||rnotraff.com^
 ||rnrycry.com^
 ||rnv.life^
@@ -35440,6 +35463,7 @@
 ||shydastidu.com^
 ||my.shymilftube.com^
 ||shyrepair.pro^
+||shyzvqpipc.com^
 ||sialsizably.shop^
 ||sibautomation.com^
 ||count.sibbo.net^
@@ -39450,6 +39474,7 @@
 ||trapskating.com^
 ||trashdisguisedextension.com^
 ||trasupr.com^
+||trasyaircrew.top^
 ||tratbc.com^
 ||traumavirus.com^
 ||usr.trava.io^
