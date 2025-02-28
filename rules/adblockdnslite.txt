@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250228182309
-! Last modified: 2025/02/28 18:23:09
-! Blocked domains: 2365
+! Version: 20250301023009
+! Last modified: 2025/03/01 02:30:09
+! Blocked domains: 2377
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -16,9 +16,11 @@
 ||gg.0598yu.com^
 ||0941.org^
 ||1.118.35.47^
+||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
+||101.201.227.94^
 ||101.201.247.232^
 ||101.35.228.105^
 ||101.37.34.164^
@@ -32,10 +34,13 @@
 ||106.15.224.147^
 ||106.15.239.51^
 ||adm.10jqka.com.cn^
+||110.41.147.219^
+||soft.110route.com^
 ||111.42.156.130^
 ||1.11130.com.cn^
 ||112.124.71.123^
 ||112.33.27.73^
+||113.219.177.95^
 ||113.31.111.76^
 ||113.44.90.0^
 ||113.98.201.248^
@@ -63,10 +68,10 @@
 ||120.46.28.4^
 ||121.199.56.173^
 ||121.4.36.95^
-||121.41.89.22^
 ||121.43.131.0^
 ||122.114.193.75^
 ||122.51.183.116^
+||122.51.52.109^
 ||js1.122cha.com^
 ||123.132.224.187^
 ||123.56.191.147^
@@ -76,6 +81,7 @@
 ||124.220.235.28^
 ||124.222.122.160^
 ||124.222.48.227^
+||124.222.82.19^
 ||124.223.200.131^
 ||124.248.65.242^
 ||124.70.140.100^
@@ -128,6 +134,7 @@
 ||218.22.21.248^
 ||ssp.21ic.com^
 ||220.180.255.224^
+||222.187.223.34^
 ||222aa333bb.com^
 ||223.247.198.16^
 ||bd-js1.2345.com^
@@ -176,6 +183,7 @@
 ||39.103.217.92^
 ||39.104.73.194^
 ||39.105.211.255^
+||39.105.31.193^
 ||39.107.136.241^
 ||39.98.48.153^
 ||39.99.131.244^
@@ -190,7 +198,6 @@
 ||3q1lsj.cn^
 ||img.3sjt.com^
 ||42.192.195.221^
-||42.226.90.5^
 ||43.139.139.40^
 ||43.143.123.40^
 ||43.226.39.44^
@@ -203,6 +210,7 @@
 ||47.104.173.216^
 ||47.106.217.147^
 ||47.107.29.90^
+||47.109.137.82^
 ||47.109.201.173^
 ||47.109.77.84^
 ||47.113.217.92^
@@ -251,7 +259,6 @@
 ||58.216.207.82^
 ||58.87.94.238^
 ||tracklog.58.com^
-||59.59.6.86^
 ||595image.com^
 ||d1.5h.com^
 ||abcd.5lu.com^
@@ -464,6 +471,7 @@
 ||mymin11.oss-cn-hangzhou.aliyuncs.com^
 ||news6.oss-ap-northeast-1.aliyuncs.com^
 ||safefiles2.oss-cn-beijing.aliyuncs.com^
+||shangmei-test.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
@@ -478,6 +486,7 @@
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||zffsg.oss-ap-northeast-2.aliyuncs.com^
+||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||zlonline.oss-cn-shenzhen.aliyuncs.com^
 ||allyes.com^
 ||aly.la^
@@ -666,6 +675,7 @@
 ||click.bokecc.com^
 ||vstat.borderlessbd.com^
 ||static.bshare.cn^
+||xww.bucea.edu.cn^
 ||bvubasnf.com^
 ||ad.bwton.com^
 ||dlogs.bwton.com^
@@ -1068,6 +1078,7 @@
 ||sg-public-data-api.hoyoverse.com^
 ||ys-log-upload-os.hoyoverse.com^
 ||hpplay.cn^
+||hseda.com^
 ||g.hsw.cn^
 ||api-analytics-cn.huami.com^
 ||app-analytics-ru.huami.com^
@@ -1386,6 +1397,7 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
+||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
