@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250301105908
-! Last modified: 2025/03/01 10:59:08
-! Blocked domains: 44999
+! Version: 20250301182121
+! Last modified: 2025/03/01 18:21:21
+! Blocked domains: 45035
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -2071,6 +2071,7 @@
 ||777partners.com^
 ||777seo.com^
 ||77886044.xyz^
+||77b0d74a17.com^
 ||77tracking.com^
 ||78.132.70.190^
 ||78.140.37.49^
@@ -2530,6 +2531,7 @@
 ||pj.l.a8723.com^
 ||a8ww.net^
 ||a908a849.xyz^
+||aa03010iiko.com^
 ||aaaaaco.com^
 ||aaaacdn.com^
 ||weby.aaas.org^
@@ -6275,6 +6277,7 @@
 ||avview3431.fun^
 ||avvxcexk.com^
 ||avvzamazdpa.com^
+||avwjyvwqyymm.top^
 ||avwjyvzeymmb.top^
 ||awaitingutilize.com^
 ||awakeclauseunskilled.com^
@@ -7878,6 +7881,7 @@
 ||boatjadeinconsistency.com^
 ||bob-recs.com^
 ||bobabillydirect.org^
+||bobblegoobers.top^
 ||bobboro.com^
 ||bobi-bobi.info^
 ||bobi-mobi.info^
@@ -7916,6 +7920,7 @@
 ||boldscantyfrustrating.com^
 ||boledrouth.top^
 ||bollyocean.com^
+||boloheavity.shop^
 ||boloptrex.com^
 ||bolrookr.com^
 ||bolsek.ru^
@@ -8309,6 +8314,7 @@
 ||browsesafe-page.info^
 ||browsiprod.com^
 ||browsobsolete.com^
+||brqfqlsssthfg.com^
 ||brtsumthree.com^
 ||brucelead.com^
 ||bruceleadx.com^
@@ -11097,6 +11103,7 @@
 ||cresfpho2ntesepapillo3.com^
 ||crestfallenwall.com^
 ||crestislelocation.com^
+||cretanneskhi.com^
 ||cretgate.com^
 ||creticennoic.top^
 ||crevicedepressingpumpkin.com^
@@ -11453,6 +11460,7 @@
 ||d12bql71awc8k.cloudfront.net^
 ||d12czbu0tltgqq.cloudfront.net^
 ||d12dky1jzngacn.cloudfront.net^
+||d12e9f83wyj0ww.cloudfront.net^
 ||d12nvv2jqzsaax.cloudfront.net^
 ||d12t7h1bsbq1cs.cloudfront.net^
 ||d12tu1kocp8e8u.cloudfront.net^
@@ -12806,6 +12814,7 @@
 ||grs.dbankcloud.com^
 ||oauth-login-drcn.platform.dbankcloud.com^
 ||datacollector-drru.dt.dbankcloud.ru^
+||dbbupggdbamnvo.com^
 ||dbcdqp72lzmvj.cloudfront.net^
 ||dbclix.com^
 ||dbdophuz.icu^
@@ -13094,6 +13103,7 @@
 ||demandzoo.com^
 ||demanier.com^
 ||dematom.com^
+||demeoreisling.top^
 ||demiseskill.com^
 ||demkc32bq01ah.cloudfront.net^
 ||democracyendlesslyzoo.com^
@@ -13157,6 +13167,7 @@
 ||deqik.com^
 ||deqwas.net^
 ||derateissuant.top^
+||dereismsvarajs.com^
 ||derevya2sh8ka09.com^
 ||deridenowadays.com^
 ||deridetapestry.com^
@@ -15784,6 +15795,7 @@
 ||exofrwe.com^
 ||exogripper.com^
 ||exomonyf.com^
+||exonymneavil.com^
 ||exoticads.com^
 ||exovueplatform.com^
 ||affiliates.expaus.in^
@@ -15883,6 +15895,7 @@
 ||eyewonder.com^
 ||eyewondermedia.com^
 ||eyhcervzexp.com^
+||eymwxhqck.com^
 ||eynpauoatsdawde.com^
 ||eyrybuiltin.shop^
 ||eyyngo.xyz^
@@ -16328,6 +16341,7 @@
 ||fgdkfr.xyz^
 ||fgeivosgjk.com^
 ||fghghh.cn^
+||fgjaelzvzxtdq.rocks^
 ||fgk-jheepn.site^
 ||fgoqnva.com^
 ||fgpmxwbxnpww.xyz^
@@ -17060,6 +17074,7 @@
 ||freezereraserelated.com^
 ||freezescrackly.com^
 ||fregtrsatnt.com^
+||freid.site^
 ||frenchequal.pro^
 ||frenchhypotheticallysubquery.com^
 ||frenghiacred.com^
@@ -17630,6 +17645,7 @@
 ||gefun.net^
 ||g.gegeyingshi.com^
 ||sadobeanalytics.geico.com^
+||geishastending.com^
 ||geistm.com^
 ||geiybze.com^
 ||gejusherstertithap.info^
@@ -18778,6 +18794,7 @@
 ||gsuxyg.xyz^
 ||gswtol.com^
 ||gsywcc.xyz^
+||gsznojgkyw.com^
 ||gt5tiybvn.com^
 ||gta5moneygen.online^
 ||gtbdhr.com^
@@ -21704,6 +21721,7 @@
 ||iyfnzgb.com^
 ||iyi.net^
 ||iyisayfa.net^
+||iyqbsst.top^
 ||iystrbftlwif.icu^
 ||dev.iyuba.cn^
 ||iyuedu.cn.com^
@@ -23185,6 +23203,7 @@
 ||labeldollars.com^
 ||labourattention.com^
 ||labourcucumberarena.com^
+||labsogleesta.xyz^
 ||labtfeavcan.com^
 ||lacecoming.com^
 ||lacecompressarena.com^
@@ -25240,6 +25259,7 @@
 ||medigaly.com^
 ||events.medio.com^
 ||mediocrecount.com^
+||mediocrerope.pro^
 ||medipartner.jp^
 ||medises.co.kr^
 ||meditateenhancements.com^
@@ -29125,6 +29145,7 @@
 ||a5g.oves.biz^
 ||ovethecityonatal.info^
 ||ovfmeawrciuajgb.com^
+||ovgohkmh.com^
 ||analytics.ovh.com^
 ||ovibospeseta.com^
 ||ovjagtxasv.com^
@@ -29685,6 +29706,7 @@
 ||peewhouheeku.net^
 ||pefufv.xyz^
 ||pegah.tech^
+||peglessbath.shop^
 ||pegloang.com^
 ||peisantcorneas.com^
 ||pejzeexukxo.com^
@@ -31489,6 +31511,7 @@
 ||ptbrdg.com^
 ||ptcdwm.com^
 ||ptclassic.com^
+||pteekauksaupt.net^
 ||pteemsolrirgegi.com^
 ||pteemteethu.net^
 ||ptekrungeez.net^
@@ -31855,6 +31878,7 @@
 ||pxaction.com^
 ||collector-pxebumdlwe.pxchk.net^
 ||collector-pxrf8vapwa.pxchk.net^
+||pxddavxjwuiufxf.xyz^
 ||pxhuiben.com^
 ||pxl.host^
 ||pxlgnpgecom-a.akamaihd.net^
@@ -33616,6 +33640,7 @@
 ||rktjxj.icu^
 ||rktu.com^
 ||rkulukhwuoc.com^
+||rkvsbobyil.com^
 ||rletcloaksandth.com^
 ||cdn.rlets.com^
 ||rlittleboywhowas.com^
@@ -34566,6 +34591,7 @@
 ||scriptshead.com^
 ||scriptvealpatronage.com^
 ||scritchmaranta.shop^
+||scrodsteel.com^
 ||scrollye.com^
 ||stat.scroogefrog.com^
 ||scruboutdoorsoffensive.com^
@@ -34698,6 +34724,7 @@
 ||sedoparking.com^
 ||sedotracker.com^
 ||sedotracker.de^
+||seduceeunrests.shop^
 ||seducinglabourer.com^
 ||seducingtemporarily.com^
 ||see-what-is-trending.com^
@@ -37525,6 +37552,7 @@
 ||svrgcqgtpe.com^
 ||analytics.svt.se^
 ||svyksa.info^
+||swackfylgjur.com^
 ||swailcoigns.com^
 ||swalessidi.com^
 ||swallowhairdressercollect.com^
@@ -37989,6 +38017,7 @@
 ||tagm.tchibo.de^
 ||tracking.tchibo.de^
 ||gwrtdp-tn690bfadt.tclclouds.com^
+||tcloaksandtheirc.org^
 ||tcloaksandtheirclean.com^
 ||tcontametrop.info^
 ||tcowmrj.com^
@@ -38107,6 +38136,7 @@
 ||analytics.teespring.com^
 ||teestoagloupaza.net^
 ||teewhilemath.net^
+||teffsio.com^
 ||tefrjctjwuu.com^
 ||tefuse.com^
 ||tegleebs.com^
@@ -39096,6 +39126,7 @@
 ||analytics.topseotoolkit.com^
 ||ads.topsex.cc^
 ||topsexcams.club^
+||topsexmovs.com^
 ||topsite.lv^
 ||topsolutionsmedia.com^
 ||topsrcs.com^
@@ -40258,6 +40289,7 @@
 ||ultimatelydiscourse.com^
 ||ultimatumrelaxconvince.com^
 ||dig.ultimedia.com^
+||ultoftheplansaimtit.org^
 ||ultrapartners.com^
 ||ultrapay.net^
 ||ultrasonica.info^
@@ -40495,6 +40527,7 @@
 ||unresolvedsketchpaws.com^
 ||unrestbad.com^
 ||unrestlosttestify.com^
+||unripewar.com^
 ||unrotomon.com^
 ||unrulymedia.com^
 ||unrulymorning.pro^
@@ -40894,6 +40927,7 @@
 ||api.valista.io^
 ||valiumbessel.com^
 ||analytics.valiuz.com^
+||valleylouisadick.com^
 ||valleysrelyfiend.com^
 ||valornutricional.cc^
 ||analytics.valotool.com^
@@ -42169,6 +42203,7 @@
 ||waterfallblessregards.com^
 ||waterfallchequeomnipotent.com^
 ||waterfrontdisgustingvest.com^
+||waterfrontfewersuccessive.com^
 ||tracking.waterfrontmedia.com^
 ||ggw.watertu.com^
 ||wateryzapsandwich.com^
@@ -43412,6 +43447,7 @@
 ||wzijtuxzut.com^
 ||wzk5ndpc3x05.com^
 ||wzlbhfldl.com^
+||wzlzgwdtasjfs.online^
 ||wzrkt.com^
 ||a.wzu.com^
 ||x-busty.org^
