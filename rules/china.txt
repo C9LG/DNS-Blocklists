@@ -80,9 +80,7 @@
 122.114.193.75
 122.51.183.116
 122.51.52.109
-123.12.244.57
 123.132.224.187
-123.253.12.111
 123.56.191.147
 123.57.250.154
 124.220.235.28
@@ -104,7 +102,7 @@
 1717.1000uc.com
 175.27.241.169
 180.76.138.238
-182.127.126.95
+182.127.128.73
 182.92.99.95
 1999019.com
 1s8pj.cn
@@ -127,6 +125,7 @@
 301848.com
 32.huanqiu.com
 360ads.com
+360down7.miiyun.cn
 365dmp.com
 39.100.33.142
 39.102.210.162
@@ -167,7 +166,6 @@
 47.120.46.210
 47.120.60.201
 47.122.1.243
-47.92.122.62
 47.92.166.33
 47.94.196.131
 47.95.8.59
@@ -179,7 +177,9 @@
 54.222.186.106
 54kefu.net
 58.216.207.82
+58.47.123.128
 58.87.94.238
+59.59.6.86
 595image.com
 5mm.zxfw5.cn
 5pub.com
@@ -292,7 +292,6 @@ abody.39.net
 abroad-ad.kingsoft-office-service.com
 abtest-ch.snssdk.com
 abtest.alibaba.com
-ac.art456.com
 acc.3gbizhi.com
 accscdn.m.taobao.com
 acgshenshicha.cn
@@ -604,7 +603,6 @@ alogs.umengcloud.com
 alogsus.umeng.com
 alogus.umeng.com
 als.baidu.com
-aly.la
 am.szhome.com
 ama.adwo.com
 amap-aos-info-nogw.amap.com
@@ -813,10 +811,12 @@ bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 bdapi.ads.oppomobile.com
 bdasd.chdbook.cn
+bdasd.wmxa.cn
 bdcdncmn-gd.inter.71edge.com
 bdcode.2345.com
 bdcode.qinglm.com
 bdcode.youke.com
+bdjiaoben.wmxa.cn
 bdjs.daziba.cn
 bdjs.guangyuanol.cn
 bdjs.uimg.cn
@@ -997,6 +997,7 @@ cm.passport.iqiyi.com
 cm.pos.baidu.com
 cmm.xmfish.com
 cms.grandcloud.cn
+cn-api.anythinktech.com
 cn6x.com
 cnbd1.appmobile.cn
 cnlogs.umeng.com
@@ -1095,6 +1096,7 @@ dataf.ads.oppomobile.com
 dataflow.biliapi.com
 datamaster.com.cn
 datas.tianqistatic.com
+datk.anythinktech.com
 dazhantai.com
 dc.letv.com
 dc.sigmob.cn
@@ -1156,7 +1158,6 @@ doubleclick.ctfile.com
 doubleclick.net
 dow.andylab.cn
 down.qqfarmer.com.cn
-down.ruanmei.com
 down10d.zol.com.cn
 download-winsdownload-wins.oss-cn-hangzhou.aliyuncs.com
 download.350.com
@@ -1321,6 +1322,7 @@ gfdfgfgr.cn
 gfdgfhh.cn
 gg.0598yu.com
 gg.blueidea.com
+gg.caixin.com
 gg.cs090.com
 gg.miinaa.com
 gg.miued.com
@@ -1413,6 +1415,7 @@ hechaocheng.cn
 hffxc.com
 hfisngksng.com
 hh.jiankang.com
+hhbs.hhu.edu.cn
 hijack.baidu.com
 hjkhxfh.360doc.cn
 hkrpg-log-upload-os.hoyoverse.com
@@ -1732,6 +1735,7 @@ m.doubleclick.net
 m.ercos.cn
 m.gdt.qq.com
 m.gongzhilian.com.cn
+m.gutousoft.com
 m.j5s9b.cn
 m.m216j.cn
 m.nanyangqiaoxiang.cn
@@ -2116,7 +2120,6 @@ resolve.umeng.com
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resource.baomihua.com
-rest.irs01.com
 resu8.hjfile.cn
 retrefsf.cn
 retrieval-bd.duote.com
@@ -2140,6 +2143,7 @@ rts.mobula.sdk.duapps.com
 rumt-zh.com
 rxys.cn
 rz261.cn
+rzflhxn.cn
 s-webp2p.letv.com
 s.360.cn
 s.4cola.com
@@ -2695,7 +2699,6 @@ wenxue.youzhicn.com
 whfpbc.99.com.cn
 win.gdt.qq.com
 windriversfiles.imeitools.com
-wj.jiancai365.cn
 wkclick.baidu.com
 wkctj.baidu.com
 wkrd.tingyun.com
@@ -2767,6 +2770,7 @@ xianshangzixun.net
 xiaomi-dtv.m.cn.miaozhen.com
 xiaomi.m.cn.miaozhen.com
 xiaopinwo.com
+xingpai.weilay.com.cn
 xinhuanet.adsame.com
 xladapi.izuiyou.com
 xlog.jd.com
@@ -2800,6 +2804,7 @@ ykkhihg.cn
 yktd.m.cn.miaozhen.com
 yktj.yzz.cn
 ylog.huya.com
+yn.noyoo.cn
 ynet.da.mgtv.com
 ynuf.aliapp.org
 yong.chazidian.com
@@ -2849,6 +2854,7 @@ zhanzhang.toutiao.com
 zhengxinpeixun.oss-cn-qingdao.aliyuncs.com
 zhihu-web-analytics.zhihu.com
 zhihu.xmcimg.com
+zhikey.com
 zhongwangmy.cn
 zjliloveyou.ixiunv.com
 zlclgzs.cn
