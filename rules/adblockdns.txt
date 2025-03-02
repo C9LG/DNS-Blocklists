@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250302105755
-! Last modified: 2025/03/02 10:57:55
-! Blocked domains: 44906
+! Version: 20250302182139
+! Last modified: 2025/03/02 18:21:39
+! Blocked domains: 44909
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -18101,6 +18101,7 @@
 ||gmossp-sp.jp^
 ||ad.gmw.cn^
 ||channel-analysis-js.gmw.cn^
+||gmwqpgq.top^
 ||epimetheus.navigator.gmx.net^
 ||tgw.gmx.net^
 ||ymprove.gmx.net^
@@ -33394,6 +33395,7 @@
 ||rhwvpab.com^
 ||rhxbuslpclxnisl.com^
 ||rhxdsplm.com^
+||rhzofr.icu^
 ||rhzvlcu.xyz^
 ||cobrand.ria.com^
 ||a.ria.ru^
@@ -43240,6 +43242,7 @@
 ||wuefmls.com^
 ||wugroansaghadry.com^
 ||wuiqiq.xyz^
+||wumd.cn^
 ||wumufama.com^
 ||wundercounter.com^
 ||wunderloop.net^
