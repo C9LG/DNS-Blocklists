@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250303105728
-! Last modified: 2025/03/03 10:57:28
-! Blocked domains: 45105
+! Version: 20250303182430
+! Last modified: 2025/03/03 18:24:30
+! Blocked domains: 45159
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -1479,6 +1479,7 @@
 ||360adshost.com^
 ||hcirentgh.360doc.cn^
 ||hjkhxfh.360doc.cn^
+||nxet1.360doc.cn^
 ||360i.com^
 ||360installer.com^
 ||hye.comp.360os.com^
@@ -2574,6 +2575,7 @@
 ||ab913aa797e78b3.com^
 ||ab93t2kc.de^
 ||clarity.abacast.com^
+||abadit5rckd.com^
 ||abamatoyer.com^
 ||abaolokvmmvlv.top^
 ||abaolokvmmwrb.top^
@@ -4932,6 +4934,7 @@
 ||measuring-pixel-service.alza.cz^
 ||alzexa.com^
 ||alzlwkeavrlw.top^
+||alzlwkkwyelv.top^
 ||am-da.xyz^
 ||am-schedule.ru^
 ||am10.ru^
@@ -6390,6 +6393,7 @@
 ||axislogger.appspot.com^
 ||axjndvucr.com^
 ||axkwmsivme.com^
+||axlikeoedipus.shop^
 ||axmocklwa.com^
 ||axonix.com^
 ||axotrade.com^
@@ -6462,6 +6466,7 @@
 ||azyuuk.xyz^
 ||b-5-shield.com^
 ||0a0d-d3l1vr.b-cdn.net^
+||3426e3de.b-cdn.net^
 ||578297a5.b-cdn.net^
 ||91116e9f.b-cdn.net^
 ||ad-serve.b-cdn.net^
@@ -9102,6 +9107,7 @@
 ||cawquawwoldy.shop^
 ||cayelychobenl.com^
 ||cayot.ir^
+||cayuganwhewl.com^
 ||cazamba.com^
 ||cb-content.com^
 ||cba-fed-igh.com^
@@ -9967,6 +9973,7 @@
 ||clickguardian.app^
 ||clickhere.ru^
 ||clicki.cn^
+||clickidate.site^
 ||clickinc.com^
 ||clickintext.com^
 ||clickintext.net^
@@ -10669,6 +10676,7 @@
 ||contagiongrievedoasis.com^
 ||contagionwashingreduction.com^
 ||contagiousbookcasepants.com^
+||containersuitable.com^
 ||containingwaitdivine.com^
 ||containssubordinatecologne.com^
 ||contalyze.com^
@@ -12359,6 +12367,7 @@
 ||d3lk5upv0ixky2.cloudfront.net^
 ||d3lliyjbt3afgo.cloudfront.net^
 ||d3ln1qrnwms3rd.cloudfront.net^
+||d3lppnezw695ey.cloudfront.net^
 ||d3lqotgbn3npr.cloudfront.net^
 ||d3lvr7yuk4uaui.cloudfront.net^
 ||d3lw2k94jnkvbs.cloudfront.net^
@@ -12680,7 +12689,6 @@
 ||daraz.com^
 ||darcycapacious.com^
 ||darcyjellynobles.com^
-||dareka4te.shop^
 ||darghinruskin.com^
 ||y820.darientimes.com^
 ||daringsupport.com^
@@ -12784,6 +12792,7 @@
 ||datingcensored.com^
 ||datingcentral.top^
 ||datingero.com^
+||datingforyour4.site^
 ||datinggold.com^
 ||datingkoen.site^
 ||datingmeetnet.com^
@@ -13036,6 +13045,7 @@
 ||deeprootedpasswordfurtively.com^
 ||deeprootedstranded.com^
 ||deepsaifaide.net^
+||deepsathegoh.com^
 ||ad.deepthought.industries^
 ||deereefade.xyz^
 ||deewansturacin.com^
@@ -13820,6 +13830,7 @@
 ||dlne6myudrxi1.cloudfront.net^
 ||dlooqrhebkjoh.cloudfront.net^
 ||dlp4luwpus5kr.cloudfront.net^
+||dlrectdates.com^
 ||dlrioxg1637dk.cloudfront.net^
 ||dlski.space^
 ||dltqxz76sim1s.cloudfront.net^
@@ -14152,6 +14163,7 @@
 ||downtransmitter.com^
 ||downwardstreakchar.com^
 ||dowrylatest.com^
+||doxdynpvwvkcw.com^
 ||doxihz.xyz^
 ||doyenssudsier.click^
 ||ad.doyouad.com^
@@ -14439,6 +14451,7 @@
 ||dulillipupan.com^
 ||track2.dulingo.com^
 ||dulladaptationcontemplate.com^
+||dullfruitful.com^
 ||dulojet.com^
 ||dumay.site^
 ||dumbpop.com^
@@ -14480,6 +14493,7 @@
 ||durith.com^
 ||dustersee.com^
 ||dustratebilate.com^
+||dustspeerie.shop^
 ||dustywrenchdesigned.com^
 ||dutils.com^
 ||dutorterraom.com^
@@ -15149,6 +15163,7 @@
 ||emailon.top^
 ||download.emailorganizer.com^
 ||emailretargeting.com^
+||emancytal.com^
 ||emarbox.com^
 ||mobile-events.eservice.emarsys.net^
 ||ematicsolutions.com^
@@ -16056,6 +16071,7 @@
 ||l.fairblocker.com^
 ||faireegli.net^
 ||fairlink.ru^
+||fairmonks.com^
 ||fairnesscrashedshy.com^
 ||fairnessels.com^
 ||fairnessmolebedtime.com^
@@ -16168,6 +16184,7 @@
 ||tracking.fastighetsnytt.se^
 ||ab.fastighetsvarlden.se^
 ||fastincognitomode.com^
+||fastiswart.shop^
 ||fastlnd.com^
 ||fastly-insights.com^
 ||fastnativead.com^
@@ -16676,6 +16693,7 @@
 ||rt.flix360.com^
 ||t.flix360.com^
 ||flixdot.com^
+||flixfiend.top^
 ||stats.flixhq.live^
 ||flixsyndication.net^
 ||flndmyiove.net^
@@ -18455,6 +18473,7 @@
 ||goprediction.com^
 ||telem.sre.gopuff.com^
 ||goraps.com^
+||gorclck.com^
 ||goredi.com^
 ||goreoid.com^
 ||gorgeousirreparable.com^
@@ -18980,6 +18999,7 @@
 ||gygvodegxicbv.love^
 ||gyh1lh20owj.ru^
 ||gyklvfxbpt.com^
+||gymea.site^
 ||gymgipsy.com^
 ||gymnasiumfilmgale.com^
 ||www.gymshark-sweden.com.se^
@@ -19075,6 +19095,7 @@
 ||hallanjerbil.com^
 ||halldata.com^
 ||hallucinatecompute.com^
+||haloedessed.top^
 ||halogennetwork.com^
 ||halthomosexual.com^
 ||haltough.net^
@@ -19241,6 +19262,7 @@
 ||hauufhgezl.com^
 ||event.havasedge.com^
 ||tag.havasedge.com^
+||haveameet.com^
 ||haveamint.com^
 ||haveflat.com^
 ||havegrosho.com^
@@ -19284,6 +19306,7 @@
 ||hcpvkcznxj.com^
 ||hcyhiadxay.com^
 ||hcznaubp.icu^
+||hd-93083.com^
 ||tracking.hd.se^
 ||tracking.etidning.hd.se^
 ||hd100546c.com^
@@ -19792,6 +19815,7 @@
 ||hmeqpjky.xyz^
 ||dep.hmgroup.com^
 ||hmkwhhnflgg.space^
+||hmntf.com^
 ||hmuylvbwbpead.xyz^
 ||hmxg5mhyx.com^
 ||utiq.hna.de^
@@ -20036,6 +20060,7 @@
 ||houthaub.xyz^
 ||evt.houzz.com^
 ||hov15.icu^
+||hoveltran.xyz^
 ||hoverclassicalroused.com^
 ||hoverr.co^
 ||hoverr.media^
@@ -20999,6 +21024,7 @@
 ||receiver-metis.infeng.site^
 ||inferiorkate.com^
 ||infestpunishment.com^
+||infiledeplant.top^
 ||infinigraph.com^
 ||infinite-ads.com^
 ||infinity-info.com^
@@ -22361,6 +22387,7 @@
 ||junkettypika.shop^
 ||junkieswudge.com^
 ||junkmildredsuffering.com^
+||junkyadexchange.com^
 ||junmediadirect1.com^
 ||affiliate.juno.co.uk^
 ||track.juno.com^
@@ -22451,6 +22478,7 @@
 ||kaascypher.com^
 ||kabakamarbles.top^
 ||js.kabutocho-dsp.net^
+||kacqqepgoswftqg.xyz^
 ||kacukrunitsoo.net^
 ||kadam.net^
 ||kadam.ru^
@@ -23125,6 +23153,7 @@
 ||kubachigugal.com^
 ||track.kueez.com^
 ||kueezrtb.com^
+||kugmisawqo.com^
 ||kugo.cc^
 ||ads.service.kugou.com^
 ||adserviceretry.kugou.com^
@@ -23987,6 +24016,7 @@
 ||liton311ark.com^
 ||litotesauxin.shop^
 ||littel.net^
+||litteracywing.pro^
 ||littlecdn.com^
 ||littlecutecats.com^
 ||littlecutelions.com^
@@ -24095,6 +24125,7 @@
 ||llyighaboveth.com^
 ||a.llysc.cn^
 ||llyvjs.com^
+||lmboiwvudolya.com^
 ||lmepbq.com^
 ||lmgyjug31.com^
 ||lmj8i.pro^
@@ -24357,6 +24388,7 @@
 ||lowdodrioon.com^
 ||w149.lowellsun.com^
 ||lowercommander.com^
+||loweredbowl.com^
 ||loweredinflammable.com^
 ||lowestportedexams.com^
 ||lowgliscorr.com^
@@ -24397,6 +24429,7 @@
 ||tracking.lqm.io^
 ||lqtiwevsan.com^
 ||lrcs.info^
+||lrhyuixtcgnpn.site^
 ||lrkfuheobm.one^
 ||veim.lrswl.com^
 ||lryofjrfogp.com^
@@ -24509,6 +24542,7 @@
 ||lust-burning.rest^
 ||lust-goddess.buzz^
 ||lustasserted.com^
+||lustgoddessthegame.buzz^
 ||lusupodum.com^
 ||lutachechu.pro^
 ||lutoorgourgi.com^
@@ -25091,6 +25125,7 @@
 ||maxiad.de^
 ||maxiadv.com^
 ||maxickedpantents.com^
+||maxidefender.xyz^
 ||loki.maximonline.ru^
 ||maximtoaster.com^
 ||maximumductpictorial.com^
@@ -26673,6 +26708,7 @@
 ||reklam.mynet.com^
 ||adl.mynetreklam.com^
 ||mynewcounter.com^
+||mynutraresearch.com^
 ||myolnyr5bsk18.com^
 ||myomnistar.com^
 ||myonionsoup.com^
@@ -27152,6 +27188,7 @@
 ||nereu-gdr.com^
 ||nerohut.com^
 ||neropolicycreat.com^
+||nersionitsumpute.com^
 ||nervegus.com^
 ||nerveheels.com^
 ||nerverwrytail.top^
@@ -28978,6 +29015,7 @@
 ||oscohkajcjz.com^
 ||osdjartaqnm.com^
 ||osdmuxzag.com^
+||osdnetwork.xyz^
 ||osef.co.il^
 ||osfrjut.com^
 ||osfultrbriolenai.info^
@@ -29709,6 +29747,7 @@
 ||kdpic.pchome.com.tw^
 ||btn.pchome.net^
 ||pcirurrkeazm.com^
+||pcktmkfjnkfqm.club^
 ||pcmclks.com^
 ||ivy.pconline.com.cn^
 ||ashow.pcpop.com^
@@ -29894,6 +29933,7 @@
 ||perksyringefiring.com^
 ||perlika.com^
 ||p.permalink-system.com^
+||permanentillnessclever.com^
 ||permanentlymission.com^
 ||permato.com^
 ||permissionarriveinsert.com^
@@ -32130,6 +32170,7 @@
 ||qmgpfrwyhtwp.com^
 ||qmgria.cn^
 ||qmkackqmigezu.club^
+||qmpolidwfefrxem.com^
 ||qmxbqwbprwavac.xyz^
 ||qn-5.com^
 ||qnajplxtvz-a.akamaihd.net^
@@ -33230,6 +33271,7 @@
 ||remembertoolsuperstitious.com^
 ||remindleftoverpod.com^
 ||remintrex.com^
+||remisstracesexplain.com^
 ||remoifications.info^
 ||s.remonti.org^
 ||remorseful-illegal.pro^
@@ -35464,6 +35506,7 @@
 ||shoresmmrnews.com^
 ||shortagefollows.com^
 ||shortagesymptom.com^
+||shortcutacheless.com^
 ||analytics.shorte.st^
 ||collector.shorte.st^
 ||shorteh.com^
@@ -35703,6 +35746,7 @@
 ||sinkboxphantic.com^
 ||sinkfaster.com^
 ||sinkingswap.com^
+||sinkrersf.com^
 ||sinlovewiththemo.info^
 ||sinmufar.com^
 ||sinnerobtrusive.com^
@@ -36786,6 +36830,7 @@
 ||sr7pv7n5x.com^
 ||srbtztegq.today^
 ||tagging.src-reizen.nl^
+||srdymhfopxz.com^
 ||srmsii.xyz^
 ||srpx.net^
 ||srsxwdadzsrf.world^
@@ -37041,6 +37086,7 @@
 ||steeplesaturday.com^
 ||steepto.com^
 ||steeringsunshine.com^
+||steeryyoungs.shop^
 ||stejikjc.com^
 ||stella-nova.click^
 ||ev.stellarlabs.ai^
@@ -37731,6 +37777,7 @@
 ||symptomslightest.com^
 ||synacast.com^
 ||sync.tv^
+||synccora.com^
 ||synchrobit.io^
 ||synchronizerobot.com^
 ||synchroparomologyauditable.monster^
@@ -41111,6 +41158,7 @@
 ||vaybimo.com^
 ||vaycaptoc-vn.com^
 ||vaykamo.com^
+||vaykjwn.top^
 ||vaymbbank.com^
 ||vaynganhang.net^
 ||vayqualuong.com^
@@ -42048,6 +42096,7 @@
 ||vuidccfq.life^
 ||vulcan-bit.com^
 ||game.vulcan-casino.com^
+||vulgagonal.com^
 ||vulgarmilletappear.com^
 ||vulitd.xyz^
 ||vulnerablebreakerstrong.com^
@@ -42214,6 +42263,7 @@
 ||trck.wargaming.net^
 ||wargfybaqc.com^
 ||warindifferent.com^
+||warlikearm.pro^
 ||warliketruck.com^
 ||warlockstallioniso.com^
 ||warlockstudent.com^
@@ -42349,6 +42399,7 @@
 ||traffic.wdc.center^
 ||manage.wdfans.cn^
 ||wdohhlagnjzi.com^
+||wdoyouknowsai.org^
 ||y494.wdsu.com^
 ||wdt9iaspfv3o.com^
 ||wdtyl.xyz^
@@ -42439,6 +42490,7 @@
 ||webiqonline.com^
 ||t.webjavaskript.net^
 ||webkatalog.li^
+||webkelpfulinotaher.com^
 ||webleads-tracker.com^
 ||weblist.de^
 ||counter.webmart.de^
@@ -44247,6 +44299,7 @@
 ||tests.yjzj.org^
 ||yk37wagdg.life^
 ||ykkhihg.cn^
+||ykqcsawnlnvsgo.com^
 ||ykwykw.xyz^
 ||yl-sooippd.vip^
 ||yldbt.com^
@@ -44643,6 +44696,7 @@
 ||zarad.net^
 ||zargonsoogloars.xyz^
 ||zarnecfetors.top^
+||zarosnap.com^
 ||zarpop.com^
 ||adtima-common.zascdn.me^
 ||adtima-media.zascdn.me^
