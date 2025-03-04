@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250304105647
-! Last modified: 2025/03/04 10:56:47
-! Blocked domains: 44989
+! Version: 20250304182423
+! Last modified: 2025/03/04 18:24:23
+! Blocked domains: 45024
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -86,6 +86,7 @@
 ||1717.1000uc.com^
 ||m1.ad.10010.com^
 ||smartad.10010.com^
+||client.app.coc.10086.cn^
 ||webstats.100procent.com^
 ||100widgets.com^
 ||101.126.11.168^
@@ -2000,6 +2001,7 @@
 ||68aq8q352.com^
 ||69m.info^
 ||69oxt4q05.com^
+||6a7e08c01b.com^
 ||6bgaput9ullc.com^
 ||6c5xnntfvi.com^
 ||6ft8a.icu^
@@ -4532,6 +4534,7 @@
 ||ajillionmax.com^
 ||ad.ajitad.co.kr^
 ||ajjawcxpao.com^
+||ajjkmozrljer.top^
 ||ajkggo.xyz^
 ||ajkzd9h.com^
 ||ajmpeuf.com^
@@ -4974,6 +4977,7 @@
 ||ambushharmlessalmost.com^
 ||amcdn.vn^
 ||amcmuhu.com^
+||amdahlryes.com^
 ||track.amebame.com^
 ||amelatrina.com^
 ||log.amemv.com^
@@ -6438,6 +6442,7 @@
 ||azygotesonless.com^
 ||b-5-shield.com^
 ||0a0d-d3l1vr.b-cdn.net^
+||0a58b45e.b-cdn.net^
 ||1wincdn.b-cdn.net^
 ||3426e3de.b-cdn.net^
 ||578297a5.b-cdn.net^
@@ -11349,6 +11354,7 @@
 ||cuzrkugucdu.com^
 ||cuzsgqr.com^
 ||cvaetfspprbnt.com^
+||cvehbcrq.com^
 ||cvfuyogxbcweq.tech^
 ||cvgto-akmk.fun^
 ||cvkloyexkinekp.com^
@@ -11361,6 +11367,7 @@
 ||cwi.re^
 ||cwmlm.com^
 ||cwoapffh.com^
+||cwpnnceaolies.global^
 ||cwqljsecvr.com^
 ||cwuaxtqahvk.com^
 ||cwwgqu.xyz^
@@ -11462,6 +11469,7 @@
 ||d141wsrw9m4as6.cloudfront.net^
 ||d142i1hxvwe38g.cloudfront.net^
 ||d145ghnzqbsasr.cloudfront.net^
+||d147t1kg3swfdd.cloudfront.net^
 ||d14821r0t3377v.cloudfront.net^
 ||d149mkdvjofx4v.cloudfront.net^
 ||d14l1tkufmtp1z.cloudfront.net^
@@ -13726,6 +13734,7 @@
 ||djosbhwpnfxmx.com^
 ||djr4k68f8n55o.cloudfront.net^
 ||djrsvwtt.com^
+||djsnbblhnqijya.com^
 ||djucew6ul1t0k.cloudfront.net^
 ||djv99sxoqpv11.cloudfront.net^
 ||djvby0s5wa7p7.cloudfront.net^
@@ -15248,6 +15257,7 @@
 ||enmitystudent.com^
 ||enmusubimail000.com^
 ||enodiarahnthedon.com^
+||enoliccoacted.shop^
 ||enoneahbu.com^
 ||enormous-society.pro^
 ||enormouslynotary.com^
@@ -18636,6 +18646,7 @@
 ||grigsreshown.top^
 ||griksoud.net^
 ||grillcheekunfinished.com^
+||grillejisms.com^
 ||grimdeplorable.com^
 ||grimytax.pro^
 ||grinbettyreserve.com^
@@ -18882,6 +18893,7 @@
 ||gwallet.com^
 ||gwbone-cpw.today^
 ||gwggiroo.com^
+||gwlrbbtxmguuz.today^
 ||gwmtracking.com^
 ||gwogbic.com^
 ||gwogrgq.icu^
@@ -20202,6 +20214,7 @@
 ||ylog.huya.com^
 ||huzzahscurl.top^
 ||hvddxj.icu^
+||hvert.site^
 ||hvooyieoei.com^
 ||hvpmpettedcroqc.com^
 ||hvwqgedwpckc.com^
@@ -22273,6 +22286,7 @@
 ||junglehikingfence.com^
 ||l.junglekouen.com^
 ||analytics.junia.ai^
+||juniatacidaris.shop^
 ||junivmr.com^
 ||junkettypika.shop^
 ||junkieswudge.com^
@@ -22311,6 +22325,7 @@
 ||juzaugleed.com^
 ||juznlx.xyz^
 ||jvcjnmd.com^
+||jvmbgorjhyyao.click^
 ||jvmhtxiqdfr.xyz^
 ||jwalkin.com^
 ||jwhjqjfl.icu^
@@ -22844,6 +22859,7 @@
 ||knivesprincessbitterness.com^
 ||knivessimulatorherein.com^
 ||knkqjmjyxzev.info^
+||knlqdtcbi.com^
 ||knlrfijhvch.com^
 ||knockedcherries.com^
 ||units.knotch.it^
@@ -22952,6 +22968,7 @@
 ||kovla.com^
 ||koyshxlxljv.com^
 ||kpaagnosdzih.com^
+||kpaamldootvpw.global^
 ||kpbmqxucd.com^
 ||mastertag.kpcustomer.de^
 ||kpdn.ru^
@@ -27865,6 +27882,7 @@
 ||numericprosapy.shop^
 ||numerino.cz^
 ||nunearn.com^
+||nunhoodpanmug.shop^
 ||nuniceberg.com^
 ||nunsourdaultozy.net^
 ||nupdhyzetb.com^
@@ -28105,6 +28123,7 @@
 ||ocelot.studio^
 ||ocgbexwybtjrai.xyz^
 ||ocheejacheb.xyz^
+||ochroidvedaic.top^
 ||ocjmbhy.com^
 ||ockerfisher.top^
 ||ockremarkedon.com^
@@ -28281,6 +28300,7 @@
 ||ograuwih.com^
 ||ogrepsougie.net^
 ||ogrrmasukq.com^
+||ogsbpoofzlk.com^
 ||ogsdgcgtf.com^
 ||ogt.jp^
 ||ogtz5yn2u1.ru^
@@ -28333,6 +28353,7 @@
 ||ojang.pe.kr^
 ||ojapanelm.xyz^
 ||analytics-coletor-site.ojc.com.br^
+||ojhniewdwtiuqd.com^
 ||ojkduzbm.com^
 ||ojmvywz.com^
 ||ojoglir.com^
@@ -29069,6 +29090,7 @@
 ||ad.outstream.today^
 ||outtimburrtor.com^
 ||outtunova.com^
+||outwavedowny.shop^
 ||outwhirlipedeer.com^
 ||outwingullom.com^
 ||outwitridiculousresume.com^
@@ -30283,6 +30305,7 @@
 ||plaicecaught.com^
 ||analytics.plaid.com^
 ||metrics.plaid.com^
+||plain-champion.pro^
 ||plainsnudge.com^
 ||plaintive-gap.pro^
 ||plaintorch.com^
@@ -31878,6 +31901,7 @@
 ||cdn.pyadx.com^
 ||pyasgummas.shop^
 ||pyknrhm5c.com^
+||pylowavgyow.xyz^
 ||pympbhxyhnd.xyz^
 ||pymx5.com^
 ||pyrincelewasgild.info^
@@ -31922,6 +31946,7 @@
 ||qashbits.com^
 ||qatsbesagne.com^
 ||qavgacsmegav.com^
+||qayfeuyhial.com^
 ||qazrvobkmqvmr.top^
 ||qbaka.net^
 ||cp.qbaobei.com^
@@ -34357,6 +34382,7 @@
 ||sartolutus.com^
 ||saryprocedentw.info^
 ||sascentral.com^
+||sasinoxyazo.com^
 ||sasinsetuid.com^
 ||sasisa.ru^
 ||anal.sataniskwijt.be^
@@ -37109,6 +37135,7 @@
 ||strainprimar.com^
 ||straitchangeless.com^
 ||straitmeasures.com^
+||strakesimians.shop^
 ||straletmitvoth.com^
 ||stranddecidedlydemeanour.com^
 ||strands.com^
@@ -38049,6 +38076,7 @@
 ||teachleaseholderpractitioner.com^
 ||teachmeiwnd.com^
 ||teachmewind.com^
+||teacupsdosing.top^
 ||teads.tv^
 ||teadwightshaft.com^
 ||tealiumiq.com^
@@ -38953,6 +38981,7 @@
 ||toawaups.net^
 ||toawhulo.com^
 ||toawoapt.net^
+||toazdkl.top^
 ||tobaccocentgames.com^
 ||tobaccoearnestnessmayor.com^
 ||tobaccosturgeon.com^
@@ -39020,6 +39049,7 @@
 ||tongsscenesrestless.com^
 ||tonsilsuggestedtortoise.com^
 ||tonsilyearling.com^
+||tonsmurre.top^
 ||tontrinevengre.com^
 ||tooasthmaloose.com^
 ||toocssfghbvgqb.com^
@@ -40574,6 +40604,7 @@
 ||unzpc.com^
 ||uod2quk646.com^
 ||uoetderxqnv.com^
+||uojx.cn^
 ||tracker.bt.uol.com.br^
 ||uonuvcrnert.com^
 ||uoutube.com^
@@ -40810,6 +40841,7 @@
 ||utrius.com^
 ||utterdevice.com^
 ||utteredadisappo.com^
+||utteredadisappointe.org^
 ||utterlysever.com^
 ||utubepwhml.com^
 ||api-fangarma.utyug.media^
@@ -43150,6 +43182,7 @@
 ||wonderful-day.club^
 ||wonderhsjnsd.com^
 ||wonderlandads.com^
+||wondersgedact.top^
 ||analytics.wondershare.cc^
 ||event.wondershare.com^
 ||wongahmalta.com^
@@ -44071,6 +44104,7 @@
 ||yfkflfa.com^
 ||yflexibilitukydt.com^
 ||yfoega.xyz^
+||yfueuktureukwo.org^
 ||ygblpbvojzq.com^
 ||ygdhmgjly.xyz^
 ||ygeqiky.com^
@@ -44971,6 +45005,7 @@
 ||zxrfzxb.com^
 ||dpsmhx.zxte.bid^
 ||zxtuqpiu.skin^
+||zxvflioj.com^
 ||zxwnlg.com^
 ||zy16eoat1w.com^
 ||zyblzreyykzme.top^
