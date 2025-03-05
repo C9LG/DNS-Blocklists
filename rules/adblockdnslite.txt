@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250305182409
-! Last modified: 2025/03/05 18:24:09
-! Blocked domains: 2377
+! Version: 20250306023131
+! Last modified: 2025/03/06 02:31:31
+! Blocked domains: 2381
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -43,6 +43,7 @@
 ||112.33.27.73^
 ||112.74.184.37^
 ||113.215.220.6^
+||113.219.177.95^
 ||113.31.111.76^
 ||113.44.90.0^
 ||113.98.201.248^
@@ -73,6 +74,7 @@
 ||121.43.104.75^
 ||121.43.131.0^
 ||122.114.193.75^
+||122.51.183.116^
 ||122.51.52.109^
 ||js1.122cha.com^
 ||123.132.224.187^
@@ -260,6 +262,7 @@
 ||union.56.com^
 ||v16.56.com^
 ||3.5646.cn^
+||dl.1003b.56a.com^
 ||58.216.207.82^
 ||58.47.123.13^
 ||58.87.94.238^
@@ -400,7 +403,6 @@
 ||usr-api.aiclk.com^
 ||atiws.aipai.com^
 ||agn.aty.snmsohu.aisee.tv^
-||admin.aishangzhua.com^
 ||domain.aishengji.com^
 ||log.aispeech.com^
 ||lcd.aivote.com^
@@ -677,6 +679,7 @@
 ||click.bokecc.com^
 ||vstat.borderlessbd.com^
 ||static.bshare.cn^
+||xww.bucea.edu.cn^
 ||bvubasnf.com^
 ||ad.bwton.com^
 ||dlogs.bwton.com^
@@ -973,6 +976,7 @@
 ||t7z.cupid.ptqy.gitv.tv^
 ||gjhjjhgc.cn^
 ||50m.gkcyc.com^
+||hnjgdl.geps.glodon.com^
 ||sensorsdata.glowapp.vip^
 ||mg.glwxw.net^
 ||ad.gmw.cn^
