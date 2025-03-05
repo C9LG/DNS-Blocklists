@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250305105609
-! Last modified: 2025/03/05 10:56:09
-! Blocked domains: 44942
+! Version: 20250305182409
+! Last modified: 2025/03/05 18:24:09
+! Blocked domains: 44945
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -16987,6 +16987,7 @@
 ||friendsoulscombination.com^
 ||frighten3452.fun^
 ||ads.frihetsnytt.se^
+||frillyearth.com^
 ||fringecompetenceranger.com^
 ||fringeforkgrade.com^
 ||fringesdurocs.com^
@@ -24369,6 +24370,7 @@
 ||luxupcdnc.com^
 ||luxuriousannotation.com^
 ||luxuriousbreastfeeding.com^
+||lu2.luyouwang.com^
 ||luyten-98c.com^
 ||luzynka.ru^
 ||lv9qr0g0.xyz^
@@ -28250,6 +28252,7 @@
 ||analytics-coletor-site.ojc.com.br^
 ||ojhniewdwtiuqd.com^
 ||ojkduzbm.com^
+||ojmv.cn^
 ||ojmvywz.com^
 ||ojoglir.com^
 ||ojooo.com^
