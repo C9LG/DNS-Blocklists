@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250311105801
-! Last modified: 2025/03/11 10:58:01
-! Blocked domains: 92515
+! Version: 20250311182446
+! Last modified: 2025/03/11 18:24:46
+! Blocked domains: 92523
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -702,6 +702,7 @@
 ||161.43.196.175^
 ||162.191.190.249^
 ||162.219.216.183^
+||16211973.xyz^
 ||163.182.13.103^
 ||adgeo.163.com^
 ||clientlog3.music.163.com^
@@ -40896,6 +40897,7 @@
 ||info.ibexherd.com^
 ||sst.ibf.dk^
 ||smetrics.ibfd.org^
+||ibgckxlsea.com^
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||ibillboard.com^
@@ -53821,6 +53823,7 @@
 ||hawk.mjsarfatti.com^
 ||mjsytjw.com^
 ||itrjdc.mjukcheckout.com^
+||mjvr.cn^
 ||mjxlfwvirjmt.com^
 ||trace.mjyx.com^
 ||vybbem.mk.ru^
@@ -60971,6 +60974,7 @@
 ||outwalkenvying.shop^
 ||outwhirlipedeer.com^
 ||outwingullom.com^
+||outwishboody.com^
 ||outwitridiculousresume.com^
 ||outwoodeuropa.com^
 ||ouveedaiz.net^
@@ -73363,6 +73367,7 @@
 ||silldisappoint.com^
 ||sillinessglamorousservices.com^
 ||sillyflowermachine.com^
+||silpharapidly.com^
 ||boeely.silumen.com^
 ||ucppeo.silux.hr^
 ||wourib.silux.rs^
@@ -73912,6 +73917,7 @@
 ||sksbgm.xyz^
 ||jhprvk.skstoa.com^
 ||ad.ari.skt-jive.com^
+||skuahoatzin.top^
 ||skulldesperatelytransfer.com^
 ||skullhalfway.com^
 ||skvxbool.xyz^
@@ -90971,6 +90977,7 @@
 ||whgbog.yereve.com^
 ||yernbiconic.com^
 ||yes-messenger.com^
+||adgirl.yes24.com^
 ||gtr1.yes24.com^
 ||yesads.com^
 ||yesadvertising.com^
@@ -92153,6 +92160,7 @@
 ||gdl.zmqdez.ru^
 ||zmwbrza.com^
 ||zmysashrep.com^
+||zmytkaoh.com^
 ||fxbqag.znak.com^
 ||zncbitr.com^
 ||log.znews.vn^
