@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250312105700
-! Last modified: 2025/03/12 10:57:00
-! Blocked domains: 92534
+! Version: 20250312182359
+! Last modified: 2025/03/12 18:23:59
+! Blocked domains: 92540
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -18916,6 +18916,7 @@
 ||smetrics.cignahealthcare.com^
 ||info.cignex.com^
 ||cigoadrouz.com^
+||cigoqcq.top^
 ||eventos.cihac.com^
 ||ciizxsdr.com^
 ||cijoorsairgusa.com^
@@ -58936,6 +58937,7 @@
 ||oahxvgssaxrg.com^
 ||oainternetservices.com^
 ||oainzuo.xyz^
+||oajv.cn^
 ||fzqjvw.oakandluna.com^
 ||oakbustrp.com^
 ||oakchokerfumes.com^
@@ -63167,6 +63169,8 @@
 ||pinchingoverridemargin.com^
 ||images.pinduoduo.com^
 ||t-dsp.pinduoduo.com^
+||ta.pinduoduo.com^
+||th.pinduoduo.com^
 ||pineappleconsideringpreference.com^
 ||amphibian.pinestc.com^
 ||pinetech.vn^
@@ -71148,6 +71152,7 @@
 ||stbg.bankonline.sboff.com^
 ||sbovgy.xyz^
 ||adebis.sbpayment.jp^
+||sbqg7jylmzsym.top^
 ||sbs-ad.com^
 ||adservice.sbs.co.kr^
 ||advod.sbs.co.kr^
@@ -90013,6 +90018,7 @@
 ||rtb-useast.wxadserve.xyz^
 ||rtb-uswest.wxadserve.xyz^
 ||1500020991.vodplayer.wxamedia.com^
+||1500026601.vodplayer.wxamedia.com^
 ||mm.wxc.cc^
 ||xmm.wxc.cc^
 ||wxhiojortldjyegtkx.bid^
