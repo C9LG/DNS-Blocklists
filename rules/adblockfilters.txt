@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20250313023122
-! Last modified: 2025/03/13 02:31:22
-! Blocked Filters: 448
+! Version: 20250313105852
+! Last modified: 2025/03/13 10:58:52
+! Blocked Filters: 454
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
 /(https?:\/\/)217\.182\.11\..{100,}/
@@ -172,9 +172,12 @@
 ||d*.ruiwen.com^
 ||d*.xinshipu.com^
 ||d241ujsiy3yht0.cloudfront.net
+||d2fj3s7h83rb61.cloudfront.net
+||d71e6dd31a026d45.com
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
+||deliveryengine.adswizz.com
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||dl.qcash.ws
@@ -192,6 +195,7 @@
 ||f-log-*.grammarly.io^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
+||fjuga.top
 ||flipflapflo.
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
@@ -209,7 +213,6 @@
 ||geoloc*.geovisite.ovh^
 ||get-me-wow.
 ||global-staticplat.cdn.bcebos.com
-||globalteaser.ru
 ||gonews*.net^
 ||goodadvert.
 ||grs.dbankcloud.
@@ -371,6 +374,7 @@
 ||servo-report.keepstreams.*^
 ||sgtm.fairmont.
 ||sgtm.fashionunited.
+||smart.allocine.fr
 ||sn00.net
 ||snowplow-collector-*.amazonaws.com^
 ||snowplow-collector.
@@ -412,7 +416,6 @@
 ||tnc*.zijieapi.com^
 ||tnc16-*.byteoversea.com^
 ||track.*.roku.com^
-||track.datescan.info
 ||track.tiara.
 ||track.zalando.
 ||tracker.twenga.
@@ -446,6 +449,7 @@
 ||vst.videolink.
 ||w*statistics.info^
 ||wa.gmx.
+||web-rotation.net
 ||web-visor.
 ||www.fuze-hill*.xyz^
 ||www.fuze-sea*.xyz^
@@ -453,5 +457,7 @@
 ||ya*.dwstatic.com^
 ||yottos.com
 ||ysdm*.ys137.com.cn^
+||yxhstwzjbu.info
 ||zbb.bbb.*.pics^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||zorosrv.com
