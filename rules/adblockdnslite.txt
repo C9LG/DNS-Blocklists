@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250314182339
-! Last modified: 2025/03/14 18:23:39
-! Blocked domains: 2483
+! Version: 20250315022947
+! Last modified: 2025/03/15 02:29:47
+! Blocked domains: 2469
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -25,12 +25,13 @@
 ||101.35.228.105^
 ||101.37.34.164^
 ||101.43.46.181^
-||101.91.125.228^
 ||1010pic.com^
 ||103.205.252.29^
+||106.14.126.40^
+||106.14.213.29^
+||106.15.224.147^
 ||106.15.239.51^
 ||adm.10jqka.com.cn^
-||110.41.147.219^
 ||soft.110route.com^
 ||111.42.156.130^
 ||1.11130.com.cn^
@@ -38,8 +39,8 @@
 ||113.219.177.95^
 ||113.221.96.51^
 ||113.31.111.76^
-||113.44.90.0^
 ||113.98.201.248^
+||114.215.27.238^
 ||114.55.106.136^
 ||1.11467.com^
 ||115.28.26.10^
@@ -55,7 +56,6 @@
 ||118.178.133.241^
 ||118.26.174.163^
 ||120.25.163.165^
-||121.199.56.173^
 ||121.41.89.22^
 ||121.43.104.75^
 ||121.43.131.0^
@@ -69,6 +69,7 @@
 ||123.57.250.154^
 ||ad.12306.cn^
 ||bdad.123pan.cn^
+||124.223.200.131^
 ||124.248.65.242^
 ||124.71.164.7^
 ||ent1.12584.cn^
@@ -86,11 +87,10 @@
 ||pg-ad-b1.nosdn.127.net^
 ||yt-adp.nosdn.127.net^
 ||139.159.155.204^
+||139.196.237.171^
 ||139.198.15.223^
-||139.9.107.79^
 ||150.158.37.254^
 ||152.136.140.85^
-||152.136.159.25^
 ||adgeo.163.com^
 ||clientlog3.music.163.com^
 ||clientlogdep.music.163.com^
@@ -106,7 +106,6 @@
 ||165tchuang.com^
 ||trk1.17admob.com^
 ||180.76.138.238^
-||182.113.4.43^
 ||182.92.99.95^
 ||1999019.com^
 ||ssp.1nmob.com^
@@ -118,7 +117,6 @@
 ||218.108.181.2^
 ||ssp.21ic.com^
 ||220.180.255.224^
-||222.141.83.137^
 ||222.187.223.34^
 ||222aa333bb.com^
 ||223.247.198.16^
@@ -168,10 +166,8 @@
 ||39.102.210.162^
 ||39.103.217.92^
 ||39.104.73.194^
-||39.105.211.255^
 ||39.105.31.193^
 ||39.107.136.241^
-||39.98.48.153^
 ||39.99.131.244^
 ||abody.39.net^
 ||d-test.39.net^
@@ -185,7 +181,6 @@
 ||3q1lsj.cn^
 ||img.3sjt.com^
 ||42.234.143.190^
-||43.143.123.40^
 ||43.226.39.44^
 ||43.241.17.143^
 ||47.101.206.165^
@@ -193,7 +188,6 @@
 ||47.104.169.91^
 ||47.104.173.216^
 ||47.106.217.147^
-||47.109.137.82^
 ||47.109.77.84^
 ||47.120.46.210^
 ||47.93.33.30^
@@ -266,8 +260,6 @@
 ||8.131.63.6^
 ||8.137.114.210^
 ||8.138.81.152^
-||8.141.95.197^
-||8.148.5.183^
 ||80vn.cn^
 ||81.70.85.113^
 ||m1.81312.com^
@@ -438,11 +430,9 @@
 ||jpg1.oss-cn-beijing.aliyuncs.com^
 ||jun01.oss-cn-beijing.aliyuncs.com^
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
-||kuakuawenjian.oss-cn-hangzhou.aliyuncs.com^
 ||mobantong.oss-cn-hangzhou.aliyuncs.com^
 ||mymin11.oss-cn-hangzhou.aliyuncs.com^
 ||safefiles2.oss-cn-beijing.aliyuncs.com^
-||shangmei-test.oss-cn-beijing.aliyuncs.com^
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
 ||star-seo.oss-ap-northeast-1.aliyuncs.com^
 ||sz88.oss-cn-shenzhen.aliyuncs.com^
@@ -456,7 +446,6 @@
 ||xpj08.oss-cn-beijing.aliyuncs.com^
 ||xpjcg.oss-accelerate.aliyuncs.com^
 ||zffsg.oss-ap-northeast-2.aliyuncs.com^
-||zhengxinpeixun.oss-cn-qingdao.aliyuncs.com^
 ||zlonline.oss-cn-shenzhen.aliyuncs.com^
 ||allyes.com^
 ||adashx.ut.amap.com^
@@ -642,6 +631,7 @@
 ||ai.bioon.com^
 ||img11.biyan8.com^
 ||galaxy.bjcathay.com^
+||file.blackint3.com^
 ||gg.blueidea.com^
 ||click.bokecc.com^
 ||vstat.borderlessbd.com^
@@ -1044,7 +1034,6 @@
 ||mini.hao123.com^
 ||cdn.haocaa.com^
 ||js1.haoge500.com^
-||2.haory.cn^
 ||2.haoxue360.com^
 ||a.hbf23.cn^
 ||img1.hblds.com^
@@ -1055,6 +1044,7 @@
 ||hffxc.com^
 ||hfisngksng.com^
 ||wap.hfoyjg.cn^
+||hhbs.hhu.edu.cn^
 ||sdd.hi1718.com^
 ||api-gd.hiaiabc.com^
 ||log-verify.hiaiabc.com^
@@ -1159,7 +1149,6 @@
 ||sdk.mobad.ijinshan.com^
 ||smetrics.illumina.com.cn^
 ||imasdk.googleapis.com^
-||windriversfiles.imeitools.com^
 ||ssp.indexmob.com^
 ||link.infineon.cn^
 ||inmobi.cn^
@@ -1452,6 +1441,7 @@
 ||gg.miinaa.com^
 ||360down7.miiyun.cn^
 ||trk.miltonroy.com.cn^
+||src1.minibai.com^
 ||wm.mipcdn.com^
 ||track.mituo.cn^
 ||gg.miued.com^
@@ -1527,7 +1517,6 @@
 ||gstat.myzaker.com^
 ||nalook.com^
 ||m.nanyangqiaoxiang.cn^
-||dl.natgo.cn^
 ||advert.lx.netease.com^
 ||da.netease.com^
 ||hubble.netease.com^
@@ -1860,7 +1849,6 @@
 ||1.shopit.cn^
 ||umini.shujupie.com^
 ||js.shunqi.com^
-||aads.shuzilm.cn^
 ||sigmob.com^
 ||sikncs.com^
 ||adimg.mobile.sina.cn^
@@ -2386,7 +2374,6 @@
 ||z.sora.yoyi.com.cn^
 ||analysis.yozocloud.cn^
 ||yrszy.com.cn^
-||ysbaojia.com^
 ||yssryr.cn^
 ||frog.yuanfudao.com^
 ||overseauspider.yuanshen.com^
@@ -2476,7 +2463,6 @@
 ||cpro.zol.com.cn^
 ||down10d.zol.com.cn^
 ||pvnwap.zol.com.cn^
-||static.zongheng.com^
 ||zoosnet.net^
 ||zoossoft.net^
 ||zsjxwj.com^
