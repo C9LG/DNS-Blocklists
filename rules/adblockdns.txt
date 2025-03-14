@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250314105703
-! Last modified: 2025/03/14 10:57:03
-! Blocked domains: 92715
+! Version: 20250314182339
+! Last modified: 2025/03/14 18:23:39
+! Blocked domains: 92730
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -116,6 +116,7 @@
 ||b00957f07f.0f7d2e9c5b.com^
 ||ee768d2e27.0f9be2e1ef.com^
 ||0fb.co^
+||0fb.info^
 ||0gw7e6s3wrao9y3q.pro^
 ||0h3uds.com^
 ||0i0i0i0.com^
@@ -13552,6 +13553,7 @@
 ||uixml.bidcampaign.com^
 ||bidclickmedia.com^
 ||bidderads.com^
+||nr.bidderstack.com^
 ||metrics.biddertmz.com^
 ||biddingfitful.com^
 ||ana.masky.biddingx.com^
@@ -31256,6 +31258,8 @@
 ||t.fabulousfox.com^
 ||smeasurement.fac-fcc.ca^
 ||nybfae.face-factory.com^
+||faceb.me^
+||faceb.pro^
 ||faceb00k.com.vn^
 ||an.facebook.com^
 ||analytics.facebook.com^
@@ -31863,6 +31867,7 @@
 ||februaryinjectionproudly.com^
 ||februarynip.com^
 ||febtzd.xyz^
+||fecabooke.com^
 ||fecabookk.com^
 ||fecguzhzeia.vip^
 ||finley.fecinc.com^
@@ -44070,6 +44075,7 @@
 ||aa-metrics.jalan.net^
 ||jalapicundelve.top^
 ||ixjmgr.jaleko.com.br^
+||jaletcatena.com^
 ||jaletemetia.com^
 ||mms.jalopnik.com^
 ||load.sst.jaloucity.de^
@@ -58639,6 +58645,7 @@
 ||nsaudience.pl^
 ||adobe-metrics.nsbank.com^
 ||nsbmfllp.com^
+||stat.nsc-lab.io^
 ||nscash.com^
 ||nsdsvc.com^
 ||marketing.nsfocus.com^
@@ -62224,6 +62231,7 @@
 ||pdn-3.com^
 ||clk.pdn-eu.com^
 ||tq.pdn-eu.com^
+||pdochgl.top^
 ||vhodzh.pdonna.ru^
 ||pdqhxtujn.xyz^
 ||gtm.pds-shop.fr^
@@ -65236,6 +65244,7 @@
 ||wkndiu.profi.ru^
 ||partneri.proficredit.cz^
 ||data-0c2107a914.profil.at^
+||profile-id.co^
 ||banner.profile.ru^
 ||profileid.info^
 ||profileid.site^
@@ -76551,6 +76560,7 @@
 ||data-4071aa1e21.staz.de^
 ||my.stbarth.com^
 ||stbeautifuleedeha.info^
+||stbid.ru^
 ||stbvip.net^
 ||s.stcatharinesstandard.ca^
 ||stcvhf.com^
@@ -80816,6 +80826,7 @@
 ||log.tinnhac.com^
 ||interactive.tinnhanhchungkhoan.vn^
 ||log.tinnhanhchungkhoan.vn^
+||tinnong.info^
 ||tinnong.xyz^
 ||tinsus.com^
 ||my.tint-store.ro^
@@ -80830,6 +80841,7 @@
 ||homevi3.tintuc-vi-vn.xyz^
 ||homevi4.tintuc-vi-vn.xyz^
 ||homevi5.tintuc-vi-vn.xyz^
+||tintucnhanh.online^
 ||tinvay.vn^
 ||log.tinxe.vn^
 ||tracking.tinxe.vn^
@@ -86198,6 +86210,7 @@
 ||tr.news.vip-mag.co.uk^
 ||vip-vip-vup.com^
 ||vip-websc.org^
+||vip1-droppii.com^
 ||vipads.cc^
 ||vipads.live^
 ||vipadvert.net^
@@ -86749,6 +86762,7 @@
 ||vn-ebayn.vip^
 ||vn-eid.com^
 ||vn-express.net^
+||vn-exprress.site^
 ||vn-findmy.com^
 ||vn-i.cloud^
 ||vn-icloud.com^
@@ -90298,6 +90312,7 @@
 ||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||cdn.xbcpcn.com^
+||xbfk.cn^
 ||a8clk.xbit.jp^
 ||o.xbox.com^
 ||data-c53e1346fa.xboxdynasty.de^
