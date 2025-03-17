@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist、jdlingyu_ad-wars。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250317110112
-! Last modified: 2025/03/17 11:01:12
-! Blocked domains: 2779
+! Version: 20250317182510
+! Last modified: 2025/03/17 18:25:10
+! Blocked domains: 2788
 ! unBlocked domains: 6
 !
 ||img.0279.net^
@@ -1177,6 +1177,11 @@
 ||hechaocheng.cn^
 ||adsfs-sdkconfig.heytapimage.com^
 ||img-c.heytapimage.com^
+||adx.ads.heytapmobi.com^
+||b1-data.ads.heytapmobi.com^
+||b2-data.ads.heytapmobi.com^
+||stg-data.ads.heytapmobi.com^
+||uapi.ads.heytapmobi.com^
 ||virusinfo-cloudscan-cn.heytapmobi.com^
 ||hffxc.com^
 ||hfisngksng.com^
@@ -1227,7 +1232,10 @@
 ||images.engage.hp.com^
 ||met1.hp.com^
 ||met2.hp.com^
-||hpplay.cn^
+||ad.hpplay.cn^
+||adc.hpplay.cn^
+||adcdn.hpplay.cn^
+||adeng.hpplay.cn^
 ||support.hqts.com^
 ||g.hsw.cn^
 ||hthvc.icu^
@@ -1983,7 +1991,6 @@
 ||wxsnsdythumb.wxs.qq.com^
 ||x.adnet.qq.com^
 ||yun-hl.3g.qq.com^
-||static.wxqcloud.qq.com.cn^
 ||wxaintpcos.wxqcloud.qq.com.cn^
 ||a1.qqan.com^
 ||down.qqfarmer.com.cn^
@@ -2534,6 +2541,8 @@
 ||xbtw.com^
 ||d0.xcar.com.cn^
 ||xdrig.com^
+||imp.ad.xelements.cn^
+||mon.ad.xelements.cn^
 ||xfqynrp.cn^
 ||dt.xfyun.cn^
 ||pics.xgo-img.com.cn^

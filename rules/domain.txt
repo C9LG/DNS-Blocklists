@@ -7819,7 +7819,6 @@ ad.wsod.com
 ad.wurangxian.top
 ad.wynk.in
 ad.xdomain.ne.jp
-ad.xelements.cn
 ad.xiaomi.com
 ad.ximalaya.com
 ad.xn--o9jem5iv41o982db8k.jp
@@ -9175,7 +9174,6 @@ ads.gosu.vn
 ads.greengeeks.com
 ads.grupozeta.es
 ads.hentaiheart.com
-ads.heytapmobi.com
 ads.holid.io
 ads.home.vn
 ads.homedy.net
@@ -10021,7 +10019,6 @@ advertica.com
 adverticum.net
 advertise.com
 advertise.ru
-advertiseonbing.azureedge.net
 advertisers.app-shake.com
 advertiseru.net
 advertiserurl.com
@@ -10209,7 +10206,6 @@ adxfire.net
 adxhand.name
 adxion.com
 adxlog-adnet.vivo.com.cn
-adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 adxlog.vivo.com.cn
 adxnexus.com
 adxoo.com
@@ -11878,7 +11874,6 @@ amd.sellingsimplified.net
 amdahlryes.com
 amdc.m.taobao.com
 amdcopen.m.taobao.com
-amdcopen.m.umeng.com
 amelatrina.com
 amendableirritatingprotective.com
 amendablesloppypayslips.com
@@ -13770,7 +13765,6 @@ apiyd.my91app.com
 apk02061oo.xyz
 apk02070oo.xyz
 apkonline.ru
-apks.webxiaobai.top
 apl.headlines.pw
 aplobv.xexymix.com
 apm-log-upload-os.hoyoverse.com
@@ -15996,7 +15990,6 @@ azoogleads.com
 azorbe.com
 azotvby.com
 azq.zozo.jp
-azr.footprintdns.com
 azrxtr.trenyrkarna.cz
 azscgj.penningtons.com
 azskk.com
@@ -17799,6 +17792,7 @@ bknpac.boylesports.com
 bknqpb.dobredomy.pl
 bkogtr.vacationsbyrail.com
 bkojzevpe.com
+bkox.cn
 bkpoef.jules.com
 bkprmw.ironyporno.com
 bkr5xeg0c.com
@@ -20301,6 +20295,7 @@ cdn.headlinesmart.com
 cdn.holmesmind.com
 cdn.hotelbaiadidiamante.it
 cdn.house
+cdn.hpplay.com.cn
 cdn.hunteryvely.com
 cdn.jampp.com
 cdn.jandaqwe.com
@@ -22840,6 +22835,7 @@ conestreshow.com
 conetizable.com
 conf.funshion.com
 conf.gc.qantas.com.au
+conf.hpplay.cn
 conf.international.baidu.com
 conf.xdrig.com
 confabureas.com
@@ -41432,6 +41428,7 @@ gsimedia.net
 gsimvqfghc.com
 gsjln04hd.com
 gsjznb.damondmotorsports.com
+gslb.hpplay.cn
 gslive.edm.globalsources.com
 gsmatch.edm.globalsources.com
 gsmonitor.ru
@@ -42398,6 +42395,7 @@ h49vnk.cyou
 h5.50db8hsdoq.shop
 h5.diamondwallet.online
 h5.eagllwin.com
+h5.hpplay.com.cn
 h5.isnssdk.com
 h5.tocdovn.com
 h5.tocdovnm.com
@@ -43943,6 +43941,7 @@ hottesvideosapps.com
 hottopnow.com
 hottraffic.nl
 hotty.sweetadforu.cc
+hotupgrade.hpplay.cn
 hotvideos4725.k3718qw08.com
 hotvideos4726.34gwl8v1a.com
 hotwire-widget.dailywire.com
@@ -44024,7 +44023,7 @@ hpnkctxx.buzz
 hpnzhc.cleanitsupply.com
 hpowixs.info
 hpplap.shabon.com
-hpplay.cn
+hpplay.cdn.cibn.cc
 hppvkbfcuq.com
 hpqalsqjr.com
 hprofits.com
@@ -45149,6 +45148,7 @@ image-rentracks.com
 image.ard.de
 image.deginvest.de
 image.go.aricent.com
+image.hpplay.cn
 image.info.perkinelmer.com
 image.kfw-entwicklungsbank.de
 image.kfw-ipex-bank.de
@@ -45744,6 +45744,7 @@ imcfkz.hyeminwon.com
 imcht.net
 imcod.net
 imcounter.com
+imdns.hpplay.cn
 imediaaudiences.com
 imediacrew.club
 imeto.site
@@ -45977,7 +45978,6 @@ imrtrack.com
 ims.brodeos.com
 ims.tescoinsurance.com
 ims2.tescotravelmoney.com
-imtmp.net
 imtwjwoasak.com
 imuhmgptdoae.com
 imusye.xyz
@@ -63945,6 +63945,7 @@ nmmemzi.icu
 nmobi.kuwo.cn
 nmrodam.com
 nmtcxz.xyz
+nmtkbv.icu
 nmtracking.netflix.com
 nmu3.destinia.be
 nmxxvr.xyz
@@ -64130,6 +64131,7 @@ notice.iqiyi.com
 noticebroughtcloud.com
 noticias.grandt.com.ar
 notifcationpushnow.com
+notifhub.com
 notificationallow.com
 notifications.website
 notifiter.youmi.net
@@ -69026,6 +69028,7 @@ pilsarde.net
 pimentoscoter.com
 pimpmypr.de
 pimpoint.inriver.com
+pin.hpplay.cn
 pinaffectionatelyaborigines.com
 pincersnap.com
 pinchingoverridemargin.com
@@ -74908,6 +74911,7 @@ royapp.com
 royplz.scottsmenswear.com
 royzgi.giftishow.com
 rozamimo9za10.com
+rp.hpplay.cn
 rpazaa.xyz
 rpe.co.il
 rpeutxu.icu
@@ -77462,6 +77466,7 @@ sdk.zadn.vn
 sdk.zsdfm.com
 sdk4push.com
 sdkapp.mobile.sina.cn
+sdkauth.hpplay.cn
 sdkconf.avlyun.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
@@ -80282,6 +80287,7 @@ skyxqbbv.xyz
 sl-ct5.com
 sl-h-statistics-ch-1.storeland.ru
 sl.elinvarpayola.com
+sl.hpplay.cn
 slabjav12.fun
 slabshookwasted.com
 slacdn.com
@@ -87404,7 +87410,6 @@ static.webfindi.com
 static.westcom.tv
 static.ws.apsis.one
 static.wwoz.org
-static.wxqcloud.qq.com.cn
 static.xeloop.com
 static.youmi.net
 static.zongheng.com
@@ -93469,6 +93474,7 @@ tm1.hoiplay.com
 tm5kpprikka.com
 tmb5trk.com
 tmclutrk.com
+tmdqlk.top
 tmea116.oss-cn-beijing.aliyuncs.com
 tmead.y.qq.com
 tmeadcomm.y.qq.com
@@ -99012,6 +99018,7 @@ tv-test.esvdigital.com
 tv.totaljobs.com
 tv7oehyiet9c7dnw.833enmhob.com
 tvaniz.tooles.pl
+tvapp.hpplay.cn
 tvbafy.phoneppu.com
 tvc.biphim.club
 tvcoag.brw.pl
@@ -101900,6 +101907,7 @@ vip8591.net
 vipads.cc
 vipads.live
 vipadvert.net
+vipauth.hpplay.cn
 vipbanner.de
 vipcard-vib.com
 vipdragonapp.monster
