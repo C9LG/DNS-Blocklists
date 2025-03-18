@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250318110030
-! Last modified: 2025/03/18 11:00:30
-! Blocked domains: 91987
+! Version: 20250318182415
+! Last modified: 2025/03/18 18:24:15
+! Blocked domains: 92007
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -8552,6 +8552,7 @@
 ||metrics.anntaylor.com^
 ||smetrics.anntaylor.com^
 ||annulmentequitycereals.com^
+||annussleys.com^
 ||annxwustakf.com^
 ||anonads.net^
 ||c4n.anonimayzer.site^
@@ -12819,6 +12820,7 @@
 ||belstat.nl^
 ||cv.belta-shop.jp^
 ||beltarklate.live^
+||belterglaikit.com^
 ||load.gtm.durasun.beltrona.de^
 ||beltwaythrust.com^
 ||beludicolor.com^
@@ -13363,6 +13365,7 @@
 ||bhs4.com^
 ||r.bhsaccessories.com^
 ||lznxon.bhslim.com^
+||tffqv.bhszc.de^
 ||kampanja.bhtelecom.ba^
 ||mxpdsu.bhv.fr^
 ||load.gegevens.bhvtotaal.nl^
@@ -15952,6 +15955,7 @@
 ||burialsupple.com^
 ||burjam.com^
 ||burlapretorted.com^
+||burleskspoiler.com^
 ||fcizcj.burlingtonfreepress.com^
 ||sp.burlingtonfreepress.com^
 ||burlyenthronebye.com^
@@ -18107,6 +18111,7 @@
 ||webtracking.chamberlain.edu^
 ||chambershoist.com^
 ||chambersinterdependententirely.com^
+||chambulwacs.com^
 ||chameleostudios.com^
 ||rpsctx.chamilia.com^
 ||afcv.champ-shop.com^
@@ -23298,6 +23303,7 @@
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d3mskfhorhi2fb.cloudfront.net^
+||d3mt4q5p9blrvc.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
 ||d3n3a4vl82t80h.cloudfront.net^
 ||d3n4krap0yfivk.cloudfront.net^
@@ -28314,6 +28320,7 @@
 ||eeksoabo.com^
 ||eeksoshair.net^
 ||eekvgafcsgbwx.xyz^
+||eelerzambo.com^
 ||eemaibsemtushaz.net^
 ||eengange.com^
 ||a8cv.eeo.today^
@@ -30631,6 +30638,7 @@
 ||exilesgalei.shop^
 ||eximdigital.com^
 ||exinariuminix.info^
+||exinesriles.com^
 ||existenceassociationvoice.com^
 ||existenceprinterfrog.com^
 ||existencethrough.com^
@@ -32563,6 +32571,7 @@
 ||flawerosion.com^
 ||flaweyesight.com^
 ||flawgrandparentsmysterious.com^
+||flawydanda.com^
 ||flaxconfession.com^
 ||flaxierfilmset.com^
 ||flcounter.com^
@@ -35655,6 +35664,7 @@
 ||glaidalr.net^
 ||glaidekeemp.net^
 ||glaidipt.net^
+||glaignoopty.net^
 ||glaikrolsoa.com^
 ||glaiksoachou.com^
 ||glairsbecchi.top^
@@ -35772,6 +35782,7 @@
 ||gloacmug.net^
 ||gloalrie.com^
 ||gloaphoo.net^
+||gloardaigrith.com^
 ||gloardoali.com^
 ||load.sst.global-agv.com^
 ||load.sst.global-agv.de^
@@ -48454,6 +48465,7 @@
 ||tracking.risk.lexisnexis.es^
 ||analytics.lexisnexisrisk.com^
 ||campaign.lexjet.com^
+||lexlime.top^
 ||events.lexmark.com^
 ||smetrics.lexmark.com^
 ||connect.health.lexmed.com^
@@ -61954,6 +61966,7 @@
 ||perceptionatomicmicrowave.com^
 ||perceptiongrandparents.com^
 ||percycle.com^
+||perdurepeeve.com^
 ||pereliaastroid.com^
 ||tfwloy.perene.fr^
 ||perennialmythcooper.com^
@@ -65581,6 +65594,7 @@
 ||track.purrheaven.com^
 ||purrrrrrrr.net^
 ||purseneighbourlyseal.com^
+||pursilywinster.com^
 ||pursuedfailurehibernate.com^
 ||oawzql.pursuefitness.co.uk^
 ||pursuingconjunction.com^
@@ -66525,6 +66539,7 @@
 ||quwkke.xyz^
 ||vn-ebay.quxlpuj.cn^
 ||quydautuvingroup.com^
+||quyr.cn^
 ||quziao.xyz^
 ||quzwteqzaabm.com^
 ||smetrics.qvc.com^
@@ -70033,6 +70048,7 @@
 ||go.sabres.com^
 ||tracking.info.sabres.com^
 ||sswmetrics.sabresonicweb.com^
+||sabsbonos.com^
 ||a8cv.sabuma.jp^
 ||a8cv.sabusuta.jp^
 ||sacedoamte.net^
@@ -74046,6 +74062,7 @@
 ||misc.api.snaptube.app^
 ||sensors.snaptube.app^
 ||snarlaptly.com^
+||snarlingrequirement.com^
 ||snarlsfuzzes.com^
 ||act-on.snb.com^
 ||tr.etude.sncd.org^
@@ -77826,6 +77843,7 @@
 ||a8clk.tamiyashop.jp^
 ||tamperdepreciate.com^
 ||tamperlaugh.com^
+||tampurunrig.com^
 ||now.tana.fi^
 ||al.tanabesports.com^
 ||hiknhe.tanabesports.com^
@@ -85666,6 +85684,7 @@
 ||visariomedia.com^
 ||ipkqcb.visby.pl^
 ||viscountquality.com^
+||viscusguddle.com^
 ||viscusumgang.shop^
 ||analytics.data.visenze.com^
 ||visfirst.com^
@@ -88734,6 +88753,7 @@
 ||ofjvfg.wittchenshop.de^
 ||trk.wittigsystems.com^
 ||insight.wittkieffer.com^
+||wittomeinvokes.com^
 ||gtm.wittypower.com^
 ||axp.wivb.com^
 ||wiwarrkazg.com^
