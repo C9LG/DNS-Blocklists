@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockfilters.txt
-! Version: 20250319105941
-! Last modified: 2025/03/19 10:59:41
+! Version: 20250319182438
+! Last modified: 2025/03/19 18:24:38
 ! Blocked Filters: 453
 !
 /(https?:\/\/)213\.32\.115\..{100,}/
