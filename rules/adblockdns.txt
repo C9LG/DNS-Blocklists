@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250320105820
-! Last modified: 2025/03/20 10:58:20
-! Blocked domains: 91793
+! Version: 20250320182435
+! Last modified: 2025/03/20 18:24:35
+! Blocked domains: 91802
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -10260,6 +10260,7 @@
 ||atttkaapqvh.com^
 ||at.attualityofficial.com^
 ||marketing.attunelive.com^
+||attuneuvito.com^
 ||track.atualizavida.com.br^
 ||cpm.atunwadigital.com^
 ||data-aacb93c032.atv.at^
@@ -34850,6 +34851,7 @@
 ||t.mktg.genesys.com^
 ||tkelq.genesys.com^
 ||geneticesteemreasonable.com^
+||geneurawipers.com^
 ||metrics.gengraf.com^
 ||geniad.net^
 ||analytics.genial.ly^
@@ -43171,6 +43173,7 @@
 ||istat24.com^
 ||istats.nl^
 ||istcs.top^
+||isteetashy.com^
 ||xvjosa.istitutocappellari.it^
 ||nvbzaw.istitutovolta.eu^
 ||istkechaukrguk.com^
@@ -47732,6 +47735,7 @@
 ||ktgzmn.lcdwandhalter.de^
 ||lcebfpvqdbih.com^
 ||ss.lcemballage.dk^
+||lcidauv.top^
 ||heatmaps.lcisoft.it^
 ||tr.bourse-expert.secure.lcl.fr^
 ||tr.carte.lcl.fr^
@@ -65137,6 +65141,7 @@
 ||psoamaupsie.net^
 ||psoanoaweek.net^
 ||psoansumt.net^
+||psoaphorsoa.com^
 ||psoasusteech.net^
 ||psockapa.net^
 ||psoltoanoucamte.net^
@@ -68727,6 +68732,7 @@
 ||ridleward.info^
 ||ridmilestone.com^
 ||ric.riedel-immobilien.de^
+||riedrused.com^
 ||rotator.riedta.com^
 ||fqdbbu.riess-ambiente.net^
 ||xwoeoc.rietveldlicht.be^
@@ -70165,6 +70171,7 @@
 ||saltpairwoo.live^
 ||saltsarchlyseem.com^
 ||saltsleaseholder.com^
+||saltsmute.com^
 ||saltsupbrining.com^
 ||ros3d4dbs3px.salud-masculina.info^
 ||yrjpgjv35y9x.salud-masculina.info^
@@ -79878,6 +79885,7 @@
 ||analytics-sg.tiktok.com^
 ||business-api.tiktok.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
+||stats.tiktoker.win^
 ||log.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||mon.tiktokv.com^
@@ -91659,6 +91667,7 @@
 ||zqjljeyqbejrb.top^
 ||zqkxlf.com^
 ||zqmwf.xyz^
+||zqntbc.top^
 ||zqpztal.com^
 ||zrakos.com^
 ||zrlcr.com^
