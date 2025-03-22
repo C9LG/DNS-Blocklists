@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdns.txt
-! Version: 20250322105734
-! Last modified: 2025/03/22 10:57:34
-! Blocked domains: 91598
+! Version: 20250322182241
+! Last modified: 2025/03/22 18:22:41
+! Blocked domains: 91606
 ! unBlocked domains: 9
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -6757,6 +6757,7 @@
 ||beacon.aimtell.com^
 ||log.aimtell.com^
 ||aimukreegee.net^
+||ainouzaudre.net^
 ||ainsyndication.com^
 ||aintydevelelastic.com^
 ||ainuftou.net^
@@ -18181,6 +18182,7 @@
 ||chaussew.net^
 ||jtyutq.chaussures.fr^
 ||chautcho.com^
+||chauxuzauy.com^
 ||ognunn.chavesnamao.com.br^
 ||chavoads.com^
 ||chavosh.org^
@@ -18446,6 +18448,7 @@
 ||chitika.net^
 ||chitsnooked.com^
 ||chivoagrie.net^
+||chivwtusseh.com^
 ||a8.chiyo-moni.com^
 ||chl7rysobc3ol6xla.com^
 ||affil.chlap20.sk^
@@ -34806,6 +34809,7 @@
 ||metrics.gemvisa.com.au^
 ||privacy.gemvisa.com.au^
 ||smetrics.gemvisa.com.au^
+||gemworkbakairi.com^
 ||s.gemy.fr^
 ||tr.clients.gemy.fr^
 ||load.gtm.genap.com^
@@ -36391,6 +36395,7 @@
 ||gotrackier.com^
 ||tools.gotujmy.pl^
 ||ptarmigan.goudieworks.co^
+||gougligloupha.net^
 ||bass.goulet.dev^
 ||xrnyhc.goumok.co.kr^
 ||pro.gounified.tech^
@@ -53022,6 +53027,7 @@
 ||millsurfaces.com^
 ||millustry.top^
 ||cdn001.milotree.com^
+||milseycurly.com^
 ||miltlametta.com^
 ||trk.miltonroy.com^
 ||trk.miltonroy.com.cn^
@@ -62515,6 +62521,7 @@
 ||qqzwxe.piamarket.pl^
 ||ydtzzw.pianetabasket.com^
 ||gtmss.pianetachef.com^
+||pianolamickeys.com^
 ||thegreatesthits.pianoo.com^
 ||thegreatesthits.pianoo.de^
 ||pianwela.xyz^
@@ -75917,6 +75924,7 @@
 ||subdomein.stoneybracelets.nl^
 ||stongoapti.net^
 ||stonierteddy.com^
+||stonifylolls.com^
 ||stonkstime.com^
 ||stoobsugree.net^
 ||stoodthestatueo.com^
