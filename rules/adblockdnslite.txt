@@ -3,14 +3,13 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdguardTeam_DNS-Filter、TG-Twilight_AWAvenue-Ads-Rule、d3ward_Toolz、malware-filter_Malicious-URL-Blocklist。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/C9LG/DNS-Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/DNS-Blocklists/main/rules/adblockdnslite.txt
-! Version: 20250322182241
-! Last modified: 2025/03/22 18:22:41
-! Blocked domains: 2261
+! Version: 20250323022807
+! Last modified: 2025/03/23 02:28:07
+! Blocked domains: 2269
 ! unBlocked domains: 6
 !
 ||img.0279.net^
 ||o.027eat.com^
-||coach.028csc.com^
 ||0351dvd.cn^
 ||appimg.0575bbs.com^
 ||pic.0597kk.com^
@@ -24,7 +23,6 @@
 ||m1.ad.10010.com^
 ||smartad.10010.com^
 ||101.126.11.168^
-||101.201.227.94^
 ||101.34.66.77^
 ||101.35.228.105^
 ||101.37.34.164^
@@ -38,20 +36,20 @@
 ||111.231.145.137^
 ||111.42.156.130^
 ||1.11130.com.cn^
-||112.33.27.73^
-||113.31.111.76^
+||112.124.71.123^
+||112.74.184.37^
+||113.219.177.95^
 ||113.98.201.248^
 ||114.215.27.238^
 ||114.55.100.165^
 ||114.55.106.136^
 ||1.11467.com^
 ||115.190.90.233^
-||115.28.26.10^
-||115.55.197.255^
 ||116.171.106.3^
 ||116.198.229.197^
 ||117.157.17.194^
 ||117.50.178.197^
+||117.50.190.56^
 ||117.50.194.20^
 ||117.50.95.62^
 ||117.72.36.133^
@@ -61,16 +59,19 @@
 ||119.23.208.137^
 ||120.24.64.74^
 ||120.25.163.165^
+||121.41.89.22^
 ||121.43.104.75^
 ||122.114.193.75^
 ||122.51.183.116^
 ||js1.122cha.com^
 ||123.132.224.187^
-||123.253.12.111^
 ||123.56.191.147^
 ||ad.12306.cn^
 ||bdad.123pan.cn^
+||124.222.129.148^
+||124.223.200.131^
 ||124.248.65.242^
+||124.71.164.7^
 ||ent1.12584.cn^
 ||ads.music.126.net^
 ||img1.126.net^
@@ -150,6 +151,8 @@
 ||370jj.icu^
 ||39.100.33.142^
 ||39.102.210.162^
+||39.104.73.194^
+||39.105.211.255^
 ||39.105.31.193^
 ||39.107.136.241^
 ||39.98.48.153^
@@ -171,7 +174,6 @@
 ||43.226.39.44^
 ||43.241.17.143^
 ||47.101.206.165^
-||47.103.126.166^
 ||47.104.169.91^
 ||47.104.173.216^
 ||47.106.217.147^
@@ -179,6 +181,7 @@
 ||47.109.201.173^
 ||47.109.77.84^
 ||47.109.90.134^
+||47.113.217.92^
 ||47.120.46.210^
 ||47.122.1.243^
 ||47.93.33.30^
@@ -218,6 +221,7 @@
 ||55726zubo56686.com^
 ||win.down.55kantu.com^
 ||3.5646.cn^
+||dl.1003b.56a.com^
 ||57573zubo36833.com^
 ||58.216.207.82^
 ||tracklog.58.com^
@@ -231,7 +235,6 @@
 ||5pub.com^
 ||5z2oy.icu^
 ||60.166.36.5^
-||60.22.23.50^
 ||609999.xyz^
 ||t1.612.com^
 ||62zd0.icu^
@@ -270,6 +273,7 @@
 ||8.131.63.6^
 ||8.137.114.210^
 ||8.138.81.152^
+||8.156.64.248^
 ||81.70.85.113^
 ||m1.81312.com^
 ||cc.8181zx.com^
@@ -330,6 +334,7 @@
 ||admob-cn.com^
 ||pixel.admobclick.com^
 ||adsame.com^
+||p1-lm.adukwai.com^
 ||adview.cn^
 ||advmob.cn^
 ||sdk.mobads.adwangmai.com^
@@ -391,7 +396,6 @@
 ||a23uuu1.oss-cn-hongkong.aliyuncs.com^
 ||a26bbb1.oss-cn-hongkong.aliyuncs.com^
 ||adash.man.aliyuncs.com^
-||ah-scanning.oss-cn-hongkong.aliyuncs.com^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||alime-pic.oss-cn-hangzhou.aliyuncs.com^
 ||appgiftwall.oss-us-west-1.aliyuncs.com^
@@ -647,7 +651,6 @@
 ||chunmiaosh.com^
 ||chupl.icu^
 ||dns.chuzushijian.cn^
-||hpplay.cdn.cibn.cc^
 ||metrics.citi.com.cn^
 ||smetrics.citibank.cn^
 ||tracker.citicsinfo.com^
@@ -674,7 +677,6 @@
 ||12.cookcai.com^
 ||cowm199.com^
 ||tdsdk.cpatrk.net^
-||agapi.cqjjb.cn^
 ||crasheye.cn^
 ||crashlyticsreports-pa.googleapis.com^
 ||gg.cs090.com^
@@ -772,6 +774,7 @@
 ||gt.duowan.com^
 ||market.duowan.com^
 ||vupload.duowan.com^
+||log-verify.dutils.com^
 ||dv0i.icu^
 ||dv4ku.icu^
 ||untitled.dwstatic.com^
@@ -1365,7 +1368,6 @@
 ||log-upload-eur.mihoyo.com^
 ||log-upload-os.mihoyo.com^
 ||gg.miinaa.com^
-||360down7.miiyun.cn^
 ||trk.miltonroy.com.cn^
 ||src1.minibai.com^
 ||wm.mipcdn.com^
@@ -1418,7 +1420,6 @@
 ||projecta-common-1258344701.file.myqcloud.com^
 ||sgz-1302338321.cos.ap-guangzhou.myqcloud.com^
 ||sister-1324943887.cos.ap-guangzhou.myqcloud.com^
-||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||myreadcloud.com^
 ||analytics.myshoptago.com^
@@ -1472,6 +1473,7 @@
 ||xml-v4.paddlewaver.com^
 ||mm.paizi.net^
 ||vip.panggugu.com^
+||log-api.pangolin-sdk-toutiao-b.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||gromore.pangolin-sdk-toutiao.com^
 ||log-api.pangolin-sdk-toutiao.com^
@@ -1702,7 +1704,6 @@
 ||m.m.sensivo.com^
 ||sensorsdata.cn^
 ||sepyra.com^
-||ini.sh-pp.com^
 ||eywvko.shaddy.jp^
 ||shangwenchao4.cn^
 ||js.shangxueba.com^
@@ -1712,6 +1713,8 @@
 ||umini.shujupie.com^
 ||js.shunqi.com^
 ||shuzilm.cn^
+||adservice.sigmob.cn^
+||dc.sigmob.cn^
 ||sigmob.com^
 ||sikncs.com^
 ||log.sina.cn^
@@ -1732,6 +1735,11 @@
 ||image-ad.sm.cn^
 ||sugs.m.sm.cn^
 ||video-ad.sm.cn^
+||adx-ad.smart-tv.cn^
+||launcher.smart-tv.cn^
+||launcherimg.smart-tv.cn^
+||mission-pub.smart-tv.cn^
+||newvoice.chiq5.smart-tv.cn^
 ||data.ajo-dev.srv.smart.com^
 ||data.ajo-stage.notifications.future.smart.com^
 ||data.dev-notifications.future.smart.com^
@@ -1950,6 +1958,7 @@
 ||cnlogs.umengcloud.com^
 ||msg.umengcloud.com^
 ||ulogs.umengcloud.com^
+||log.umsns.com^
 ||b.unjs.com^
 ||upceshop.cn^
 ||mobilelog.upqzfile.com^
@@ -2186,7 +2195,6 @@
 ||gt.yy.com^
 ||yylady.cn^
 ||adapi.yynetwk.com^
-||yzkzixun.com^
 ||yktj.yzz.cn^
 ||z3zex.icu^
 ||z9k7.icu^
@@ -2194,7 +2202,6 @@
 ||zantainet.com^
 ||f1.zaojv.com^
 ||p3.zbjimg.com^
-||p6.zbjimg.com^
 ||xue.zbyw.cn^
 ||zcfhi.cn.com^
 ||zfwgn.icu^
@@ -2217,6 +2224,7 @@
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
 ||fdfda.zhuzhai.com^
+||znrq.zifwxq.cn^
 ||ad.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads3-normal-hl.zijieapi.com^
