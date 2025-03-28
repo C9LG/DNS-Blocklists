@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。
 ! Homepage: https://github.com/C9LG/Blocklists
 ! Source: https://raw.githubusercontent.com/C9LG/Blocklists/main/rules/adblockdns.txt
-! Version: 20250328231159
-! Last modified: 2025/03/28 23:11:59
-! Blocked domains: 94999
+! Version: 20250329021531
+! Last modified: 2025/03/29 02:15:31
+! Blocked domains: 95002
 ! unBlocked domains: 53
 !
 ||id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com^
@@ -28156,6 +28156,7 @@
 ||dzdnffs.xyz^
 ||proxy.dzeio.com^
 ||log.dzen.ru^
+||ms.dzen.ru^
 ||telemetry.dzen.ru^
 ||h5.dzgsdswh5.xyz^
 ||dzgwautxzdtn9.cloudfront.net^
@@ -41818,6 +41819,7 @@
 ||iastrology.net^
 ||stats.iata.org^
 ||iaukmlastitytyeast.com^
+||iawbcdohtprwaxg.com^
 ||ib-ebanking.com^
 ||webcontr.ib-kc.de^
 ||ibaglhc.icu^
@@ -52144,6 +52146,7 @@
 ||wa.mail.com^
 ||1l-hit.mail.ru^
 ||alt-ad.mail.ru^
+||an.mail.ru^
 ||media-stat.mail.ru^
 ||r0.mail.ru^
 ||relap.mail.ru^

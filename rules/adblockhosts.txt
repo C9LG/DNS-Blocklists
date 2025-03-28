@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。
 # Homepage: https://github.com/C9LG/Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/Blocklists/main/rules/adblockhosts.txt
-# Version: 20250328231159
-# Last modified: 2025/03/28 23:11:59
-# Blocked domains: 94999
+# Version: 20250329021531
+# Last modified: 2025/03/29 02:15:31
+# Blocked domains: 95002
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -28170,6 +28170,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dzdnffs.xyz
 0.0.0.0	proxy.dzeio.com
 0.0.0.0	log.dzen.ru
+0.0.0.0	ms.dzen.ru
 0.0.0.0	telemetry.dzen.ru
 0.0.0.0	h5.dzgsdswh5.xyz
 0.0.0.0	dzgwautxzdtn9.cloudfront.net
@@ -41832,6 +41833,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	iastrology.net
 0.0.0.0	stats.iata.org
 0.0.0.0	iaukmlastitytyeast.com
+0.0.0.0	iawbcdohtprwaxg.com
 0.0.0.0	ib-ebanking.com
 0.0.0.0	webcontr.ib-kc.de
 0.0.0.0	ibaglhc.icu
@@ -52158,6 +52160,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	wa.mail.com
 0.0.0.0	1l-hit.mail.ru
 0.0.0.0	alt-ad.mail.ru
+0.0.0.0	an.mail.ru
 0.0.0.0	media-stat.mail.ru
 0.0.0.0	r0.mail.ru
 0.0.0.0	relap.mail.ru
