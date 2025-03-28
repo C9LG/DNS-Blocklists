@@ -1,0 +1,4 @@
+!! 423Down
+423down.com##div.column2 > ul.excerpt > li:has(a[href="https://www.423down.com/15894.html"])
+423down.com##div.column2 > ul.excerpt > li:has(a[href*="https://www.423down.com/news/activity"])
+423down.com##:matches-path(/\/\d+\.html/) div.content>p:has(img[src$="/img/new.png"])
