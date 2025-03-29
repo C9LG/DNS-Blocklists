@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。
 # Homepage: https://github.com/C9LG/Blocklists
 # Source: https://raw.githubusercontent.com/C9LG/Blocklists/main/rules/adblockhosts.txt
-# Version: 20250329143059
-# Last modified: 2025/03/29 14:30:59
-# Blocked domains: 94977
+# Version: 20250329181031
+# Last modified: 2025/03/29 18:10:31
+# Blocked domains: 94978
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -47864,6 +47864,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	f.knuffelwuff.pl
 0.0.0.0	knutenegros.pro
 0.0.0.0	l.ko-co.jp
+0.0.0.0	ko9t6qv2kt8psullo7pputs.xyz
 0.0.0.0	koabouphie.xyz
 0.0.0.0	koafaimoor.net
 0.0.0.0	sbeqti.koaj.co
